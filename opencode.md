@@ -1,7 +1,7 @@
 # مهمة opencode: الواجهة والعناصر والأوصاف (4,819 مدخلة · 59 دفعة · ≈418 ألف حرف)
 
 > الصق في جلسة opencode الجديدة (من جذر المستودع):
-> «اقرأ `tasks/COMMON_RULES.md` ثم `tasks/TASK_OPENCODE.md` ونفّذ المهمة. اسمك `opencode`، مجلدك الحصري `work/opencode/`.»
+> «اقرأ `tasks/COMMON_RULES.md` ثم `opencode.md` ونفّذ المهمة. اسمك `opencode`، مجلدك الحصري `work/opencode/`.»
 
 ## نطاقك
 كل المفاتيح غير التي تخص Claude، أي: `UI_` (واجهة وإعدادات) · `Item_` (أغراض/تمائم/شظايا/مذكرات) · `Weapon_` / `WeaponDes_` · `PhantomEdges*` (المهارات) · `Tutorial_` · `Bell_` (أسماء الأماكن) · `Achievement_` · `Character_` · `EnemyName_` / `EnemyDesc_` · `BossName*` · `Other_` · `Appearance_` وما شابه.
