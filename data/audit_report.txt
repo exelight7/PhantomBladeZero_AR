@@ -1,0 +1,252 @@
+
+=== EMPTY ===
+count 366
+UI_StartMenu_08	''	
+UI_Character_43	''	
+UI_AbilityNode_15_2	''	
+UI_BonusCollection_Key_08	''	
+UI_Entitlement_04	''	
+UI_Entitlement_05	''	
+UI_Entitlement_09	''	
+UI_Entitlement_10	''	
+UI_Entitlement_13	''	
+UI_Entitlement_14	''	
+UI_Entitlement_15	''	
+UI_Entitlement_16	''	
+UI_Entitlement_17	''	
+UI_Entitlement_18	''	
+UI_Entitlement_19	''	
+
+=== NO ARABIC but has latin (untranslated) ===
+count 69
+UI_BonusCollection_03	'Forged Through Trial'	
+UI_BonusCollection_04	'As If It Were Yesterday (2026)'	
+UI_BonusCollection_05	'Sleight of Hand'	
+UI_BonusCollection_06	'To Heaven and Earth'	
+UI_BonusCollection_07	"Meng Hua's Emergence"	
+UI_BonusCollection_08	'The Ghost Bride'	
+UI_BonusCollection_09	'A Fleeting Dream'	
+UI_BonusCollection_10	'Mó Awakening (2026)'	
+UI_BonusCollection_11	'With A Clear Heart'	
+UI_BonusCollection_12	'Mó Yuan’s Past'	
+UI_BonusCollection_13	'The Making of a Hero'	
+UI_BonusCollection_14	'Before the Moon Is Whole (Shakuhachi & Guitar Version)'	
+UI_BonusCollection_15	'Child of Insight'	
+UI_BonusCollection_16	'Blaze of Vengeance'	
+UI_BonusCollection_17	'When the Clouds Part'	
+UI_BonusCollection_18	'Righteous in Name'	
+UI_BonusCollection_19	'Red Tassel, Old Bonds'	
+UI_BonusCollection_20	'A Fleeting Journey'	
+UI_BonusCollection_21	'Viper of Seven Venoms'	
+UI_BonusCollection_22	'Long Awaited Return'	
+UI_BonusCollection_23	'Reminiscence of Youth'	
+UI_BonusCollection_24	'Crimson Scheme'	
+UI_BonusCollection_25	'Voice of Wanyue'	
+UI_BonusCollection_26	'The Crusher and Saw'	
+UI_BonusCollection_27	'A Wake of Blood'	
+UI_BonusCollection_28	'Bound by Threads'	
+UI_BonusCollection_29	'The Killing String'	
+UI_BonusCollection_30	'Bound in Frost'	
+UI_BonusCollection_31	'The Flawed Pipa'	
+UI_BonusCollection_32	'An Unmatched Saber'	
+UI_BonusCollection_33	"The Lady's Secret"	
+UI_BonusCollection_34	'Where Dusk Lingers'	
+UI_BonusCollection_35	'The Veiled Grace'	
+UI_BonusCollection_36	'The Lady Descends'	
+UI_BonusCollection_37	'The Awakened Lion'	
+UI_BonusCollection_38	"The Lion's Return"	
+UI_BonusCollection_39	'No Fear Ahead'	
+UI_BonusCollection_40	'Bloodline Legacy'	
+UI_BonusCollection_41	'The White Serpent'	
+UI_BonusCollection_42	'Xiaokui (2026)'	
+UI_BonusCollection_43	'Toward the Light'	
+UI_BonusCollection_44	'Iron and Jade'	
+UI_BonusCollection_45	'A New Promise'	
+UI_BonusCollection_46	'Sword of Despair'	
+UI_BonusCollection_47	'The Waning Sun'	
+UI_BonusCollection_48	'Strings of Qiansui'	
+UI_BonusCollection_49	'Asura of Wrath'	
+UI_BonusCollection_50	'Divided by Duty'	
+UI_BonusCollection_51	'Azure Crescent'	
+UI_BonusCollection_52	'The Path Ahead'	
+UI_BonusCollection_53	'Triple Threat'	
+UI_BonusCollection_54	'Before the Moon Is Whole (Guqin Version)'	
+UI_BonusCollection_55	'The Drunken Sword'	
+UI_BonusCollection_56	'Echoes of Despair'	
+UI_BonusCollection_57	"A Hero's Finale"	
+UI_BonusCollection_58	'Sixfold Ascendance'	
+UI_BonusCollection_59	'Secrets in the Rain (2026)'	
+UI_BonusCollection_60	'A Night of Rain (2026)'	
+UI_BonusCollection_61	"The Sword's Echo (2026)"	
+UI_BonusCollection_62	'Forever and Aye (2026)'	
+UI_BonusCollection_63	'Heart Lake (Vocals by Jane Zhang)'	
+UI_BonusCollection_64	'Unbridled Across the Land (2026)'	
+UI_BonusCollection_65	'Loong Unleashed (2026)'	
+UI_BonusCollection_66	'A Final Farewell'	
+UI_BonusCollection_67	'The Last Battle (2026)'	
+UI_BonusCollection_68	'My Heart Beats True (Vocals by Sha Baoliang)'	
+UI_Setting_146	'DLAA'	
+UI_Setting_342	'HDR'	
+Dlg_Prologue01_LOGO_1	'S-GAME'	
+
+=== ARABIC with latin words ===
+count 137
+UI_StartMenu_07	'©2026 Phantom World Limited. جميع الحقوق محفوظة.'	['Phantom', 'World', 'Limited']
+UI_Setting_93	'اختيار وضع جودة Intel XeSS. بحسب الوضع المحدد، تُنشأ صورة الإخراج انطلاقًا من دقّة تصيير داخلية أقل أو أصلية.'	['Intel', 'XeSS']
+UI_Setting_103	'تفعيل توليد الإطارات أو تعطيله. قد يؤدي ذلك إلى زيادة معدل الإطارات بدرجة كبيرة.\n\nلتفعيل توليد الإطارات بتقنية DLSS، الانتقال إلى إعدادات ويندوز: النظام > العرض > الرسوميات > إعدادات الرسوميات الافترا'	['DLSS']
+UI_Setting_106	'ضبط حدّة الصورة عند تفعيل الدقّة الفائقة.\nتؤدي القيم الأعلى إلى صورة أشد حدّة، بينما تجعلها القيم الأقل أكثر نعومة.\nلا يمكن تغيير هذا الإعداد إلا عند استخدام FSR.'	['FSR']
+UI_Setting_113	'يجب تعطيل المزامنة الرأسية لتفعيل توليد الإطارات بتقنية DLSS.'	['DLSS']
+UI_Setting_141	'وضع الدقّة الفائقة بتقنية DLSS'	['DLSS']
+UI_Setting_231	'ضبط النسبة المئوية لدقّة التصيير في FSR وXeSS. تحسّن القيم الأقل الأداء، لكنها تخفض جودة الصورة.'	['FSR', 'XeSS']
+UI_Setting_232	'ضبط مستوى دقّة التصيير في TSR. تحسّن المستويات الأقل الأداء، لكنها تخفض جودة الصورة.'	['TSR']
+UI_Setting_254	'التحكّم بمستوى صوت مكبّر وحدة التحكّم اللاسلكية DualSense®.'	['DualSense']
+UI_Setting_270	'التحكّم في تفعيل اهتزاز وحدة التحكّم اللاسلكية DualSense® عند تحرّك الشخصية أو ركضها.'	['DualSense']
+UI_Setting_296	'الضغط على Esc للإلغاء'	['Esc']
+UI_Setting_297	'الضغط على Backspace لإلغاء التعيين.'	['Backspace']
+UI_Setting_343	'تفعيل HDR. يتطلّب شاشة متوافقة مع HDR.'	['HDR', 'HDR']
+UI_Setting_345	'إنفيديا Reflex'	['Reflex']
+UI_Setting_356	'تفعيل إعادة بناء الأشعة بتقنية DLSS من إنفيديا، التي تستبدل مزيلات التشويش التقليدية لتتبّع الأشعة بإزالة التشويش بالذكاء الاصطناعي لتحسين وضوح الصور المتتبّعة بالأشعة وثباتها. يتطلب ذلك تتبّع الأشعة '	['DLSS', 'DLSS']
+UI_Setting_380	'لا تتوفر الدقّة الديناميكية عند تفعيل إعادة بناء الأشعة بتقنية DLSS.'	['DLSS']
+UI_Setting_381	'لا تتوفر جودة الدقّة الديناميكية عند تفعيل إعادة بناء الأشعة بتقنية NVIDIA DLSS.'	['NVIDIA', 'DLSS']
+UI_Setting_384	'ضبط جودة الدقّة الفائقة بتقنية DLSS. يحسّن وضع الجودة جودة الصورة، بينما يزيد وضع الأداء معدل الإطارات. يعرض DLAA الصورة بالدقّة الأصلية للحصول على أفضل جودة للصورة.'	['DLSS', 'DLAA']
+UI_Setting_389	'تفعيل إنفيديا Reflex لخفض زمن استجابة النظام. في الوضع التلقائي، يتفعّل عند تفعيل توليد الإطارات بتقنية DLSS أو المزامنة الرأسية. يتطلّب معالج رسوميات من إنفيديا متوافقًا.'	['Reflex', 'DLSS']
+UI_Setting_390	'ضبط دقّة العرض الداخلية التي يستخدمها FSR.'	['FSR']
+UI_Setting_403	'لا تتوفر المزامنة الرأسية عند تفعيل توليد الإطارات بتقنية FSR.'	['FSR']
+UI_Setting_406	'لا تتوفر المزامنة الرأسية عند تفعيل توليد الإطارات بتقنية XeSS.'	['XeSS']
+UI_Setting_408	'لا تتوفر المزامنة الرأسية عند ضبط توليد الإطارات بتقنية DLSS على الوضع التلقائي أو الديناميكي.'	['DLSS']
+UI_Setting_412	'HDR غير مفعّل على هذا النظام، أو أن الشاشة أو بطاقة الرسوميات الحالية لا تدعم إخراج HDR.'	['HDR', 'HDR']
+UI_Setting_414	'لا يتوفر دعم توليد الإطارات بتقنية DLSS على بطاقة الرسوميات أو برنامج التشغيل الحالي. يلزم وجود بطاقة رسوميات GeForce RTX متوافقة من إنفيديا.'	['DLSS', 'GeForce', 'RTX']
+UI_Setting_415	'لا تدعم بطاقة الرسوميات الحالية أو برنامج التشغيل الحالي إعادة بناء الأشعة بتقنية DLSS من إنفيديا.'	['DLSS']
+UI_Setting_430	'يجب تعطيل المزامنة الرأسية لتفعيل «تلقائي» في DLSS أو توليد الإطارات الديناميكي. متابعة؟'	['DLSS']
+UI_Setting_443	'إصدار برنامج تشغيل إنفيديا أقدم من {DriverVersion}. لا يمكن استخدام المزامنة الرأسية مع توليد الإطارات بتقنية DLSS. تحديث برنامج التشغيل.'	['DLSS']
+UI_Setting_447	'بيئة تشغيل Microsoft Visual C++ المطلوبة غير مثبّتة، أو أن الإصدار المثبّت لا يستوفي المتطلبات. لا يمكن بدء اللعبة. تثبيت بيئة التشغيل أو تحديثها ثم إعادة المحاولة.'	['Microsoft', 'Visual']
+UI_Setting_449	'توليد الإطارات بتقنية DLSS غير متاح حاليًا'	['DLSS']
+UI_Setting_450	'{0}<br><br>تم تعطيل توليد الإطارات لهذه الجلسة. ولا يؤثر هذا التقييد في الدقّة الفائقة بتقنية DLSS.'	['DLSS']
+UI_Setting_453	'إصدار ويندوز الحالي لا يدعم توليد الإطارات بتقنية DLSS. تحديث ويندوز، ثم إعادة تشغيل الحاسوب وتشغيل اللعبة مجددًا للتحقق من التوافق.'	['DLSS']
+UI_Setting_457	'يتطلب توليد الإطارات الديناميكي بتقنية DLSS مع حد لمعدل الإطارات إصدار برنامج تشغيل إنفيديا {DriverVersion} أو أحدث. التأكد من تثبيت برنامج تشغيل متوافق.'	['DLSS']
+UI_Setting_458	'النظام الحالي لا يدعم تفعيل توليد الإطارات الديناميكي بتقنية DLSS وحدّ معدل الإطارات في الوقت نفسه.'	['DLSS']
+UI_Setting_459	'سيؤدي تفعيل توليد الإطارات الديناميكي بتقنية DLSS إلى تعطيل حد معدل الإطارات عند تطبيق التغييرات. المتابعة؟'	['DLSS']
+UI_Setting_460	'يتطلب تفعيل توليد الإطارات الديناميكي بتقنية DLSS تعطيل المزامنة الرأسية، وسيؤدي إلى تعطيل حد معدل الإطارات عند تطبيق التغييرات. المتابعة؟'	['DLSS']
+UI_Setting_463	'معايرة HDR'	['HDR']
+UI_Setting_464	'سطوع HDR الأقصى'	['HDR']
+UI_Setting_466	'سطوع HDR المتوسط'	['HDR']
+UI_Setting_468	'سطوع واجهة HDR'	['HDR']
+UI_Setting_493	'فعّل برنامج AMD Software تنسيق البكسل ذي 10 بت، وقد يتعارض ذلك مع HDR. تم تعطيل HDR. لإعادة تفعيله، تعطيل هذا الإعداد من إعدادات الرسوميات في AMD Software وإعادة تشغيل الحاسوب عند الطلب، ثم إعادة تشغي'	['AMD', 'Software', 'HDR', 'HDR', 'AMD', 'Software']
+UI_Setting_499	'ميزة AMD Radeon™ Anti-Lag مفعّلة. تم تعطيل ميزة انخفاض زمن استجابة الإدخال داخل اللعبة لتجنّب تداخل التعديلات. لاستخدام هذا الخيار، تعطيل Anti-Lag أولًا من AMD Software.'	['AMD', 'Radeon', 'Anti-Lag', 'Anti-Lag', 'AMD', 'Software']
+UI_Setting_500	'يجب تفعيل إخراج الصوت لوحدات التحكم DualSense® / DualSense Edge® من إعدادات الصوت في ويندوز. وإلا فلن تعمل الاهتزازات.'	['DualSense', 'DualSense', 'Edge']
+Bell_SZ_023	'ساحة المزار ancestral'	['ancestral']
+Item_Piece_Accessory_013_2	'شظية تميمة الحفظ II'	['II']
+Item_AccessoryDes_042	'لا أحد يعرف متى اكتسبت نواة الخوخ هذه، التي أُودعت فيها آمال العودة إلى الديار سالمين، وجهًا شبحيا grotesque.'	['grotesque']
+Item_Piece_TierUp_026_2	'شظية مرجل الطقوس II'	['II']
+Item_Piece_TierUp_026_3	'شظية مرجل الطقوس III'	['III']
+Item_Piece_TierUp_009_2	'شظية حديد الفوضى II'	['II']
+Item_Memo_Subhead_BaiChiLian_002	'II. نبوءة السيدة'	['II']
+Item_Memo_Subhead_FJZLzhengdao_002	'II. فساد أم جبن؟'	['II']
+Item_Memo_Subhead_FJZLzhengdao_003	'III. قوة مستجدة'	['III']
+Item_Memo_Subhead_FJZLBaiShan_001	'IV. وسيلة للمقاومة'	['IV']
+Item_Memo_Subhead_FJZLTongMen_002	'II. تجديد الأوامر'	['II']
+Item_Memo_Subhead_FJZLTongMen_003	'III. لا تساهل'	['III']
+Item_Memo_Subhead_FJZLInanis_002	'II. مرض عضال'	['II']
+Item_Memo_Subhead_FJZLInanis_003	'III. اللوتس المذهّب'	['III']
+Item_Memo_Subhead_FJZLInanis_004	'IV. ضيف غير مدعو'	['IV']
+Item_Memo_Subhead_FJZLInanis_006	'VI. حياة جديدة'	['VI']
+Item_Memo_Subhead_FJZLQuanChi_002	'II. مسارات متباينة'	['II']
+
+=== latin comma/?/; in arabic: 0 ===
+
+=== double space: 277 ===
+UI_Pickup_Appearance_02	...'الضغط على <InputAction id="option" height='
+UI_Upgrade_27	...'الضغط مطوّلًا على <UIRowName id="UpgradeHold" heig'
+UI_Upgrade_54	...'الضغط مطوّلًا على <UIRowName id="UpgradeHold" heig'
+UI_Upgrade_28	...'الضغط مطوّلًا على <UIRowName id="UpgradeHold" heig'
+UI_Upgrade_39	...'الضغط مطوّلًا على <UIRowName id="UpgradeHold" heig'
+UI_Upgrade_40	...'الضغط مطوّلًا على <UIRowName id="UpgradeHold" heig'
+UI_Upgrade_48	...'الضغط مطوّلًا على <UIRowName id="UpgradeHold" heig'
+UI_Upgrade_29	...'الضغط مطوّلًا على <UIRowName id="UpgradeHold" heig'
+
+=== space before punct: 52 ===
+UI_AbilityNode_5	...'tAction id="Dash" height="26" RightPadding="5" LeftPadding="0"/'
+UI_AbilityNode_7	...' مستوى إجمالًا. يزيد كل مستوى <Ability_Yellow_Decorator2>الهجوم'
+UI_AbilityNode_13	...'30</> مستوى إجمالًا. يزيد كل مستوى <Ability_Yellow_Decorator2>ش'
+UI_AbilityNode_19	...'>30</> مستوى إجمالًا. يزيد كل مستوى <Ability_Yellow_Decorator2>'
+UI_Setting_443	...'ار برنامج تشغيل إنفيديا أقدم من {DriverVersion}. لا يمكن استخدا'
+UI_Setting_505	...'ار برنامج تشغيل إنفيديا أقدم من {DriverVersion}. لا يمكن التغيي'
+UI_Character_61	...'يُفتح عند بلوغ السلاح المستوى {0}.'
+UI_Attribute_01	...'زيادة الصحة القصوى بمقدار {0}.'
+
+=== no space after punct: 2 ===
+UI_BonusCollection_Key_06	...'؟؟؟؟'
+Character_Main_0	...'؟؟؟'
+
+=== tatweel: 40 ===
+UI_SelectDifficutly_16	...'يم، لكن عدد مرات الموت محدود بـ66. يُفتح بعد إكمال اللعبة على'
+UI_Ending_16	...'قلب» قبل انتهاء العمر المحدد بـ66 يومًا.'
+BossNameDes_054_1	...'ية الطريق يعرفون كيف يتشبثون بـ«النعمة» و«المعجزات». أما من ل'
+Weapon_Function_022_15	...'المتابعة بـ <InputAction id="LightAttack"'
+PhantomEdges_FunctionDes_009_Base	...'الضغط مطوّلًا على <InputAction id="ShaChiAttack" he'
+Weapon_FunctionDes_013_EX	...'اتباع أي هجوم <InputAction id="HeavyAttack" hei'
+Weapon_FunctionDes_013_Re	...'لملحق كلما طالت مدة الاحتفاظ بـ<Character_Yellow_Decorator2>ا'
+Weapon_Function_027_10	...'{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Ma'
+
+=== repeat word: 30 ===
+BossNameDes_059	...'دة الرحيمة، ستلتهم نيران تحرق العالم العالم القديم، فيما يزيّن الألم والع'
+EnemyDesc_041	...'هن «إنجاب الأطفال» متى شئن... هي هي. حقًا، كانت السيدة تستجيب للص'
+ReadingDes_FJZL_Letter_001	...'البحيرة؟ <LetterBold>بحيرة ميغو؟</>\n\nمن أين يأتي ذلك الغناء؟ هل تصد'
+ReadingDes_Pangzhen_Letter_031	...'يقي الذي سيقطف الخُضرة.\n\nلديّ مهمة مهمة أودّ أن أعهد بها إليك. خذ هذا'
+ReadingDes_YiJi_Letter_003	...'نبغي... لا... صدّق، لا تصدّق، صدّق، صدّق، صدّق، صدّق، صدّق، صدّق، صدّق،'
+Dlg_XG_ZhuiMingTiaoXin1_ZhuiMing_1	...'هاه هاه... سأنتظرك في الأمام يا معلّم'
+Dlg_XG_YuGongKe1_YuGongKe_1	...'يا معلمي... هه هه... يا معلمي، انظر...'
+Dlg_XG_GJXZ1_GuiChai_5	...'لمعلّم سول خائن... وأنا كذلك. ها ها!'
+
+=== ending ه after ة-likely? (no): 48 ===
+Bell_SXC_01_07	...'مخبأ السيد الشاب لان'
+QuestRumor_006	...'السيد الشاب لان'
+QuestRumorDes_006_01	...'العودة إلى لان شاودي بعد تطهير نفق المهرّب'
+QuestRumorDes_006_01_1	...'إبلاغ لان شاودي بأن الطريق آمن'
+QuestRumorDes_006_02	...'لقاء لان شاودي في داره في بانغتشن'
+QuestRumorDes_006_03	...'لمس أي جرس، ثم العودة إلى دار لان للتحقيق'
+QuestRumorDes_006_04	...'التوجه إلى دار لان ومناقشة الأمر مع لان شاودي'
+Character_EX_2	...'لان شاودي'
+
+=== ى/ي end confusion (علي/الي/حتي/متي/اللتي/الذي ok): 3 ===
+PhantomEdges_FunctionName_023_5	...'بركة عليا'
+Item_Accessory_007_2	...'تميمة ردود الفعل · عليا'
+Dlg_PZ_MEM_ZiYiDaoWeiB3_ZiYiDaoWeiB_3	...'منذ صغري وأنا أحمل السيف. أنصر الحق وأ'
+
+=== هاذا/لاكن/هذة/ذالك: 0 ===
+
+=== western digits in arabic text: 441 ===
+UI_SelectDifficutly_16	...'لجحيم، لكن عدد مرات الموت محدود بـ66. يُفتح بعد إكمال اللعبة على '
+UI_SelectDifficutly_18	...'لدروب/سائر الجحيم].\n· سيظل مستوى [66 يومًا] مقفلًا.\n\nبدء اللعب عل'
+UI_SelectDifficutly_12	...'لدروب/سائر الجحيم].\n· سيظل مستوى [66 يومًا] مقفلًا.\n\nالتبديل إلى '
+UI_SaveGame_14	...'سيُستبدل ملف الحفظ المحدد في نمط 66 يومًا. متابعة؟'
+UI_AbilityName_2_1	...'سعة بلا حدود · مستوى 1'
+UI_AbilityName_2_2	...'سعة بلا حدود · مستوى 2'
+UI_AbilityName_2_3	...'سعة بلا حدود · مستوى 3'
+UI_AbilityName_2_4	...'سعة بلا حدود · مستوى 4'
+
+=== diacritics: 4470 ===
+UI_ServerCheck_01	...'جارٍ تجميع المظلِّلات...'
+UI_Setting_351	...'أكثر سطوعًا'
+UI_Setting_352	...'التوجّه مباشرةً نحو الشاشة أثناء الض'
+UI_Setting_214	...'التقدّم التلقائي للحوار'
+UI_Setting_496	...'تحذير من نوبات الصرع الحسّاسة للضوء'
+UI_Setting_497	...'ب بعض الأشخاص بنوبات عند التعرّض لصور مرئية معينة، ومنها الأض'
+UI_Setting_05	...'الرحّالة'
+UI_SelectDifficutly_04	...'شقّ طريقٍ خاص عبر الوولين دون الا'
+
+=== ة followed by letter within word (ex مفطّرة ok): 2 ===
+WeaponDes_017	...'بشع. يمتلك هذا السلاح <Character_Yellow_Decorator2>قوة عالية</'
+PhantomEdges_Function_018_15	...' زاد الضرر الذي <Character_Yellow_Decorator2> تُلحقه [العجلة</'
+
+=== tag shapes ===
+[('Character_Yellow_Decorator2', 555), ('InputAction', 542), ('Bold', 216), ('dtv', 170), ('WeaponDes_Main_Green', 148), ('img', 127), ('LetterBold', 94), ('WeaponDes_Num_Green', 45), ('Niagara', 41), ('UIRowName', 33), ('Ability_Yellow_Decorator2', 14), ('Num_PressButton_Black', 9), ('Tutorial_Body_Yellow', 9), ('Tutorial_Title_Yellow', 8), ('center', 8), ('Num_PressButton_Grey', 4), ('Num_PressButton_Red', 4), ('red', 4), ('Tutorial_Title_Blue', 4), ('CharacterButton_Yellow', 3), ('CharacterButton_Red', 3), ('Tutorial_Title_Red', 3), ('Tutorial_Body_Red', 3), ('CharacterButton_Purple', 2), ('br', 2), ('Tutorial_Body_Blue', 2), ('DaysLeft_Num', 1), ('grey', 1), ('Tutorial_Title_Green', 1), ('Tutorial_Body_Green', 1), ('pad', 1), ('right', 1)]
+
+=== unbalanced tags ===
+UI_Setting_450	'{0}<br><br>تم تعطيل توليد الإطارات لهذه الجلسة. ولا يؤثر هذا التقييد في الدقّة الفائقة بتقنية DLSS.'	open2 close0
+
+=== key prefixes ===
+[('Dlg', 5076), ('Item', 1361), ('UI', 1232), ('Character', 475), ('Weapon', 422), ('PhantomEdges', 342), ('Reading', 261), ('ReadingDes', 222), ('Tutorial', 199), ('Bell', 182), ('Achievement', 133), ('QuestRumorDetails', 102), ('EnemyName', 101), ('EnemyDesc', 101), ('QuestRumorDes', 93), ('BossNameDes', 76), ('BossName', 75), ('QuestRumor', 68), ('Other', 63), ('QuestMazeDes', 60), ('WeaponDes', 60), ('Loading', 53), ('PhantomEdgesDes', 52), ('QuestMazeDetails', 51), ('QuestStoryDes', 47), ('QuestStoryDetails', 34), ('QuestMaze', 29), ('Chapter', 26), ('Appearance', 24), ('QuestStory', 20)]
+
+=== duplicate source texts (same Arabic diff keys) count ===
+148
