@@ -34,6 +34,8 @@ PhantomBladeZero_AR/
 │
 ├── glossary/GLOSSARY.md    مسرد المصطلحات: مصدر الحقيقة الوحيد
 │
+├── stats/                  تقرير موحّد لتقدم الجلستين: STATS.md (مقروء) + stats.json. يُولَّد بـ python tools/stats.py
+│
 ├── tasks/                  تعليمات المراجعة للجلسات
 │   ├── COMMON_RULES.md         القواعد المشتركة (اقرأها أولًا)
 │   └── TASK_CLAUDE.md          الحوارات والقراءات والمهمات (5,950 مدخلة)
