@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai2_ChengYuan4_7",
+  "text": "معلموه المريبون... يتجولون دائمًا ويتمتمون لأنفسهم... إنهم يبعثون على القلق حقًا."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai2_ChengYuanAll_8",
+  "text": "علينا أن نطرد الوجيه غاو من النقابة قبل فوات الأوان!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai3_GaoYuanWai_1",
+  "text": "صاحب المتجر فان... اختلستَ ثلاثين بالمئة من الأموال، وألصقتَ التهمة بطائفة ربط الخيوط..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai3_GaoYuanWai_2",
+  "text": "يبدو أنك تحب إثارة المتاعب. أخبرني، كيف كان شعورك... حين انتُزعت عظامك واحدًا تلو الآخر في ليلة واحدة؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai3_GaoYuanWai_3",
+  "text": "يا وجيه ياو... تغدق عليّ الاحترام في حضوري، لكنك تآمرت من وراء ظهري مع السلطات لنهب ضياعي..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai3_GaoYuanWai_4",
+  "text": "والآن خِطتُ عليك هذا الوجه، نصفه ين ونصفه يانغ... أخبرني، هل يروق لك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai3_GaoYuanWai_5",
+  "text": "آه... وأنت يا زعيم يو، رشوتَ قيّمي لتسمّمني. والآن سأجعلك تتذوق السموم كلها، واحدًا تلو الآخر!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai3_GaoYuanWai_6",
+  "text": "ههه... هاهاها! جزيل شكري لكم يا معلمي طائفة ربط الخيوط! من الآن فصاعدًا، هذه الضيعة بأكملها لنا وحدنا!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai3_GaoYuanWai_7",
+  "text": "افعلوا ما تشاؤون: أغلقوا هذا المكان، وافتحوا الكهوف، وتدرّبوا هنا في عزلة. أيًا يكن ما تريدونه، فدعمي لكم كامل!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_GangRen_4",
+  "text": "يا صقيع، تناولي هذا الدواء. ما إن نُتمّ التشكيل حتى تُشفى علتك أخيرًا."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_GangRen_6",
+  "text": "إن لم تفعلي ذلك من أجل نفسك... ففكّري في الفوضى."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_GangRen_7",
+  "text": "لقد مضى على نومها... شهر؟ أم شهران؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_GangRen_9",
+  "text": "اشربي. ما إن يكتمل التشكيل... حتى تفيق!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_HanBing_1",
+  "text": "ل-لا! لن أشربه!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_HanBing_2",
+  "text": "أكره الدواء!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_HanBing_5",
+  "text": "ل-لكن... إنه ساخن جدًا... يحرق!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_HanBing_10",
+  "text": "حسنًا... أشتاق إليها... لم أتحدث إليها منذ زمن طويل..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_HunDun_8",
+  "text": "هاه... هاه..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_MengChai_3",
+  "text": "اشربي مسحوق ربط الأرواح هذا، ثم اتبعي تعليماتي. إذا توليتِ قيادة التشكيل، فسيتوازن البرد والنار."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_MengChai_11",
+  "text": "أيتها المعلمة الفولاذ، احرصي على أن تشرب المعلمة الفوضى هذا، حتى وهي نائمة."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HanBing_MengChai_12",
+  "text": "ولا تنسي أن تتناولي جرعتك أنتِ أيضًا!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_GangRen_3",
+  "text": "ما الذي يجري هنا؟!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_GangRen_11",
+  "text": "أنت... كاذب!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_HanBing_1",
+  "text": "أين... أنا...؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_HanBing_2",
+  "text": "تحرق... إنها تحرق!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_HanBing_6",
+  "text": "النار... إنها تحرقني!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_HanBing_7",
+  "text": "أيتها الأخت الكبرى، أبعدي الفوضى عني!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_HunDun_4",
+  "text": "هاه... هاه..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_HunDun_14",
+  "text": "ممم..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_5",
+  "text": "رائع... رائع جدًا! اكتمل فنّ الأرواح الثلاثة كروح واحدة!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_8",
+  "text": "يا عزيزتي الصقيع، أخشى أن ذلك غير ممكن."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_9",
+  "text": "أصبحتنّ الآن واحدة... حبيساتٍ في وعاء واحد."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_10",
+  "text": "يتدفق شا-تشي كلّ منكنّ الآن في جسد واحد، فتتعادل فيما بينها..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_12",
+  "text": "قلت لكِ الحقيقة. لقد خفّت معاناتهن، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_13",
+  "text": "ومن المفترض أن تفيق المعلمة الفوضى قريبًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_15",
+  "text": "قلت فحسب إن فنّ الأرواح الثلاثة كروح واحدة قادر على شفائهن. ولم أقل قط إنكن ستحتفظن بأجسادكن الأصلية... هه هه."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_16",
+  "text": "لكن هذه الدمية مؤقتة فحسب، فعليكنّ تدبّر أمركنّ بها الآن."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_17",
+  "text": "إن وجدت يومًا سبيلًا لصنع وعاء مثالي للسيدة، فسأصنع لكنّ واحدًا أيضًا!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_HunDun_MengChai_18",
+  "text": "إلى ذلك الحين... ستكوننّ خير سلاح للسيدة!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi1_QMDiZiJia_4",
+  "text": "الأمر فقط... أن الأخ الأكبر لنغ تو تبدّل في الآونة الأخيرة. كان أشد قسوة بكثير، وكان يعذّب ضحاياه دائمًا قبل أن يقتلهم."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi1_QMDiZiJia_5",
+  "text": "لكن في الآونة الأخيرة... لم يعد يبدو بتلك القسوة. بل يكاد يبدو... متعجلًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi1_QMDiZiJia_6",
+  "text": "ألا تظن ذلك؟ دمية الفتاة الصغيرة التي صنعها... باتت تبعث على القلق أكثر..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi1_QMDiZiYi_7",
+  "text": "أليس هذا أمرًا حسنًا؟ هذا يعني أنه أحرز تقدمًا جديدًا في فنّ الدمى!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi1_QMDiZiYi_8",
+  "text": "همم... إذًا لا بد أن أجد فرصة لأتعلّم من الأخ الأكبر بنفسي!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi2_NvHaiRenOu_9",
+  "text": "هيهي... يا أخي الأكبر، ما بك تبدو مهمومًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi2_QMDiZiBing_6",
+  "text": "هل أفقدك التدريب صوابك؟ أنت لا تكفّ عن الإفراط في التفكير. استمر هكذا وستجنّ!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi2_QMDiZiJia_1",
+  "text": "يا إخوتي... هل رأى أحد منكم شياو-يي؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi2_QMDiZiJia_2",
+  "text": "كنا نقول بالأمس فقط إن الأخ الأكبر لنغ تو بدا على غير عادته. طلب منا أن نبقى متيقظين... والآن اختفى!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi2_QMDiZiJia_3",
+  "text": "تمهّلوا. ماذا عن الأخ الأكبر غوي؟ والأخ الأكبر هويان؟ وذلك التلميذ الجديد... أمم... ما اسمه؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi2_QMDiZiJia_4",
+  "text": "كانوا إما يعملون تحت إمرة الأخ الأكبر لنغ تو أو مقرّبين منه... ومع ذلك أخذوا يختفون واحدًا تلو الآخر، بطريقة ما."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi2_QMDiZiJia_8",
+  "text": "أ-أنا... ما الذي يجري؟ هل كنت مخطئًا حقًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_1",
+  "text": "أيها الأخ الأكبر، مما رأيت... لا يُضاهى فنّ الدمى للمبعوث وفنّ الأطياف في هذا العصر..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_2",
+  "text": "وسمعت أيضًا... أن معلّمًا انشقّ منذ زمن بعيد عن طائفة باطنية تُعرف باسم «طائفة الحرير»، وساعد طائفة ربط الخيوط على اعتلاء السلطة."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_3",
+  "text": "كان اسمه لنغ تو. وقد برع في هذه الفنون المحرّمة نفسها..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_4",
+  "text": "هل يمكن أن يكون لنغ تو الأسطوري والمبعوث شخصًا واحدًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_6",
+  "text": "هيه... لا يظهر المبعوث هذه الأيام إلا عبر الدمى. ترى كيف يبدو حقًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_7",
+  "text": "أيها الأخ الأكبر، لم تجبني بعد! هل أصبت أم لا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_9",
+  "text": "ل-لماذا تحاول إخافتي؟ نحن من الطائفة نفسها... لن يبلغ به الأمر ذلك الحد، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QiuMingZhe_5",
+  "text": "أوه؟ أنت أذكى مما ظننت. حتى إنك نبشت سرًا قديمًا كهذا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QiuMingZhe_8",
+  "text": "هيه... يكره المبعوث من يتطفلون على أسراره. لو أخبرتك الحقيقة، لكان الموت أهون ما نخشاه."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_MengChai_6",
+  "text": "أوه؟ يا أخي الأكبر... وما الذي تظن أنك فهمته؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_1",
+  "text": "ممتاز... الآن وقد رحلت الفتاة الدمية..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_2",
+  "text": "هذا القناع لطائفة ربط الخيوط... وهذا المخطوط عن فنّ الأطياف... إنه فعلًا من طائفة الحرير..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_3",
+  "text": "آه... أجل! هذا هو! لا بد أن هذا هو!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_4",
+  "text": "المبعوث هو لنغ تو! لنغ تو هو المبعوث!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_5",
+  "text": "هيه... لقد فهمت الآن! كل شيء أصبح واضحًا! هاهاها—"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_MengChai_2",
+  "text": "يا له من إزعاج... مهما استخدمت من مسحوق نقل الروح، لا يؤثر إلا في العامة غير المدرّبين... ولا يترك لي سوى دمى رديئة."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_MengChai_4",
+  "text": "هه هه... دفعة جديدة من الألعاب. والآن... في أي نوع من الدمى أضعكم جميعًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_MengChai_6",
+  "text": "ههه. لا تخافي... لن يؤلمك الأمر إلا قليلًا... وسرعان ما لن يبقى منكِ سوى الرغبة في القتل..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_MengChai_8",
+  "text": "لكن احذري المعلم سول... ذلك الخائن من التنظيم. لن يُبقي منكم أحدًا حيًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_YuEr_1",
+  "text": "البرد قارس... جسدي... لا أستطيع الحراك..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_YuEr_3",
+  "text": "من... من يتحكم... بجسدي...؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_YuEr_5",
+  "text": "ل-لا! لستُ أنا! لا أريد إيذاء أحد!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_YuEr_7",
+  "text": "لا... لا! سأتذكر... من أجلهم... جميعًا... ثم..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr1_YuEr_9",
+  "text": "سول... السيد سول؟ هل يُعقل أن يكون...؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr2_MengChai_1",
+  "text": "إذًا، فهذه أسماء من صمدوا أمام مسحوق نقل الروح؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr2_MengChai_2",
+  "text": "لا يبدون مميزين إلى هذا الحد..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr2_MengChai_3",
+  "text": "دعك من هذا. أما قرية لو، فتابعي العمل كالمعتاد. حوّلي أهلها إلى دمى نافعة."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr2_MengChai_4",
+  "text": "أما أهل بانغتشن... فاقتاديهم إلى الضيعة، ودعيهم يقدّمون خدمتهم الأخيرة لصقل القلب المشعّ."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr2_YuEr_5",
+  "text": "لا... لا أستطيع أن أسمح لهم بهذا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr2_YuEr_6",
+  "text": "يجب أن أخبره... يجب... مهما كان الثمن...!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr3_MengChai_1",
+  "text": "ههه... هل ما زلتِ تقاومين يا صغيرة؟ هل تظنين أنني لا أعرف ما تدبّرين؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr3_MengChai_3",
+  "text": "القلب المشعّ جاهز. وسرعان ما سيلتحم بالرقم سبعة... في أعماق الضيعة."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr3_MengChai_4",
+  "text": "أوشك الوعاء المثالي لحلول السيدة على الاكتمال."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr3_MengChai_5",
+  "text": "والذي أنتِ واثقة من مجيئه، أين هو الآن؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr3_MengChai_6",
+  "text": "إن سألتني... فلن تريه مرة أخرى."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr3_YuEr_2",
+  "text": "أنت... كنت تعرف..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr3_YuEr_7",
+  "text": "لا، لا... سيأتي... أعلم أنه سيأتي...!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_YuEr4_YuEr_1",
+  "text": "أعلم أنك ستأتي... أرجوك، لا تدعه ينجح!"
+ },
+ {
+  "key": "Dlg_XiMeng_MSXZ1_Hun_2",
+  "text": "أعطني القائمة فقط."
+ },
+ {
+  "key": "Dlg_XiMeng_MSXZ1_MSXZ_1",
+  "text": "هذا المكان يعجّ بالذهب والكنوز... لكنه غريب... وخطير..."
+ },
+ {
+  "key": "Dlg_XiMeng_MSXZ4_MSXZ_1",
+  "text": "سمعت عنه كثيرًا، لكن رؤيته رأي العين أمر آخر... يا له من كنز بديع!"
+ },
+ {
+  "key": "Dlg_XiMeng_MSXZ4_MSXZ_2",
+  "text": "يا معلّم سول، لقد أسديت إلينا معروفًا عظيمًا آخر! أعدّ موكّلي هذا لك. خذه!"
+ },
+ {
+  "key": "Dlg_XiMeng_MSXZ_MSXZ_1",
+  "text": "سعيد برؤيتك سالمًا يا معلّم سول! تبدو بخير!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_2",
+  "text": "في الوولين الذي غمرته الدماء والصراعات،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_3",
+  "text": "تُحضّر طائفة الحرير أدويةً تحفظ الصحة والحياة."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_4",
+  "text": "درس أفعى السموم السبعة وأخوه الأصغر في الطائفة لنغ تو جنبًا إلى جنب،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_5",
+  "text": "ثم أعدّ أفعى دواءً عجيبًا خدع العالم بأسره."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_6",
+  "text": "سمّ الصمت يقتل حتمًا كل من يتناوله،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_7",
+  "text": "أما سمّ السكون فيخدع العين، فيوهم بموتٍ زائف."
+ }
+]

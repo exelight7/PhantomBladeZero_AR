@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_Hun_2",
+  "text": "همم، من الواضح أنها وليمة تُخفى فيها الخناجر. لكن ما المكيدة التي يضمرها تسو شانغ؟"
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_Hun_3",
+  "text": "صديقي القديم لي دانغ في <Bold>قاعة جينغيانغ</>... حان وقت زيارته."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_1",
+  "text": "أوه؟ إذًا تسعى إلى السيطرة على التنظيم؟"
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_4",
+  "text": "لكن..."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_5",
+  "text": "إن ساعدتني في بعض الأمور، يا مندوب الظلال تسو... أستطيع مساعدتك على الاستيلاء على التنظيم."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_7",
+  "text": "تدرس طائفة ربط الخيوط منذ قرون نقل الروح وفنّ الدمى. نستطيع انتزاع أفكار المرء كأنها خيوط حرير، ثم ربطها بدميّة لتقوم مقامه."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_9",
+  "text": "هل تعرف من نجلّ فوق الجميع؟ السيدة إنانيس من تنظيمكم."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_12",
+  "text": "فنّ الدمى في طائفة ربط الخيوط... لا يتيح نقل وعي الإنسان كاملًا إلى دمية."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_13",
+  "text": "غالبًا ما تكون النتائج معيبة... فنصنع دمى بعقول مجزّأة، لا ذات حقيقية لها."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_16",
+  "text": "دمانا البدائية لا تُقارن بالوتر."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_18",
+  "text": "في شبابها، كانت السيدة إنانيس تدير اللوتس المذهّب في الجنوب."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_19",
+  "text": "أصيبت ابنتها الحبيبة بمرض خطير... فنقلت وعيها إلى دمية."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_19_1",
+  "text": "وعاشت... كأنها لم تمت قط."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_21",
+  "text": "لا بد أنها هي الوتر التي في تنظيمكم."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_23",
+  "text": "لو... على سبيل الافتراض... حصلت على جسد الوتر ودرسته، فقد أكتشف سرّ فنّ الدمى لدى إنانيس..."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_24",
+  "text": "ثم تخيّل مئات، بل آلافًا، من هذه الدمى... ألن يتيح ذلك لعدد لا يُحصى من كبار الأساتذة أن يظلوا أحياء إلى الأبد؟"
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_LengTu_27",
+  "text": "ههه، هاهاها!"
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_2",
+  "text": "رغم أن هذا لقاؤنا الأول، أشعر كأننا صديقان قديمان، أيها المبعوث."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_3",
+  "text": "تلك الكلمات... ها... لم تكن سوى هذيان سكران. فلا تأخذها على محمل الجد."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_6",
+  "text": "أوه؟"
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_8",
+  "text": "فنّ الدمى لدى طائفتكم لا يُضاهى. إنه حقًا فنّ سماوي."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_10",
+  "text": "السيدة إنانيس... لم تصنع في حياتها سوى دمية واحدة: ندّي، <Bold>الوتر</>."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_11",
+  "text": "هل تسعى طائفتكم إلى دراسة التقنية التي استخدمتها السيدة إنانيس لصنع الوتر؟"
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_17",
+  "text": "همم... بعد سنوات من العمل مع الوتر، أنسى أحيانًا أنها دمية."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_22",
+  "text": "أوه؟ إذًا تجاوزت السيدة إنانيس الحدّ الفاصل بين الحياة والموت... ووهبت ابنتها الخلود."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_25",
+  "text": "همم... هذا مثير للاهتمام."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_26",
+  "text": "وإن أخضعنا هؤلاء الأساتذة لختم العقل... هههه."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_30",
+  "text": "للأسف، يحول أمر عاجل دون حضوري الليلة. سيذهب نائبي لي دانغ بدلًا مني."
+ },
+ {
+  "key": "Dlg_XiMeng_IMPTMEM1_ZuoShang_31",
+  "text": "يقيم لي دانغ حاليًا في قاعة جينغيانغ. إن أردت التحدث إليه، فستجده هناك."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_GuaHua_1",
+  "text": "تبدو لفافة مرسومة تتدلى حتى الأرض وكأن وراءها شيئًا مختومًا."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_GuaHua_2",
+  "text": "لعل الحل مخبأ في مكان ما من هذه الغرفة؛ لا بد من تفتيشها جيدًا."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_HuanShuMen_1",
+  "text": "برد قارس وحر لافح وقوة قاطعة. تتسرّب من الصدع خافتةً ثلاث طاقات متضاربة."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_JiGaun_1",
+  "text": "انكشف ممر سري خلف اللفافة."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_Lion_Hun_1",
+  "text": "يبدو أن هذين المعلّمين لرقصة الأسد قد أغلَقا مسارات الطاقة لديهما لمقاومة التآكل الذي يسببه الارتقاء الكامل."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_Lion_Hun_2",
+  "text": "رقصة الأسد رمز للحظ السعيد، ومع ذلك حوّلها المبعوث حتى هي إلى أداة للفتك..."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_NongWu_1",
+  "text": "ضباب كثيف يسد الطريق إلى الأمام."
+ },
+ {
+  "key": "Dlg_XiMeng_Investigate_SiXian_1",
+  "text": "أغلقت الخيوط طريق العودة."
+ },
+ {
+  "key": "Dlg_XiMeng_LaoQiGai_LaoQiGai0_1",
+  "text": "ارتدِ قناع نو واتخذ هيئة نو.\nشدّ قناع الشبح إلى وجهك، ودع الطيف يولد."
+ },
+ {
+  "key": "Dlg_XiMeng_LaoQiGai_LaoQiGai_1",
+  "text": "ارتدِ قناع نو، وتقمّص هيئة نو.\nشدّ على وجهك قناع الشبح، ودع الطيف يولد."
+ },
+ {
+  "key": "Dlg_XiMeng_LaoQiGai_LaoQiGai_2",
+  "text": "قناع الغضب يصعد الخشبة ليغني، وقناع الحزن ينوح حيث تدق أجراس الموت."
+ },
+ {
+  "key": "Dlg_XiMeng_LaoQiGai_LaoQiGai_3",
+  "text": "يقهقه قناع الفرح في أروقة القرمز. إذا طال لبس القناع، سقطت حقيقتك. والجلد الزائف يلتهم الروح وكل شيء."
+ },
+ {
+  "key": "Dlg_XiMeng_LaoQiGai_LaoQiGai_4",
+  "text": "يا فتى... تحسّس عنقك: هل أنت بشر أم شبح أم ترتدي جلدًا مستعارًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_LaoQiGai_LaoQiGai_5",
+  "text": "تسك، تسك، تسك... لا يكتمل القلب الإنساني إلا حيث تلتقي البهجة والغضب والحزن!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_Battle_1",
+  "text": "جئت في الوقت المناسب!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_Battle_2",
+  "text": "هات ما عندك!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_FenShen_1",
+  "text": "لقد وصل ضيفنا المبجّل."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_FenShen_3",
+  "text": "حتى بعد أن تناول سمّ الصمت الذي أعددته، تمكّن المعلّم لي من قتل هذا العدد الكبير من رجالي... مثير للإعجاب."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_Hun_2",
+  "text": "لي دانغ!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_LeiDang1_4",
+  "text": "سول..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_LeiDang1_5",
+  "text": "مهمة التنظيم... فشلت..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Battle_1",
+  "text": "يا لها من متعة!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Battle_2",
+  "text": "لن تفلت من هذه الحركة!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Hun_2",
+  "text": "تناولت سمّ السكون وتظاهرت بأنه سمّ الصمت لتجعلني أرخِي حذري."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Hun_3",
+  "text": "ثم يقيّدني لنغ تو بخيوطه... بالقدر الذي يكفي لتقتلني."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Hun_4",
+  "text": "إذًا كانت تلك خطة تسو شانغ ولنغ تو... فلماذا..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_LeiDang_1",
+  "text": "تلك الطلقة... كانت موجّهة إليك."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_Battle_1",
+  "text": "همف. يا لها من خيبة!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_LeiDang_1",
+  "text": "حاكم الظلال تسو يريد القلب أكثر مما يريد حياتك."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_LeiDang_2",
+  "text": "لكن رغم ذلك... لا أستطيع أن أدعك تذهب أبعد من هذا."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_LeiDang_3",
+  "text": "تعال!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Battle_1",
+  "text": "كل شيءٍ يعود إلى التراب!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Hun_1",
+  "text": "أنت... أنت تناولت سمّ الصمت حقًا؟!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Hun_3",
+  "text": "أراد لنغ تو أن تقتلني قبل أن يقضي عليك السمّ، حتى لا يحصل تسو شانغ على القلب المشعّ أبدًا."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Hun_4",
+  "text": "وعندها لن يقف التنظيم في طريقه مجددًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_LeiDang_2",
+  "text": "هه... كنت أعلم... أنه لن يضيّع... فرصة كهذه."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_LeiDang_5",
+  "text": "من أجل المخطط العظيم لحاكم الظلال... تقبّلت الموت منذ زمن بعيد..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_LeiDang_6",
+  "text": "أن أموت على يدك... لا ندم عندي!"
+ },
+ {
+  "key": "Dlg_XiMeng_LingTang_Investigate_Wall_1",
+  "text": "يُسمع من خلف الجدار صوت هبوب ريح خافتة."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_GangRen_2",
+  "text": "همف. كفّ عن التملّق. ماذا تريد؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_GangRen_7",
+  "text": "يبدو أنك بحثت في الأمر جيدًا."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_GangRen_10",
+  "text": "يبدو أنها تتطلب تعاون ثلاث معلمات."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_GangRen_13",
+  "text": "هاه. داوِ أختيّ الصغريين... وسيذيع صيتك في الوولين."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_GangRen_15",
+  "text": "تتحدث وكأن مصير العالم كله على عاتقك."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_GangRen_21",
+  "text": "عشرون عامًا... وهما تعانيان هكذا منذ عشرين عامًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_GangRen_22",
+  "text": "إن نجحت... هل ستعود أختاي الصغريان إلى طبيعتهما؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_1",
+  "text": "أيتها المعلمة الفولاذ، نصلُك يشق الصخر ويفلق الجبال. قلّ من يضاهيك في هذا العصر."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_3",
+  "text": "جئت لإنقاذ أختيكِ الصغريين."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_4",
+  "text": "أدّى انكباب المعلمة الصقيع على تنمية شا-تشي البارد إلى عجزها عن احتمال الحر. ومع مرور الزمن، بات حتى دفء الشمس يحرقها كالنار."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_5",
+  "text": "هربًا من الشمس، أمضت سنوات في كهف جليدي... خائفة كالفأر. إنها بارعة جدًا، لكنها لا تقاتل."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_6",
+  "text": "أما أصغرهن، المعلمة الفوضى، فقد خرجت نارها عن السيطرة. فإما أن تجنّ، أو تغرق في نوم عميق أيامًا."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_8",
+  "text": "أتنقل في أرجاء البلاد وأعالج الناس بفنّي الباطني."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_9",
+  "text": "أعمل منذ مدة على تقنية تُسمى الأرواح الثلاثة كروح واحدة. يمكنها علاج اضطرابات شا-تشي الناجمة عن اختلال الين واليانغ، لكن..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_11",
+  "text": "هه، هذا صحيح. إنها طريقة ممتازة، لكن قلّةً فقط تستطيع استخدامها."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_12",
+  "text": "أختبر هذه الطريقة في أنحاء الوولين بحثًا عمّن تناسبهم. إن أنقذتكِ أنتِ وأختيكِ الصغريين، فلن أطلب شيئًا في المقابل."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_14",
+  "text": "والارتقاء يستشري في كل مكان، وهذه التقنية ليست إلا البداية. سأواصل تنقيحها... حتى أتمكن من عكس الارتقاء نفسه!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_16",
+  "text": "ما كنت لأدّعي ذلك. إنما أبذل للوولين ما أستطيعه."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_17",
+  "text": "يطغى على المعلمة الصقيع شا-تشي البارد... بينما تلتهم النار المعلمة الفوضى..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_18",
+  "text": "تتطلب تقنيتي الأرواح الثلاثة كروح واحدة ثلاث معلمات متكافئات في القوة."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_19",
+  "text": "ما إن تنجح حتى يستقر شا-تشي لديهنّ ويتوازن البرد والنار... وهذا كفيل بشفائهنّ."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GangRen_MengChai_20",
+  "text": "لن يحتفظن بمهاراتهن فحسب، بل سيصبحن أقوى من قبل!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai1_GaoYuanWai_1",
+  "text": "سيدي! أرجوك، تمهّل لحظة! لولا أنني رأيت ذلك بعينيّ، لما صدقت أن فنًا باطنيًا كهذا موجود!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai1_GaoYuanWai_2",
+  "text": "بخيوط رفيعة كالحرير، تسيّر الدمية كما يحلو لك. بل إنها تستطيع حمل سيف ومجاراة مقاتل ضربةً بضربة..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai1_GaoYuanWai_7",
+  "text": "ماذا...! هذا محض هراء!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai1_GaoYuanWai_8",
+  "text": "نقابتي راسخة هنا. من ساحات التدريب إلى الآثار النادرة والأسلحة والدروع، كل ما تحتاج إليه طائفتك سيكون لها!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai1_GaoYuanWai_9",
+  "text": "سأستقبل كل من يأتي من طائفتك بصفته ضيفًا مكرّمًا!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai1_QiuMingZhe_4",
+  "text": "أن أكون قد لفتُّ انتباهك يا وجيه، فهذا شرف عظيم لطائفة ربط الخيوط..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai1_QiuMingZhe_5",
+  "text": "لكن ربما لا تعلم... لا يرى الوولين فنوننا الباطنية إلا حيلًا رخيصة، ويسعى إلى استئصالنا تمامًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai2_ChengYuan1_3",
+  "text": "همف! ما هذه النفقات التي لا تنتهي! كم أنفق غاو على تلك الطائفة الغريبة؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai2_ChengYuan2_5",
+  "text": "سمعت أنهم يستخدمون علاجات سرية وفنونًا باطنية... ومع ذلك لا يشفون أي مرض. ولا يحصدون إلا مزيدًا من الأرواح..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_GaoYuanWai2_ChengYuan3_6",
+  "text": "نحن تجار شرفاء، وها نحن الآن متورطون مع أولئك المنحرفين. إن شاع الخبر، انتهت سمعتنا!"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_4",
+  "text": "لطف منك يا بطل. يسمّونني <Bold>تشانغ سريع اليد</>. أطوف البلاد بحثًا عن الكنوز والآثار النادرة."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_5",
+  "text": "حين حلّت المصائب ببانغتشن، لم يكن أمامي سوى إخفاء كنوزي كلها في <Bold>كهف</> قريب."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_7",
+  "text": "هه هه... أنقذني أولًا، ثم أخبرك!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_8",
+  "text": "مهلًا، مهلًا! انتظر!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_9",
+  "text": "حسنًا، حسنًا... سأخبرك. فقط لا تنسَ أن تنزلني!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_10",
+  "text": "هنا نصب الميثاق كمينًا للسائرين المقنّعين قبل سنوات. وتمتد هذه الغابة أميالًا."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_10_1",
+  "text": "لكن إن نجحت في عبورها، فستصل إلى قرية عند سفح بانغتشن، هي <Bold>قرية لو</>."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_11_1",
+  "text": "هناك <Bold>نفق خفي</> في قرية لو."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_11_2",
+  "text": "بعض... الرفاق حفروه قبل سنوات لنقل المسروقات."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_11_3",
+  "text": "يؤدي مباشرة إلى قبو نبيذ في بانغتشن."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_12",
+  "text": "اعثر على <Bold>نفق المهرّب</>، وستدخل بانغتشن!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_MSXZ_14",
+  "text": "بل حالها أسوأ بكثير! لكن إن كنت تحاول دخول بانغتشن، فهذا هو الطريق الوحيد!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ1_Option1",
+  "text": "الموافقة على مساعدة تشانغ سريع اليد"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ2_Hun_1",
+  "text": "كيف أفتح هذا القفص؟"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ2_MSXZ_2",
+  "text": "آه! ذراع التدوير بعد <Bold>الكهف أمامك</>. هيا، هيا! هيه هيه..."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ3_MSXZ1_1",
+  "text": "أسرع! أدر ذراع الرافعة! ستنزل القفص!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ3_MSXZ2_1",
+  "text": "ههه! ما زلت في القفص، لكن قدميّ على أرض صلبة على الأقل!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ3_MSXZ2_2",
+  "text": "يا بطل، ما دمت قد وصلت إلى هنا، فافتح القفص أيضًا!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ3_MSXZ_1",
+  "text": "مهلًا! مهلًا! لا يمكنك أن تتركني هنا هكذا!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ3_MSXZ_2",
+  "text": "أرجوك! أرجوك! أرجوك! أخرجني من هنا فحسب!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ3_MSXZ_3",
+  "text": "ذراع التدوير بعد <Bold>الكهف أمامك</>. هيا، انطلق!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ4_MSXZ_1",
+  "text": "جزيل الشكر لك! حقًا، لك قلب بطل!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ4_MSXZ_2",
+  "text": "لديّ كنوز كثيرة مخبأة في <Bold>كهف أمامك</>. قابلني هناك، وسأعطيك شيئًا مميزًا!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ4_MSXZ_3",
+  "text": "لديّ كنوز كثيرة أخرى في مجموعتي. أما أنت، فسأراعيك في السعر."
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ_MSXZ_1",
+  "text": "مهلًا! أنت هناك—نعم، أنت صاحب السيف! يا بطل! أرجوك، أنقذني! أنقذ حياتي!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ_MSXZ_2",
+  "text": "يا بطل، أرجوك! انظر إلى هنا!"
+ },
+ {
+  "key": "Dlg_FJZL_MSXZ_MSXZ_3",
+  "text": "هل من نفس طيبة هناك تستطيع مساعدتي؟"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi1_Battle_1",
+  "text": "فن القتال بقبضات طائفتنا... لا يمكن أن يخفق!"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi1_Battle_2",
+  "text": "لن تنتصر!"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi2_Hun_Battle_2",
+  "text": "هل عجزت عن كبح ظمئك للدماء؟"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi2_QuanChi_Battle_1",
+  "text": "لم يعد هناك رجوع!"
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_1",
+  "text": "لقد كبحتَ شا-تشي بقوة إرادتك وحدها... فلماذا ترهق نفسك إلى هذا الحد؟"
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_3",
+  "text": "كنت أشعر آنذاك أنك تكافح لكبح غضبك."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_7",
+  "text": "كنتَ سيّدًا في القتال بالأيدي. ولولا الارتقاء، لما هويت إلى هذا الدرك."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_9",
+  "text": "هل للارتقاء الكامل صلة بالتنظيم؟"
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_2",
+  "text": "أعرفك... أنت من التنظيم. تقاتلنا مرةً قبل سنوات."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_4",
+  "text": "جرائم التنظيم الآن تفوق بكثير كل ما اقترفناه نحن السائرين المقنّعين..."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_5",
+  "text": "صمدت ما استطعت. لم أعد قادرًا على كبحه... أنهِ الأمر من أجلي!"
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_6",
+  "text": "ها... يا لها من مهارة..."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_8",
+  "text": "قبل سنوات، تهوّرت... وانحرفت عن الطريق... وصرتُ من السائرين المقنّعين. لكن هذا <Bold>الارتقاء الكامل</> الجديد... صُمّم للقتل..."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_10",
+  "text": "إذًا... غادرتَ التنظيم منذ زمن بعيد... ها... ها..."
+ },
+ {
+  "key": "Dlg_FJZL_SSZD_1",
+  "text": "ذلك الوحش... يجمّد الدم في عروقك!"
+ },
+ {
+  "key": "Dlg_FJZL_SSZD_2",
+  "text": "وحش بحجم جبل... بشع لا توصف بشاعته!"
+ },
+ {
+  "key": "Dlg_FJZL_SSZD_3",
+  "text": "وكان على ظهره وحش آخر ينشر لحمه!"
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_GuaiMian1_1",
+  "text": "الشيوخ الحمقى يبددون أواخر أعمارهم في التدرّب على أساليب جوفاء."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_GuaiMian1_2",
+  "text": "أن تُعاد صياغتك يعني أن تبلغ الاستنارة."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_GuaiMian2_1",
+  "text": "لا يقوى الجسد الفاني على الحجر."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_GuaiMian2_2",
+  "text": "لا يجعل المرء منيعًا إلا الارتقاء الكامل."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_GuaiMian3_1",
+  "text": "لقد خرب العالم. ماذا فعلنا لنستحق هذا؟"
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_GuaiMian3_2",
+  "text": "لو وُلدت من جديد، لحاربت السائرين المقنّعين من جديد."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_LaoFang_NvDiZi1__1",
+  "text": "قد ينكسر النصل، لكن الإرادة لا؛ وقد يسقط المرء، لكن الطريق لا."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanDong1_XueZi1_1",
+  "text": "استولت الوحوش على هذا الطريق. غادروا ما دمتم قادرين."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanDong1_XueZi2_1",
+  "text": "أيتها السيدة، امنحينا قوتك، واحمي طريق الحق واكبحي جماح الشر."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanDong1_XueZi3_1",
+  "text": "مات معلّمي وصديقي وإخوتي، وها أنا أموت الآن."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanDong1_XueZi3_2",
+  "text": "لا تبكوا علينا. واصلوا القتال."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanDong2_FeiZei1__1",
+  "text": "صرعت اثنين... على الأقل لن أموت ميتة بائسة..."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanShe_NvDiZi1__1",
+  "text": "عشرون عامًا من التدريب الشاق... أضاعها الارتقاء الكامل في ليلة واحدة..."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanShe_NvDiZi2__1",
+  "text": "أشرب خمر الجلاد مبتسمةً، وأجتثّ الشر غضبًا."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanShe_NvDiZi2__2",
+  "text": "يسلك طيفي درب العالم السفلي، ومع ذلك ما زلت ثابتةً على نهج الحق."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanShe_NvDiZi3__1",
+  "text": "بَلِيَ النهج القديم، ولا بد من المضي بالنهج الجديد."
+ },
+ {
+  "key": "Dlg_FJZL_ShiKe_ShanShe_NvDiZi3__2",
+  "text": "طرحتُ الأقاويل جانبًا، ولن أترك نفسي للصدأ."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu1_RenOu1_1",
+  "text": "القرية... ما زالت هنا..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu1_RenOu1_2",
+  "text": "لكن الطريق إلى البيت... اختفى... اختفى..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu2_RenOu2_2",
+  "text": "رحل الجميع... إلى مكان آمن."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu2_RenOu2_3",
+  "text": "لماذا لم يأخذوني معهم..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_1",
+  "text": "السائرون المقنّعون هنا... اهربوا..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_2",
+  "text": "أخي قادم... يجب الهرب... يجب الهرب..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_3",
+  "text": "لا... لا تجعلوا مني حطبًا..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_4",
+  "text": "أنا أختك... لست حطبًا..."
+ },
+ {
+  "key": "Dlg_FJZL_UNlock_MiWu1_1",
+  "text": "انقشع ضباب الغابة."
+ },
+ {
+  "key": "Dlg_FJZL_WuDing_GuanZhanFeiZei1_1",
+  "text": "تراجعوا فورًا! أولئك المجانين في الأسفل فقدوا عقولهم من شدة سفك الدماء!"
+ },
+ {
+  "key": "Dlg_FJZL_XianZheBaiChiLian1_BaiChiLian_3",
+  "text": "أيتها المرأة الدمية! أيتها الدمية اللعينة!"
+ },
+ {
+  "key": "Dlg_FJZL_XianZheBaiChiLian1_BaiChiLian_4",
+  "text": "لن تكفي عن ملاحقتي!"
+ },
+ {
+  "key": "Dlg_FJZL_XianZheBaiChiLian1_XianZhe_1",
+  "text": "كان هذا خطئي..."
+ },
+ {
+  "key": "Dlg_FJZL_XianZheBaiChiLian1_XianZhe_2",
+  "text": "عليّ أن أصلح الأمر!"
+ },
+ {
+  "key": "Dlg_FJZL_XianZheBaiChiLian2_XianZhe_1",
+  "text": "أصلحي البيبا..."
+ },
+ {
+  "key": "Dlg_FJZL_XianZheBaiChiLian2_XianZhe_2",
+  "text": "ساعديني... لأعود إلى أمي..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_6",
+  "text": "إن لم نحاول تلك الطريقة على الأقل، فلن نستطيع حتى الدفاع عن أنفسنا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_7",
+  "text": "إذًا كيف ننقذ أختنا الصغرى؟ وكيف نُخرج المعلمة ومن معها من معسكر الميثاق؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_10",
+  "text": "أنا..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_Re_1",
+  "text": "إن سلكت ذلك الطريق... فقد لا أعود صاحبة القرار في مصيري..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_Hun_9",
+  "text": "إن سلكتِ ذلك الطريق... فقد لا تعودين قادرة على تقرير مصيرك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_1",
+  "text": "هه... لانلان، كنتِ ساذجة حقًا..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_2",
+  "text": "بعد كل ما حدث... أقدمت فعلًا على الانتحار..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_3",
+  "text": "آه... أختي الصغرى... يا لغبائك..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_4",
+  "text": "كانت تملك ما يمكّنها من القتال... لكن لم تكن لديها إرادة للحياة..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2a_Hun_1",
+  "text": "أنتِ من قتلها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2a_XiaoJu_2",
+  "text": "لقد جنّبتها المعاناة!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2b_Hun_1",
+  "text": "الموتى لا يعودون. احزني عليها ودعيها ترحل."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2b_XiaoJu_2",
+  "text": "آه... أختي الصغرى... يا لغبائك..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2b_XiaoJu_3",
+  "text": "لو أنني علمت... لأمسكت بها... وأجبرتها على الارتقاء أيضًا... هيه هيه."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu_Option1",
+  "text": "أنتِ من قتلها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu_Option2",
+  "text": "الموتى لا يعودون. رثاؤهم وتركهم يمضون."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_2",
+  "text": "الأخت الكبرى جيو مهووسة بالارتقاء الكامل. لقد فقدت صوابها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_3",
+  "text": "فكّر في الأمر! لماذا حاصر السائرون المقنّعون النزل فور رحيل المعلمة ومن معها؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_7",
+  "text": "عليّ أن أراقبها. لا أستطيع أن أتركها تفعل شيئًا متهورًا. لكن الأخت الصغرى منغ ما زالت في النفق أسفل النزل... والوقت يداهمها..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_8",
+  "text": "أيها البطل، إن مررت بنزل الجبل، فأرجوك أنقذها! ستظل طائفة بايشان مدينة لك إلى الأبد!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_9",
+  "text": "إن لم يفت الأوان..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_1",
+  "text": "هل جئت أنت أيضًا من أجل تشانغ سريع اليد؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_2",
+  "text": "ولكي يكون الأمر واضحًا: إن كنت تتعامل معه، فالتزم بالنزاهة. تجارة لا غير، ولا تأخذ منه شيئًا بالمجان."
+ }
+]

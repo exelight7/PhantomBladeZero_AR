@@ -1,0 +1,330 @@
+[
+ {
+  "key": "PhantomEdgesDes_UI_026",
+  "text": "شارة استخدمها كبير تلاميذ النجوم السبعة قديمًا لقيادة أبطال الوولين."
+ },
+ {
+  "key": "PhantomEdgesDes_UI_109",
+  "text": "قوس طويل بديع الصنع، استخدمه الرامي الأعور قديمًا."
+ },
+ {
+  "key": "PhantomEdgesDes_UI_124",
+  "text": "البيبا الوهمية المُرمّمة، وكانت يومًا ملكًا للوتر."
+ },
+ {
+  "key": "PhantomEdgesDes_UI_125",
+  "text": "جرس طقوسي صُقل بالروح من بقايا خيوط المبعوث."
+ },
+ {
+  "key": "PhantomEdges_001",
+  "text": "الفأس المروّع"
+ },
+ {
+  "key": "PhantomEdges_002",
+  "text": "عمود السحق"
+ },
+ {
+  "key": "PhantomEdges_004",
+  "text": "الحصن"
+ },
+ {
+  "key": "PhantomEdges_005",
+  "text": "فك الذئب"
+ },
+ {
+  "key": "PhantomEdges_006",
+  "text": "مدفع النمر"
+ },
+ {
+  "key": "PhantomEdges_008",
+  "text": "اللهيب الذهبي"
+ },
+ {
+  "key": "PhantomEdges_009",
+  "text": "قوس الريش"
+ },
+ {
+  "key": "PhantomEdges_010",
+  "text": "الخنجر الطائر"
+ },
+ {
+  "key": "PhantomEdges_011",
+  "text": "طوفان يو لونغ"
+ },
+ {
+  "key": "PhantomEdges_012",
+  "text": "اللِّبدة المشتعلة"
+ },
+ {
+  "key": "PhantomEdges_013",
+  "text": "مسبحة معبد كويه"
+ },
+ {
+  "key": "PhantomEdges_014",
+  "text": "منجل السلسلة للصياد"
+ },
+ {
+  "key": "PhantomEdges_015",
+  "text": "الشهاب الناري"
+ },
+ {
+  "key": "PhantomEdges_016",
+  "text": "رمح لونغ ثلاثي الشعب"
+ },
+ {
+  "key": "PhantomEdges_017",
+  "text": "القفازات الحديدية"
+ },
+ {
+  "key": "PhantomEdges_018",
+  "text": "شقّ الحبر"
+ },
+ {
+  "key": "PhantomEdges_019",
+  "text": "رمح الرعد"
+ },
+ {
+  "key": "PhantomEdges_020",
+  "text": "المقصلة الطائرة"
+ },
+ {
+  "key": "PhantomEdges_022",
+  "text": "عربة الحرب"
+ },
+ {
+  "key": "PhantomEdges_023",
+  "text": "مروحة إنانيس المتألقة"
+ },
+ {
+  "key": "PhantomEdges_024",
+  "text": "بيبا مفطّرة القلب"
+ },
+ {
+  "key": "PhantomEdges_025",
+  "text": "جرس محرّك الدمى"
+ },
+ {
+  "key": "PhantomEdges_026",
+  "text": "نداء المبارز"
+ },
+ {
+  "key": "PhantomEdges_109",
+  "text": "قوس الأعور"
+ },
+ {
+  "key": "PhantomEdges_124",
+  "text": "البيبا الوهمية"
+ },
+ {
+  "key": "PhantomEdges_125",
+  "text": "جرس الهاوية"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_001_Base",
+  "text": "الضغط مطوّلًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لشحن الهجوم حتى <dtv id=\"X092\"/> مراحل. تحرير <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ ضربة ساحقة. مراحل الشحن الأعلى تلحق ضررًا أكبر. يستهلك <dtv id=\"X093\"/><img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_001_Re",
+  "text": "زيادة سرعة <Character_Yellow_Decorator2>الشحن</> بمقدار <dtv id=\"X091\"/>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_001_Terrian",
+  "text": "بعد الحصول على الفأس المروّع، يمكنه كسر السلاسل الحديدية التي تسدّ الطريق، <Character_Yellow_Decorator2>حتى دون تجهيزه</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_002_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتدوير عمود السحق في هجمات كاسحة واسعة. وإفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لـ<Character_Yellow_Decorator2> إنهاء الحركة </> بضربة ساحقة تهز الأرض. يستهلك <dtv id=\"X371\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_002_Re",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للإمساك بعمود السحق والتقدم أثناء <Character_Yellow_Decorator2>الدوران</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_002_Terrian",
+  "text": "بعد الحصول عليه، يمكن لعمود السحق تكسير الألواح الخشبية التي تغطي الأرض المختومة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزه.</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Advance",
+  "text": "الضغط المطوّل على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لرفع الحصن والاتقاء من الهجمات. تحرير <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبل نفاد شا-تشي لضرب الأرض بالدرع وإطلاق موجة صدمة قوية. كلما زاد الضرر الممتص أثناء الاتقاء، زادت قوة موجة الصدمة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لرفع الحصن وصدّ جميع هجمات الأعداء. وأثناء رفعه، الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لدفع الأعداء أمام الشخصية بعيدًا. يستهلك إبقاء الحصن مرفوعًا شا-تشي باستمرار، ويستهلك صدّ الهجمات كمية إضافية من شا-تشي. عند نفاد شا-تشي، يتحطم الدرع. يستهلك <dtv id=\"X211\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Re",
+  "text": "تُطلق <Character_Yellow_Decorator2>[موجة الصدمة الانتقامية]</> موجة صدمة <Character_Yellow_Decorator2>إضافية</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Terrian",
+  "text": "صدّ المقذوفات التي تطلقها آليات الأقواس المتكررة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزه</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_005_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتأرجح فك الذئب نحو الأعداء، مع <Character_Yellow_Decorator2>استنزاف حياتهم لاستعادة الصحة</>. لا تأثير له في الدمى أو الأجساد الذهبية أو الأجساد الطيفية. يستهلك <dtv id=\"X311\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_005_Re",
+  "text": "توليد النار الشبحية عند الهجوم، ما يجعل الأعداء يحترقون بـ<Character_Yellow_Decorator2>اللهب الفوضوي</> ويواصلون فقدان الصحة وشا-تشي."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لشحن مدفع النمر حتى <dtv id=\"X521\"/> مراحل. وإفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق قذيفة. تسبب مراحل الشحن الأعلى ضررًا أكبر. يستهلك <dtv id=\"X522\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_EX",
+  "text": "إمكانية إشعال الأجسام المتفجرة. كما يمكنه تحطيم الأعداء <Character_Yellow_Decorator2>المتجمدين</>، باستثناء أعداء النخبة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_Re",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق مدفع النمر نفسه إلى الأمام وإلحاق ضرر هائل. يستهلك <dtv id=\"X525\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_Terrian",
+  "text": "بعد الحصول عليها، يتيح مدفع النمر تحطيم الجدران الحجرية الواهنة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزه</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_008_Base",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للإطلاق عن بُعد. والضغط المتكرر لمتابعة تسلسل الإطلاق. يستهلك إكمال تسلسل الإطلاق <dtv id=\"X321\"/> <img id=\"SpiritShadow\" width=\"40\"/>. إلحاق ضرر أكبر بالأعداء ذوي الصحة الكاملة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_008_Re",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بتوقيت دقيق قبيل إصابة هجوم العدو لتنفيذ <Character_Yellow_Decorator2>هجوم مضاد لمراوغة مثالية</> مع <WeaponDes_Main_Green>زيادة الضرر كثيرًا</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_008_Terrian",
+  "text": "بعد الحصول عليها، تتيح إسقاط بعض الأشياء المعلقة من مسافة متوسطة إلى بعيدة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزها.</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_009_Base",
+  "text": "الضغط مطوّلًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لـ<Character_Yellow_Decorator2>شحن الطلقة</>. تحرير <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق سهم. يستهلك <dtv id=\"X081\"/><img id=\"SpiritShadow\" width=\"40\"/>. إلحاق ضرر أكبر بالأعداء ذوي الصحة الكاملة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_009_Re",
+  "text": "أثناء شحن الطلقة، تتوهج يد سول لبرهة. إفلات <Character_Yellow_Decorator2>الطلقة</> <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> <Character_Yellow_Decorator2>بتوقيت دقيق</> عند توهجها لزيادة ضرر الطلقة واستنزاف شا-تشي <WeaponDes_Main_Green>كثيرًا</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_009_Terrian",
+  "text": "بعد الحصول عليها، تتيح إسقاط بعض الأشياء المعلقة من مسافة متوسطة إلى بعيدة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزها.</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Advance",
+  "text": "إحداث تراكم للسم بالهجمات."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق ما يصل إلى <dtv id=\"X152\"/> وابلًا من سكاكين الرمي عن بُعد. يستهلك إكمال السلسلة <dtv id=\"X151\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Re",
+  "text": "زيادة عدد الخناجر المرمية وتقوية تأثير السم."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Terrian",
+  "text": "بعد الحصول عليها، تتيح إسقاط بعض الأشياء المعلقة من مسافة متوسطة إلى بعيدة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزها.</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_011_Advance",
+  "text": "إحداث <Character_Yellow_Decorator2>[البلل]</> بكل الهجمات، ما يجعل الأعداء أشد تأثرًا بضرر <Character_Yellow_Decorator2>البرق</> و<Character_Yellow_Decorator2>الجليد</>، مع زيادة الضرر الواقع على الأعداء الذين يستخدمون أسلحة <Character_Yellow_Decorator2>نارية</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_011_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق نفاثة ماء عالية الضغط. الاستهلاك المستمر لـ <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_011_EX",
+  "text": "إمكانية إطفاء اللهب المشتعل على الأرض."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_011_Re",
+  "text": "عندما يهاجم طوفان يو لونغ أعداءً مشتعلين، يولّد <Character_Yellow_Decorator2>بخارًا حارقًا</> يلحق ضررًا إضافيًا ويصيب الأعداء القريبين بالضرر."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_011_Terrian",
+  "text": "بعد الحصول عليه، يمكن لطوفان يو لونغ إخماد الشجيرات المشتعلة، <Character_Yellow_Decorator2>حتى دون تجهيزه</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_012_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق تيار من اللهب يسبب ضررًا و<Character_Yellow_Decorator2>يضرم النار في الأعداء</>. الاستهلاك المستمر لـ <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_012_Re",
+  "text": "تحويل <Character_Yellow_Decorator2>نفث اللهب</> إلى <Character_Yellow_Decorator2>اللهب الفوضوي</>. استمرار استنزاف صحة الأعداء المشتعلين وشا-تشي لديهم."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_012_Terrian",
+  "text": "حرق الشجيرات الشائكة الرطبة، <Character_Yellow_Decorator2>حتى حين لا يكون مجهزًا</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_013_Base",
+  "text": "في المناطق الكثيفة بشا-تشي (عندما ينبعث من الأيقونة توهج خاص)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستدعاء <dtv id=\"X221\"/> <Character_Yellow_Decorator2>رجال القبضة البرونزيون</>. يقاتلون لمدة تصل إلى <dtv id=\"X222\"/> ثانية ويختفون قبل ذلك إذا هُزموا. لا يمكن تكديس الاستدعاءات. ويحل الاستدعاء مجددًا محل أي استدعاءات قائمة. يستهلك <dtv id=\"X223\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_013_Re",
+  "text": "ترقية <dtv id=\"X225\"/> المستدعين من <Character_Yellow_Decorator2>الرجال البرونزيين</> إلى <Character_Yellow_Decorator2>رجل الذهب ذي القبضة</> و<Character_Yellow_Decorator2>رجل الذهب ذي العصا</> و<Character_Yellow_Decorator2>رجل الذهب ذي النصل</>. احتفاظهم بجميع ترقيات الأسلحة التي سبق تطبيقها على الرجال البرونزيين."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_014_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ سلسلة ضربات قاطعة متوسطة إلى طويلة المدى تصل إلى <dtv id=\"X103\"/> ضربة. نصل المنجل يلحق أكبر قدر من الضرر، أما السلسلة فلا تلحق إلا <dtv id=\"X101\"/> من ضرر النصل. تستهلك السلسلة الكاملة <dtv id=\"X102\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_014_Re",
+  "text": "زيادة قوة السلسلة لتلحق الضرر نفسه الذي تلحقه شفرة المنجل. عند إصابة شفرة المنجل عدوًا، تستنزف مزيدًا من شا-تشي وتملأ مقياس النزيف لديه. عند امتلاء المقياس، يحدث فقدان الدم. لا تأثير له على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_014_Terrian",
+  "text": "بعد الحصول على منجل السلسلة للصياد، يتيح التعلّق بنقاط تثبيت بعيدة للتنقّل، <Character_Yellow_Decorator2>حتى دون تجهيزه</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_015_Advance",
+  "text": "لهب أخضر <Character_Yellow_Decorator2>يشعل</> الأعداء ويلحق بهم الضرر، مع <Character_Yellow_Decorator2>خفض هجومهم</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_015_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X301\"/> هجمات تأرجح متوسطة إلى بعيدة المدى. <Character_Yellow_Decorator2>اللهب الفسفوري</> يُضرم النار في الأعداء. يستهلك إكمال السلسلة <dtv id=\"X302\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_015_Re",
+  "text": "زيادة فاعلية جميع الحركات. ضد الأعداء المشتعلين بـ<Character_Yellow_Decorator2>[اللهب الفسفوري]</>، <WeaponDes_Main_Green>زيادة الضرر المُلحَق واستنزاف شا-تشي بدرجة كبيرة</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_016_Advance",
+  "text": "إحداث <Character_Yellow_Decorator2>البلل</> بكل الهجمات، ما يزيد الضرر الذي يتلقاه الأعداء من <Character_Yellow_Decorator2>البرق</> و<Character_Yellow_Decorator2>الصقيع</>. كما يمنح أفضلية ضد الأعداء الذين يحملون أسلحة <Character_Yellow_Decorator2>نارية</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_016_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لـ<Character_Yellow_Decorator2>شحن</> رمح لونغ ثلاثي الشعب، ثم إفلاته لرميه لمسافة بعيدة. يستهلك <dtv id=\"X491\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_016_EX",
+  "text": "ظهور إشارة <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> فوق الأعداء المختبئين في الماء أو الثلج. الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإجبارهم على الخروج وإلحاق ضرر أكبر بهم. استهلاك <dtv id=\"X492\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_016_Re",
+  "text": "أثناء الشحن، تتوهج اليد لوهلة. <Character_Yellow_Decorator2>الإفلات</> <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> <Character_Yellow_Decorator2>بتوقيت دقيق </>عند توهج اليد لتحقيق <WeaponDes_Main_Green>زيادة كبيرة</> في ضرر الرمية واستنزاف شا-تشي."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_017_Advance",
+  "text": "كل هجوم بالقفازات الحديدية يبني <Character_Yellow_Decorator2>تركيز القبضة</>، ما يزيد الضرر الذي يسببه السلاح الرئيسي لمدة <dtv id=\"X162\"/> ثانية."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_017_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X166\"/> هجمات بالقبضتين. يستهلك إكمال السلسلة <dtv id=\"X161\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_017_Re",
+  "text": "إطلاق <Character_Yellow_Decorator2>[موجة القبضة]</> إلى الأمام مع كل <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> هجوم."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_018_Advance",
+  "text": "إنهاء سلسلة ضربات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بعد الهجمة <Character_Yellow_Decorator2>الثانية</> يترك نصلًا دوّارًا يُلحق الضرر بالأعداء باستمرار. ينفجر بعد <dtv id=\"X413\"/> ثانية."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_018_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X411\"/> هجمات بالسيف متوسطة المدى. يستهلك إكمال السلسلة <dtv id=\"X412\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_018_Re",
+  "text": "أثناء نشاط <Character_Yellow_Decorator2>[العجلة المشعة]</>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> مجددًا لإطلاق عجلة أخرى. لا يمكن لـ<Character_Yellow_Decorator2> [العجلة المشعة] </>الإضافية تفعيل<Character_Yellow_Decorator2> [عجلتان مشعتان]</> مجددًا.\nإذا كان كل من <Character_Yellow_Decorator2>[الإشراق الأخير]</> و<Character_Yellow_Decorator2> [عجلتان مشعتان] </>مفتوحًا، تكون الأولوية لـ<Character_Yellow_Decorator2> [عجلتان مشعتان</>]."
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_XG_JianKeDuiZhang2_JKDZ_2",
+  "text": "كان يُفترض أن يكون طريقًا مختصرًا إلى القوة... لكن معسكر الميثاق صار جحيمًا حيًّا. كنا محظوظين لأننا نجونا منه."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang2_JKDZ_3",
+  "text": "لكن لماذا ظلّ المعلّم غو ينقل الفؤوس الأربعة... لماذا؟"
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang2_JKDZ_5",
+  "text": "هناك معسكر قديم خارج ذلك البرج الضخم. نائبي في دورية هناك. وكان في السابق الحارس الشخصي للمعلم غو."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang2_JKDZ_6",
+  "text": "بلّغه هذا الأمر، ولعلّه يخبرك بشيء!"
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang3_Hun_3",
+  "text": "على الأقل، لن يتمكن من خداعك مجددًا."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang3_JKDZ_1",
+  "text": "غو لينغران... كنت أعلم أنه يخفي شيئًا. لا عجب أنه أراد قتل الفؤوس الأربعة."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang3_JKDZ_2",
+  "text": "وبعد فرار سيّد الفأس، تظاهر بأنه ذاهب للاستطلاع ثم هرب."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang3_JKDZ_4",
+  "text": "عثر أحدهم على جثة على الجرف في الجانب الآخر من الوادي... بملابس تشبه ملابس غو لينغران..."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang3_JKDZ_5",
+  "text": "لكن من دون خطاطيف التسلق، يستحيل عبور الهوة للتأكد..."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang3_JKDZ_6",
+  "text": "لقد غشيت الظلمة سبيل الحق، ومعنوياتنا تنهار. بالكاد نصمد... أرجوك، أنقذ الميثاق!"
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang_Hun_1",
+  "text": "هل أصابك مكروه؟"
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang_JKDZ_2",
+  "text": "هناك... لا عليك. إن لم يكن لك شأن هنا، فانصرف!"
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang_JKDZ_7",
+  "text": "خلف هذا الخان، سائر مقنّع شرس مقيّد بالسلاسل."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang_JKDZ_8",
+  "text": "لكنني أخشى ألا تصمد تلك القيود طويلًا..."
+ },
+ {
+  "key": "Dlg_XG_JianKeDuiZhang_JKDZ_Re_1",
+  "text": "إن لم يكن لك شأن هنا، فانصرف."
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi2_Hun_2",
+  "text": "لماذا كان يلاحقك؟"
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi2_JingKongDiZi_1",
+  "text": "سيّد الفأس... لقد ارتقى لمجرد الانتقام منا!"
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi2_JingKongDiZi_7",
+  "text": "عذّبناه... وأعدمنا ثلاثةً من إخوته..."
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi2_JingKongDiZi_8",
+  "text": "وعد المعلّم غو بأن ينصب الألواح التذكارية التي نحتها سيّد الفأس لإخوته الثلاثة..."
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi2_JingKongDiZi_9",
+  "text": "لكن بعد ذلك... داس تلك الألواح في الوحل. حطّمها كلها!"
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi2_JingKongDiZi_10",
+  "text": "هؤلاء الثلاثة... دُفنوا على عجل في الإسطبل... كيف لأرواحهم أن تجد السلام؟"
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi_JingKongDiZi_1",
+  "text": "ا... ابتعد!"
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi_JingKongDiZi_2",
+  "text": "لم أكن أنا... لم أقتل إخوتك!"
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi_JingKongDiZi_3",
+  "text": "هم من فعلوا... آه... هل ترى؟ ذلك القناع... تلك الأرواح الهائمة!"
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi_JingKongDiZi_4",
+  "text": "ذلك الفأس... ضربة واحدة... رأسه... ذراعها..."
+ },
+ {
+  "key": "Dlg_XG_JingKongDiZi_JingKongDiZi_5",
+  "text": "آه... سيّد الفأس! عاد لينتقم! أنقذني! أرجوك! لا أريد أن أموت!"
+ },
+ {
+  "key": "Dlg_XG_JingLinZhiHou_LianXie0_LianXie_1",
+  "text": "هؤلاء تلاميذ الميثاق... كأن شيئًا ما يتحكم بهم. واحدًا تلو الآخر، يتحولون إلى <Bold>السائرين المقنّعين</>..."
+ },
+ {
+  "key": "Dlg_XG_JingLinZhiHou_LianXie_Hun_1",
+  "text": "ومع ذلك لم تُصابي بأذى؟"
+ },
+ {
+  "key": "Dlg_XG_JingLinZhiHou_LianXie_LianXie_2",
+  "text": "تلك الكائنات الخاوية العقول؟ ما زال عليها أن تقطع شوطًا طويلًا قبل أن تنال مني."
+ },
+ {
+  "key": "Dlg_XG_JingLinZhiHou_LianXie_LianXie_3",
+  "text": "كان لا بد أن ينتهي هذا الخان إلى ما انتهى إليه عاجلًا أم آجلًا. أنا هنا فقط لأشحذ نصلَك. وما عدا ذلك لا يعنيني."
+ },
+ {
+  "key": "Dlg_XG_JuXiongFu_Hun_1",
+  "text": "بعد رحيل سيّد الفأس... عليّ العودة إلى الخان وسؤال الناس."
+ },
+ {
+  "key": "Dlg_XG_JuXiongFu_Hun_2",
+  "text": "من المفترض أن يكسر هذا الفأس العملاق تلك السلاسل بسهولة."
+ },
+ {
+  "key": "Dlg_XG_KYSSengRen_Hun_4",
+  "text": "قرية لو... إن صعدت الجبل، فسأبحث عن المعلم بي هاي."
+ },
+ {
+  "key": "Dlg_XG_KYSSengRen_SengRen_1",
+  "text": "أنا هويجيويه، تلميذ معبد كويه. نزلت من الجبل بحثًا عن معلمي."
+ },
+ {
+  "key": "Dlg_XG_KYSSengRen_SengRen_2",
+  "text": "غادر معلمي بي هاي المعبد قبل أيام، استجابةً لطلب صديق قديم، ليحارب الشر."
+ },
+ {
+  "key": "Dlg_XG_KYSSengRen_SengRen_3",
+  "text": "لكن منذ ذهابه إلى قرية لو، لم يصلني عنه خبر..."
+ },
+ {
+  "key": "Dlg_XG_KYSSengRen_SengRen_5",
+  "text": "بحق بوذا... سواء وجدتُ معلّمي أم لا، فلن أنسى معروفك!"
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou1_Hun_3",
+  "text": "لا بد أن شيئًا يؤرقك ما دمت تشرب وحدك هكذا."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou1_Hun_8",
+  "text": "إذن، سأتولى أمرهم نيابةً عنك."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou1_LaoGongShou_4",
+  "text": "لم يجلب لي تلاميذي سوى العار... ربّيت قطيعًا من الوحوش..."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou1_LaoGongShou_5",
+  "text": "نصبوا معسكرهم خارج الوادي، ويقتلون كل من يمرّ به."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou1_LaoGongShou_6",
+  "text": "أنا من علّمهم الرماية... ويملؤني الخزي..."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou1_LaoGongShou_7",
+  "text": "لولا جراحي لقضيت عليهم بنفسي!"
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou1_LaoGongShou_9",
+  "text": "اذهب إذن... لا ترحمهم. لم يعودوا بشرًا..."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou2_LaoGongShou_1",
+  "text": "صنعت هذا القوس بنفسي... من أجود خشب التوت..."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou2_LaoGongShou_2",
+  "text": "في أحد الشتاءات، حين أغلقت الثلوج طرق الجبال، وجدت أولئك الأشقياء الصغار متحصنين في معبد مهدّم، يرتجفون ويمضغون الثلج..."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou2_LaoGongShou_3",
+  "text": "لم أطق رؤيتهم هكذا، فآويتهم وعلّمتهم استعمال القوس."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou2_LaoGongShou_4",
+  "text": "ظننت أنهم إذا تعلموا، أمكنهم أن يصنعوا خيرًا... أو يكسبوا عيشهم من الصيد ويشقوا طريقهم في الحياة..."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou2_LaoGongShou_5",
+  "text": "كانوا جميعًا فتيانًا صالحين... كيف آل بهم الأمر إلى هذا؟"
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou2_LaoGongShou_6",
+  "text": "سأصلح لك هذا القوس. خذه، واقتل به من يستحق."
+ },
+ {
+  "key": "Dlg_XG_LaoGongShou2_LaoGongShou_7",
+  "text": "كل هذه السنين... والوولين على حاله. لا يتغير أبدًا..."
+ },
+ {
+  "key": "Dlg_XG_LaoQiGai_LaoQiGai_1",
+  "text": "يرتفع البرج الأسود، ويتغلغل شا-تشي في الأعماق. والمفتاح الحديدي يوقظ من سباته فرنين."
+ },
+ {
+  "key": "Dlg_XG_LaoQiGai_LaoQiGai_2",
+  "text": "أحدهما يخرج الحجر البدائي، وهو أثمن من الذهب. والآخر يطلق تشي هائجًا لا يكبحه شيء!"
+ },
+ {
+  "key": "Dlg_XG_LaoQiGai_LaoQiGai_3",
+  "text": "هل ترى ذلك البرج المسوّد بالدخان؟ قوة بدائية مختومة في أعماقه!"
+ },
+ {
+  "key": "Dlg_XG_LaoQiGai_LaoQiGai_4",
+  "text": "استحوذ عليه، وستتحرك أسرع من الخاطر. أما كنت تعلم؟"
+ },
+ {
+  "key": "Dlg_XG_LieFeng1_Hun_1",
+  "text": "هذا خصم غير عادي... لا أستطيع مجابهته الآن."
+ },
+ {
+  "key": "Dlg_XG_LieFeng1_Hun_2",
+  "text": "الأفضل أن أتجنبه..."
+ },
+ {
+  "key": "Dlg_XG_LieFeng2_Hun_1",
+  "text": "اختفى الصدع..."
+ },
+ {
+  "key": "Dlg_XG_LieFeng2_Hun_2",
+  "text": "ما ذاك...؟ لعلني أحظى بفرصة أخرى للتحقيق في أمره."
+ },
+ {
+  "key": "Dlg_XG_LingDang0_Hun_1",
+  "text": "ينبغي أن أتفحّص ذلك الجرس عن قرب..."
+ },
+ {
+  "key": "Dlg_XG_LingDang_Hun_1",
+  "text": "هاه؟ أشعر أن الخيوط تشدني نحو ذلك الجرس..."
+ },
+ {
+  "key": "Dlg_XG_MenKouDiZi_DiZiJia2_1",
+  "text": "ما الذي يوجد بالضبط في الكهف فوق البيوت؟"
+ },
+ {
+  "key": "Dlg_XG_MenKouDiZi_DiZiYi_1",
+  "text": "ه-هل ستذهب إلى ذلك الكهف أيضًا؟"
+ },
+ {
+  "key": "Dlg_XG_QiangBingDiZi1_QiangBing_1",
+  "text": "مات سيّد الفأس. لا فائدة من نبش الماضي."
+ },
+ {
+  "key": "Dlg_XG_QiangBingDiZi2_QiangBing_1",
+  "text": "الصواب والخطأ... من عاد يميّز بينهما؟ كل خطأ يفضي إلى خطأ آخر..."
+ },
+ {
+  "key": "Dlg_XG_QiangBingDiZi_QiangBing_1",
+  "text": "كل من هنا مصاب، أو أسوأ حالًا..."
+ },
+ {
+  "key": "Dlg_XG_QiangBingDiZi_QiangBing_2",
+  "text": "على أي حال، لا نستطيع مساعدتك. عليك تدبّر الأمر بنفسك."
+ },
+ {
+  "key": "Dlg_XG_QiangBingDiZi_QiangBing_Re_1",
+  "text": "لا نستطيع مساعدتك. عليك تدبّر الأمر بنفسك."
+ },
+ {
+  "key": "Dlg_XG_Roadblock_JuXiongFu_Hun_1",
+  "text": "يفترض أن يتمكن الفأس العملاق الذي حصلت عليه سابقًا من كسر هذه السلسلة."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Hun_1",
+  "text": "شكرًا لكِ، يا سيدتي إنانيس."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Hun_3",
+  "text": "هنا قاتلنا السائرين المقنّعين إلى جانب أركان كونلون."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Hun_4",
+  "text": "أذكر... في تلك المعركة، كان الوتر..."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Hun_8",
+  "text": "قادني صوت البكاء إلى هنا. هل كان ذلك نداء استغاثة من الوتر؟"
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Hun_9",
+  "text": "ماذا حدث بالضبط آنذاك؟"
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Hun_13",
+  "text": "ربما نعثر على بعض الأدلة في هذه الغابة."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_2",
+  "text": "هل تذكر هذه الغابة...؟"
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_5",
+  "text": "الوتر... وعاء ابنتي..."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_6",
+  "text": "في تلك اللحظة، لا بد أنها عزفت أنشودة الفناء..."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_7",
+  "text": "...فحوّلت أعماق هذه الغابة إلى وهم معزول."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_10",
+  "text": "تآمر أحدهم من داخل الميثاق مع تسو شانغ... وأفسد العملية."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_11",
+  "text": "ربطتُ تلك الدمية بفنّ النداء عن بُعد. يبلغ صوتها مسافة ألف ميل. وهي تناديك الآن."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_12",
+  "text": "طفلتي المسكينة... المحطّمة... لقد أخفاها أحدهم."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_14",
+  "text": "إذًا... أرجوك... لا... لم يبقَ لك أنت أيضًا إلا القليل من الوقت."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_15",
+  "text": "لعلني أستطيع المكث مدة أطول قليلًا... في الوهم الكامن في أعماق هذه الغابة."
+ },
+ {
+  "key": "Dlg_XG_RuKou_Inanis_Inanis_16",
+  "text": "هذا جرس الكركي... فيه شيء مختلف."
+ },
+ {
+  "key": "Dlg_XG_ShaQiTa_GuiChai_Hun_1",
+  "text": "لقد وصل حرّاس الظلال في التنظيم بالفعل!"
+ },
+ {
+  "key": "Dlg_XG_ShaQiTa_ZhengDao_ZhengDao_1",
+  "text": "لا بد من وجود طريقة في البرج... لكبح شا-تشي..."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_CangToushi1_1",
+  "text": "نهرٌ من نجومٍ يهبط على الروابي الخضر، وفردوسٌ خفيّ يُنسي العائد دربَ الإياب."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_CangToushi1_2",
+  "text": "تحتها ينابيع باردة تغسل الحجر كاليشم، وفوقها صنوبرٌ عتيق على الجرف بين السحاب."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_ChuKou1_1",
+  "text": "شحذ السيف في الوادي الخفيّ"
+ },
+ {
+  "key": "Dlg_XG_ShiKe_ChuKou1_2",
+  "text": "قممٌ شاهقة تخترق السحاب،\nومطرٌ بارد على دروبٍ ملتويةٍ صعاب."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_ChuKou1_3",
+  "text": "ريحٌ تجري في الوديان الخفيّة،\nوصنوبرٌ تعصف به الأنواء يهدر هدير العباب."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_ChuKou1_4",
+  "text": "تُعبَر الجبال والهضاب مع الأيّام، وعواصف الوولين أعتى من كلّ الصعاب."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_ChuKou1_5",
+  "text": "أشحذ نصلي وعزمي معًا، لأقطع دابر الشرّ، وأطهّر دنيا الاضطراب."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_DuanShiKe1_1",
+  "text": "وسادتي الصخر، وشرابي الجدول."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_DuanShiKe2_1",
+  "text": "أصداءٌ في الوادي الخالي..."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_DuanShiKe3_1",
+  "text": "في هذه الجبال."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_DuanShiKe4_1",
+  "text": "جروفٌ تعلو ألف قامة."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_DuanShiKe5_1",
+  "text": "نبعٌ جارٍ في كهفٍ عتيق."
+ },
+ {
+  "key": "Dlg_XG_ShiKe_DuanShiKe6_1",
+  "text": "نصلٌ يعترض الدبّ الأكبر، ويطأ الجبال والأنهار فيشقّها."
+ }
+]

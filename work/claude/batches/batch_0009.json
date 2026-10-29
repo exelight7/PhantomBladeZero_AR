@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_End_CBA_LengTu1_LengTu_15",
+  "text": "أن أهب نفسي للآفة... لا أستطيع أن أطلب أكثر من ذلك!"
+ },
+ {
+  "key": "Dlg_End_CBA_LengTu2_LengTu_1",
+  "text": "لو صادفت أناسًا مثلك يا معلّم سول... فربما ما انتهى بي الأمر إلى هذا."
+ },
+ {
+  "key": "Dlg_End_CBA_LengTu2_LengTu_2",
+  "text": "لكن بعد كل هذه السنين... لم يجلب لي الوولين سوى الخداع والمعاناة التي لا تنتهي!"
+ },
+ {
+  "key": "Dlg_End_CBA_LengTu3_Hun_1",
+  "text": "أنت تستخف بالوولين."
+ },
+ {
+  "key": "Dlg_End_CBA_LengTu3_LengTu_2",
+  "text": "سأخاطر بحياتي لأوقفك!"
+ },
+ {
+  "key": "Dlg_End_CBA_MengHua1_Inanis_1",
+  "text": "التقينا من جديد."
+ },
+ {
+  "key": "Dlg_End_CBA_MengHua1_Inanis_2",
+  "text": "هذه المرة، ستحطمكِ بيبا الوتر!"
+ },
+ {
+  "key": "Dlg_End_CBA_MengHua1_MengHua_3",
+  "text": "سلسلة من الزئير الغاضب غير الواضح."
+ },
+ {
+  "key": "Dlg_End_CBA_MengHua2_Inanis_1",
+  "text": "لم تعد تلك السيدة التي كانت تعلو الجميع!"
+ },
+ {
+  "key": "Dlg_End_CBA_MengHua2_Inanis_2",
+  "text": "إنها لك الآن. أجهز عليها!"
+ },
+ {
+  "key": "Dlg_End_C_Subtitle1_1",
+  "text": "ما زالت القصة بلا خاتمة. وقد أتلف رواق المعرفة بقية سجلات الأفراد."
+ },
+ {
+  "key": "Dlg_End_C_Subtitle2_1",
+  "text": "الفناء"
+ },
+ {
+  "key": "Dlg_End_Common_P1_Inanis_1",
+  "text": "تحرر أعداؤك السابقون... من فساد شا-تشي."
+ },
+ {
+  "key": "Dlg_End_Common_P1_Inanis_2",
+  "text": "والآن..."
+ },
+ {
+  "key": "Dlg_End_Common_P1_Inanis_3",
+  "text": "فلتمنحك أرواح جميع الأخيار الذين ما زال أثرهم باقيًا... القوة!"
+ },
+ {
+  "key": "Dlg_End_Common_P1e_LengTu_1",
+  "text": "آه!"
+ },
+ {
+  "key": "Dlg_End_Common_P2_Inanis_1",
+  "text": "لا شيء يفلت من صقيع نصلِه!"
+ },
+ {
+  "key": "Dlg_End_Common_P2_LengTu_1",
+  "text": "حتى حرّاس الظلال في التنظيم سيخضعون لي!"
+ },
+ {
+  "key": "Dlg_End_Common_P2e_LengTu_1",
+  "text": "آه!"
+ },
+ {
+  "key": "Dlg_End_Common_P3_LengTu_1",
+  "text": "أيها الأوعية! قدّموا أرواحكم للسيدة!"
+ },
+ {
+  "key": "Dlg_End_Common_P3e_LengTu_1",
+  "text": "تبًا!"
+ },
+ {
+  "key": "Dlg_End_Common_P4c_LengTu_1",
+  "text": "آه!"
+ },
+ {
+  "key": "Dlg_End_Common_ZhuZhan1_LeiDang_1",
+  "text": "فلنقاتل معًا... كما في الأيام الخوالي!"
+ },
+ {
+  "key": "Dlg_End_Common_ZhuZhan2_LeiDang_1",
+  "text": "احذر. فالمعركة الحقيقية بدأت للتو!"
+ },
+ {
+  "key": "Dlg_End_DC1C2B_LengTu4_LengTu_4",
+  "text": "هاهاها! يا له من هراء!"
+ },
+ {
+  "key": "Dlg_End_DC1C2B_MengHua1_LengTu_1",
+  "text": "سيدة الحجاب... يا سيدة الحجاب..."
+ },
+ {
+  "key": "Dlg_End_DC1C2B_MengHua1_LengTu_2",
+  "text": "مبعوثك... عائد إلى الديار..."
+ },
+ {
+  "key": "Dlg_End_DC1C2B_MengHua1_MengHua_3",
+  "text": "أيها الطفل الوحيد... يا مبعوثي. لقد فعلت كل ما بوسعك، وقلبي يحزن عليك."
+ },
+ {
+  "key": "Dlg_End_DC1C2B_MengHua1_MengHua_4",
+  "text": "الوولين فاسد إلى حد لا يُطاق، ومصيره الدمار."
+ },
+ {
+  "key": "Dlg_End_DC1C2B_MengHua1_MengHua_5",
+  "text": "أيها الفانون الجهلة، ستعودون جميعًا إلى الفوضى... وستتوحدون مع الآفة!"
+ },
+ {
+  "key": "Dlg_End_D_MengHua2_MengHua_1",
+  "text": "هاهاها! يا له من أمر مثير للشفقة. كيف لجسد فانٍ أن يواجه الآفة اللامتناهية؟"
+ },
+ {
+  "key": "Dlg_End_F_Subtitle_1",
+  "text": "نهاية مريرة"
+ },
+ {
+  "key": "Dlg_End_F_ZuoShang_ZuoShang_1",
+  "text": "أنت حر الآن... لم تذهب حياتك سدى."
+ },
+ {
+  "key": "Dlg_End_F_ZuoShang_ZuoShang_2",
+  "text": "منذ اليوم... خسرت أعظم خصم لي... وأخًا."
+ },
+ {
+  "key": "Dlg_End_F_ZuoShang_ZuoShang_3",
+  "text": "استرح هنا، واشهد الوولين الجديد الذي سأقيمه!"
+ },
+ {
+  "key": "Dlg_End_FuMie_Option1",
+  "text": "العودة إلى الفرصة الأخيرة"
+ },
+ {
+  "key": "Dlg_End_LengTu1_Battle_1",
+  "text": "كل قوة في هذا العالم... في خدمة سيدة الحجاب!"
+ },
+ {
+  "key": "Dlg_End_LengTu3_Battle_1",
+  "text": "تعال! سأواجهك بنفسي!"
+ },
+ {
+  "key": "Dlg_End_LengTu4_Battle_1",
+  "text": "سأبذل كل شيء... في سبيل السيدة!"
+ },
+ {
+  "key": "Dlg_End_LunHui_Inanis_Option1",
+  "text": "دورة جديدة"
+ },
+ {
+  "key": "Dlg_End_MengHua1_Battle_1",
+  "text": "اركع أمامي، ولعلّي أتركك حيًّا."
+ },
+ {
+  "key": "Dlg_End_MengHua1_Battle_2",
+  "text": "حشرة تحاول إسقاط شجرة... يا لها من مهزلة!"
+ },
+ {
+  "key": "Dlg_End_MengHua1_Battle_3",
+  "text": "لمَ لا تصبح مبعوثي الجديد؟"
+ },
+ {
+  "key": "Dlg_End_MengHua2_Battle_1",
+  "text": "سأمحوك من الوجود... ولن تبقى ذرة غبار."
+ },
+ {
+  "key": "Dlg_End_MengHua2_Battle_2",
+  "text": "أنت لا تعرف شيئًا عن حقيقة هذا العالم!"
+ },
+ {
+  "key": "Dlg_End_MengHua2_Battle_3",
+  "text": "الوولين... عالم الأطياف... لا قيمة لهما أمام الآفة."
+ },
+ {
+  "key": "Dlg_End_S_ChengNian_ZuoShang_1",
+  "text": "لقد تأخرت."
+ },
+ {
+  "key": "Dlg_End_S_ShaoNian_ZuoShang_1",
+  "text": "لقد تأخرت!"
+ },
+ {
+  "key": "Dlg_End_S_Subtitle_1",
+  "text": "المعركة الأخيرة"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_1",
+  "text": "انتهى زمن الرحمة."
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_2",
+  "text": "ينتهي الآن صراع أجيال!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_3",
+  "text": "الآفة بكل أشكالها... طوع أمري!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_4",
+  "text": "لا أحد في هذا العالم يستطيع الوقوف في وجهي!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_5",
+  "text": "اهلك بنَفَس لونغ!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_6",
+  "text": "يسقط النظام القديم، ويبدأ عالم جديد!"
+ },
+ {
+  "key": "Dlg_End_ZuoShang_Battle_1",
+  "text": "أهدرت القوة التي كان ينبغي أن تكون لك!"
+ },
+ {
+  "key": "Dlg_End_ZuoShang_Battle_2",
+  "text": "سأعيد تشكيل الوولين... وأخلق عالم الأطياف من جديد!"
+ },
+ {
+  "key": "Dlg_End_ZuoShang_Battle_3",
+  "text": "غُص في عذاب لا نهاية له!"
+ },
+ {
+  "key": "Dlg_End_ZuoShang_Battle_6",
+  "text": "مزّق السماء!"
+ },
+ {
+  "key": "Dlg_End_ZuoShang_Battle_7",
+  "text": "اشهد قوة لونغ!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ1_MSXZ_1",
+  "text": "ههه! مجرد هدية بسيطة تعبيرًا عن شكري!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ1_MSXZ_2",
+  "text": "جمعتُ مجموعة لا بأس بها خلال ترحالي. وفي أوقات مضطربة كهذه، يتبادل أهل مهنتي السلع بحرية. لا بد أنك ستجد ما يعجبك!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_Hun_3",
+  "text": "وماذا لو أحضرت لك ما تبحث عنه؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_Hun_8",
+  "text": "حسنًا."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_1",
+  "text": "بيننا فقط، لديّ مهمة... لشخص لا أستطيع الإفصاح عن اسمه. طلب مني استعادة الكنوز والآثار الموزعة في أنحاء الوولين."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_2",
+  "text": "تلك الكنوز لا تُقدّر بثمن، نعم. لكن بالنسبة إلى بطل مثلك، ما هي إلا زينة لا نفع منها البتة!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_4",
+  "text": "أوه! سيكون ذلك عونًا كبيرًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_5",
+  "text": "في كل منطقة بضعة كنوز أريد استعادتها. فاجمعها كلها وأعدها إليّ."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_6",
+  "text": "وسيمنحك موكّلي مكافأة ذات قيمة حقيقية، شيئًا يمكنك الانتفاع به فعلًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_7",
+  "text": "هذه قائمة ما في هذه المنطقة. راقب ما حولك!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_Hun_3",
+  "text": "ما المميز فيها؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_1",
+  "text": "هاهاهاها! مذهل، مذهل! لقد عثرت على كل قطعة، حتى الأخيرة! يا معلّم سول، أنت حقًا شخص استثنائي!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_2",
+  "text": "واو... دقة الصنع، والجودة... يا للروعة، ويا للإتقان! من الواضح أنها قطع غير عادية."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_4",
+  "text": "ههه، بعض الحكايات يحسن أن تبقى طي الكتمان يا صديقي."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_5",
+  "text": "لكن إن أردت رأيي..."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_6",
+  "text": "عجيب أمر أولئك الذين يسمّون أنفسهم أبطال الميثاق؛ يتفاخرون بالشرف والاستقامة، ثم يتفرقون كالأرانب ما إن تحلّ الشدائد حقًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_7",
+  "text": "حتى وهم يفرّون بأرواحهم، تشبثوا بكنوزهم الغالية، فأهلكتهم. والحقيقة أن بعض الأشياء ليست مما يقدر كل أحد على حمله."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_8",
+  "text": "على أي حال، كفى حديثًا عنهم! هذا لك يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_9",
+  "text": "أعدّ موكّلي هذا عربون شكر لك! وأنا واثق أنك ستحسن الانتفاع به."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_0",
+  "text": "هل أنت حقًا تشانغ سريع اليد؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_2",
+  "text": "أذكر أسطورة قديمة... عن الشيخ تشانغ سريع اليد، سيّد التنكر، الذي كان له أشباه لا يُحصون. لم يكن أحد يعرف أيهم الحقيقي."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_3",
+  "text": "تلقب نفسك بتشانغ سريع اليد. ما صلتك به؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_5",
+  "text": "كنت تعرف حقيقتي منذ البداية، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_6",
+  "text": "حتى لو لم أحررك، فأنا واثق أنك كنت ستجد سبيلًا آخر للخروج."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_9",
+  "text": "ترى... كم صديقًا سأكوّن؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_11",
+  "text": "إذًا، هل أنت شخص واحد... أم خمسة؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_1",
+  "text": "أوه؟ ما الذي دعاك إلى السؤال؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_4",
+  "text": "ههه، لا يفوتك شيء يا معلّم سول... اعتزل عمي منذ سنوات، وما زال أمامي طريق طويل لأبلغ منزلته."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_7",
+  "text": "من ذا الذي لا يريد صديقًا آخر في الوولين؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_8",
+  "text": "التنظيم بأسره يطاردك، ومع ذلك خاطرت بحياتك لإنقاذي. كيف لا أرغب في صديق مثلك؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_10",
+  "text": "ليسوا كثيرين. <Bold>خمسة</>."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_10_1",
+  "text": "لديّ <Bold>أربعة أشباه لي</> مختبئون في أنحاء البلاد. اعثر عليهم، وسيبيعونك مزيدًا من البضائع، وبأسعار أفضل أيضًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_12",
+  "text": "قد أكون واحدًا، وقد أكون خمسة. من يدري؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_12_1",
+  "text": "كل كلمة تقولها يسمعها الخمسة منا، وكل كلمة أقولها تصدر عن خمسة عقول مجتمعة..."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_13",
+  "text": "لكن الأسرار الأعمق في نهجنا... ليست للغرباء."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_14",
+  "text": "أعظم شرف لي أن أعدّك صديقًا، يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_MSXZ_1",
+  "text": "آه يا بطل! ها أنت ذا! تعال، تعال!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_Option1",
+  "text": "التجارة"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_Option2",
+  "text": "الآثار في أرجاء البلاد"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_Option3",
+  "text": "هل أنت حقًا تشانغ سريع اليد؟"
+ }
+]

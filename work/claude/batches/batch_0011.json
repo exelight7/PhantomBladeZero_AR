@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FJZL_MEM_HSPP1_BaiChiLian_2",
+  "text": "شهر؟ سنة؟ أم... عمر كامل؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP1_BaiChiLian_3",
+  "text": "آه... صحيح... أنت مجرد ثعبان. كيف لك أن تعرف؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP1_BaiChiLian_4",
+  "text": "إذن اذهب واكتشف ذلك، أيها الزاحف اللعين!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP1_BaiChiLian_5",
+  "text": "لماذا... لماذا أنا بالذات؟ تُرِكتُ لأتعفن في هذا المكان الملعون الذي لا تشرق عليه الشمس!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP1_BaiChiLian_7",
+  "text": "يا سيدي المبعوث... أريد مغادرة هذا المكان... أخبرني... ماذا عليّ أن أفعل؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP1_MengChai_6",
+  "text": "لقد وقع عليكِ نظر سيدة الحجاب... وما عليكِ إلا أن تغتنمي تلك اللحظة المقدسة."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP3_BaiChiLian_1",
+  "text": "لا... هذا لن ينفع... آلة البيبا... إنها ناقصة... قالت السيدة إنني سأتحرر إن أعدت تركيبها..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP3_BaiChiLian_2",
+  "text": "آه، لا... لا! ليست هنا! لا واحدة منها هنا!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP3_BaiChiLian_3",
+  "text": "يجب أن أعيد آلة البيبا إلى حالها... أن أجد القطع المفقودة... أن أعثر عليها..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP3_BaiChiLian_4",
+  "text": "قالت السيدة إن الأمر مهم... شيء تركه الوعاء صفر وراءه..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP3_BaiChiLian_5",
+  "text": "سيدة الحجاب... سأكون نافعة لكِ، أقسم! سأعيد إليكِ آلة البيبا كاملة!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_HSPP3_BaiChiLian_6",
+  "text": "أجل... مزيد من الخيوط الحمراء... مزيد من الثعابين... دلائل... عليّ أن أدوّن كل دليل..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_5",
+  "text": "أوه؟ هل أُصبتِ بالزكام؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_6",
+  "text": "حسنًا... لا بأس. استريحي اليوم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_7",
+  "text": "لكن تذكّري: إذا فاتكِ التدريب يومًا، خسرتِ يومًا من التقدّم. وقد تنساكِ البيبا."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_10",
+  "text": "ما دمتِ تستمتعين به، فهذا يكفي."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_11",
+  "text": "حين كنت في مثل عمركِ، كنت أعزف على المسرح بالفعل."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_12",
+  "text": "آنذاك، لم يكن يهم إن كنت مريضة أو أنزف؛ كان عليّ أن أواصل العزف."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_14",
+  "text": "بعد ولادتكِ... أقسمت ألا أعزف على المسرح مجددًا."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_15",
+  "text": "لكن بعد كل هذه السنين... ما زلتِ تعانين بسببي."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_18",
+  "text": "ستفهمين يومًا ما..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_19",
+  "text": "مهما حدث، لا تعزفي البيبا إلا لنفسك."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_21",
+  "text": "يا حبيبتي، تذكّري أن البيبا التي لدينا ليست آلة عادية."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_22",
+  "text": "إنها تختزن قوة خارقة... تكفي للتواصل مع عالم آخر."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_1",
+  "text": "أمي... هل يمكنني ألّا أتدرّب اليوم؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_2",
+  "text": "أشعر بدوار قليل..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_3",
+  "text": "وأنا أجيد العزف على البيبا فعلًا!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_8",
+  "text": "مم! أمي، أنا أحب العزف على البيبا!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_9",
+  "text": "لكن... لا طاقة لي اليوم..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_13",
+  "text": "ليتني استطعت أن أراكِ وأنتِ تعزفين!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_16",
+  "text": "لدينا تلك السفينة الضخمة، اللوتس المذهّب، فكيف نعاني؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_17",
+  "text": "لكن... لماذا لا تدعينني أقترب منها أبدًا؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_20",
+  "text": "لكنني أريد أن أعزف لكِ أنتِ أيضًا، أمي!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_3",
+  "text": "شش... لا تقلقي. ستكونين بخير."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_4",
+  "text": "خذي دواءكِ وارتاحي."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_5",
+  "text": "ما دامت أمكِ معكِ، فلن يؤذيكِ شيء في الدنيا."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_9",
+  "text": "يا معلّمي... سأمحو منغ هوا من العالم الخفي، جسدًا وروحًا."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_10",
+  "text": "وسأعيد ابنتي إليّ."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_15",
+  "text": "في عامي السابع من التدريب، أدركت الحقيقة."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_16",
+  "text": "وُلدت ابنتي بموهبة نادرة. وما إن رأتها منغ هوا حتى غرست في داخلها صدعًا... يصل إلى العالم الخفي."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_17",
+  "text": "هي... لا تتذكر شيئًا مما حدث قبل ذلك اليوم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_18",
+  "text": "لا تتذكر عرضي... ولا الليلة التي ألقوا بنا فيها تحت المطر."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_19",
+  "text": "حتى ذكرياتها الجديدة يلتهمها ما وراء الصدع."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_20",
+  "text": "لم تتمكن من التشبث بذكرياتها إلا بصعوبة بالغة بعد أن جعلتها تتدرّب على البيبا. لكن ذلك لم يوقف تآكل جسدها."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_Inanis_24",
+  "text": "يا معلّمي... لم ترحمك، ولا حتى فلذة كبدها. فلماذا تستثني ابنتي؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_6",
+  "text": "لا شفاء من مرضها..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_7",
+  "text": "يمكنكِ أن تجعليها تعزف على البيبا طوال اليوم، لكن ذلك الشخص سيظل يستنزف قوتها..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_8",
+  "text": "إنانيس... حتى لو انتقمتِ، فلن يُشفى مرضها... لا شيء سيشفيها."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_11",
+  "text": "...لم تتغيري قيد أنملة."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_12",
+  "text": "يصعب تصديق أن كل هذه السنين قد مضت..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_13",
+  "text": "في ذلك اليوم... ألقوا بكِ وبابنتكِ تحت المطر الغزير، وتركوكما في الوحل على شفا الموت."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_14",
+  "text": "زوجتي... منغ هوا. لقد أنقذتكِ يومها... ولم تفعل ذلك إلا..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_21",
+  "text": "لقد جنّت منغ هوا! إنها تستخدم هذه الصدوع لتغذّي شيئًا وحشيًا في العالم الخفي!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_22",
+  "text": "ذلك الشيء لن يشبع أبدًا!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_WanXieWang_23",
+  "text": "لم أتخيل قط أنها قد تبلغ هذا الحد... وتؤذي طفلة صغيرة..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_XianZhe_1",
+  "text": "ماما... أشعر بتوعّك..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_5",
+  "text": "يا معلّمي، كان تحصينك نفسك في شرنقة بالغابة السوداء واقتياتك على أحلام المسافرين سبيلك إلى الإفلات من تأثيرها."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_6",
+  "text": "طرقي أرحم بكثير من طرقك."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_8",
+  "text": "أمتصّ اضطراب العالم عبر الوهم، وأمنح الواقع لحظة من السلام."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_9",
+  "text": "انفلتت الملذات التي لا تنتهي في عالم الأطياف عن السيطرة. ثمة شيء في العالم الخفي ينتشر... ويفسد كل شيء."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_10",
+  "text": "هذا الارتقاء الجديد يرعب الوولين... وإن كان خوفهم في غير محلّه إلى حد بعيد."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_11",
+  "text": "لو أتيح لك الاطلاع على المكان الذي نشأت فيه، لاتضح أن الوولين كان يتعفّن أصلًا، حتى من دون الارتقاء."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_12",
+  "text": "الجميع غارقون في الملذات... هل وُجد في هذا العالم يومًا ولو أثر من الاستقامة؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_15",
+  "text": "في نظري، ليس في هذا العالم شيء سوى الوهم... كل شيء إلا ابنتي."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_Inanis_16",
+  "text": "اغتنمي ما بقي لكِ من وقت معها. لن تعيش بعد سن الثامنة عشرة."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_1",
+  "text": "أنتِ أمهر من في الطائفة، ولا أحد يضاهيكِ فهمًا لفن الأطياف. لكنكِ أيضًا أقلهم استعدادًا لتقبّل القدر."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_2",
+  "text": "أصبح اللوتس المذهّب أشهر دار للهو في الوولين."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_3",
+  "text": "لكن كل ما فيه قائم على الوهم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_4",
+  "text": "جمعتِ شا-تشي الفوضوي المتولّد من ملذات لا تُحصى... ولا بد أن كميته هائلة الآن."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_5",
+  "text": "هل تظنين أن ذلك يكفي لمواجهة منغ هوا؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_7",
+  "text": "وأين الرحمة في ذلك؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_13",
+  "text": "هل هذا دربكِ القويم إذن؟ هاهاها!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_WanXieWang_14",
+  "text": "رأيتِ هذا الفساد منذ زمن بعيد، ثم شيّدتِ داخل الوهم ملاذًا مثاليًا للملذات..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_XianZhe_1",
+  "text": "ماما... هل أنا... أموت؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_XianZhe_2",
+  "text": "لا أريد... أن أترككِ..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_XianZhe_4",
+  "text": "أنا طريحة الفراش ومريضة... منذ ثلاث سنوات."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_XianZhe_5",
+  "text": "لم أعد أستطيع حتى العزف على البيبا..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_XianZhe_6",
+  "text": "لكنّكِ قلتِ إن البيبا قد تنساني إن لم أتدرّب يومًا..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis3_XianZhe_7",
+  "text": "لذلك أواصل التدرّب ذهنيًا..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_3",
+  "text": "لا تقولي هذا. ما زلت أريد أن أسمع عزفكِ على البيبا."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_8",
+  "text": "كفى يا حبيبتي. ارتاحي..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_9",
+  "text": "صعدتَ إلى مقدّمة اللوتس المذهّب من دون أن تنطلي عليك أوهامه."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_10",
+  "text": "ما الذي تنشده؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_12",
+  "text": "أحقًا؟ أشكرك على لطفك، أيها الحاكم مو."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_13",
+  "text": "لكنني أخشى ألا أملك ما أقدمه لك... وليس لدى حاكم الظلال ما أريده."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_15",
+  "text": "تفضّل، اشرح لي الأمر."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_17",
+  "text": "أجل..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_20",
+  "text": "أنت واسع الاطلاع حقًا. وهذه بالفعل المشكلة التي أواجهها."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_23",
+  "text": "إذًا، لا بد أن اللفافة الكاملة لنقل الروح أصبحت الآن في حوزتك."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_25",
+  "text": "وماذا يريد مني حاكم الظلال؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_27",
+  "text": "الأحد عشر... هل هم وراء الارتقاء الذي ينتشر في الوولين؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_28",
+  "text": "لا يعنيني أمرهم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_Inanis_31",
+  "text": "ماذا؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_MuTianMiao_11",
+  "text": "أنا مو تيانمياو. جئت لأدعوكِ إلى الانضمام إلى التنظيم والجلوس بين مندوبي الظلال."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_MuTianMiao_14",
+  "text": "هه... أقدّم لكِ ما لا تستطيعين رفضه."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_MuTianMiao_16",
+  "text": "أعلم أنكِ تدرسين لفافة نقل الروح ليل نهار، محاولةً إنقاذ ابنتك."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_MuTianMiao_18",
+  "text": "حتى طائفة ربط الخيوط لا تملك اللفافة كاملة."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_MuTianMiao_19",
+  "text": "مهما طال انكبابكِ على تلك النصوص، فلن تجدي فيها ما تبحثين عنه."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_MuTianMiao_21",
+  "text": "قبل سنوات، خضعت طائفة ربط الخيوط لعشيرة لونغ. ومنذ ذلك الحين، واللفافة الكاملة في حوزتهم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis4_MuTianMiao_22",
+  "text": "لكن هل تعرفين من قضى على عشيرة لونغ؟"
+ }
+]

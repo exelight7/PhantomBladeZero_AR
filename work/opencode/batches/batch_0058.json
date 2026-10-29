@@ -1,0 +1,154 @@
+[
+ {
+  "key": "Weapon_Function_012_10",
+  "text": "[ينطبق على جميع الأسلحة المستخدمة بكلتا اليدين] الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتوجيه ضربة ثقيلة إلى الأمام، تاركةً أثرًا مشتعلًا. لهذا الهجوم قدرة كبيرة على كسر الدفاع. لا يمكن استخدامه إلا عندما يكون <Character_Yellow_Decorator2>شا-تشي</> عند {&<dtv id=\"X061\"/>|<dtv id=\"X062\"/>|<dtv id=\"X063\"/>}، و<Character_Yellow_Decorator2>يستهلك كل شا-تشي</> عند الاستخدام. يتعذر تبديل السلاح الرئيسي لمدة <dtv id=\"X064\"/> ثانية بعد تنفيذ هذه الحركة. {#0|الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل انتهاء الحركة لمتابعتها بضربة صاعدة تدفع الصهارة إلى أعلى من الأثر المشتعل، وتلحق الضرر مجددًا.|#1}"
+ },
+ {
+  "key": "Weapon_Function_012_15",
+  "text": "اتباع نهاية سلسلة الضربات الأساسية بالضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، أو الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بعد أي هجوم <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، لتنفيذ <Character_Yellow_Decorator2>ضربة كاسحة</>. <Character_Yellow_Decorator2>التصادم مع هجوم عدو</> يؤدي إلى <Character_Yellow_Decorator2>تصادم النصال</> وتراكم <Character_Yellow_Decorator2>[قوة النصل]</>. عند امتلاء <Character_Yellow_Decorator2>[قوة النصل]</>، زيادة الضرر الملحق واستنزاف شا-تشي لمدة <dtv id=\"X066\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_012_25",
+  "text": "عند امتلاء <Character_Yellow_Decorator2>[قوة النصل]</>، الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك كل <Character_Yellow_Decorator2>[قوة النصل]</> وإطلاق <Character_Yellow_Decorator2>ضربة الإعصار</> قوية."
+ },
+ {
+  "key": "Weapon_Function_013_5",
+  "text": "الاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لشحن الضربة القاطعة المتهورة. تحويل كل الضرر المتلقى أثناء الشحن إلى <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>. إذا أصابت الضربة عدوًا، استعادة <dtv id=\"X132\"/> من <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> المتراكمة أثناء الشحن. لا تأثير لها في الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_Function_013_10",
+  "text": "{<WeaponDes_Main_Green>زيادة معدل الاستعادة قليلًا</>|<WeaponDes_Main_Green>زيادة معدل الاستعادة بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة معدل الاستعادة كثيرًا</>} لاستعادة <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> من <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> الهجمات."
+ },
+ {
+  "key": "Weapon_Function_013_15",
+  "text": "عندما تبلغ <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> <dtv id=\"X133\"/> من الصحة القصوى، اكتساب طبقة واحدة من <Character_Yellow_Decorator2>[درع الطوارئ] </> لمدة <dtv id=\"X134\"/> ثانية. بعد انتهاء <Character_Yellow_Decorator2>[درع الطوارئ]</>، تعذّر توليده مجددًا لمدة <dtv id=\"X135\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_013_25",
+  "text": "أثناء تفعيل <Character_Yellow_Decorator2>[درع الطوارئ]</>، إمكانية تحويل الصحة إلى <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>. الاستعادة الكاملة للصحة القابلة للاستعادة تولّد <Character_Yellow_Decorator2>سهامًا دموية</> تهاجم الأعداء القريبين. الأعداء الذين تصيبهم <Character_Yellow_Decorator2>السهام الدموية</> يتلقون ضررًا أكبر. انتهاء <Character_Yellow_Decorator2>[درع الطوارئ]</> بعد إطلاق <Character_Yellow_Decorator2>السهام الدموية</>."
+ },
+ {
+  "key": "Weapon_Function_015_5",
+  "text": "الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قرب عدو مكسور الدفاع لتنفيذ هجوم متابعة."
+ },
+ {
+  "key": "Weapon_Function_015_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الملحق بالأعداء مكسوري الدفاع."
+ },
+ {
+  "key": "Weapon_Function_015_15",
+  "text": "كل إصابة تملأ <Character_Yellow_Decorator2>مقياس [منشار الدم] </>. وعند امتلاء المقياس، يُفعّل <Character_Yellow_Decorator2>[منشار الدم] </> لمدة <dtv id=\"X531\"/> ثانية. أثناء تفعيله، تملأ جميع الهجمات <Character_Yellow_Decorator2>مقياس النزيف</> لدى العدو ويمكنها التسبب في <Character_Yellow_Decorator2>فقدان الدم</>. لا ينطبق هذا الأثر على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_Function_015_25",
+  "text": "بعد تنفيذ <Character_Yellow_Decorator2>[مطاردة كسر الدفاع]</>، زيادة مقياس <Character_Yellow_Decorator2>[منشار الدم] </> بدرجة كبيرة."
+ },
+ {
+  "key": "Weapon_Function_016_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لضرب العدو سريعًا بظهر النصل وإكساب السلاح <Character_Yellow_Decorator2>صقيعًا</> لفترة وجيزة. الهجوم التالي يزيد <Character_Yellow_Decorator2>مقياس التجمّد</> لدى العدو بدرجة كبيرة."
+ },
+ {
+  "key": "Weapon_Function_016_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمعدل تراكم التجمّد."
+ },
+ {
+  "key": "Weapon_Function_016_15",
+  "text": "استخدام <Character_Yellow_Decorator2>[ضربة الصقيع]</> لاستعادة شا-تشي."
+ },
+ {
+  "key": "Weapon_Function_016_25",
+  "text": "الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للاندفاع نحو عدو <Character_Yellow_Decorator2>متجمّد</> قريب وإلحاق الضرر به."
+ },
+ {
+  "key": "Weapon_Function_017_5",
+  "text": "زيادة الحد الأقصى لعدد <Character_Yellow_Decorator2>[زنابق العنكبوت الحمراء]</> النشطة. إطالة مدتها إلى <dtv id=\"X072\"/> ثانية. الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتفجير جميع <Character_Yellow_Decorator2>[زنابق العنكبوت الحمراء]</> النشطة يدويًا."
+ },
+ {
+  "key": "Weapon_Function_017_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لضرر الانفجار واستنزاف شا-تشي الناجمين عن <Character_Yellow_Decorator2>[زنابق العنكبوت الحمراء]</>."
+ },
+ {
+  "key": "Weapon_Function_017_15",
+  "text": "بعد استخدام اندفاع القوة <Character_Yellow_Decorator2>[عاصفة الإزهار الأحمر]</>، يدخل نصل الشبح القرمزي حالة <Character_Yellow_Decorator2> </><Character_Yellow_Decorator2>[عديم القلب]</><Character_Yellow_Decorator2> </> لمدة <dtv id=\"X073\"/> ثانية. تظل هذه الحالة فعالة ما دام الوجود داخل حقل الزهور. الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> عند نهاية <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> سلسلة ضربات لتنفيذ ضربة ختامية قوية وزيادة استنزاف شا-تشي الملحق بالأعداء داخل الأزهار."
+ },
+ {
+  "key": "Weapon_Function_017_25",
+  "text": "الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للشحن. عند بدء الشحن، استدعاء <Character_Yellow_Decorator2>[زنبقة العنكبوت البيضاء]</> عملاقة تطير نحو العدو وتنفجر عند الاصطدام. عند اكتمال الشحن، الانتقال الآني إلى أمام العدو وتنفيذ ضربة قوية."
+ },
+ {
+  "key": "Weapon_Function_018_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للاندفاع <Character_Yellow_Decorator2>إلى الأمام</>. استهلاك شا-تشي باستمرار أثناء الاندفاع وانتهاؤه عند نفادها."
+ },
+ {
+  "key": "Weapon_Function_018_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الملحق وقوة كسر الدروع أثناء الاندفاع."
+ },
+ {
+  "key": "Weapon_Function_018_15",
+  "text": "خفض الضرر المتلقّى أثناء <Character_Yellow_Decorator2>الاندفاع</>. إذا وقع تلقي الضرر خلال بدء <Character_Yellow_Decorator2>[الاندفاع الجارف]</>، ارتداد الأعداء القريبين وتحول الاندفاع إلى <Character_Yellow_Decorator2>غير قابل للصد</>."
+ },
+ {
+  "key": "Weapon_Function_018_25",
+  "text": "بعد <Character_Yellow_Decorator2>الاندفاع</>، الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لمتابعة الهجوم بكنس أفقي مدمّر."
+ },
+ {
+  "key": "Weapon_Function_019_5",
+  "text": "إذا تلقيت ضربة أثناء تنفيذ <Character_Yellow_Decorator2>[شق العجلة القرمزية]</>، ازداد الهجوم قوة."
+ },
+ {
+  "key": "Weapon_Function_019_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الذي تسببه <Character_Yellow_Decorator2>[شق العجلة القرمزية].</>"
+ },
+ {
+  "key": "Weapon_Function_019_15",
+  "text": "الضغط مطولًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن. ثم الإفلات لإطلاق <Character_Yellow_Decorator2>موجة شفرة</> تلحق ضررًا وتضيف <dtv id=\"X393\"/> تكدسًا من <Character_Yellow_Decorator2>[وسم قاتل قطّاع الطرق]</> إلى العدو. زيادة الضرر واستنزاف شا-تشي بالهجوم التالي الذي يصيب العدو الموسوم."
+ },
+ {
+  "key": "Weapon_Function_019_25",
+  "text": "الضغط مطولًا على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أثناء تنفيذ <Character_Yellow_Decorator2>[شق العجلة القرمزية] </> لاستهلاك شا-تشي بالكامل واتباعه بشقّ أشد قوة."
+ },
+ {
+  "key": "Weapon_Function_020_5",
+  "text": "توليد دوّامة أثناء <Character_Yellow_Decorator2>[عاصفة الهلال]</> تجذب الأعداء القريبين."
+ },
+ {
+  "key": "Weapon_Function_020_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الذي تسببه <Character_Yellow_Decorator2>[عاصفة الهلال] </>و {<WeaponDes_Main_Green>خفض طفيف</>|<WeaponDes_Main_Green>خفض متوسط</>|<WeaponDes_Main_Green>خفض كبير</>} لاستهلاكها شا-تشي."
+ },
+ {
+  "key": "Weapon_Function_020_15",
+  "text": "هزيمة عدو باستخدام <Character_Yellow_Decorator2>[ضربة تشينغلونغ]</> لها احتمال <dtv id=\"X512\"/> لمنح <Character_Yellow_Decorator2>[هيئة تشينغلونغ]</>."
+ },
+ {
+  "key": "Weapon_Function_020_25",
+  "text": "أثناء تنفيذ <Character_Yellow_Decorator2>[عاصفة الهلال]</>، يؤدي <Character_Yellow_Decorator2>التصادم بهجوم عدو</> إلى تفعيل <Character_Yellow_Decorator2>تصادم النصال</>، الذي يستنزف شا-تشي العدو باستمرار."
+ },
+ {
+  "key": "Weapon_Function_022_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لشحن النصال بالتشي، و<WeaponDes_Main_Green>زيادة</> الضرر المُلحَق بدرجة كبيرة لمدة <dtv id=\"X051\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_022_10",
+  "text": "[ينطبق على جميع الأسلحة المزدوجة] الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> + <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ الشق الطيفي الثلاثي، والتقدم فورًا إلى العدو لإطلاق شق قوي قد يقتله أو يصيبه بجراح بالغة. لا يمكن استخدامه إلا عندما يكون <Character_Yellow_Decorator2>شا-تشي</> عند {& <dtv id=\"X052\"/>|<dtv id=\"X053\"/>|<dtv id=\"X054\"/>}، ويستهلك <Character_Yellow_Decorator2>كل شا-تشي عند استخدامه</>. بعد تنفيذ هذه الحركة، يتعذر تبديل السلاح الرئيسي لمدة <dtv id=\"X055\"/> ثوانٍ. {#0|إذا تسبب الشق في <Character_Yellow_Decorator2>كسر الدفاع</> لدى العدو، فالضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل انتهاء الحركة لتنفيذ هجوم متابعة. |#1}"
+ },
+ {
+  "key": "Weapon_Function_022_15",
+  "text": "المتابعة بـ <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"0\"/> بعد انتهاء أي سلسلة ضربات <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>."
+ },
+ {
+  "key": "Weapon_Function_022_25",
+  "text": "بعد <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"0\"/>، الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للقفز في الهواء وإطلاق وابل شرس من الضربات القاطعة."
+ },
+ {
+  "key": "Weapon_Function_023_5",
+  "text": "أثناء مجموعة ضربات، الاستمرار في الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للشحن، ثم إطلاق سلسلة سريعة من الضربات المتقاطعة التي تغرس الهالة الشيطانية في الجروح، وتحول <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية] </> لدى العدو إلى <Character_Yellow_Decorator2>[التآكل الأزرق السماوي]</>، الذي يستنزف كمية أكبر من شا-تشي عند انفجاره."
+ },
+ {
+  "key": "Weapon_Function_023_10",
+  "text": "{<WeaponDes_Main_Green>زيادة الضرر قليلًا</>|<WeaponDes_Main_Green>زيادة الضرر بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة الضرر كثيرًا</>} الذي يُلحقه <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية]</> وتأثيراته المتحوّلة عند انفجارها."
+ },
+ {
+  "key": "Weapon_Function_023_15",
+  "text": "أثناء سلسلة هجمات، الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للشحن، ثم إطلاق سلسلة سريعة من ضربات شا-تشي الكاسحة الدوارة التي تدفع الهالة الشيطانية عميقًا في العظم، وتحول <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية] </>على العدو إلى <Character_Yellow_Decorator2>[التآكل القرمزي]</>، الذي يسبب ضررًا أكبر عند انفجاره."
+ }
+]

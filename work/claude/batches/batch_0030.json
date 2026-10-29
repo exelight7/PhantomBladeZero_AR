@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ_6",
+  "text": "فالهدية لمعلّم سول ينبغي أن تنمّ عن شيء من الإخلاص!"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_Hun_1",
+  "text": "هل كان <Bold>هو</> من أمر بهذا؟"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_Hun_2",
+  "text": "ختم العقل يمنعهم من إيذاء العزّل. فلماذا تُكسر أختامهم؟"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_YuEr_1",
+  "text": "لم أذرف دمعة واحدة..."
+ },
+ {
+  "key": "Dlg_PZ_HG_HG_1",
+  "text": "يا معلم سول، هل تشاركني كأسًا؟"
+ },
+ {
+  "key": "Dlg_PZ_HG_Option1",
+  "text": "عن البيبا"
+ },
+ {
+  "key": "Dlg_PZ_HG_Option2",
+  "text": "عن ربّان القارب وبحيرة ميغو"
+ },
+ {
+  "key": "Dlg_PZ_HG_Option3",
+  "text": "صقل الروح"
+ },
+ {
+  "key": "Dlg_PZ_HG_Option4",
+  "text": "عن المكعّب"
+ },
+ {
+  "key": "Dlg_PZ_HG_Option5",
+  "text": "استخدامات أخرى للبيبا الوهمية"
+ },
+ {
+  "key": "Dlg_PZ_HouJieCangKu_QingTong_Option_1",
+  "text": "نبش الأتون"
+ },
+ {
+  "key": "Dlg_PZ_HouJie_XueJianKe_Hun_1",
+  "text": "إنه يطلق شا-تشي... فيدفع مقاتلي الارتقاء الكامل قرب ذلك المبارز ذي الرداء الأحمر <Bold></>إلى الجنون!"
+ },
+ {
+  "key": "Dlg_PZ_HunShui_HaiZi1_HaiZi1_1",
+  "text": "أمي... استيقظي... أنا جائع..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_HaiZi1_HaiZi1_2",
+  "text": "أكلت ترابًا كثيرًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_HaiZi1_HaiZi1_3",
+  "text": "لكنني ما زلت جائعًا جدًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_1",
+  "text": "يا حفيدي العزيز... لا تخف..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_2",
+  "text": "هؤلاء الأبطال المقنّعون جاؤوا لإنقاذنا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_3",
+  "text": "سيضعون لك قلبًا جديدًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_4",
+  "text": "وحين ينتهون، لن تمرض بعد ذلك أبدًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_1",
+  "text": "يا باو الصغير... أغمض عينيك..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_2",
+  "text": "نم... لا تبكِ بعد الآن..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_3",
+  "text": "استيقظ من أحلامك... سيطاردك شبح..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_4",
+  "text": "رحل إلى الأبد... ولم يترك أثرًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_1",
+  "text": "تحيد النجمة الحمراء... وتعبر النجمة البيضاء السماء..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_2",
+  "text": "تصير مياه الآبار مُرّة شرقًا... وتجنّ الحيوانات غربًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_3",
+  "text": "تضطرب السماء... وتحيد النجوم عن مواقعها... ونجم تائه يتعدّى على السماء نفسها..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_4",
+  "text": "الفوضى! كل شيء فوضى!"
+ },
+ {
+  "key": "Dlg_PZ_HunShui_XiYiNv_XiYiNv_1",
+  "text": "أنا جائعة جدًا... تماسكي... اشربي مزيدًا من الماء..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_XiYiNv_XiYiNv_2",
+  "text": "البرد شديد... قروحي... عادت تؤلمني..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_XiYiNv_XiYiNv_3",
+  "text": "سأرتاح قليلًا... ما إن أنام... حتى لا أعود أشعر بشيء..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_YiZhe_YiZhe_1",
+  "text": "ثلاثون مقدارًا من الغاستروديا... وسبعة وعشرون من البوريا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_YiZhe_YiZhe_2",
+  "text": "هذه الجرعة... ينبغي أن تكفي لعلاجه..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNan1_ZhenMinNan1_1",
+  "text": "لا... لا أستطيع... أن أغفو..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNan1_ZhenMinNan1_2",
+  "text": "إن نمت... فلن أستيقظ ثانية..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_1",
+  "text": "نينغ... حان وقت دوائكِ..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_2",
+  "text": "توسلت إلى الرجل المقنّع كي أحصل عليه..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_3",
+  "text": "وغطّي وجهك بهذه الزهرة..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_4",
+  "text": "ستتحسن حالكِ... لا بد أن تتحسن..."
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing1_Battle_1",
+  "text": "من...؟ من يسيطر عليّ؟!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing1_Battle_2",
+  "text": "آآآه...! اقتلوا! اقتلوا!!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing2_Battle_1",
+  "text": "أسرع... أجهز عليه!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing3_HuoLiuXing_Battle_1",
+  "text": "آآآه... أرجوكم! أتوسل إليكم—أطلقوا سراحي!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing3_LengTu_Battle_2",
+  "text": "لماذا توقفت؟ لم يشعر المعلّم سول بالدفء بعد."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_AiHaoShuiJing_1",
+  "text": "بئر عميقة سحيقة لا قرار لها. يبدو أن يأسًا لا ينتهي يتجمع في قاعها ويصارع ليتحرر."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_BaiSheWu_Gate_1",
+  "text": "قفل عتيق مثبت على الباب. تمتد على سطحه أخاديد متعرّجة ترسم شكل اثنين من لونغ متشابكين من الرأس إلى الذيل."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_BaiXueEr_1",
+  "text": "تقبض بيدها على بطنها. وينتشر اللون القاني من حولها، كاشفًا الدمار الذي أحدثه سيف عظيم عريض النصل."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_CanHai_1",
+  "text": "ضربة واحدة شطرت الفارس وفرسه."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_HuaDanBenTi_1",
+  "text": "في ضوء يتلاشى، تكرر الرقصة نفسها مرة بعد مرة. لكن لم يبقَ أحد ليصفق لها."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_SheXingJiGuan_1",
+  "text": "باب مخفي تغلقه آلية على هيئة ثعبان... ما الأسرار التي تكمن وراءه؟"
+ },
+ {
+  "key": "Dlg_PZ_Investigate_SheXingJiGuan_2",
+  "text": "يبدو أن هذا الباب يفضي إلى الجهة الخلفية من ضيعة السراب..."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_TieJiangPu1_Hun_1",
+  "text": "هل يكون «جوهر البرونز» الذي تحدث عنه الطاوي بي دي مدفونًا في مكان ما هنا؟"
+ },
+ {
+  "key": "Dlg_PZ_Investigate_TieJiangPu2_Re_1",
+  "text": "لم يبقَ في الداخل سوى الأنقاض والرماد."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_TieJiangPu_1",
+  "text": "ورشة حدادة منهارة، ولا تزال حرارة خافتة تنبعث من الكير."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_WuShiGuan_1",
+  "text": "قفل على هيئة رأس أسد، متقن الشبه بالحقيقة. فم الأسد فارغ، وكرته المطرزة مفقودة."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiangLu1_1",
+  "text": "مبخرة لا تزال جمراتها متقدة. قد تؤدي إضافة نوع معيّن من البخور إلى تقوية عبيره وإطالة بقائه."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiangLu2_1",
+  "text": "تحمل حرارة المبخرة رائحة مستحضرات التجميل في أرجاء المكان."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiaoXiang_Gate1_1",
+  "text": "لا يجيب أحد من الداخل. وما زالت لافتة «الحظ» الخاصة برأس السنة معلقة على الباب، وقد غطاها الغبار."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiaoXiang_Gate2_1",
+  "text": "يأتي من الداخل صوت احتكاك خشب يتحرك بصعوبة."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiaoXiang_Gate2_2",
+  "text": "تتمايل في الهواء بفتور الشرائط الحمراء المربوطة بالحلقة."
+ },
+ {
+  "key": "Dlg_PZ_JGC_Hun_1",
+  "text": "يبدو أن القارب فقد طاقته، وهو يعمل بشا-تشي. لعل ثمة طريقة أخرى لتشغيله."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_10",
+  "text": "كانت مبارزتنا الأخيرة. هاجم كل منا الآخر في اللحظة نفسها، ونفذ نصل كل منا إلى قلب الآخر."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_12",
+  "text": "ذلك القلب... أفهم من هذا أن تسو شانغ لن يرحل من دونه."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_13",
+  "text": "وإلا، فلماذا يرسلك؟"
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_16",
+  "text": "أين القلب؟"
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_19",
+  "text": "لو شربته لتبدد شا-تشي لديك، ولما بقيت لك قوة للاستيلاء على القلب."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_21",
+  "text": "فهمت. ستتظاهر بأن شا-تشي لديك قد زال... ثم تنقضّ حين تقترب من القلب."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_22",
+  "text": "بمهارتك، لن يستطيع أحد منعك من أخذه."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_Hun_25",
+  "text": "يا للخسارة."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_11",
+  "text": "إذن... أتيت أنت أيضًا من أجل ذلك «القلب»؟"
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_14",
+  "text": "لدى حاكم الظلال تسو عهد مع المبعوث الذي صنع هذا القلب."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_15",
+  "text": "لكنه يعلم أن المبعوث ينوي الاحتفاظ به لنفسه... وأن وراء الأمر كله مؤامرة أكبر بكثير."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_17",
+  "text": "يصوغ المبعوث القلب في <Bold>ضيعة السراب</>."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_18",
+  "text": "لا يثق بأحد. على كل زائر أن يتناول «سمّ السكون»، فيُحجب عنه شا-تشي ساعتين قبل الدخول."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_20",
+  "text": "لدى حاكم الظلال تسو الترياق بالفعل. سأتناوله مسبقًا، فلن أتأثر."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_23",
+  "text": "إن أردت، فلن يمانع حاكم الظلال تسو أن تثير الفوضى في الضيعة."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_24",
+  "text": "لكنّك صرت هدفًا بالفعل. أشك في أن المبعوث سيسمح لك بالدخول من البوابة الأمامية."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_26",
+  "text": "ومع ذلك، لا أظن أن إيجاد مدخل آخر سيشكل مشكلة على المعلم العظيم سول."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_Re2_1",
+  "text": "عليك أن تجد بنفسك سبيلًا إلى ضيعة السراب."
+ },
+ {
+  "key": "Dlg_PZ_JYX_LeiDang_LeiDang_Re2_2",
+  "text": "القلب في الداخل!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JinWei1_Hun_1",
+  "text": "حارس ظلال آخر... لا بد أن تسو شانغ قريب."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JinWei2_Hun_1",
+  "text": "إن كان قد أرسل كل هذا العدد من حرّاس الظلال..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JinWei3_Hun_1",
+  "text": "إذن، اقتسم التنظيم وطائفة ربط الخيوط بانغتشن فيما بينهما..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JiuGuan_Hun_1",
+  "text": "هل ما زال نُزل التنظيم قائمًا؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_MaTou_Hun_1",
+  "text": "أذكر أن هذا الطريق يؤدي إلى الرصيف..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_1",
+  "text": "هل طرقت باب دار لان في الجهة المقابلة من الشارع؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_2",
+  "text": "أخبرني... ماذا حلّ بالأطفال في الداخل؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_3",
+  "text": "هل كانت هناك طفلة صغيرة تبكي وتنادي أمها؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_4",
+  "text": "آه! لا، لا... لا تخبرني!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_5",
+  "text": "هذا الوجه الذي يلفّه الدخان... لن يزيدها إلا خوفًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_6",
+  "text": "وعدني السيد الشاب لان بأن يُخرج ابنتي من البلدة..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_7",
+  "text": "كنت أعلم... إنه كاذب... كاذب!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_Hun_6",
+  "text": "وماذا عن رصيف البحيرة؟ هل ما زال بإمكاني الرحيل بالقارب؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_Hun_10",
+  "text": "كيف أصل إلى البحيرة؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_1",
+  "text": "لست مرتقيًا... ولا تنتمي إلى طائفة ربط الخيوط أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_2",
+  "text": "أن تبلغ هذا الحد وحدك... لا بد أنك رجل غير عادي."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_3",
+  "text": "ظننا... أن الارتقاء سيتيح لنا أن نصنع لأنفسنا مستقبلًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_4",
+  "text": "اسودّت وجوهنا بالدخان... حتى لم يبقَ منا... سوى قشرة خاوية..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_5",
+  "text": "لن يخرج أحد من هذه البلدة حيًا...!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_7",
+  "text": "لا تقترب من البحيرة!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_8",
+  "text": "فاضت البحيرة بشا-تشي... و... دفعتنا إلى قتل بعضنا بعضًا من أجل القوارب..."
+ }
+]

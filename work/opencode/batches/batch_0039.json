@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Tutorial_PhantomEdges_Title_10",
+  "text": "قدرة استكشاف الفأس المروّع"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_11",
+  "text": "قدرة استكشاف الحصن"
+ },
+ {
+  "key": "Tutorial_Potion_1",
+  "text": "<InputAction id=\"BottomMedicine\" height=\"32\" RightPadding=\"10\" LeftPadding=\"10\"/> استخدام <Tutorial_Body_Yellow>قارورة الشفاء</>."
+ },
+ {
+  "key": "Tutorial_Potion_2",
+  "text": "<InputAction id=\"TopMedicine\" height=\"32\" RightPadding=\"10\" LeftPadding=\"10\"/> استخدام <Tutorial_Body_Yellow>قارورة الدواء السري</>."
+ },
+ {
+  "key": "Tutorial_Potion_3",
+  "text": "الضغط على <InputAction id=\"BottomMedicine\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستخدام الدواء واستعادة الصحة!"
+ },
+ {
+  "key": "Tutorial_Potion_4",
+  "text": "الضغط على <InputAction id=\"TopMedicine\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستخدام الدواء واستعادة الصحة!"
+ },
+ {
+  "key": "Tutorial_Prologue_1",
+  "text": "الدفاع ضد الهجمات بعيدة المدى!"
+ },
+ {
+  "key": "Tutorial_Prologue_1_1",
+  "text": "الضغط مطوّلًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لصدّ الهجمات تلقائيًا باستهلاك شا-تشي"
+ },
+ {
+  "key": "Tutorial_Prologue_1_2",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> في اللحظة الدقيقة لاصطدام <Tutorial_Body_Blue>هجوم الوميض الأزرق</> الذي يشنّه العدو"
+ },
+ {
+  "key": "Tutorial_Prologue_1_3",
+  "text": "الضغط على <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> في اللحظة الدقيقة لاصطدام <Tutorial_Body_Red>هجوم الوميض الأحمر</> الذي يشنّه العدو"
+ },
+ {
+  "key": "Tutorial_Prologue_2_1",
+  "text": "الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> تكرارًا لتنفيذ هجمات أساسية"
+ },
+ {
+  "key": "Tutorial_Prologue_2_2",
+  "text": "الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> تكرارًا لتنفيذ هجمات شا-تشي"
+ },
+ {
+  "key": "Tutorial_Prologue_Quest_1",
+  "text": "هزيمة تسو شانغ!"
+ },
+ {
+  "key": "Tutorial_Prologue_Quest_2",
+  "text": "حتى الموت!"
+ },
+ {
+  "key": "Tutorial_Prologue_Title_1",
+  "text": "تحت النيران"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_0",
+  "text": "الهجوم"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_1",
+  "text": "استخدام <Tutorial_Title_Yellow>سلاسل الضربات الأساسية</> لإصابة الأعداء!"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_2",
+  "text": "تثبيت الهدف"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_3",
+  "text": "سلسلة الضربات الأساسية"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_4",
+  "text": "تنفيذ سلسلتين مختلفتين من <Tutorial_Title_Yellow>سلاسل ضربات شا-تشي</> على العدو!"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_5",
+  "text": "سلاسل ضربات شا-تشي تستهلك شا-تشي"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_6",
+  "text": "التبديل إلى <Tutorial_Title_Yellow>التوأم القاني</> وضرب العدو بأي سلسلتي ضربات!"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_7",
+  "text": "تبديل الأسلحة"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_8",
+  "text": "التبديل بين الأسلحة يعيد ملء شا-تشي بالكامل."
+ },
+ {
+  "key": "Tutorial_Quest_Attack_9",
+  "text": "التبديل إلى <Tutorial_Title_Yellow>الفأس الهمجي العملاق</> وضرب العدو بهجومين مشحونين!"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_10",
+  "text": "تفعيل <Tutorial_Body_Yellow>سلاح طيفي</> (سلاح ثانوي)."
+ },
+ {
+  "key": "Tutorial_Quest_Attack_11",
+  "text": "أثناء استخدام الفأس الهمجي العملاق، الضغط مطوّلًا على <InputAction id=\"ShaChiAttack\" height=\"26\"/> لشحنه مرتين."
+ },
+ {
+  "key": "Tutorial_Quest_Attack_12",
+  "text": "ذخيرة السلاح الطيفي"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_13",
+  "text": "ضرب العدو باستخدام <Tutorial_Title_Yellow>القوس</>!"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_13_01",
+  "text": "تفعيل <Tutorial_Body_Yellow>سلاح طيفي</> (سلاح ثانوي)."
+ },
+ {
+  "key": "Tutorial_Quest_Attack_14",
+  "text": "تبديل السلاح الطيفي"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_15",
+  "text": "اكتمل!"
+ },
+ {
+  "key": "Tutorial_Quest_Attack_16",
+  "text": "التحكّم في سلاسل ضربات شا-تشي"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_0",
+  "text": "الصدّ والمراوغة"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_1",
+  "text": "الدخول في وضعية الدفاع والتحرّك لمسافة قصيرة"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_2",
+  "text": "الضغط مطوّلًا للدخول في وضعية الدفاع."
+ },
+ {
+  "key": "Tutorial_Quest_Defend_3",
+  "text": "التحرّك في وضعية الدفاع."
+ },
+ {
+  "key": "Tutorial_Quest_Defend_4",
+  "text": "تستنزف وضعية الدفاع شا-تشي باستمرار."
+ },
+ {
+  "key": "Tutorial_Quest_Defend_5",
+  "text": "صدّ سلسلتي ضربات كاملتين من العدو!"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_6",
+  "text": "الضغط مطوّلًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> حتى انتهاء سلسلة ضربات العدو"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_7",
+  "text": "صدّ الهجمات يستنزف مقدارًا إضافيًا من شا-تشي"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_8",
+  "text": "استخدام <Tutorial_Title_Yellow>سلاسل الضربات الأساسية</> لاستنزاف شا-تشي لدى الأعداء وجعلهم <Tutorial_Title_Yellow>مكسوري الدفاع</>!"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_9",
+  "text": "<Tutorial_Title_Yellow>سلاسل ضربات شا-تشي</> تكسر دفاع الأعداء بوتيرة أسرع!"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_10",
+  "text": "مراوغة هجمات الأعداء!"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_11",
+  "text": "مراوغة إلى الخلف"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_12",
+  "text": "مراوغة باتجاه محدد"
+ },
+ {
+  "key": "Tutorial_Quest_Defend_13",
+  "text": "استخدام قارورتي الدواء المجهّزتين."
+ },
+ {
+  "key": "Tutorial_Quest_Defend_14",
+  "text": "استخدام قارورة الدواء في الخانة العلوية."
+ },
+ {
+  "key": "Tutorial_Quest_Defend_17",
+  "text": "استخدام قارورة الدواء في الخانة السفلية."
+ },
+ {
+  "key": "Tutorial_Quest_Defend_18",
+  "text": "قتل الأعداء قد يؤدي إلى استعادة قوارير الدواء."
+ },
+ {
+  "key": "Tutorial_Quest_SKill_0",
+  "text": "المهارات"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_4",
+  "text": "تنفيذ <Tutorial_Body_Yellow>صدّ مثالي</> ضد ثلاث هجمات!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\"/> في لحظة الاصطدام بالضبط لتنفيذ صدّ مثالي."
+ },
+ {
+  "key": "Tutorial_Quest_SKill_6",
+  "text": "لا يستهلك الصدّ المثالي شا-تشي، بل يستنزف شا-تشي المهاجم بشدة"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_7",
+  "text": "يولّد الصدّ المثالي جوهر شا-تشي"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_8",
+  "text": "تخطّي الدروس التعليمية"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_8_1",
+  "text": "الضغط على <InputAction id=\"Crouch\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للمتابعة"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_9",
+  "text": "تنفيذ صدّ مثالي ضد <Tutorial_Title_Blue>هجمات الوميض الأزرق</> مرتين!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_10",
+  "text": "تنفيذ مراوغة مثالية ضد <Tutorial_Title_Red>هجمات الوميض الأحمر</> مرتين!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_11",
+  "text": "الضغط على <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستخدام <Tutorial_Title_Green>اندفاع القوّة</> ضد الأعداء!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_12",
+  "text": "إطلاق <Tutorial_Body_Green>اندفاع القوّة</>"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_13",
+  "text": "يستهلك اندفاع القوّة جوهر شا-تشي واحدًا"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_15",
+  "text": "هزيمة الخصم القوي!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_17",
+  "text": "اكتمل!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_18",
+  "text": "صدّ <Tutorial_Title_Blue>هجوم الوميض الأزرق</> يستنزف قدرًا هائلًا من شا-تشي. لكن الضغط على <InputAction id=\"Deflect\" height=\"26\"/> عند لحظة الاصطدام تمامًا لتنفيذ صدّ مثالي يؤدي إلى <Tutorial_Body_Yellow>خطوة الشبح</>، ما يتيح التسلل فورًا إلى خلف الخصم!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_20",
+  "text": "لا يمكن صدّ <Tutorial_Body_Red>هجمات الوميض الأحمر</>. الضغط على <InputAction id=\"Dodge\" height=\"26\"/> في لحظة الاصطدام بالضبط يفعّل <Tutorial_Body_Yellow>خطوة الشبح</>، ما يتيح لسول المرور إلى خلف الخصم!"
+ },
+ {
+  "key": "Tutorial_Quest_SKill_21",
+  "text": "<InputAction id=\"Option\" height=\"26\"/> تبديل الأسلحة والأسلحة الطيفية"
+ },
+ {
+  "key": "Tutorial_Temp_AttackZhangMen",
+  "text": "مهاجمة الجسد المتبقي لزعيم الطائفة"
+ },
+ {
+  "key": "Tutorial_Title_Battle_ZuoShang_1",
+  "text": "[صدّ مثالي]"
+ },
+ {
+  "key": "Tutorial_Title_Battle_ZuoShang_2",
+  "text": "[الصدّ المثالي ضد هجمات الوميض الأزرق]"
+ },
+ {
+  "key": "Tutorial_Title_Battle_ZuoShang_3",
+  "text": "[المراوغة المثالية ضد هجمات الوميض الأحمر]"
+ },
+ {
+  "key": "Tutorial_Title_Bell_1",
+  "text": "جرس"
+ },
+ {
+  "key": "Tutorial_Title_Bell_Medicine_1",
+  "text": "إمكانية تجهيز قارورتين من قوارير الدواء."
+ },
+ {
+  "key": "Tutorial_Title_PhantomEdges_1_1",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستخدام سلاح طيفي لشن هجمات قوية!"
+ },
+ {
+  "key": "Tutorial_Title_PhantomEdges_2_2",
+  "text": "قدرة استكشاف منجل السلسلة للصياد"
+ },
+ {
+  "key": "Tutorial_Title_Trace_1",
+  "text": "صفاء الذهن وصدق الرؤية"
+ },
+ {
+  "key": "Tutorial_TraceDes_1",
+  "text": "تهدئة الذهن، وفكّ خيوط القرائن، واستبانة مكان الهدف."
+ },
+ {
+  "key": "Tutorial_Trace_1",
+  "text": "<pad name=\"Generic\">الضغط مطوّلًا على</> <InputAction id=\"EagleVision\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستشعار اتجاه المهمة المتتبَّعة."
+ },
+ {
+  "key": "Tutorial_Training_1_1",
+  "text": "جمع الأحجار السوداء وكهرمان شا-تشي وأغراض أخرى لزيادة السمات وفتح القدرات."
+ },
+ {
+  "key": "Tutorial_Training_1_2",
+  "text": "استخدام غبار الوعي لتفعيل القدرات المفتوحة!"
+ },
+ {
+  "key": "Tutorial_Training_1_3",
+  "text": "<UIRowName id=\"ResetAllAbilityNodes\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> إعادة ضبط جميع القدرات واسترداد غبار الوعي."
+ },
+ {
+  "key": "Tutorial_Training_2_1",
+  "text": "اختيار سلاح لترقيته."
+ },
+ {
+  "key": "Tutorial_Training_2_2",
+  "text": "موادّ الترقية وغبار الوعي."
+ },
+ {
+  "key": "Tutorial_Training_2_3",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> للترقية!"
+ },
+ {
+  "key": "Tutorial_Training_2_4",
+  "text": "الضغط على <UIRowName id=\"EnterUpgradeDowngrade\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> لفتح قائمة الخفض"
+ },
+ {
+  "key": "Tutorial_Training_2_5",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> لإعادة السلاح إلى المستوى 1 واسترداد الموادّ وغبار الوعي!"
+ },
+ {
+  "key": "Tutorial_Training_3_1",
+  "text": "<UIRowName id=\"RightShoulder_Black\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> يُستخدم أيضًا لترقية الأسلحة الطيفية."
+ },
+ {
+  "key": "Tutorial_Training_3_2",
+  "text": "اختيار سلاح طيفي لترقيته."
+ },
+ {
+  "key": "Tutorial_Training_3_3",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> للترقية!"
+ },
+ {
+  "key": "Tutorial_Training_3_4",
+  "text": "الضغط على <UIRowName id=\"EnterUpgradeDowngrade\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> لفتح قائمة الخفض."
+ },
+ {
+  "key": "Tutorial_Training_3_5",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> لإعادة السلاح الطيفي إلى المستوى 1 واسترداد الموادّ وغبار الوعي."
+ },
+ {
+  "key": "Tutorial_Training_4_1",
+  "text": "<UIRowName id=\"EnterUpgradeZhuHun\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> للتبديل إلى صقل الروح."
+ },
+ {
+  "key": "Tutorial_Weapon_1_1",
+  "text": "<InputAction id=\"\"option\"\" height=\"\"32\"\" RightPadding=\"\"10\"\" LeftPadding=\"\"10\"\"/> تجهيز سلاحين. <InputAction id=\"\"ChangeWeapon\"\" height=\"\"32\"\" RightPadding=\"\"10\"\" LeftPadding=\"\"10\"\"/> التبديل بين السلاحين."
+ },
+ {
+  "key": "Tutorial_Weapon_2",
+  "text": "تجهيز الأسلحة الجديدة فورًا، أو الضغط على <InputAction id=\"option\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لضبطها في قائمة الشخصية."
+ },
+ {
+  "key": "Tutorial_Weapon_3",
+  "text": "الضغط على <InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للتبديل بين الأسلحة واستعادة شا-تشي بالكامل!"
+ },
+ {
+  "key": "Tutorial_Weapon_4",
+  "text": "امتلأ جوهر شا-تشي <Niagara id=\"Fire\"/>. الضغط على <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستخدام اندفاع القوّة!"
+ },
+ {
+  "key": "Tutorial_XueMai1_1",
+  "text": "الصدّ المثالي ضد <Tutorial_Body_Blue>هجمات الوميض الأزرق</> والمراوغة المثالية <Tutorial_Body_Red>لهجمات الوميض الأحمر</> متى أمكن لكسب الأفضلية!"
+ },
+ {
+  "key": "Tutorial_XueMai2_1",
+  "text": "مواصلة الهجوم بلا هوادة! التوقف يتيح لرجل يرتدي الأسود استعادة شا-تشي بسرعة!"
+ },
+ {
+  "key": "Tutorial_XueMai3_1",
+  "text": "يمكن لرجل يرتدي الأسود استنزاف شا-تشي، ما يترك الشخصية عرضة للخطر.\nالضغط على <InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للتبديل بين الأسلحة واستعادة شا-تشي بالكامل!"
+ },
+ {
+  "key": "Tutorial_XueMai4_1",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> يمكن لاندفاعات القوّة مقاطعة مهارات الأعداء القوية!\n<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استخدام هجمات شا-تشي لبناء جوهر شا-تشي <Niagara id=\"Fire\"/> بسرعة أكبر!"
+ }
+]

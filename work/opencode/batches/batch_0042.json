@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_BonusCollection_66",
+  "text": "A Final Farewell"
+ },
+ {
+  "key": "UI_BonusCollection_67",
+  "text": "The Last Battle (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_68",
+  "text": "My Heart Beats True (Vocals by Sha Baoliang)"
+ },
+ {
+  "key": "UI_BonusCollection_Key_01",
+  "text": "ضبط مستوى الصوت"
+ },
+ {
+  "key": "UI_BonusCollection_Key_02",
+  "text": "تغيير وضع التشغيل"
+ },
+ {
+  "key": "UI_BonusCollection_Key_03",
+  "text": "المقطع التالي"
+ },
+ {
+  "key": "UI_BonusCollection_Key_04",
+  "text": "المقطع السابق"
+ },
+ {
+  "key": "UI_BonusCollection_Key_05",
+  "text": "إيقاف مؤقت"
+ },
+ {
+  "key": "UI_BonusCollection_Key_06",
+  "text": "؟؟؟؟"
+ },
+ {
+  "key": "UI_BonusCollection_Key_07",
+  "text": "عرض بملء الشاشة"
+ },
+ {
+  "key": "UI_Chapter_01",
+  "text": "انتهاء الفصل"
+ },
+ {
+  "key": "UI_Character_01",
+  "text": "الأسلحة الرئيسية"
+ },
+ {
+  "key": "UI_Character_02",
+  "text": "الأسلحة الطيفية"
+ },
+ {
+  "key": "UI_Character_03",
+  "text": "الحُلي"
+ },
+ {
+  "key": "UI_Character_04",
+  "text": "الأدوية"
+ },
+ {
+  "key": "UI_Character_05",
+  "text": "الأشكال"
+ },
+ {
+  "key": "UI_Character_06",
+  "text": "بيد واحدة"
+ },
+ {
+  "key": "UI_Character_07",
+  "text": "مزدوج"
+ },
+ {
+  "key": "UI_Character_08",
+  "text": "بكلتا اليدين"
+ },
+ {
+  "key": "UI_Character_09",
+  "text": "تفاصيل صقل الروح"
+ },
+ {
+  "key": "UI_Character_10",
+  "text": "الهجوم"
+ },
+ {
+  "key": "UI_Character_11",
+  "text": "إزالة التجهيز"
+ },
+ {
+  "key": "UI_Character_12",
+  "text": "تبديل"
+ },
+ {
+  "key": "UI_Character_13",
+  "text": "الشخصية"
+ },
+ {
+  "key": "UI_Character_14",
+  "text": "يجب إبقاء سلاح واحد مجهّزًا على الأقل."
+ },
+ {
+  "key": "UI_Character_15",
+  "text": "تدميري"
+ },
+ {
+  "key": "UI_Character_16",
+  "text": "بعيد المدى"
+ },
+ {
+  "key": "UI_Character_17",
+  "text": "قتالي"
+ },
+ {
+  "key": "UI_Character_18",
+  "text": "حيلة"
+ },
+ {
+  "key": "UI_Character_19",
+  "text": "استدعاء"
+ },
+ {
+  "key": "UI_Character_20",
+  "text": "علاج"
+ },
+ {
+  "key": "UI_Character_21",
+  "text": "دواء"
+ },
+ {
+  "key": "UI_Character_22",
+  "text": "لا يمكن تنفيذ هذا الإجراء أثناء القتال."
+ },
+ {
+  "key": "UI_Character_23",
+  "text": "تفاصيل السمة"
+ },
+ {
+  "key": "UI_Character_24",
+  "text": "عادي"
+ },
+ {
+  "key": "UI_Character_25",
+  "text": "نادر"
+ },
+ {
+  "key": "UI_Character_26",
+  "text": "ملحمي"
+ },
+ {
+  "key": "UI_Character_27",
+  "text": "أسطوري"
+ },
+ {
+  "key": "UI_Character_28",
+  "text": "مندوب الظلال"
+ },
+ {
+  "key": "UI_Character_29",
+  "text": "سمة"
+ },
+ {
+  "key": "UI_Character_30",
+  "text": "الهجوم"
+ },
+ {
+  "key": "UI_Character_31",
+  "text": "الصحة"
+ },
+ {
+  "key": "UI_Character_32",
+  "text": "شا-تشي"
+ },
+ {
+  "key": "UI_Character_33",
+  "text": "لا يمكن التجهيز بعد"
+ },
+ {
+  "key": "UI_Character_34",
+  "text": "متطلبات الفتح غير مستوفاة"
+ },
+ {
+  "key": "UI_Character_35",
+  "text": "هذا السلاح مجهّز بالفعل."
+ },
+ {
+  "key": "UI_Character_36",
+  "text": "هذه الحُلية مجهّزة بالفعل."
+ },
+ {
+  "key": "UI_Character_37",
+  "text": "هذا الدواء مجهّز بالفعل."
+ },
+ {
+  "key": "UI_Character_38",
+  "text": "هذا السلاح الطيفي مجهّز بالفعل."
+ },
+ {
+  "key": "UI_Character_39",
+  "text": "تبديل"
+ },
+ {
+  "key": "UI_Character_40",
+  "text": "اختيار"
+ },
+ {
+  "key": "UI_Character_41",
+  "text": "لا شيء"
+ },
+ {
+  "key": "UI_Character_42",
+  "text": "القائمة غير متاحة حاليًا"
+ },
+ {
+  "key": "UI_Character_44",
+  "text": "التجهيز الآن؟"
+ },
+ {
+  "key": "UI_Character_45",
+  "text": "اختيار خانة للتجهيز."
+ },
+ {
+  "key": "UI_Character_46",
+  "text": "ستُفقد استخدامات الدواء المتبقية. متابعة؟"
+ },
+ {
+  "key": "UI_Character_47",
+  "text": "الخريطة غير متاحة حاليًا"
+ },
+ {
+  "key": "UI_Character_48",
+  "text": "الأرشيف"
+ },
+ {
+  "key": "UI_Character_49",
+  "text": "عرض الشبكة"
+ },
+ {
+  "key": "UI_Character_50",
+  "text": "عرض القائمة"
+ },
+ {
+  "key": "UI_Character_51",
+  "text": "لم تُفتح هذه الخانة بعد."
+ },
+ {
+  "key": "UI_Character_52",
+  "text": "تجهيز {0}"
+ },
+ {
+  "key": "UI_Character_53",
+  "text": "أسلحة طيفية تشكّلت من شا-تشي داخل العالم الخفي. استخدامها للتكيّف مع الأعداء وتوسيع القدرات."
+ },
+ {
+  "key": "UI_Character_54",
+  "text": "تجهيز حُلي نادرة لتقوية الجسد أو تعزيز التقنيات القتالية."
+ },
+ {
+  "key": "UI_Character_55",
+  "text": "إبقاء الجرعات في المتناول لمعالجة الجروح واستعادة الحيوية وتعزيز البراعة القتالية."
+ },
+ {
+  "key": "UI_Character_56",
+  "text": "السلاح الحادّ ضروري في الوولين. لكل نصل هيئة خاصة، ولكل هيئة تقنيات لا حصر لها."
+ },
+ {
+  "key": "UI_Character_57",
+  "text": "مقفل"
+ },
+ {
+  "key": "UI_Character_58",
+  "text": "يُفتح بإكمال المهمة المطلوبة أو اكتساب القدرة المناسبة."
+ },
+ {
+  "key": "UI_Character_59",
+  "text": "لا يمكن تجهيز سلاحين طيفيين من نوع الاستدعاء."
+ },
+ {
+  "key": "UI_Character_60",
+  "text": "فتح هذه السمة عبر صقل الروح."
+ },
+ {
+  "key": "UI_Character_61",
+  "text": "يُفتح عند بلوغ السلاح المستوى {0}."
+ },
+ {
+  "key": "UI_Character_62",
+  "text": "هجومي"
+ },
+ {
+  "key": "UI_Character_63",
+  "text": "دفاعي"
+ },
+ {
+  "key": "UI_Character_64",
+  "text": "دعم"
+ },
+ {
+  "key": "UI_Character_65",
+  "text": "لا يمكن تجهيز أكثر من ثلاث حُليّ من الفئة نفسها."
+ },
+ {
+  "key": "UI_Character_66",
+  "text": "لا يمكن تغيير العتاد أثناء القتال."
+ },
+ {
+  "key": "UI_Character_67",
+  "text": "لا يمكن إزالة تجهيز العتاد أثناء القتال."
+ },
+ {
+  "key": "UI_Character_68",
+  "text": "لا يمكن تغيير المظهر في الحالة الحالية"
+ },
+ {
+  "key": "UI_Character_69",
+  "text": "أساسي"
+ },
+ {
+  "key": "UI_Character_70",
+  "text": "متقدم"
+ },
+ {
+  "key": "UI_Character_71",
+  "text": "العتاد"
+ },
+ {
+  "key": "UI_Character_72",
+  "text": "لا يمكن تغيير الأسلحة أو الأسلحة الطيفية في الوقت الحالي."
+ },
+ {
+  "key": "UI_Character_73",
+  "text": "تجهيز سلاح"
+ },
+ {
+  "key": "UI_Character_74",
+  "text": "تجهيز سلاح طيفي"
+ },
+ {
+  "key": "UI_Character_75",
+  "text": "تجهيز دواء"
+ },
+ {
+  "key": "UI_Character_76",
+  "text": "تجهيز حُلية"
+ },
+ {
+  "key": "UI_Character_92",
+  "text": "لا يمكن تغيير مستوى الصعوبة أثناء القتال"
+ },
+ {
+  "key": "UI_Character_93",
+  "text": "لا يمكن استخدام الأسلحة الطيفية من نوع الاستدعاء هنا"
+ },
+ {
+  "key": "UI_Character_94",
+  "text": "لم يُفتح هذا الزي بعد."
+ },
+ {
+  "key": "UI_Character_95",
+  "text": "الفتح عند بلوغ أي نهاية"
+ },
+ {
+  "key": "UI_Character_96",
+  "text": "الفتح عند بلوغ نهاية محددة"
+ },
+ {
+  "key": "UI_Character_97",
+  "text": "لا يمكن استخدام عربة الحرب هنا."
+ },
+ {
+  "key": "UI_Complete_01",
+  "text": "إجمالي وقت اللعب"
+ },
+ {
+  "key": "UI_Complete_02",
+  "text": "عدد مرات الموت"
+ },
+ {
+  "key": "UI_Complete_03",
+  "text": "ترقّبوا المزيد!"
+ },
+ {
+  "key": "UI_Complete_04",
+  "text": "تخطٍّ"
+ },
+ {
+  "key": "UI_Complete_05",
+  "text": "الضغط على <img id=\"Bottom\" width=\"40\"/> للمتابعة"
+ },
+ {
+  "key": "UI_Complete_06",
+  "text": "جمع الأغراض"
+ },
+ {
+  "key": "UI_Complete_07",
+  "text": "إكمال القصة"
+ },
+ {
+  "key": "UI_Complete_08",
+  "text": "مجموعة الأسلحة"
+ }
+]

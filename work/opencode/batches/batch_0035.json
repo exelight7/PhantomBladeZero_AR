@@ -1,0 +1,402 @@
+[
+ {
+  "key": "PhantomEdges_FunctionDes_019_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X331\"/> ضربات من <Character_Yellow_Decorator2>[فن رمح الرعد]</>. يستهلك إكمال السلسلة <dtv id=\"X332\"/> <img id=\"SpiritShadow\" width=\"40\"/>. تُلحق الهجمات <Character_Yellow_Decorator2>شللًا</> وتطلق البرق."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_019_Re",
+  "text": "عند إصابة رمح الرعد عدوًا، يتسلسل البرق إلى عدوّين قريبين كحد أقصى."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Advance",
+  "text": "عندما يصبح الإجهاز على العدو ممكنًا، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ إجهاز عن بُعد."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X421\"/> هجمات إجهاز متوسطة المدى. يستهلك إكمال السلسلة <dtv id=\"X422\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Re",
+  "text": "<InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> استهلاك <dtv id=\"X424\"/><img id=\"SpiritShadow\" width=\"40\"/>. تأرجح عجلة المنشار الدوارة عالية السرعة إلى الأمام لتمزيق الأعداء."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Terrian",
+  "text": "إتاحة تشغيل المقصلة الطائرة لآليات هوانغشينغ المخصّصة،<Character_Yellow_Decorator2> حتى عند عدم تجهيزها</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_022_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستدعاء عربة الحرب و<Character_Yellow_Decorator2>قيادتها إلى الأمام</>، ودهس الأعداء في مسارها. ويمكن <Character_Yellow_Decorator2>توجيهها</> أثناء الاندفاع. الاستهلاك المستمر لـ <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_022_Re",
+  "text": "زيادة الضرر المُلحَق بحسب المسافة التي تقطعها عربة الحرب، حتى 50%. تُصفّر المسافة المقطوعة بعد إصابة عدو."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_023_Base",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإنشاء <Character_Yellow_Decorator2>حقل</> حول الشخصية يستمر <dtv id=\"X431\"/> ثانية. وأثناء الوجود داخل الحقل، تستعيد <Character_Yellow_Decorator2>الصحة</> و<Character_Yellow_Decorator2>شا-تشي</> تدريجيًا. يستهلك <dtv id=\"X432\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_023_Re",
+  "text": "الإحياء مرة واحدة واستعادة <dtv id=\"X433\"/> من الصحة عند تلقّي ضرر قاتل داخل الحقل. لا يمكن تفعيل هذا الأثر مجددًا حتى لمس جرس أو إعادة الظهور. إذا توفرت آثار إحياء أخرى في الوقت نفسه، فتُفعّل تلك الآثار أولًا."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_024_Advance",
+  "text": "<Character_Yellow_Decorator2>الأنصال الصوتية الزرقاء </>تلحق الضرر وتسبب استنزاف شا-تشي. لا يمكن صدها.\n<Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</> تلحق ضررًا أكبر. لا يمكن صدها وتتجاهل كل خفض للضرر."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_024_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <dtv id=\"X251\"/> <Character_Yellow_Decorator2>الأنصال الصوتية الزرقاء</> و<dtv id=\"X252\"/> <Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</>. يستهلك إكمال السلسلة <dtv id=\"X253\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_024_Re",
+  "text": "بيبا الوتر الوهمية بعد إعادة تشكيلها <Character_Yellow_Decorator2>البيبا الوهمية</>. منح القدرة على تبديد الحواجز الطيفية والسيطرة على الأعداء الأضعف."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_025_Base",
+  "text": "في المناطق الكثيفة بشا-تشي (عندما ينبعث من الأيقونة توهج خاص)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستدعاء <dtv id=\"X231\"/> <Character_Yellow_Decorator2>دمية السيف والدرع</> و<dtv id=\"X232\"/> <Character_Yellow_Decorator2>دمية الرمح والدرع</>. تقاتلان لمدة تصل إلى <dtv id=\"X233\"/> ثانية ويُنهى استدعاؤهما قبل ذلك عند هزيمتهما. لا يمكن تكديس الاستدعاءات. ويحل الاستدعاء مجددًا محل أي استدعاءات قائمة. يستهلك <dtv id=\"X234\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_025_Re",
+  "text": "تحويله إلى <Character_Yellow_Decorator2>جرس الهاوية</> بصقل الروح، ما يتيح استدعاء دمية قوية إضافية، هي الدمية رقم <dtv id=\"X235\"/>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_026_Base",
+  "text": "في المناطق التي يكثر فيها شا-تشي (عندما يصدر الرمز وهجًا خاصًا)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستدعاء <dtv id=\"X381\"/><Character_Yellow_Decorator2> قائد المبارزين </> و<dtv id=\"X382\"/><Character_Yellow_Decorator2> تلميذ مبارز</>. يقاتلون لمدة تصل إلى <dtv id=\"X383\"/> ثانية ويختفون مبكرًا عند هزيمتهم. لا يمكن تكديس الاستدعاءات. يؤدي الاستدعاء مجددًا إلى استبدال أي استدعاءات قائمة. استهلاك <dtv id=\"X384\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_026_Re",
+  "text": "استبدال <Character_Yellow_Decorator2>قائد المبارزين</> المستدعى بـ<Character_Yellow_Decorator2>مبارز النصلين ذو الرداء الأرجواني</>، واستبدال تلميذي المبارزين المستدعيين بـ<Character_Yellow_Decorator2>حماة سيف بايشان</>. ترث الاستدعاءات الجديدة جميع ترقيات المبارزين."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_109_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لـ<Character_Yellow_Decorator2>شحن</> سهم أثناء التحرك. ثم إفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاقه. يستهلك <dtv id=\"X471\"/> <img id=\"SpiritShadow\" width=\"40\"/>. إلحاق ضرر أكبر بالأعداء ذوي الصحة الكاملة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_109_Re",
+  "text": "الضغط المطوّل على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لل<Character_Yellow_Decorator2>شدّ القوس وشحنه</>. الشحن حتى <dtv id=\"X473\"/> مراحل، مع إضافة سهم لكل مرحلة. استهلاك <dtv id=\"X474\"/> <img id=\"SpiritShadow\" width=\"40\"/>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_109_Terrian",
+  "text": "إمكانية إسقاط بعض الأجسام المعلّقة بإطلاق النار من مدى متوسط إلى بعيد بعد الحصول عليها، <Character_Yellow_Decorator2>حتى عند عدم التجهيز.</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_124_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <dtv id=\"X261\"/> <Character_Yellow_Decorator2>الأنصال الصوتية الزرقاء</> و<dtv id=\"X262\"/> <Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</>. يستهلك إكمال السلسلة <dtv id=\"X263\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_124_EX",
+  "text": "إذا أصاب <Character_Yellow_Decorator2>نصل صوتي أحمر</> عدوًا <Character_Yellow_Decorator2>مكسور الدفاع</>، سيُسيطر عليه ويجعله يهاجم الأعداء الآخرين. <Character_Yellow_Decorator2>لا تأثير له على الأعداء الأقوياء</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_124_Terrian",
+  "text": "بعد الحصول عليها، إمكانية استخدام البيبا الوهمية لتبديد الضباب الذي يحجب الحواجز الطيفية، <Character_Yellow_Decorator2>حتى عند عدم تجهيزها</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_125_Advance",
+  "text": "بالإضافة إلى استدعاء الدمية <dtv id=\"X245\"/>، المختارة عشوائيًا من بين <Character_Yellow_Decorator2>دمية مدفع السبيكة</>، و<Character_Yellow_Decorator2>دمية الاغتيال الذهبية</>، أو <Character_Yellow_Decorator2>دمية المظلّة الحديدية</>، بقدراتها القتالية كاملة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_125_Base",
+  "text": "في المناطق الكثيفة بشا-تشي (عندما ينبعث من الأيقونة توهج خاص)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستدعاء <dtv id=\"X241\"/> <Character_Yellow_Decorator2>دمية السيف والدرع</> و<dtv id=\"X242\"/> <Character_Yellow_Decorator2>دمية الرمح والدرع</>. تقاتلان لمدة تصل إلى <dtv id=\"X243\"/> ثانية ويُنهى استدعاؤهما قبل ذلك عند هزيمتهما. لا يمكن تكديس الاستدعاءات. ويحل الاستدعاء مجددًا محل أي استدعاءات قائمة. يستهلك <dtv id=\"X244\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_001_5",
+  "text": "شحن بأقصى قوة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_001_10",
+  "text": "الصمود المدرع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_001_15",
+  "text": "فأس الاندفاع"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_001_25",
+  "text": "قوة ساحقة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_001_Re",
+  "text": "شحن سريع"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_001_Terrian",
+  "text": "كسر السلاسل الحديدية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_5",
+  "text": "ضربة السقوط السماوي"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_10",
+  "text": "إعاقة قاهرة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_15",
+  "text": "ضربة زلزالية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_25",
+  "text": "متابعة الضربة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_Re",
+  "text": "تقدّم دوّار"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_Terrian",
+  "text": "حطّام الأرض"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_5",
+  "text": "اندفاع بالدرع"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_10",
+  "text": "جدار لا يتزعزع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_15",
+  "text": "انزلاق بالدرع"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_25",
+  "text": "إخراج سريع"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_Advance",
+  "text": "موجة الصدمة الانتقامية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_Re",
+  "text": "انتقام شرس"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_Terrian",
+  "text": "درع المقذوفات"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_005_5",
+  "text": "التعطش للدماء"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_005_10",
+  "text": "وليمة الدم {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_005_15",
+  "text": "ضربة القوة الكاملة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_005_25",
+  "text": "ذئب طاعن القلب"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_005_Re",
+  "text": "إكليل النار الشبحية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_5",
+  "text": "خطوة النمر"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_10",
+  "text": "لهيب ممتد {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_15",
+  "text": "زئير مزدوج"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_25",
+  "text": "سنّ بسنّ"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_EX",
+  "text": "سلاح ناري"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_Re",
+  "text": "إطلاق كامل"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_Terrian",
+  "text": "طلقة تحطيم الحجر"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_5",
+  "text": "خطوة بندقية الفتيل · جانبية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_10",
+  "text": "طلقة خارقة للدروع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_15",
+  "text": "خطوة بندقية الفتيل · للأمام"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_25",
+  "text": "خطوة بندقية الفتيل · للخلف"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_Re",
+  "text": "هجوم المراوغة المضاد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_Terrian",
+  "text": "طلقة بعيدة المدى"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_009_5",
+  "text": "خطوة الصفصاف · جانبية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_009_10",
+  "text": "اختراق المئة خطوة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_009_15",
+  "text": "خطوة الصفصاف · للأمام"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_009_25",
+  "text": "خطوة الصفصاف · للخلف"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_009_Re",
+  "text": "الطلقة الدقيقة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_009_Terrian",
+  "text": "طلقة بعيدة المدى"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_5",
+  "text": "خطوة اليد السريعة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_10",
+  "text": "رمية لا تخطئ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_15",
+  "text": "خطوة بلا ظل"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_25",
+  "text": "خطوة الريح"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_Advance",
+  "text": "الشفرات المسمومة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_Re",
+  "text": "إتقان اليد السريعة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_Terrian",
+  "text": "طلقة بعيدة المدى"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_5",
+  "text": "مدفع الماء"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_10",
+  "text": "مطر لا ينقطع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_15",
+  "text": "النفاث المائي الثاقب"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_25",
+  "text": "مدفعا الماء التوأمان"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_Advance",
+  "text": "البلل"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_EX",
+  "text": "إخماد اللهب"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_Re",
+  "text": "بخار حارق"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_011_Terrian",
+  "text": "الإخماد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_5",
+  "text": "انفجار كرة النار"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_10",
+  "text": "اللهب الخالد {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_15",
+  "text": "اندفاعة رأس الأسد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_25",
+  "text": "كرتا النار"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_Re",
+  "text": "اللهب الفوضوي"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_Terrian",
+  "text": "مسار الاحتراق"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_5",
+  "text": "الجسد الذهبي"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_10",
+  "text": "الحضور الدائم {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_15",
+  "text": "تشكيلة برونزية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_25",
+  "text": "الارتداد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_Re",
+  "text": "التشكيلة الذهبية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_014_5",
+  "text": "رباط الظل"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_014_10",
+  "text": "مطاردة لا تلين {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_014_15",
+  "text": "التنقل بالمنجل السلسلي"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_014_25",
+  "text": "إعصار المطاردة المميتة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_014_Re",
+  "text": "الخطاف المتلألئ"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_014_Terrian",
+  "text": "التنقّل بخطاف التعلّق"
+ }
+]

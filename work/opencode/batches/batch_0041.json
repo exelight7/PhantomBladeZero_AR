@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_Appearance_6",
+  "text": "هذا المظهر مجهّز بالفعل."
+ },
+ {
+  "key": "UI_Appearance_7",
+  "text": "المظهر"
+ },
+ {
+  "key": "UI_Appearance_8",
+  "text": "إخفاء غطاء الرأس"
+ },
+ {
+  "key": "UI_Appearance_9",
+  "text": "إظهار غطاء الرأس"
+ },
+ {
+  "key": "UI_Attribute_01",
+  "text": "زيادة الصحة القصوى بمقدار {0}."
+ },
+ {
+  "key": "UI_Attribute_02",
+  "text": "زيادة شا-تشي الأقصى بمقدار {0}."
+ },
+ {
+  "key": "UI_Attribute_03",
+  "text": "زيادة الهجوم بمقدار {0}."
+ },
+ {
+  "key": "UI_Automation_01",
+  "text": "جارٍ التحميل..."
+ },
+ {
+  "key": "UI_Automation_02",
+  "text": "جارٍ الرجوع إلى شاشة البداية..."
+ },
+ {
+  "key": "UI_Automation_03",
+  "text": "بدء اختبار الأداء؟"
+ },
+ {
+  "key": "UI_BellMenu_01",
+  "text": "انتقال"
+ },
+ {
+  "key": "UI_BellMenu_02",
+  "text": "مغادرة"
+ },
+ {
+  "key": "UI_BellMenu_04",
+  "text": "تحريك"
+ },
+ {
+  "key": "UI_BellMenu_05",
+  "text": "تكبير"
+ },
+ {
+  "key": "UI_BellMenu_06",
+  "text": "استعادة القلب"
+ },
+ {
+  "key": "UI_BellMenu_07",
+  "text": "رجوع"
+ },
+ {
+  "key": "UI_BellMenu_08",
+  "text": "إنفاق {0} من غبار الوعي لاستعادة ضرر القلب."
+ },
+ {
+  "key": "UI_BellMenu_09",
+  "text": "حفظ"
+ },
+ {
+  "key": "UI_BellMenu_10",
+  "text": "غبار الوعي غير كافٍ"
+ },
+ {
+  "key": "UI_BellMenu_11",
+  "text": "تمت استعادة القلب"
+ },
+ {
+  "key": "UI_BellMenu_12",
+  "text": "القلب مستعاد بالكامل بالفعل."
+ },
+ {
+  "key": "UI_BellMenu_13",
+  "text": "ترقية السلاح"
+ },
+ {
+  "key": "UI_BellMenu_14",
+  "text": "شراء"
+ },
+ {
+  "key": "UI_BellMenu_15",
+  "text": "المتجر"
+ },
+ {
+  "key": "UI_BellMenu_16",
+  "text": "أنت هنا بالفعل."
+ },
+ {
+  "key": "UI_BellMenu_17",
+  "text": "صقل روح السلاح"
+ },
+ {
+  "key": "UI_BellMenu_18",
+  "text": "ترقية الدواء"
+ },
+ {
+  "key": "UI_BellMenu_19",
+  "text": "صقل الحُلية"
+ },
+ {
+  "key": "UI_BellMenu_20",
+  "text": "تدريب القدرات"
+ },
+ {
+  "key": "UI_BellMenu_21",
+  "text": "تعذّر العثور على عالم السراب. التحقق من متطلبات عالم السراب لهذا المستوى."
+ },
+ {
+  "key": "UI_BellMenu_22",
+  "text": "ترقية المعدات"
+ },
+ {
+  "key": "UI_BellMenu_23",
+  "text": "العودة إلى عالم اليقظة"
+ },
+ {
+  "key": "UI_BellMenu_24",
+  "text": "الانتقال إلى الجرس السابق"
+ },
+ {
+  "key": "UI_BellMenu_25",
+  "text": "الانتقال إلى الجرس الأول"
+ },
+ {
+  "key": "UI_BellMenu_26",
+  "text": "عالم السراب"
+ },
+ {
+  "key": "UI_BonusCollection_01",
+  "text": "المجموعة الإضافية"
+ },
+ {
+  "key": "UI_BonusCollection_02",
+  "text": "الموسيقى التصويرية الإضافية"
+ },
+ {
+  "key": "UI_BonusCollection_03",
+  "text": "Forged Through Trial"
+ },
+ {
+  "key": "UI_BonusCollection_04",
+  "text": "As If It Were Yesterday (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_05",
+  "text": "Sleight of Hand"
+ },
+ {
+  "key": "UI_BonusCollection_06",
+  "text": "To Heaven and Earth"
+ },
+ {
+  "key": "UI_BonusCollection_07",
+  "text": "Meng Hua's Emergence"
+ },
+ {
+  "key": "UI_BonusCollection_08",
+  "text": "The Ghost Bride"
+ },
+ {
+  "key": "UI_BonusCollection_09",
+  "text": "A Fleeting Dream"
+ },
+ {
+  "key": "UI_BonusCollection_10",
+  "text": "Mó Awakening (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_11",
+  "text": "With A Clear Heart"
+ },
+ {
+  "key": "UI_BonusCollection_12",
+  "text": "Mó Yuan’s Past"
+ },
+ {
+  "key": "UI_BonusCollection_13",
+  "text": "The Making of a Hero"
+ },
+ {
+  "key": "UI_BonusCollection_14",
+  "text": "Before the Moon Is Whole (Shakuhachi & Guitar Version)"
+ },
+ {
+  "key": "UI_BonusCollection_15",
+  "text": "Child of Insight"
+ },
+ {
+  "key": "UI_BonusCollection_16",
+  "text": "Blaze of Vengeance"
+ },
+ {
+  "key": "UI_BonusCollection_17",
+  "text": "When the Clouds Part"
+ },
+ {
+  "key": "UI_BonusCollection_18",
+  "text": "Righteous in Name"
+ },
+ {
+  "key": "UI_BonusCollection_19",
+  "text": "Red Tassel, Old Bonds"
+ },
+ {
+  "key": "UI_BonusCollection_20",
+  "text": "A Fleeting Journey"
+ },
+ {
+  "key": "UI_BonusCollection_21",
+  "text": "Viper of Seven Venoms"
+ },
+ {
+  "key": "UI_BonusCollection_22",
+  "text": "Long Awaited Return"
+ },
+ {
+  "key": "UI_BonusCollection_23",
+  "text": "Reminiscence of Youth"
+ },
+ {
+  "key": "UI_BonusCollection_24",
+  "text": "Crimson Scheme"
+ },
+ {
+  "key": "UI_BonusCollection_25",
+  "text": "Voice of Wanyue"
+ },
+ {
+  "key": "UI_BonusCollection_26",
+  "text": "The Crusher and Saw"
+ },
+ {
+  "key": "UI_BonusCollection_27",
+  "text": "A Wake of Blood"
+ },
+ {
+  "key": "UI_BonusCollection_28",
+  "text": "Bound by Threads"
+ },
+ {
+  "key": "UI_BonusCollection_29",
+  "text": "The Killing String"
+ },
+ {
+  "key": "UI_BonusCollection_30",
+  "text": "Bound in Frost"
+ },
+ {
+  "key": "UI_BonusCollection_31",
+  "text": "The Flawed Pipa"
+ },
+ {
+  "key": "UI_BonusCollection_32",
+  "text": "An Unmatched Saber"
+ },
+ {
+  "key": "UI_BonusCollection_33",
+  "text": "The Lady's Secret"
+ },
+ {
+  "key": "UI_BonusCollection_34",
+  "text": "Where Dusk Lingers"
+ },
+ {
+  "key": "UI_BonusCollection_35",
+  "text": "The Veiled Grace"
+ },
+ {
+  "key": "UI_BonusCollection_36",
+  "text": "The Lady Descends"
+ },
+ {
+  "key": "UI_BonusCollection_37",
+  "text": "The Awakened Lion"
+ },
+ {
+  "key": "UI_BonusCollection_38",
+  "text": "The Lion's Return"
+ },
+ {
+  "key": "UI_BonusCollection_39",
+  "text": "No Fear Ahead"
+ },
+ {
+  "key": "UI_BonusCollection_40",
+  "text": "Bloodline Legacy"
+ },
+ {
+  "key": "UI_BonusCollection_41",
+  "text": "The White Serpent"
+ },
+ {
+  "key": "UI_BonusCollection_42",
+  "text": "Xiaokui (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_43",
+  "text": "Toward the Light"
+ },
+ {
+  "key": "UI_BonusCollection_44",
+  "text": "Iron and Jade"
+ },
+ {
+  "key": "UI_BonusCollection_45",
+  "text": "A New Promise"
+ },
+ {
+  "key": "UI_BonusCollection_46",
+  "text": "Sword of Despair"
+ },
+ {
+  "key": "UI_BonusCollection_47",
+  "text": "The Waning Sun"
+ },
+ {
+  "key": "UI_BonusCollection_48",
+  "text": "Strings of Qiansui"
+ },
+ {
+  "key": "UI_BonusCollection_49",
+  "text": "Asura of Wrath"
+ },
+ {
+  "key": "UI_BonusCollection_50",
+  "text": "Divided by Duty"
+ },
+ {
+  "key": "UI_BonusCollection_51",
+  "text": "Azure Crescent"
+ },
+ {
+  "key": "UI_BonusCollection_52",
+  "text": "The Path Ahead"
+ },
+ {
+  "key": "UI_BonusCollection_53",
+  "text": "Triple Threat"
+ },
+ {
+  "key": "UI_BonusCollection_54",
+  "text": "Before the Moon Is Whole (Guqin Version)"
+ },
+ {
+  "key": "UI_BonusCollection_55",
+  "text": "The Drunken Sword"
+ },
+ {
+  "key": "UI_BonusCollection_56",
+  "text": "Echoes of Despair"
+ },
+ {
+  "key": "UI_BonusCollection_57",
+  "text": "A Hero's Finale"
+ },
+ {
+  "key": "UI_BonusCollection_58",
+  "text": "Sixfold Ascendance"
+ },
+ {
+  "key": "UI_BonusCollection_59",
+  "text": "Secrets in the Rain (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_60",
+  "text": "A Night of Rain (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_61",
+  "text": "The Sword's Echo (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_62",
+  "text": "Forever and Aye (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_63",
+  "text": "Heart Lake (Vocals by Jane Zhang)"
+ },
+ {
+  "key": "UI_BonusCollection_64",
+  "text": "Unbridled Across the Land (2026)"
+ },
+ {
+  "key": "UI_BonusCollection_65",
+  "text": "Loong Unleashed (2026)"
+ }
+]

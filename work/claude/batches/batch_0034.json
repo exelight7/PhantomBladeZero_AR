@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_3",
+  "text": "ما دمت ما زلت أذكر من أنتم... وما دمت أذكر الرابطة التي تجمعنا..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_4",
+  "text": "ليقتلني أحد... أرجوكم... ليقتلني أحد..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_5",
+  "text": "لا... لا تدعوا سيفي يتلطخ... بدماء أهلي..."
+ },
+ {
+  "key": "Dlg_PZ_MinSu_LaoTou_LaoTou_1",
+  "text": "إن رفضت ارتداء الزهرة... حلّت عليك لعنة السماء..."
+ },
+ {
+  "key": "Dlg_PZ_RanFang_QinNv1_QinNv1_1",
+  "text": "يحبّ المعلّم بانغ أن يسمع عزفي..."
+ },
+ {
+  "key": "Dlg_PZ_Reading_XMJZ_Hun_1",
+  "text": "هل أستطيع استبدال قلبي المسموم بقلبٍ غيّره الارتقاء؟"
+ },
+ {
+  "key": "Dlg_PZ_Reading_XMJZ_Hun_2",
+  "text": "رفضت حتى القلب الخاوي... فكيف أقبل شيئًا بهذه الوحشية؟"
+ },
+ {
+  "key": "Dlg_PZ_ShangDian_DianZhu_DianZhu_1",
+  "text": "ما متعة الحياة، وما الذي يُخشى في الموت؟"
+ },
+ {
+  "key": "Dlg_PZ_TaiJIe_NanXingRenOu_1",
+  "text": "أمي... عثرت على جسدي... ستعرفينني الآن..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_GuaFu_GuaFu_1",
+  "text": "ما زالت قادرة على الغناء... والانتظار... وما زال لديها أمل..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_GuaFu_GuaFu_2",
+  "text": "وأنا؟"
+ },
+ {
+  "key": "Dlg_PZ_TingXi_GuaFu_GuaFu_3",
+  "text": "حياتي... لماذا لا أملك حق اختيارها أبدًا؟"
+ },
+ {
+  "key": "Dlg_PZ_TingXi_JiangHuRen_JiangHuRen_1",
+  "text": "في أيامي، حين كنت أجوب الوولين..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_JiangHuRen_JiangHuRen_2",
+  "text": "كانت هناك مغنية أوبرا ذات مرة..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_JiangHuRen_JiangHuRen_3",
+  "text": "آه... لماذا لم أعد يومًا لأراها؟"
+ },
+ {
+  "key": "Dlg_PZ_TingXi_ShuSheng_ShuSheng_1",
+  "text": "وهي تعلم أن الأمل قد ضاع كله..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_ShuSheng_ShuSheng_2",
+  "text": "ومع ذلك، ما زالت تغني عن البؤس..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_ShuSheng_ShuSheng_3",
+  "text": "ومع ذلك، ما زال غارقًا في معاناته..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_XiaoNvHai_XiaoNvHai_1",
+  "text": "وهبت قلبي... للبطل المقنّع... لسيدة الحجاب..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_XiaoNvHai_XiaoNvHai_2",
+  "text": "من دونه... هل سأظل أشعر بالألم؟"
+ },
+ {
+  "key": "Dlg_PZ_WuDing_XiaYu_Hun_1",
+  "text": "لا يتوقف المطر هنا أبدًا."
+ },
+ {
+  "key": "Dlg_PZ_WuShiHouShan_Investigate_RuKou_1",
+  "text": "تقف عاصفة عاتية كجدار غير مرئي."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_DaTouWaWa_1",
+  "text": "لقد خضعنا جميعًا للارتقاء الكامل... لم يبقَ لنا وقت طويل. لم يعد للموت شأن..."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_DaTouWaWa_2",
+  "text": "يا معلّم... ما زال في داخله أثرٌ من إرادته..."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_DaTouWaWa_3",
+  "text": "لقد صمد طوال هذا الوقت..."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_DaTouWaWa_4",
+  "text": "منتظرًا شخصًا مثلك..."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_DaTouWaWa_5",
+  "text": "يا معلّم... تنتهي رحلتي... هنا... في الحياة القادمة... سأرفع رأس الأسد مع...ك... من جديد..."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_LieYanShiTou1_1",
+  "text": "انطفأت الشعلة داخل رأس الأسد. لا يمكن استخدامه الآن."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_LieYanShiTou2_1",
+  "text": "إذا أمكن إحياء النار فيه، فينبغي أن يتمكّن من إحراق <Bold>الشجيرات الشائكة التي تسدّ البوابة الجنوبية للبلدة</>."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_LieYanShiTou3_1",
+  "text": "لي دانغ ضليع بأسلحة اللهب، ولعلّه يستطيع إعادة إشعال رأس الأسد."
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_WSZZ_Battle_1",
+  "text": "يا جميع التلاميذ!"
+ },
+ {
+  "key": "Dlg_PZ_WuShiZunZhu_WSZZ_Battle_2",
+  "text": "اتخذوا... مواقعكم!"
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing1_YuLing_1",
+  "text": "يجب أن... أنقذ الأخ الأكبر تشو... وأُخرجه من هناك..."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_1",
+  "text": "أردت إنقاذ الأخ الأكبر تشو..."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_2",
+  "text": "لكن... لم أعد أذكره... لا أستطيع العثور عليه."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_3",
+  "text": "شكرًا لك... رسالته... ساعدتني على تذكّره..."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_4",
+  "text": "يجب أن أجده... إنه لا يستطيع القتال... عليّ أن أحميه..."
+ },
+ {
+  "key": "Dlg_PZ_WuXuan1_Battle_1",
+  "text": "أبيدوهم. اسحقوهم. اطحنوهم حتى يصيروا ترابًا."
+ },
+ {
+  "key": "Dlg_PZ_WuXuan2_Battle_1",
+  "text": "أرواح قتلانا تعود الآن إلى الآفة!"
+ },
+ {
+  "key": "Dlg_PZ_WuXuan3_Battle_1",
+  "text": "ذلك الدرع كان لأحد رجالنا... هل قتلته أنت؟"
+ },
+ {
+  "key": "Dlg_PZ_WuZi_DaLiangYiTi_Hun_1",
+  "text": "قلوبهم... مفقودة..."
+ },
+ {
+  "key": "Dlg_PZ_XSSL_Carriage2_ZhongShu_1",
+  "text": "يمكن زرع ذلك «القلب» في جسد بشري أو في وعاء الين المثالي، ليصير منبعًا لا ينضب من شا-تشي."
+ },
+ {
+  "key": "Dlg_PZ_XSSL_Carriage2_ZhongShu_2",
+  "text": "المبعوث... لنغ تو... من كان يظن أنه هو من صنع هذا؟ عبقري بحق."
+ },
+ {
+  "key": "Dlg_PZ_XSSL_Carriage2_ZuoShang_3",
+  "text": "لي دانغ في طريقه بالفعل إلى ضيعة السراب. لن يخيب ظني."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_Hun_1",
+  "text": "لا بد أنه المبعوث. يبدو أن هذا القصر هو مقره."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_Hun_2",
+  "text": "لي دانغ من التنظيم... قاتلنا جنبًا إلى جنب ذات مرة. لا بد أنه جاء نيابةً عن تسو شانغ."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_Hun_3",
+  "text": "المدخل محروس بإحكام... لا بد من <Bold>طريق آخر</> للدخول."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_MengChai_1",
+  "text": "سيصل لي دانغ من التنظيم قريبًا. علينا أن نحسن استقباله."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_MengChai_2",
+  "text": "وعاء السيدة المقدس ليس بالأمر الهين. حتى المعلّم لي عليه أن يتناول الدواء قبل الدخول."
+ },
+ {
+  "key": "Dlg_PZ_XiangLu_Option1",
+  "text": "وضع مكياج مغنية الأوبرا الأولى"
+ },
+ {
+  "key": "Dlg_PZ_XiaoDian_Investigate_ZDST_Hun_1",
+  "text": "انتحر حارس الميثاق هذا... بتناول السم."
+ },
+ {
+  "key": "Dlg_PZ_XiaoDian_Investigate_ZDST_Hun_2",
+  "text": "لا بد أنه فعل ذلك لئلا يتحول إلى واحد من تلك الكائنات."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_Hun_2",
+  "text": "لست كأولئك المعالجين المرتقين... هل ما زلت بكامل وعيك؟"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_Hun_4",
+  "text": "فهمت. التقيت به مرة... و... أنا من قضى عليه."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_Hun_5",
+  "text": "كرّس شيه هويتشون حياته للشفاء، لكنه عجز عن إنقاذ المرتقين. فانقلبوا عليه، ولم يعد كما كان. وكانت نهايته مأساوية."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_Hun_9",
+  "text": "مقاومة الارتقاء بالأدوية... ليست بالأمر الهيّن."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_XXR_1",
+  "text": "يا معلّم سول... أعرف من تكون."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_XXR_3",
+  "text": "أنا... شيه شياورونغ... ومن تلامذة المعالج الشهير شيه هويتشون."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_XXR_6",
+  "text": "وفي النهاية... صار معلّمي واحدًا من تلك الكائنات. تبعناه... وخضعنا للارتقاء نفسه."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_XXR_7",
+  "text": "لكنه ترك لنا دواءً خاصًا. إذا تناولناه بانتظام، حمى عقولنا من التآكل."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_XXR_8",
+  "text": "لكن مفعوله لا يدوم طويلًا. هه..."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_XXR_10",
+  "text": "الأدوية التي تحملها... أستطيع تحسينها، وزيادة مفعولها وإطالة أمده. دعني أساعدك!"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang2_XieXiaoRong_XXR_11",
+  "text": "قد أصبح يومًا ما واحدًا من تلك الكائنات أنا أيضًا. وحين يأتي ذلك اليوم... ستضطر إلى القضاء عليّ أنت أيضًا."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_Investigate_SheTouDiaoXiang_Hun_1",
+  "text": "إن لم تخني الذاكرة، فهذه إحدى قاعات الدواء السرية التابعة للتنظيم: <Bold>دار الثعبان الخضراء</>."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_Investigate_SheTouDiaoXiang_Hun_2",
+  "text": "ثمة جزء مفقود من التمثال. يبدو أنه نُقل بالفعل إلى أحد بيوت الثعبان الأخرى."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_Option1",
+  "text": "إدخال عين الثعبان"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_Option2",
+  "text": "إدخال ناب الثعبان"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_Option3",
+  "text": "إدخال لسان الثعبان"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_Option4",
+  "text": "فحص عين الثعبان"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_Option5",
+  "text": "فحص ناب الثعبان"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_Option6",
+  "text": "فحص شدق الثعبان"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_SheXin_1",
+  "text": "اختفى لسان الثعبان بلا أثر، ولم يبقَ سوى تجويف مظلم وأخدود طويل ضيق في أسفله."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_SheXin_2",
+  "text": "لا بد أن لسان الثعبان المفقود محفوظ في أحد بيوت الثعبان الأخرى التابعة للتنظيم."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_SheYa_1",
+  "text": "فم الثعبان مفتوح على مصراعيه. بقي ناب واحد، وفي الجهة الأخرى تجويف فارغ."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_SheYa_2",
+  "text": "قد تخفي بيوت الثعبان الأخرى التابعة للتنظيم ما يعين على استعادة هذا الناب المفقود."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_SheYan_1",
+  "text": "يلتفّ تمثال عتيق برأس ثعبان فوق الباب المخفي، ويراقب كل زائر بعينه الوحيدة الباقية."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_SheDiaoXiang_SheYan_2",
+  "text": "لا بد أن عين الثعبان الذهبية الأخرى مخبأة في أحد بيوت الثعبان الأخرى التابعة للتنظيم."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_XiMeng_Investigate_SheTouDiaoXiang_Hun_1",
+  "text": "استولى المبعوث على ضيعة السراب وأغلقها. لا بد من مدخل آخر."
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_XieXiaoRong_Option1",
+  "text": "تحسين الدواء"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_XieXiaoRong_XXR_1",
+  "text": "تمثال الثعبان بلا عيون ولا لسان ولا أنياب!"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_XieXiaoRong_XXR_2",
+  "text": "نقلوا تلك الأجزاء إلى بيوت الثعبان الأخرى!"
+ },
+ {
+  "key": "Dlg_PZ_YaoFang_XieXiaoRong_XXR_3",
+  "text": "أذكر أن هناك سجلًا... أين وضعته يا ترى؟"
+ },
+ {
+  "key": "Dlg_PZ_ZaiHuiXiongZhang_NvRenOu_1",
+  "text": "يا تعس... هذا جزاؤك..."
+ },
+ {
+  "key": "Dlg_PZ_ZaiHuiXiongZhang_NvRenOu_2",
+  "text": "سيدتي... ارقدي بسلام..."
+ },
+ {
+  "key": "Dlg_PZ_ZiYiDaoWeiB1_ZiYiDaoWeiB_1",
+  "text": "لن أنضمّ إلى فسادكم!"
+ },
+ {
+  "key": "Dlg_PZ_ZiYiDaoWeiB2_ZiYiDaoWeiB_1",
+  "text": "أجهز عليّ... أرجوك!"
+ },
+ {
+  "key": "Dlg_PZ_ZiYiShuangJianA1_ZiYiShuangJianA_1",
+  "text": "لن... أخون الميثاق!"
+ },
+ {
+  "key": "Dlg_PZ_ZiYiShuangJianA2_ZiYiShuangJianA_1",
+  "text": "أيها البطل... أجهز عليّ!"
+ },
+ {
+  "key": "Dlg_PZ_jiuGuan_DengLong_Hun_1",
+  "text": "فانوسان أخضران يضيئان بلا لهب... لا بد أن هذا هو نُزل التنظيم."
+ },
+ {
+  "key": "Dlg_PZ_jiuGuan_JiuJia_Hun_1",
+  "text": "رفّ النبيذ هذا مرتب بإتقان، وفي وسط الفناء تمامًا... ثمة ما يريب."
+ },
+ {
+  "key": "Dlg_PZ_jiuGuan_LiangTing_Hun_1",
+  "text": "يبدو أن الأرض تحت الجناح مجوّفة..."
+ },
+ {
+  "key": "Dlg_PangZhen_Investigate_ShengMuXiang_1",
+  "text": "صورة للسيدة. رُسمت على وجهها زهرة حريرية زاهية الألوان."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_Investigate_Door_1",
+  "text": "بوابة دار لان موصدة بإحكام، ويخيّم حولها صمت مطبق."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_Investigate_Door_2",
+  "text": "لم يعد يُسمع بكاء أو نشيج من خلف الباب. لقد نُقل الأطفال إلى مكان آمن."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_Investigate_LSDshiti2_1",
+  "text": "شاب بدا مستهترًا وغير مسؤول... لكنه ظل وفيًا للحق في درب الوولين."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD1_LSD_1",
+  "text": "تحمّلوا قليلًا بعد. سيُخرجكم العم لان من هنا مع أول الصباح!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD1_LSD_2",
+  "text": "بين، شيونغ، أنتما الأكبر سنًا. أريدكما أن تعتنيا بالصغار."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD1_LSD_3",
+  "text": "سنخرج من هذا المكان الملعون معًا!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD2_Hun_3",
+  "text": "هل الأطفال بخير؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD2_LSD_1",
+  "text": "هه! جئت في الوقت المناسب! لا تقلق، ستنال مكافأتك."
+ }
+]

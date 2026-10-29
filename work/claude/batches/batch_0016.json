@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FXSD_ShuangHenJian_Option_1",
+  "text": "المساعدة في البحث عن رفات المعلم"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian_Option_2",
+  "text": "التزام الصمت"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_Back_Hun_1",
+  "text": "فتك الاثنان بتلك المجموعة من الناجين من الميثاق..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_Back_Hun_2",
+  "text": "هل أعود لأخبرهم أن الوحشين قد ماتا؟"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeA_JianKeA_1",
+  "text": "كان من المفترض أن نستولي على قمة الجرف..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeA_JianKeA_2",
+  "text": "لكننا لم نستطع حتى تجاوز كهف الجليد الذي يكمن فيه ذلك الوحش..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeB_JianKeB_1",
+  "text": "يقولون إن الارتقاء الكامل يسلبك عقلك..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeB_JianKeB_2",
+  "text": "إن كان هذا ما يلزم... فليكن. سأجرّ المبعوث معي إلى الهلاك!"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingA_QiangBingA_1",
+  "text": "هذا المكان اللعين متجمد وخطر... ولا نهاية له..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingA_QiangBingA_2",
+  "text": "بهذا المعدل... سنموت هنا قبل أن نرى المبعوث..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingB_QiangBingB_1",
+  "text": "ذلك الوحش يفوق قدرتنا..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingB_QiangBingB_2",
+  "text": "إخوتي... فريقي بأكمله... راحوا في لحظة..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_Hun_4",
+  "text": "لماذا خاطرت بالمجيء إلى هنا؟"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_1",
+  "text": "أمامنا جرف تمزيق الأرواح، حيث لقي حتفهم عدد لا يُحصى من الشيوخ."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_2",
+  "text": "في ذلك الوقت، حين دقّ ذلك الجرس الملعون... فقد كثير من أعظم أبطال الوولين عقولهم، وانقلب بعضهم على بعض..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_3",
+  "text": "ما زلت أشعر بشا-تشيهم... ما زال عالقًا هنا حتى اليوم..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_5",
+  "text": "ذلك المبعوث اللعين! جئنا لنصفّي حسابنا معه إلى الأبد!"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_6",
+  "text": "لكن لم يبقَ هنا من رجال الميثاق بكامل عقولهم إلا قليل... وربما كنا آخرهم."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_7",
+  "text": "والأسوأ من ذلك أن وحشين ما زالا يتربصان هنا."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_8",
+  "text": "الصغير راكب على ظهر الكبير وينشره بلا توقف..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_9",
+  "text": "كلما اشتد ألمه... ازداد شراسة..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_10",
+  "text": "فقدنا إخوةً كثيرين في الطريق إلى هنا... هل هذه نهاية الميثاق؟"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_Re_1",
+  "text": "هل هذه نهاية الميثاق؟"
+ },
+ {
+  "key": "Dlg_FXSD_YingMei_YingMei_1",
+  "text": "أنت... جئت متأخرًا..."
+ },
+ {
+  "key": "Dlg_FXSD_YingMei_YingMei_2",
+  "text": "هناك دائمًا... وعاء احتياطي..."
+ },
+ {
+  "key": "Dlg_FXSD_YingMei_YingMei_3",
+  "text": "المبعوث... كان قد... توقّع هذا..."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong2_HanBing_4",
+  "text": "نحن... لا قبل لنا به..."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong2_HanBing_5",
+  "text": "أنا خائفة جدًا..."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong2_HunDun_6",
+  "text": "آآآآآآه!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong2_WuLi_1",
+  "text": "ما الذي تنتظرانه؟!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong2_WuLi_2",
+  "text": "ساعداني! الآن!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong2_WuLi_3",
+  "text": "إن لم تقاتلا، فسنموت جميعًا!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong3_HanBing_2",
+  "text": "لا أريد القتال بعد الآن... لا أريد هذا..."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong3_HanBing_3",
+  "text": "لن أقاتل... أنا خائفة..."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong3_Hun_3",
+  "text": "خصم مرعب."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong3_Hun_4",
+  "text": "لو اتحدت الأخوات الثلاث في القتال... لربما اختلفت نهاية هذا اليوم تمامًا."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong3_WuLi_1",
+  "text": "اللعنة! استيقظي! استيقظي!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong4_HanBing_1",
+  "text": "إنها تحرقني! إنها تحرقني! ليبتعد ذلك اللهب عني!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong5_HanBing_1",
+  "text": "تلك الشعلة... مرعبة... علينا أن نفترق..."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong5_HanBing_3",
+  "text": "لقد طال احتجازي هنا... لم أعد أبالي!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong5_HunDun_4",
+  "text": "انفصلا!!!!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong5_WuLi_2",
+  "text": "لا! مستحيل! سنلقى حتفنا جميعًا!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCongBook_Hun_1",
+  "text": "تجربة مرعبة أخرى من تجارب لنغ تو..."
+ },
+ {
+  "key": "Dlg_FXSD_YuCongBook_Hun_2",
+  "text": "إن صُقل امتداد القاني بالروح بحرارة شديدة، فقد يقيّد هذه الدمية."
+ },
+ {
+  "key": "Dlg_FXSD_YuCong_YuYao1_YuYao1_1",
+  "text": "بأمر الآنسة، جئت لمساعدتك!"
+ },
+ {
+  "key": "Dlg_FXSD_YuCong_YuYao2_YuYao1_1",
+  "text": "إلى اللقاء يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_FZMD_LGT1_Option_1",
+  "text": "الموافقة فورًا على طلب العجوز غن"
+ },
+ {
+  "key": "Dlg_FZMD_LGT1_Option_2",
+  "text": "عدم الاهتمام"
+ },
+ {
+  "key": "Dlg_FZMD_LGT1_Option_3",
+  "text": "الموافقة على طلب العجوز غن"
+ },
+ {
+  "key": "Dlg_FZMD_LGT1_Option_4",
+  "text": "رفض طلب العجوز غن"
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_Hun_0",
+  "text": "صار نفق المهرّب سالكًا. يمكنك التوجه إلى بانغتشن الآن."
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_Hun_2",
+  "text": "إذًا... أظن أنك ستستأنف تجارتك؟"
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_Hun_5",
+  "text": "إيواؤك أطفالًا في مثل هذه الأيام... لا بد أنك كنت رجلًا صالحًا يومًا ما."
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_LSD_1",
+  "text": "مذهل! لقد فتحت الطريق فعلًا!"
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_LSD_3",
+  "text": "من يدري! آمل فقط أن يكون أولئك الأطفال ما زالوا أحياء!"
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_LSD_4",
+  "text": "الأطفال الذين آويتهم... مضى على وجودهم في القصر أكثر من أسبوع... لا بد أن طعامهم أوشك على النفاد..."
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_LSD_6",
+  "text": "حسنًا... في عالم بهذه القسوة، كيف يُعقل أن ينجو بضعة أطفال؟"
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_LSD_7",
+  "text": "حالهم أفضل مع المبعوث. إن استخدمهم لتجربة فنّ نقل الروح، فثمة احتمال على الأقل أن يتركهم أحياء."
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_LSD_8",
+  "text": "وبما أنك ساعدتني، فلك نصيبك!"
+ },
+ {
+  "key": "Dlg_FZMD_LJGZ_LSD1_LSD_9",
+  "text": "لنتحدث في التفاصيل في <Bold>قصري</> في بانغتشن."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_4",
+  "text": "نُقلت روح هذه الفتاة من جسدها... لكنها ما زالت متشبثة بالحياة بخيط واهن."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_5",
+  "text": "يا للمسكينة..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_6",
+  "text": "مخططات المبعوث... لا إنسانية فيها حقًا."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_9",
+  "text": "هل أنتِ حفيدة عمدة القرية؟"
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_10",
+  "text": "هل أستطيع مساعدتكِ في شيء؟"
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_13",
+  "text": "سأتأكد من إيصالها."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_1",
+  "text": "تسوي... تريد ماما وبابا... تسوي تريد جدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_2",
+  "text": "أشتاق... إلى أمي... وأبي... وجدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_3",
+  "text": "أريد... أمي وأبي... أ... أريد جدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_7",
+  "text": "أمي... أبي... انضمّا... إلى الميثاق..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_8",
+  "text": "جدي... عمدة القرية... رحل..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_11",
+  "text": "أشتاق... إلى جدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_12",
+  "text": "هذا... لجدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_14",
+  "text": "شكرًا... لك... يا سيدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC_XC_1",
+  "text": "تسوي... تشتاق إلى أمّها وأبيها... تسوي... تشتاق إلى جدّها..."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Hun_8",
+  "text": "لن يغيّر ما أقوله شيئًا من النتيجة."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Hun_27",
+  "text": "ما الذي سمعته عن <Bold>القلب الملوّث</>؟"
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Hun_30",
+  "text": "أظنني كنت محظوظًا. أنقذني نحّات اللحم مستخدمًا القلب الملوّث."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Hun_33",
+  "text": "منذ أن بدأ مفعوله، لم يبقَ لي من العمر إلا ستة وستون يومًا."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Hun_35",
+  "text": "إلا إذا قتلني أحدهم قبل ذلك..."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_1",
+  "text": "كفى!"
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_2",
+  "text": "كان المعلم سول إلى جانبي في الحياة والممات، وقتل أعداء لا يحصون."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_3",
+  "text": "لكنه قتل حاكم الظلال السابق. وما دمنا أعضاء في التنظيم، فعلينا أن نقتله."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_4",
+  "text": "تلك هي القواعد!"
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_5",
+  "text": "يصعب عليّ تصديق أنك قتلته..."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_6",
+  "text": "لكن الجرح القاتل لحاكم الظلال السابق يحمل أثر نصلِك."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_7",
+  "text": "هل لديك ما تقوله دفاعًا عن نفسك؟"
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_9",
+  "text": "قتلت حاكم الظلال السابق، وكدت تقتل الجديد، تسو شانغ."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_28",
+  "text": "تقنية قاتلة يُستخدم فيها السمّ لإغلاق جرح في القلب؟"
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_29",
+  "text": "يُقال إن <Bold>نحّات اللحم</> الغامض وحده قادر على إجرائها."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_32",
+  "text": "لا يُبقيك القلب الملوّث حيًّا إلا مدة محدودة. وحين ينفد مفعوله، يقتلك السمّ."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_36",
+  "text": "همم..."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_37",
+  "text": "على أي حال... لا يسعني أن أكون ناكرًا للجميل."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_38",
+  "text": "لولاك، لما فقدت ذراعي وحدها؛ لفقدت رأسي أيضًا."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_JYX_Leidang_39",
+  "text": "ليس هذا وقت اقتتالنا."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_Leidang_1",
+  "text": "أدخلوه."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_Leidang_2",
+  "text": "اشرب هذا حتى آخره... وستنتهي صداقتنا هنا!"
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_YBRO_Hun_8",
+  "text": "آسف، لقد قلت ما يكفي."
+ },
+ {
+  "key": "Dlg_HFZ_GYDRW_YBRO_Hun_9",
+  "text": "إذًا... غرض المبعوث المهم مخبأ تحت القصر القرمزي..."
+ },
+ {
+  "key": "Dlg_HFZ_MEM_HXMM_LengTu_3",
+  "text": "ظننت أنهم ما زالوا يعتمدون على الأطلال للتدرّب وكبح شا-تشي لديهم."
+ }
+]

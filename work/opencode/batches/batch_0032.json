@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Item_WeaponFunc_TierUp_024",
+  "text": "مادة لصقل روح شقّ الحبر."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_025",
+  "text": "مادة لصقل روح الفولاذ المسنّن."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_026",
+  "text": "مادة لصقل روح الجبّار."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_029",
+  "text": "مادة لصقل روح منجل السلسلة للصياد."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_030",
+  "text": "مادة لصقل روح رمح لونغ ثلاثي الشعب."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_031",
+  "text": "مادة لصقل روح طوفان يو لونغ."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_033",
+  "text": "مادة لصقل روح سيف تيانشيوان البرونزي."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_034",
+  "text": "مادة لصقل روح نصل حرب الخارج عن القانون."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_036",
+  "text": "مادة لصقل روح منشار العظام."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_037",
+  "text": "مادة لصقل روح نصل الشبح القرمزي."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_038",
+  "text": "مادة لصقل روح سيف عاصفة بايشان."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_042",
+  "text": "مادة لصقل روح اللهيب الذهبي."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_043",
+  "text": "مادة لصقل روح الشهاب الناري."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_045",
+  "text": "مادة لصقل روح كاسر الجيوش."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_046",
+  "text": "مادة لصقل روح الموت السلس."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_049",
+  "text": "مادة لصقل روح النصل الهلالي."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_053",
+  "text": "مادة لصقل روح بيبا مفطّرة القلب."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_054",
+  "text": "مادة لصقل روح جرس محرّك الدمى."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_055",
+  "text": "مادة لصقل روح امتداد القاني."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_058",
+  "text": "مادة لصقل روح الفوضى المتجمدة."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_059",
+  "text": "مادة لصقل روح القاني."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_065",
+  "text": "مادة لصقل روح المذهّب."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_066",
+  "text": "مادة لصقل روح الظل الأبيض."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_067",
+  "text": "مادة لصقل روح الساطور الشيطاني."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_068",
+  "text": "مادة لصقل روح مروحة السيدة."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_069",
+  "text": "مادة لصقل روح اليد الشيطانية."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_071",
+  "text": "مادة لصقل روح قوس الأعور."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_072",
+  "text": "مادة لصقل روح سيف الصفارية البرية."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_073",
+  "text": "مادة لصقل روح القاني الخشبي."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_074",
+  "text": "مادة لصقل روح مسبحة معبد كويه."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_075",
+  "text": "مادة لصقل روح مراوح إنانيس المتألقة."
+ },
+ {
+  "key": "Item_WeaponFunc_TierUp_076",
+  "text": "مادة لصقل روح نداء المبارز."
+ },
+ {
+  "key": "Item_Weapon_TierUp_001",
+  "text": "علف الحمام"
+ },
+ {
+  "key": "Item_Weapon_TierUp_002",
+  "text": "أغنية الرحيل"
+ },
+ {
+  "key": "Item_Weapon_TierUp_003",
+  "text": "قبضة مُحطِّمة العالَم"
+ },
+ {
+  "key": "Item_Weapon_TierUp_004",
+  "text": "راية الحدود"
+ },
+ {
+  "key": "Item_Weapon_TierUp_005",
+  "text": "قصائد الحدود"
+ },
+ {
+  "key": "Item_Weapon_TierUp_006",
+  "text": "الذخيرة الذهبية"
+ },
+ {
+  "key": "Item_Weapon_TierUp_008",
+  "text": "قطعة تدعيم للكعب"
+ },
+ {
+  "key": "Item_Weapon_TierUp_009",
+  "text": "الخنجران التوأمان للفوضى"
+ },
+ {
+  "key": "Item_Weapon_TierUp_010",
+  "text": "نواة الرعد"
+ },
+ {
+  "key": "Item_Weapon_TierUp_011",
+  "text": "المنشار الآلي المحسّن"
+ },
+ {
+  "key": "Item_Weapon_TierUp_012",
+  "text": "هاجس المهووس"
+ },
+ {
+  "key": "Item_Weapon_TierUp_014",
+  "text": "دليل اليد السريعة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_015",
+  "text": "رأس الأسد المشتعل"
+ },
+ {
+  "key": "Item_Weapon_TierUp_016",
+  "text": "ذكرى الثعبان"
+ },
+ {
+  "key": "Item_Weapon_TierUp_017",
+  "text": "خنجر عهد الدم"
+ },
+ {
+  "key": "Item_Weapon_TierUp_018",
+  "text": "المشط الخشبي القديم"
+ },
+ {
+  "key": "Item_Weapon_TierUp_020",
+  "text": "الفولاذ الأسود المصقول"
+ },
+ {
+  "key": "Item_Weapon_TierUp_021",
+  "text": "وتر قوس مقوّى"
+ },
+ {
+  "key": "Item_Weapon_TierUp_022",
+  "text": "شريط الراقصة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_024",
+  "text": "شرابة السيف البسيطة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_025",
+  "text": "قناع جزار الحديد"
+ },
+ {
+  "key": "Item_Weapon_TierUp_026",
+  "text": "مرجل الطقوس المُرمَّم"
+ },
+ {
+  "key": "Item_Weapon_TierUp_029",
+  "text": "نصل المنجل المصنوع من سبيكة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_030",
+  "text": "قواعد عصابة المياه السوداء"
+ },
+ {
+  "key": "Item_Weapon_TierUp_031",
+  "text": "مضخة عالية القدرة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_033",
+  "text": "جوهر البرونز"
+ },
+ {
+  "key": "Item_Weapon_TierUp_034",
+  "text": "مذكرة توقيف المسارات الستة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_036",
+  "text": "عدة أدوات الحرفي"
+ },
+ {
+  "key": "Item_Weapon_TierUp_037",
+  "text": "أحذية مطرزة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_038",
+  "text": "عصابة رأس بايشان"
+ },
+ {
+  "key": "Item_Weapon_TierUp_042",
+  "text": "زيت الصيانة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_043",
+  "text": "اللهب الأبدي"
+ },
+ {
+  "key": "Item_Weapon_TierUp_045",
+  "text": "الفولاذ السبائكي"
+ },
+ {
+  "key": "Item_Weapon_TierUp_046",
+  "text": "قناع اليشم"
+ },
+ {
+  "key": "Item_Weapon_TierUp_049",
+  "text": "تمثال البطل الوفي"
+ },
+ {
+  "key": "Item_Weapon_TierUp_054",
+  "text": "خيوط المبعوث الباقية"
+ },
+ {
+  "key": "Item_Weapon_TierUp_055",
+  "text": "المقبض المشتعل"
+ },
+ {
+  "key": "Item_Weapon_TierUp_058",
+  "text": "وعاء الفوضى البدئية"
+ },
+ {
+  "key": "Item_Weapon_TierUp_059",
+  "text": "قناع حصن مو"
+ },
+ {
+  "key": "Item_Weapon_TierUp_065",
+  "text": "جسد لونغ المحطّم"
+ },
+ {
+  "key": "Item_Weapon_TierUp_066",
+  "text": "ملابس الفتى البالية"
+ },
+ {
+  "key": "Item_Weapon_TierUp_068",
+  "text": "تاج السيدة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_071",
+  "text": "عين البصيرة"
+ },
+ {
+  "key": "Item_Weapon_TierUp_072",
+  "text": "شارة القيادة العليا للتنظيم"
+ },
+ {
+  "key": "Item_Weapon_TierUp_074",
+  "text": "سوترا معبد كويه"
+ },
+ {
+  "key": "Item_Weapon_TierUp_075",
+  "text": "زهرة بنفسجية"
+ },
+ {
+  "key": "Item_Weapon_TierUp_076",
+  "text": "بسالة البطل"
+ },
+ {
+  "key": "Item__PieceFunc_TierUp_012_1",
+  "text": "جمع كل الشظايا لتكوين هاجس المهووس، المستخدم في صقل روح نصل المهووس المكسور."
+ },
+ {
+  "key": "Levelname_DDSD_001",
+  "text": "جبل السجن"
+ },
+ {
+  "key": "Levelname_LYZ_001",
+  "text": "جبل تمزيق الأرواح"
+ },
+ {
+  "key": "Levelname_LZSJ_001",
+  "text": "الغابة القرمزية"
+ },
+ {
+  "key": "Levelname_NLES_001",
+  "text": "وادي الجدول الباكي"
+ },
+ {
+  "key": "Levelname_SXC_01",
+  "text": "قرية لو"
+ },
+ {
+  "key": "Levelname_SZ_001",
+  "text": "بانغتشن"
+ },
+ {
+  "key": "Levelname_XM_001",
+  "text": "ضيعة السراب"
+ },
+ {
+  "key": "Levelname_YGYW_001",
+  "text": "بحيرة ميغو"
+ },
+ {
+  "key": "Levelname_YXZR_003",
+  "text": "معسكر الميثاق"
+ },
+ {
+  "key": "Other_01-DDSD_Chapter_001",
+  "text": "الخيانة والاحتجاز"
+ },
+ {
+  "key": "Other_01-DDSD_FuncHint_001",
+  "text": "يلزم <Bold>مفتاح المعبد</>."
+ },
+ {
+  "key": "Other_01-DDSD_FuncHint_002",
+  "text": "بوابة المزار"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_001",
+  "text": "إرث لو"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_002",
+  "text": "القائد"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_003",
+  "text": "البطل الساقط"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_004",
+  "text": "الحياة القادمة"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_005",
+  "text": "القضاء على القائد"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_006",
+  "text": "العودة والتحدث إلى المحارب المستنير"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_007",
+  "text": "فتح البوابة أمام لو سانتشيان"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_008",
+  "text": "البوابة مفتوحة. ماذا سيفعل لو سانتشيان بعد ذلك؟"
+ }
+]

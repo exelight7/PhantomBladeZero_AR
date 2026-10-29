@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_ZDDY_ChangHong2_Hun_2",
+  "text": "فنّك في ركوب الرمح... سأواجهه مباشرةً!"
+ },
+ {
+  "key": "Dlg_ZDDY_ChangHong3_CH_2",
+  "text": "حقًا؟ لو خسرتَ، لغرست رمحي فيك من دون تردد."
+ },
+ {
+  "key": "Dlg_ZDDY_ChangHong3_CH_4",
+  "text": "إنهما بخير. بيتي أكثر مكان أمانًا في العالم الآن. لا داعي للقلق."
+ },
+ {
+  "key": "Dlg_ZDDY_ChangHong3_CH_5",
+  "text": "همف... مثير للاهتمام."
+ },
+ {
+  "key": "Dlg_ZDDY_ChangHong3_CH_6",
+  "text": "سول... كنت أعلم أن ظني فيك كان في محله. إن سمح لنا القدر، فسنلتقي مجددًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_ChangHong3_Hun_1",
+  "text": "لم تستخدم كامل قوتك بعد."
+ },
+ {
+  "key": "Dlg_ZDDY_ChangHong3_Hun_3",
+  "text": "أعرف ما يثقل كاهلك. كيف حال زوجتك وطفلك؟"
+ },
+ {
+  "key": "Dlg_ZDDY_ChangHong3_Hun_7",
+  "text": "لم يبدُ عليه أنه هُزم... فهل كان هذا اختبارًا؟ هل يخدم تشانغ هونغ جهةً أخرى إلى جانب التنظيم؟"
+ },
+ {
+  "key": "Dlg_ZDDY_DKYD_LiangJianKe_JIanKeJia_1",
+  "text": "يا له من إبداع... إبداع بديع..."
+ },
+ {
+  "key": "Dlg_ZDDY_DKYD_LiangJianKe_JIanKeJia_2",
+  "text": "الارتقاء الكامل للمعلم باي... بديع حقًا."
+ },
+ {
+  "key": "Dlg_ZDDY_DKYD_LiangJianKe_JIanKeJia_4",
+  "text": "ميدان التدريب... لم يعد أحد يستطيع دخوله الآن."
+ },
+ {
+  "key": "Dlg_ZDDY_DKYD_LiangJianKe_JIanKeJia_5",
+  "text": "أخذ كبير التلاميذ المفتاح."
+ },
+ {
+  "key": "Dlg_ZDDY_DKYD_LiangJianKe_JIanKeJia_7",
+  "text": "لا قِبل لنا بكبير التلاميذ والستة الآخرين... ليس بعد عمليات الارتقاء التي خضعوا لها!"
+ },
+ {
+  "key": "Dlg_ZDDY_DKYD_LiangJianKe_JIanKeYi_3",
+  "text": "سمعت أن في ميدان التدريب أشياء أغرب من هذا."
+ },
+ {
+  "key": "Dlg_ZDDY_DKYD_LiangJianKe_JIanKeYi_6",
+  "text": "الأخ الأكبر... ماذا تُراه يخطط...؟"
+ },
+ {
+  "key": "Dlg_ZDDY_DYNB_BaiShanNvHuFa_1",
+  "text": "ذلك الشيء... لا... لاااا!!!"
+ },
+ {
+  "key": "Dlg_ZDDY_FYGS_DiZi_1",
+  "text": "أفضل أن أموت... على أن أصبح... واحدًا منهم..."
+ },
+ {
+  "key": "Dlg_ZDDY_GeShe_HongYiNvJianKe_1",
+  "text": "سأنتظرك..."
+ },
+ {
+  "key": "Dlg_ZDDY_GeShe_NvJianKe_1",
+  "text": "عادت... رغم ما تحوّلت إليه..."
+ },
+ {
+  "key": "Dlg_ZDDY_GeShe_NvJianKe_2",
+  "text": "إنها مصممة على أن تموت إلى جانب كبير التلاميذ..."
+ },
+ {
+  "key": "Dlg_ZDDY_GeShe_NvJianKe_3",
+  "text": "تلك المرأة من الطائفة... ما كان ينبغي أن يتركوها حية... والآن هي مرتقية..."
+ },
+ {
+  "key": "Dlg_ZDDY_GeShe_NvJianKe_8",
+  "text": "ونحن أيضًا... صرنا جميعًا مسوخًا... مسوخًا! ههههه...!"
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_MJZYGZ_1",
+  "text": "النصب التذكاري لموجي، ركن كونلون"
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_ShengMuXiang1_1",
+  "text": "صورة للعميدة الأولى لأسرة لو، يخفي وجهها زهر أحمر... لا... بل ينبغي أن تُدعى الآن «سيدة الحجاب»."
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_ShengMuXiang2_1",
+  "text": "غُطّيت الكتابة الأصلية على التمثال، واستُبدلت بها شرائط حريرية حمراء كالدم."
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_ShengMuXiang3_1",
+  "text": "لا تقتصر عبادة سيدة الحجاب على قرية لو؛ ففي هذا المعسكر أيضًا كثيرون يخلصون لها العبادة."
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_ShengMuXiang4_1",
+  "text": "ما الذي يدفع تلاميذ الميثاق إلى التماس الهداية من «سيدة الحجاب» المجهولة؟ أهو التعبّد، أم اليأس، أم... الفساد؟"
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_TuDiMiao_Hun_1",
+  "text": "إذًا... تواجه موجي وهوانغشينغ أخيرًا."
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_TuDiMiao_Hun_2",
+  "text": "كان هوانغشينغ مرتقيًا بالفعل. لم تكن لموجي أي فرصة!"
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_TuDiMiao_Hun_3",
+  "text": "هل قتل هوانغشينغ موجي... أم أخفاه في مكان ما؟"
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_TuDiMiao_Hun_4",
+  "text": "حتى موجي لم يلتقِ بهذا «المعلّم باي» قط... لا عجب أن ما كُتب عنه قليل جدًا."
+ },
+ {
+  "key": "Dlg_ZDDY_Investigate_TuDiMiao_Hun_5",
+  "text": "تشير الخريطة إلى الجبال الشمالية... والنحيب يأتي من هناك أيضًا. تُرى، هل بينهما صلة؟"
+ },
+ {
+  "key": "Dlg_ZDDY_JianKeFuZi_JianKeFuZi_2",
+  "text": "هاه!"
+ },
+ {
+  "key": "Dlg_ZDDY_JianKeFuZi_LanYiJIanKe_1",
+  "text": "ههه... لِنَعُد أبا وابنا في الحياة القادمة!"
+ },
+ {
+  "key": "Dlg_ZDDY_JianZhen_HongYiNvJianKe_1",
+  "text": "لا شيء يفرقنا. حتى الموت..."
+ },
+ {
+  "key": "Dlg_ZDDY_KLSJ_JCWJK_0",
+  "text": "آه... أَرغ... آآه!"
+ },
+ {
+  "key": "Dlg_ZDDY_KLSJ_JCWJK_1",
+  "text": "المعلّم هوانغشينغ... أمرني بحراسة البوابة!"
+ },
+ {
+  "key": "Dlg_ZDDY_KLSJ_JCWJK_2",
+  "text": "لن يمرّ أحد حيًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_KLSJ_JCWJK_3",
+  "text": "ميدان التدريب... في عمق المعسكر..."
+ },
+ {
+  "key": "Dlg_ZDDY_KLSJ_JCWJK_3_0",
+  "text": "آه..."
+ },
+ {
+  "key": "Dlg_ZDDY_KLSJ_JCWJK_4",
+  "text": "كانوا يأخذون الجنود إلى هناك... ثم..."
+ },
+ {
+  "key": "Dlg_ZDDY_KLSJ_JCWJK_5",
+  "text": "آه! يا معلّمي هوانغشينغ... لقد كذبت عليّ!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_1",
+  "text": "فاتتنا أزهى أيامه..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_2",
+  "text": "كان الأساتذة الكبار يقولون... إن تلك الأيام كانت أيام فنّ السيف الأصيل."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_3",
+  "text": "كانت كل طائفة تبذل فنونها للجميع، وكانت المبارزات تنتهي قبل أن تُراق قطرة دم."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_4",
+  "text": "كان المهزوم يسلّم بفوز خصمه بطيب نفس، ويعزو الفائز انتصاره إلى الحظ وحده."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_5",
+  "text": "ثم يتقاسمان الشراب... ويبقيان صديقين."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_6",
+  "text": "لم يكن يهمّ أيّ فنّ تتدرّب عليه... المهم من يتقدّم أكثر، ومن يقترب خطوة أخرى من داو."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_7",
+  "text": "لا كما هو الحال اليوم... يموت الجميع... على أيدي بعضهم بعضًا..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_8",
+  "text": "لكنني ما زلت أؤمن بأن الوولين سيتعافى... لكنني لن أعيش لأرى ذلك..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_9",
+  "text": "عليكِ أن تعيشي لتشهدي ذلك اليوم، يا أختي الصغرى!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_Hun_1",
+  "text": "هؤلاء الثلاثة كانوا من تلاميذ موجي. رفضوا الارتقاء وحاولوا الفرار."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_Hun_2",
+  "text": "لكن الظروف لم تكن في صالحهم..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_Hun_3",
+  "text": "هل عثر وي سانتشوان على شيء بعد عودته إلى بانغتشن؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_WeiSanChuan_5",
+  "text": "لديّ خطة، لكنها محفوفة بالمخاطر... ائتمنني المعلم موجي على المفتاح الاحتياطي للبوابات الخارجية للمعسكر."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_WeiSanChuan_6",
+  "text": "إن استطعنا بلوغ البوابة وإغلاقها من الخارج، فقد نتمكن من إبقاء تلك المسوخ بعيدًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_WeiSanChuan_9",
+  "text": "إن خرجنا حقًا... فامضوا أنتم من دوني."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_WeiSanChuan_10",
+  "text": "أقسمت لشياووان أن ألقاها في بانغتشن. إن أخلفت وعدي... فأي رجل أكون؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_ZhaoDi_8",
+  "text": "فلنصمد إذن! إن نجونا، فقد يبقى أمل الميثاق حيًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_ZhengDao_1",
+  "text": "قبل أن يرحل المعلم موجي، علّمنا... ما دام الأمل باقيًا في قلوبنا، فلن يسقط الميثاق أبدًا."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_ZhengDao_2",
+  "text": "لكن أي أمل بقي للميثاق... أو حتى للوولين...؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_ZhengDao_3",
+  "text": "ضلّ كثير من إخوتنا الطريق... فمنهم من اعتنق ذلك الارتقاء المشوّه... ومنهم من فعل ما هو أسوأ..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_ZhuGeFeng_4",
+  "text": "تبدّلت الأحوال. أول ما علينا الآن هو الخروج من هنا..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_ZhuGeFeng_7",
+  "text": "تستحق المحاولة. ولعلّ ذلك يمنع المسافرين الأبرياء من الدخول إلى هنا عن غير قصد..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_HongYiNvJIanKe_2",
+  "text": "لم نؤذِ أحدًا... فلماذا تريدون إبادتنا؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_HongYiNvJIanKe_5",
+  "text": "نحن نحب بعضنا. ولا أندم على شيء!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_HongYiNvJIanKe_6",
+  "text": "أيها الأساتذة، لقد انتشر الارتقاء في الوولين. أعداؤكم الحقيقيون هم تلك المسوخ التي لا تمتّ إلى البشر بصلة!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_HongYiNvJIanKe_7",
+  "text": "ما ينخرنا من الداخل أسوأ بكثير من أي تهديد من الخارج!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTaiPo_1",
+  "text": "أيتها المغوية الوضيعة! الآن وقد وقعتِ في قبضة الميثاق، سنجعلك تتوسلين الموت!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTaiPo_8",
+  "text": "هيا! مزّقوا ذلك الوجه الجميل!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTaiPo_10",
+  "text": "ههه... يا للروعة! ههه... ما أروعه حقًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTaiPo_11",
+  "text": "لنرَ كيف ستغوين تلاميذ الميثاق الآن!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTouLaoTaiPo_12",
+  "text": "هاهاها... هاهاهاها!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTou_3",
+  "text": "كفّي عن أكاذيبك السامة الوقحة!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTou_4",
+  "text": "أغويتِ تلميذي النابغ وجعلتِه ينقلب عليّ... إنها لأشنع الخطايا!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_HYNJK_LaoTou_9",
+  "text": "هذا لا يكفي! اسكبوا عليها ماءً مغليًا... وإن نجت، فألقوها في حفرة الأفاعي!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_1",
+  "text": "بعد ما حدث للحمراء... لم أعد أبالي."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_2",
+  "text": "هذا «الارتقاء الكامل» مؤامرة المعلّم باي للسيطرة على الميثاق."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_3",
+  "text": "لكن... بالنسبة إلى أمثالنا..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_4",
+  "text": "سواء أكان المعلّم باي... أم الميثاق... فكلاهما يتلاعب بنا بالطريقة نفسها."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_5",
+  "text": "اسمعوا... سنخضع للارتقاء الكامل، لا لنخدم أحدًا على نحو أفضل..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_6",
+  "text": "نفعل هذا كيلا نخدم أحدًا بعد اليوم!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_7",
+  "text": "قلت ما عندي. ومن لا يوافق، فالباب هناك."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ1_DaShiXiong_8",
+  "text": "فمن يقف معي الآن؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ2_ErShiXiong_1",
+  "text": "هل ينبغي أن نخضع للارتقاء الكامل؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ2_ErShiXiong_2",
+  "text": "بهذا وبتشكيلة السيوف السبعة، قد نتمكن من الثأر للحمراء."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ2_ErShiXiong_3",
+  "text": "لكن... هل يختلف هذا حقًا... عن الارتقاء؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ3_DaShiXiong_3",
+  "text": "وهل تظن أننا لسنا خاويين أصلًا؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ3_DaShiXiong_4",
+  "text": "منذ زمن بعيد، لم يعد الميثاق سوى قشرة خاوية..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ3_SanShiXiong_1",
+  "text": "هل رأيت ما آل إليه الآخرون بعد الارتقاء؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ3_SanShiXiong_2",
+  "text": "أجوافهم خاوية الآن... كأن لا شيء بقي في داخلهم!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ4_DaShiXiong_2",
+  "text": "وماذا بعد؟ ما الذي تغيّر؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ4_DaShiXiong_3",
+  "text": "بالنسبة إلى من في قمة الميثاق، لسنا سوى قطع على رقعة، يمكن التضحية بها واستبدالها."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ4_SiShiXiong_1",
+  "text": "بعد ما جرى للحمراء... نقف جميعًا إلى جانبك، يا أخي الأكبر."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ5_WuShiDi_1",
+  "text": "مرّت أيام يا أخي الأكبر. هل ما زلت تنتظر؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ5_WuShiDi_2",
+  "text": "هل نسيت ما فعله الميثاق بالحمراء؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ5_WuShiDi_3",
+  "text": "لا شيء سينقذنا نحن السبعة سوى الارتقاء الكامل!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ6_LiuShiDi_1",
+  "text": "لقد أُتقن! التنظيم هو من أتقنه."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ6_LiuShiDi_2",
+  "text": "إنه يعزّز شا-تشي لديك من دون أن يفقدك عقلك... كيف يرفضه أحد؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ6_LiuShiDi_3",
+  "text": "ثم إن كان هذا سيتيح لنا الثأر للحمراء، فالأخ الأكبر أول من سيقبله!"
+ }
+]

@@ -1,0 +1,198 @@
+[
+ {
+  "key": "Weapon_FunctionName_031_EX",
+  "text": "الرموز السحرية"
+ },
+ {
+  "key": "Weapon_FunctionName_031_EX_2",
+  "text": "انفجار الرمز"
+ },
+ {
+  "key": "Weapon_FunctionName_031_Re",
+  "text": "انفجار الرمز المظلم"
+ },
+ {
+  "key": "Weapon_FunctionName_031_Skill",
+  "text": "الآفة اللامحدودة"
+ },
+ {
+  "key": "Weapon_FunctionName_103_Skill",
+  "text": "ظل تيانمياو، نداء الصفارية"
+ },
+ {
+  "key": "Weapon_FunctionName_Common_A",
+  "text": "سلسلة الضربات الأساسية"
+ },
+ {
+  "key": "Weapon_FunctionName_Common_BAB",
+  "text": "سلسلة ضربات شا-تشي"
+ },
+ {
+  "key": "Weapon_Function_000_5",
+  "text": "زيادة مقدار شا-تشي العدو المستنزف بواسطة <Character_Yellow_Decorator2> </><Character_Yellow_Decorator2>الصدّ المثالي</><Character_Yellow_Decorator2> </>."
+ },
+ {
+  "key": "Weapon_Function_000_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الملحق بالأعداء مكسوري الدفاع."
+ },
+ {
+  "key": "Weapon_Function_000_15",
+  "text": "استعادة قدر يسير من شا-تشي عند <Character_Yellow_Decorator2> </><Character_Yellow_Decorator2>المراوغة المثالية</>."
+ },
+ {
+  "key": "Weapon_Function_000_25",
+  "text": "بعد هجوم باستخدام <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، <Character_Yellow_Decorator2>يلمع</> النصل لفترة وجيزة. الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> في التوقيت الدقيق أثناء لمعانه لتنفيذ <Character_Yellow_Decorator2>سلسلة ضربات مثالية</> أشد قوة."
+ },
+ {
+  "key": "Weapon_Function_001_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإشباع النصل بالتشي، بما يتضمن <WeaponDes_Main_Green>زيادة الضرر بدرجة كبيرة</> لمدة <dtv id=\"X021\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_001_10",
+  "text": "[ينطبق على جميع الأسلحة المستخدمة بيد واحدة] الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> + <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للاقتراب من العدو فورًا وإطلاق ضربة قوية قد تقتله أو تصيبه إصابة بالغة. لا يمكن استخدامه إلا عندما يكون <Character_Yellow_Decorator2>شا-تشي </>عند {&<dtv id=\"X022\"/>|<dtv id=\"X023\"/>|<dtv id=\"X024\"/>}، و<Character_Yellow_Decorator2>يستهلك كل شا-تشي </>عند الاستخدام. تعذّر تبديل السلاح الرئيسي لمدة <dtv id=\"X025\"/> ثانية بعد تنفيذ هذه الحركة. {#0|إذا <Character_Yellow_Decorator2>كسرت الضربة دفاع</> العدو، فالضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل انتهاء الحركة لتنفيذ هجوم تالٍ. |#1}"
+ },
+ {
+  "key": "Weapon_Function_001_15",
+  "text": "بعد إتمام سلسلة ضربات <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، الضغط مجددًا على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لوصلها بحركة تالية."
+ },
+ {
+  "key": "Weapon_Function_001_25",
+  "text": "بعد إتمام سلسلة ضربات <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، الضغط مجددًا على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لوصلها بحركة تالية."
+ },
+ {
+  "key": "Weapon_Function_002_5",
+  "text": "عندما يصبح عدو مكسور الدفاع، الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ ضربة دموية تلحق الضرر، وتزيد مقياس النزيف لدى العدو بدرجة كبيرة، وتمنح تراكُمًا واحدًا من <Character_Yellow_Decorator2>[نصل الدم]</>. يزيد ذلك الضرر ومعدل تراكم مقياس النزيف لمدة <dtv id=\"X041\"/> ثانية. يمكن أن يتراكم هذا الأثر حتى <dtv id=\"X042\"/> مرات. لا تأثير له في الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_Function_002_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمعدل تراكم مقياس النزيف."
+ },
+ {
+  "key": "Weapon_Function_002_15",
+  "text": "الاستمرار في الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للشحن واكتساب طبقات متواصلة من<Character_Yellow_Decorator2> </><Character_Yellow_Decorator2>[نصل الدم]</>، حتى حد أقصى قدره <dtv id=\"X043\"/> طبقات. ويتيح ترك <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> توجيه ضربة قاطعة قوية."
+ },
+ {
+  "key": "Weapon_Function_002_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك <dtv id=\"X044\"/> من <Character_Yellow_Decorator2>الصحة الحالية </> واكتساب <dtv id=\"X045\"/> طبقات من<Character_Yellow_Decorator2> [نصل الدم]</>.<Character_Yellow_Decorator2> </>مدة بقاء هذه الطبقات <dtv id=\"X046\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_003_5",
+  "text": "أثناء <Character_Yellow_Decorator2>[نشيد الصفارية]</>، تطبيق <Character_Yellow_Decorator2>[وسم الصفارية]</> عند إصابة موجات النصل. يدوم <Character_Yellow_Decorator2>[وسم الصفارية]</> <dtv id=\"X192\"/> ثانية، ويتسبب في تلقي العدو ضررًا أكبر واستنزاف شا-تشي أكبر. لا يمكن وسم العدو نفسه مجددًا ما دام <Character_Yellow_Decorator2>[وسم الصفارية]</> نشطًا أو لمدة <dtv id=\"X193\"/> ثانية بعد انتهائه."
+ },
+ {
+  "key": "Weapon_Function_003_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر واستنزاف شا-تشي الناتجين عن <Character_Yellow_Decorator2>[وسم الصفارية]</>."
+ },
+ {
+  "key": "Weapon_Function_003_15",
+  "text": "إطلاق دفقة إضافية من طاقة النصل عندما يصبح عدو موسوم بـ<Character_Yellow_Decorator2>[وسم الصفارية]</> مكسور الدفاع."
+ },
+ {
+  "key": "Weapon_Function_003_25",
+  "text": "تمديد مدة <Character_Yellow_Decorator2>[وسم الصفارية]</> إلى <dtv id=\"X194\"/> ثانية. بعد انتهاء مدته، يمكن وسم العدو نفسه مجددًا بعد <dtv id=\"X195\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_004_5",
+  "text": "في هيئة <Character_Yellow_Decorator2>[الفولاذ]</>، الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن وإطلاق <Character_Yellow_Decorator2>طعنة بعيدة المدى</>، مع استنزاف شا-تشي العدو بدرجة كبيرة."
+ },
+ {
+  "key": "Weapon_Function_004_10",
+  "text": "بعد تبديل الهيئة، {<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمعدل استعادة شا-تشي لمدة <dtv id=\"X461\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_004_15",
+  "text": "في هيئة <Character_Yellow_Decorator2>[الصقيع]</>، الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن وإطلاق وابل من الضربات المحطمة للجليد. زيادة الضرر الواقع على الأعداء المتجمدين. تحطيم الأعداء الأضعف على الفور."
+ },
+ {
+  "key": "Weapon_Function_004_25",
+  "text": "في هيئة <Character_Yellow_Decorator2>[الفوضى]</>، الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن وامتصاص جميع <Character_Yellow_Decorator2>ألسنة اللهب الفوضويّة الطافية</> في الساحة قبل إطلاق ضربة قوية. عند امتصاص <WeaponDes_Num_Green>13</> لسانًا من اللهب على الأقل، إمكانية إطلاق <Character_Yellow_Decorator2>[دوامة اللهب الأسود]</> لحرق الأعداء العالقين فيها باستمرار. كلما زاد عدد ألسنة اللهب الممتصة، زاد الضرر الذي تُلحقه <Character_Yellow_Decorator2>[دوامة اللهب الأسود]</>. الحد الأقصى للامتصاص <WeaponDes_Num_Green>60</> لسانًا من اللهب."
+ },
+ {
+  "key": "Weapon_Function_005_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لشحن النصل بتشي، مع <WeaponDes_Main_Green>زيادة الضرر بدرجة كبيرة</> لمدة <dtv id=\"X033\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_007_5",
+  "text": "الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <Character_Yellow_Decorator2>هجوم ثقيل مشحون</>."
+ },
+ {
+  "key": "Weapon_Function_007_10",
+  "text": "{<WeaponDes_Main_Green>خفض طفيف</>|<WeaponDes_Main_Green>خفض متوسط</>|<WeaponDes_Main_Green>خفض كبير</>} لاستهلاك شا-تشي عند الصدّ."
+ },
+ {
+  "key": "Weapon_Function_007_15",
+  "text": "عقب <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>، استخدام <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق موجات نصل إلى الأمام."
+ },
+ {
+  "key": "Weapon_Function_007_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل لحظة إصابة هجوم العدو لتفعيل <Character_Yellow_Decorator2>صدّ خاص</>، ثم اتباعه بالضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتوجيه ضربة قوية."
+ },
+ {
+  "key": "Weapon_Function_008_5",
+  "text": "<Character_Yellow_Decorator2>زيادة</> كمية شا-تشي المستعادة باستخدام <Character_Yellow_Decorator2>[الشرب]</><Character_Yellow_Decorator2> </>، وزيادة سرعة <Character_Yellow_Decorator2>[الشرب]</><Character_Yellow_Decorator2> </>."
+ },
+ {
+  "key": "Weapon_Function_008_10",
+  "text": "إطالة مدة حالة <Character_Yellow_Decorator2>الثمل</> بمقدار { <dtv id=\"X113\"/>|<dtv id=\"X114\"/>|<dtv id=\"X115\"/>} ثانية."
+ },
+ {
+  "key": "Weapon_Function_008_15",
+  "text": "أثناء حالة <Character_Yellow_Decorator2>السكران</>، الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبل لحظة من إصابة هجوم قابل للصد لتفاديه مع تناول <Character_Yellow_Decorator2>[الشرب]</>، ثم تنفيذ هجوم مضاد."
+ },
+ {
+  "key": "Weapon_Function_008_25",
+  "text": "<WeaponDes_Main_Green>زيادة الهجوم بدرجة كبيرة</> أثناء حالة <Character_Yellow_Decorator2>الثمل</> أو <Character_Yellow_Decorator2>السكران</>."
+ },
+ {
+  "key": "Weapon_Function_009_5",
+  "text": "الضغط باستمرار على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للحفاظ على وضعية الدفاع من دون استهلاك شا-تشي."
+ },
+ {
+  "key": "Weapon_Function_009_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمقدار استنزاف شا-تشي الذي تسببه الهجمات المضادة المنفذة باستخدام <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>."
+ },
+ {
+  "key": "Weapon_Function_009_15",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ تفتّح بالسيف يصدّ الهجمات الخفيفة ويبني <Character_Yellow_Decorator2>الزخم</> مع استهلاك شا-تشي باستمرار. عند اكتمال <Character_Yellow_Decorator2>الزخم</>، إطلاق هجوم مضاد بالسيف مبهر تلقائيًا."
+ },
+ {
+  "key": "Weapon_Function_009_25",
+  "text": "استمرار الهجمات في إلحاق ضرر <dtv id=\"X351\"/> حتى عند صدّها بالكامل من الأعداء."
+ },
+ {
+  "key": "Weapon_Function_010_5",
+  "text": "الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتحويل شا-تشي إلى <Character_Yellow_Decorator2>تعبئة مقياس الرعد</>."
+ },
+ {
+  "key": "Weapon_Function_010_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمعدلات تراكم<Character_Yellow_Decorator2> مقياس الرياح </> و<Character_Yellow_Decorator2>مقياس الرعد.</>"
+ },
+ {
+  "key": "Weapon_Function_010_15",
+  "text": "ملء <Character_Yellow_Decorator2>مقياس الرياح</> عند تنفيذ صدّ مثالي."
+ },
+ {
+  "key": "Weapon_Function_010_25",
+  "text": "زيادة مدة <Character_Yellow_Decorator2>[بركة بايشان]</> إلى <dtv id=\"X362\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_011_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للدخول في وضعية<Character_Yellow_Decorator2> [التدبير الأعظم] </>. إذا جرى التفعيل قبيل هجوم وارد، حدوث <Character_Yellow_Decorator2>انتقال آني</> إلى الخلف واستدعاء <dtv id=\"X566\"/><Character_Yellow_Decorator2> [السيوف العائمة] </> للهجوم المضاد.\nالاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للحفاظ على<Character_Yellow_Decorator2> [التدبير الأعظم]</>. الاستهلاك التدريجي لشا-تشي أثناء هذه الوضعية.  \nعند التعرض لهجوم أثناء وضعية<Character_Yellow_Decorator2> [التدبير الأعظم] </>، استهلاك كل شا-تشي المتبقي لإبطال الضرر والمراوغة إلى الخلف، وإنهاء <Character_Yellow_Decorator2>[التدبير الأعظم]</>.  \n<Character_Yellow_Decorator2>[التدبير الأعظم] </>لا يوقف سلسلة الضربات الحالية.  \nأثناء وضعية <Character_Yellow_Decorator2>[التدبير الأعظم] </>، الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستهلاك مقدار محدد من شا-تشي واستدعاء <dtv id=\"X564\"/> <Character_Yellow_Decorator2>أسلحة نارية طيفية</> لمهاجمة الأعداء. لا يمكن استخدامها إلا مرة واحدة في كل وضعية<Character_Yellow_Decorator2> [التدبير الأعظم] </>."
+ },
+ {
+  "key": "Weapon_Function_011_10",
+  "text": "الأعداء الذين انغرست فيهم <Character_Yellow_Decorator2> [طاقة السيف]</>: {<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} في الضرر الذي يتلقونه من جميع المصادر."
+ },
+ {
+  "key": "Weapon_Function_011_15",
+  "text": "أثناء وضعية<Character_Yellow_Decorator2> [التدبير الأعظم] </>، الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستهلاك مقدار محدد من شا-تشي واستدعاء <Character_Yellow_Decorator2>مطرقة كبيرة طيفية</> لمهاجمة الأعداء. لا يمكن استخدامها إلا مرة واحدة في كل وضعية <Character_Yellow_Decorator2>[التدبير الأعظم]</>."
+ },
+ {
+  "key": "Weapon_Function_011_25",
+  "text": "أثناء وضعية <Character_Yellow_Decorator2>[التدبير الأعظم]</>، الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستهلاك مقدار محدد من شا-تشي واستدعاء <Character_Yellow_Decorator2>مظلة حديدية طيفية</> لمهاجمة الأعداء أثناء الدفاع. لا يمكن استخدامها إلا مرة واحدة في كل وضعية <Character_Yellow_Decorator2>[التدبير الأعظم] </>."
+ },
+ {
+  "key": "Weapon_Function_012_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك مقدار كبير من شا-تشي وتنفيذ <Character_Yellow_Decorator2>ضربة الإعصار</>."
+ }
+]

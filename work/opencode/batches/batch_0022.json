@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Item_Accessory_FunctionDes_001",
+  "text": "زيادة الضرر الملحق بالأعداء بنسبة 5%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_001_1",
+  "text": "زيادة الضرر الملحق بالأعداء بنسبة 10%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_002",
+  "text": "زيادة الضرر الواقع على الأعداء مكسوري الدفاع بنسبة 7%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_002_1",
+  "text": "زيادة الضرر الواقع على الأعداء مكسوري الدفاع بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_003",
+  "text": "زيادة الشفاء بالدواء بنسبة 20%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_003_1",
+  "text": "زيادة الشفاء بالدواء بنسبة 30% ومنح الثبات."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_004",
+  "text": "خفض استهلاك شا-تشي بنسبة 20% عند الضغط باستمرار على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لصد الهجمات."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_004_1",
+  "text": "خفض استهلاك شا-تشي بنسبة 30% عند الضغط باستمرار على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لصد الهجمات."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_005",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> خفض استهلاك شا-تشي الناتج عن سلاسل ضربات شا-تشي بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_005_1",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> خفض استهلاك شا-تشي الناتج عن سلاسل ضربات شا-تشي بنسبة 30%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_006",
+  "text": "خفض الضرر المتلقّى بنسبة 15% في غير حالة «مكسور الدفاع»."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_006_1",
+  "text": "خفض الضرر المتلقّى بنسبة 20% في غير حالة «مكسور الدفاع»."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_007",
+  "text": "زيادة نافذتي التوقيت الملائمتين للصدّ المثالي والمراوغة المثالية بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_007_1",
+  "text": "زيادة مدة التوقيت المتاحة للصدّ المثالي والمراوغة المثالية بنسبة 20%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_007_2",
+  "text": "زيادة مدة التوقيت المتاحة للصدّ المثالي والمراوغة المثالية بنسبة 25%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_008",
+  "text": "زيادة ضرر الأسلحة بيد واحدة بنسبة 10%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_008_2",
+  "text": "زيادة ضرر الأسلحة بيد واحدة بنسبة 18%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_009",
+  "text": "زيادة ضرر الأسلحة المزدوجة بنسبة 10%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_009_1",
+  "text": "زيادة ضرر الأسلحة المزدوجة بنسبة 18%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_010",
+  "text": "زيادة الضرر الملحق باستخدام الأسلحة المستخدمة بكلتا اليدين بنسبة 10%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_010_1",
+  "text": "زيادة الضرر الملحق باستخدام الأسلحة المستخدمة بكلتا اليدين بنسبة 18%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_012",
+  "text": "زيادة الضرر الواقع على متانة الدرع بنسبة 50% وخفض الضرر المتلقّى من الدروع الشوكية بنسبة 30%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_012_1",
+  "text": "زيادة الضرر الواقع على متانة الدرع بنسبة 100% وخفض الضرر المتلقّى من الدروع الشوكية بنسبة 60%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_013",
+  "text": "خفض الضرر المتلقّى من السم بنسبة 50%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_013_1",
+  "text": "خفض الضرر المتلقّى من السم بنسبة 80%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_014",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> زيادة استنزاف شا-تشي الناجم عن سلاسل ضربات شا-تشي بنسبة 8%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_014_1",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> زيادة استنزاف شا-تشي الناجم عن سلاسل ضربات شا-تشي بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_015",
+  "text": "استعمال الدواء يتيح التعافي من كسر الدفاع ويمنع استهلاك شا-تشي لمدة 3 ثوانٍ."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_015_1",
+  "text": "استعمال الدواء يتيح التعافي من كسر الدفاع ويمنع استهلاك شا-تشي لمدة 4 ثوانٍ."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_016",
+  "text": "خفض الضجيج الناتج عن الخطوات والاغتيالات بنسبة 50%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_016_1",
+  "text": "خفض الضجيج الناتج عن الخطوات والاغتيالات بنسبة 90%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_017",
+  "text": "زيادة شا-تشي بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_017_1",
+  "text": "زيادة شا-تشي بنسبة 25%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_018",
+  "text": "خفض معدل استنزاف شا-تشي بنسبة 30% عند الاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للحفاظ على وضعية الدفاع."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_018_1",
+  "text": "خفض معدل استنزاف شا-تشي بنسبة 60% عند الاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للحفاظ على وضعية الدفاع."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_018_2",
+  "text": "خفض معدل استنزاف شا-تشي بنسبة 90% عند الاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للحفاظ على وضعية الدفاع."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019",
+  "text": "زيادة الصحة بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019_1",
+  "text": "زيادة الصحة بنسبة 25%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019_2",
+  "text": "زيادة الصحة بنسبة 16%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019_3",
+  "text": "زيادة الصحة بنسبة 17%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019_4",
+  "text": "زيادة الصحة بنسبة 18%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019_5",
+  "text": "زيادة الصحة بنسبة 19%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019_6",
+  "text": "زيادة الصحة بنسبة 20%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_019_7",
+  "text": "زيادة الصحة بنسبة 21%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_020",
+  "text": "خفض زمن التعافي في حالة مكسور الدفاع بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_020_1",
+  "text": "خفض زمن التعافي في حالة مكسور الدفاع بنسبة 30%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_021",
+  "text": "زيادة مدة الاستدعاء بنسبة 25%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_021_1",
+  "text": "زيادة مدة الاستدعاء بنسبة 50%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_022",
+  "text": "زيادة عتبة الإجهاز على الأعداء مكسوري الدفاع بنسبة 5% والضرر بنسبة 5% عند الإجهاز على عدو. إمكانية التراكم حتى مرتين، مع استمرار كل تراكم 10 ثوانٍ."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_022_1",
+  "text": "زيادة عتبة الإجهاز على الأعداء مكسوري الدفاع بنسبة 5% والضرر بنسبة 10% عند الإجهاز على عدو. إمكانية التراكم حتى 3 مرات، مع استمرار كل تراكم 10 ثوانٍ."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_023",
+  "text": "استعادة 10% من الصحة عند الإصابة بحالة «مكسور الدفاع»."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_023_1",
+  "text": "استعادة 20% من الصحة عند الإصابة بحالة «مكسور الدفاع»."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_024",
+  "text": "زيادة الضرر واستنزاف شا-تشي الناجمين عن أدوات الاستدعاء بنسبة 50%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_024_1",
+  "text": "زيادة الضرر واستنزاف شا-تشي الناجمين عن أدوات الاستدعاء بنسبة 100%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_025",
+  "text": "خفض الضرر المتلقى من الهجمات بعيدة المدى واستنزاف شا-تشي بنسبة 20%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_025_1",
+  "text": "خفض الضرر المتلقى من الهجمات بعيدة المدى واستنزاف شا-تشي بنسبة 30%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_026",
+  "text": "تفعيل ضربة متابعة بسلاح طيفي يمنح احتمالًا قدره 33% لاستعادة 1 <img id=\"SpiritShadow\" width=\"40\"/> الشرارة المظلمة."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_026_1",
+  "text": "تفعيل ضربة متابعة بسلاح طيفي يمنح احتمالًا قدره 66% لاستعادة 1 <img id=\"SpiritShadow\" width=\"40\"/> الشرارة المظلمة."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_026_2",
+  "text": "تفعيل ضربة متابعة بسلاح طيفي يمنح احتمالًا قدره 100% لاستعادة 1 <img id=\"SpiritShadow\" width=\"40\"/> الشرارة المظلمة."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_027",
+  "text": "خفض ضرر النار بنسبة 50% ومعدل تراكم الاحتراق بنسبة 50%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_027_1",
+  "text": "خفض ضرر النار ومعدل تراكم الاحتراق بنسبة 80%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_028",
+  "text": "زيادة معدل استعادة شا-تشي بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_028_1",
+  "text": "زيادة معدل استعادة شا-تشي بنسبة 30%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_029",
+  "text": "خفض احتمال إصابة سول بالنزيف ومعدل تراكم مقياس النزيف بنسبة 50%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_029_1",
+  "text": "خفض احتمال إصابة سول بالنزيف ومعدل تراكم مقياس النزيف بنسبة 80%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_030",
+  "text": "زيادة الضرر الملحق بالأعداء بنسبة 15% لمدة 2 ثانية عند توجيه أكثر من 2 من الضربات المتتالية خلال 1 ثانية. مدة إعادة الاستخدام: 5 ثوانٍ."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_030_1",
+  "text": "زيادة الضرر الملحق بالأعداء بنسبة 25% لمدة 2 ثانية عند توجيه أكثر من 2 من الضربات المتتالية خلال 1 ثانية. مدة إعادة الاستخدام: 4 ثوانٍ."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_030_2",
+  "text": "زيادة الضرر الملحق بالأعداء بنسبة 35% لمدة 2 ثانية عند توجيه أكثر من 2 من الضربات المتتالية خلال 1 ثانية. مدة إعادة الاستخدام: 4 ثوانٍ."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_031",
+  "text": "احتمال عدم استهلاك جرعة عند استخدام الدواء بنسبة 8%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_031_1",
+  "text": "احتمال عدم استهلاك جرعة عند استخدام الدواء بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_032",
+  "text": "زيادة الضرر الملحق بحسب المسافة المقطوعة أثناء الهجوم، بحد أقصى 40%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_032_1",
+  "text": "زيادة الضرر الملحق بحسب المسافة المقطوعة أثناء الهجوم، بحد أقصى 60%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_033",
+  "text": "عند نزيف عدو قريب، زيادة الضرر الملحق بالأعداء بنسبة 10%، وزيادة ضرر النزيف الذي تتلقاه الأعداء بنسبة 20% أثناء هجومها."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_033_1",
+  "text": "عند نزيف عدو قريب، زيادة الضرر الملحق بالأعداء بنسبة 20%، وزيادة ضرر النزيف الذي تتلقاه الأعداء بنسبة 30% أثناء هجومها."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_034",
+  "text": "زيادة ضرر النار الملحق بالأعداء بنسبة 20%. وينتشر الاحتراق الذي تسببه الهجمات إلى الأعداء القريبين."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_034_1",
+  "text": "زيادة الضرر الناري الملحق بالأعداء بنسبة 30%. انتشار الاحتراق الذي تُحدثه الهجمات إلى الأعداء القريبين."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_035",
+  "text": "اكتساب أحد الآثار التالية عشوائيًا بعد استخدام الدواء:\n1. إلحاق الاحتراق بالنفس وبالأعداء القريبين.\n2. إصابة النفس والأعداء القريبين بالسمّ.\n3. استحضار كرة نار من الفوضى تهاجم الأعداء القريبين تلقائيًا.\n4. استعادة كامل الصحة و50% من شا-تشي فورًا."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_035_1",
+  "text": "اكتساب أحد الآثار التالية عشوائيًا عند استخدام الدواء:\n1. إلحاق الاحتراق بالنفس وبالأعداء القريبين.\n2. إصابة النفس والأعداء القريبين بالسمّ.\n3. استحضار كرة نار من الفوضى تهاجم الأعداء القريبين تلقائيًا.\n4. استعادة كامل الصحة وشا-تشي فورًا.\n5. استهلاك 50% من الحد الأقصى للصحة وشا-تشي، وإحداث تفجير ذاتي يضر الأعداء القريبين."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_035_2",
+  "text": "اكتساب أحد الآثار التالية عشوائيًا عند استخدام الدواء:\n1. إلحاق الاحتراق بالنفس وبالأعداء القريبين، مع زيادة ضرر النار الناتج عن الاحتراق.\n2. إصابة النفس والأعداء القريبين بالسمّ، مع زيادة ضرر السمّ.\n3. استحضار كرة نار قوية من الفوضى تهاجم الأعداء القريبين تلقائيًا.\n4. استعادة كامل الصحة وشا-تشي فورًا.\n5. استهلاك 30% من الحد الأقصى للصحة وشا-تشي، وإحداث تفجير ذاتي يضر الأعداء القريبين."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_036",
+  "text": "أي هجوم <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> يصيب عدوًا يولّد الشرارة المظلمة المؤقتة <img id=\"SpiritShadow\" width=\"40\"/>. تستهلك الأسلحة الطيفية من نوع المدى البعيد الشرارة المظلمة المؤقتة <img id=\"SpiritShadow\" width=\"40\"/> أولًا."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_036_1",
+  "text": "أي هجوم <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> يصيب عدوًا يولّد الشرارة المظلمة المؤقتة <img id=\"SpiritShadow\" width=\"40\"/>. تستهلك الأسلحة الطيفية من نوع المدى البعيد الشرارة المظلمة المؤقتة <img id=\"SpiritShadow\" width=\"40\"/> أولًا، مع زيادة الضرر بنسبة 5%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_036_2",
+  "text": "أي هجوم <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> يصيب عدوًا يولّد الشرارة المظلمة المؤقتة <img id=\"SpiritShadow\" width=\"40\"/>. تستهلك الأسلحة الطيفية من نوع المدى البعيد الشرارة المظلمة المؤقتة <img id=\"SpiritShadow\" width=\"40\"/> أولًا، مع زيادة الضرر بنسبة 10%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_037",
+  "text": "زيادة الضرر الملحق بالأعداء بنسبة 20% لمدة 2 ثانية بعد صدّ مثالي."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_037_1",
+  "text": "زيادة الضرر الملحق بالأعداء بنسبة 30% لمدة 3 ثوانٍ بعد صدّ مثالي."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_038",
+  "text": "زيادة الضرر الملحق بالأعداء الممتطين بنسبة 25%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_038_1",
+  "text": "زيادة الضرر الملحق بالأعداء الممتطين بنسبة 40%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_039",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> زيادة ضرر سلاسل ضربات شا-تشي التي تستهلك شا-تشي بنسبة 15%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_039_1",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> زيادة ضرر سلاسل ضربات شا-تشي التي تستهلك شا-تشي بنسبة 25%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_040",
+  "text": "زيادة الضرر كلما انخفض شا-تشي، بحد أقصى 20%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_040_1",
+  "text": "زيادة الضرر كلما انخفض شا-تشي، بحد أقصى 30%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_041",
+  "text": "استهلاك الشرارة المظلمة الإضافية <img id=\"SpiritShadow\" width=\"40\"/> واحدة، مع زيادة الضرر الذي تلحقه الأسلحة الطيفية من نوع التدمير بنسبة 75%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_041_1",
+  "text": "استهلاك الشرارة المظلمة الإضافية <img id=\"SpiritShadow\" width=\"40\"/> واحدة، مع زيادة الضرر الذي تلحقه الأسلحة الطيفية من نوع التدمير بنسبة 100%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_041_2",
+  "text": "استهلاك الشرارة المظلمة الإضافية <img id=\"SpiritShadow\" width=\"40\"/> واحدة، مع زيادة الضرر الذي تلحقه الأسلحة الطيفية من نوع التدمير بنسبة 120%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_042",
+  "text": "زيادة ضرر الهجوم التالي تدريجيًا حتى 25% خلال 4 ثوانٍ، وإعادة ضبط الأثر عند إصابة عدو."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_042_1",
+  "text": "زيادة ضرر الهجوم التالي تدريجيًا حتى 35% خلال 4 ثوانٍ، وإعادة ضبط الأثر عند إصابة عدو."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_043",
+  "text": "زيادة استنزاف شا-تشي لدى الأعداء بنسبة 5%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_043_1",
+  "text": "زيادة استنزاف شا-تشي لدى الأعداء بنسبة 10%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_044",
+  "text": "زيادة ضرر اندفاع القوّة الذي يلحقه بالأعداء مكسوري الدفاع بنسبة 20%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_044_1",
+  "text": "زيادة ضرر اندفاع القوّة الذي يلحقه بالأعداء مكسوري الدفاع بنسبة 30%."
+ },
+ {
+  "key": "Item_Accessory_FunctionDes_045",
+  "text": "زيادة الضرر كلما انخفضت الصحة، بحد أقصى 25%."
+ }
+]

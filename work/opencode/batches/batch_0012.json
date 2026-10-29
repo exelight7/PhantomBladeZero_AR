@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Character_FJZL_41",
+  "text": "دمية منهدّة"
+ },
+ {
+  "key": "Character_FJZL_42",
+  "text": "دمية يائسة"
+ },
+ {
+  "key": "Character_FJZL_43",
+  "text": "دمية ساقطة"
+ },
+ {
+  "key": "Character_FJZL_44",
+  "text": "لص ذو لسان معسول"
+ },
+ {
+  "key": "Character_FJZL_44_1",
+  "text": "اللص وانغ"
+ },
+ {
+  "key": "Character_FJZL_45",
+  "text": "لي «الجرذ الطائر»"
+ },
+ {
+  "key": "Character_FJZL_46",
+  "text": "تشو «القرد النحيل»"
+ },
+ {
+  "key": "Character_FJZL_47",
+  "text": "غوي «غراب الليل»"
+ },
+ {
+  "key": "Character_FJZL_48",
+  "text": "تشن، ثعبان البحر المراوغ"
+ },
+ {
+  "key": "Character_FJZL_49",
+  "text": "لص ساخر"
+ },
+ {
+  "key": "Character_FJZL_49_1",
+  "text": "اللصّ الوديع"
+ },
+ {
+  "key": "Character_FJZL_50",
+  "text": "حمى الحديد"
+ },
+ {
+  "key": "Character_FJZL_51",
+  "text": "جينغ يه"
+ },
+ {
+  "key": "Character_FJZL_52",
+  "text": "لص يتلوى ألمًا"
+ },
+ {
+  "key": "Character_HFZ_1",
+  "text": "دمية «الأخرس»"
+ },
+ {
+  "key": "Character_Imp_1",
+  "text": "يوأر"
+ },
+ {
+  "key": "Character_Imp_2",
+  "text": "الحدّادة"
+ },
+ {
+  "key": "Character_Imp_2_1",
+  "text": "حدّاد صاخب"
+ },
+ {
+  "key": "Character_Imp_3",
+  "text": "جوهرة"
+ },
+ {
+  "key": "Character_Imp_4",
+  "text": "ضبابة"
+ },
+ {
+  "key": "Character_Imp_5",
+  "text": "تشانغ سريع اليد"
+ },
+ {
+  "key": "Character_Imp_5_1",
+  "text": "لص متوسل"
+ },
+ {
+  "key": "Character_Imp_6",
+  "text": "شيه شياورونغ"
+ },
+ {
+  "key": "Character_Imp_6_1",
+  "text": "المعالج المتدرّب"
+ },
+ {
+  "key": "Character_Imp_7",
+  "text": "لنغ تو"
+ },
+ {
+  "key": "Character_Imp_7_1",
+  "text": "صوت أثيري"
+ },
+ {
+  "key": "Character_Imp_7_2",
+  "text": "مبعوث الحجاب"
+ },
+ {
+  "key": "Character_Imp_7_3",
+  "text": "السيد لنغ"
+ },
+ {
+  "key": "Character_Imp_7_4",
+  "text": "شاب"
+ },
+ {
+  "key": "Character_Imp_7_5",
+  "text": "صوت المبعوث"
+ },
+ {
+  "key": "Character_Imp_7_6",
+  "text": "لنغ تو، مبعوث الحجاب"
+ },
+ {
+  "key": "Character_Imp_7_7",
+  "text": "جسد يوأر الخاضع لسيطرة المبعوث"
+ },
+ {
+  "key": "Character_Imp_8",
+  "text": "لي دانغ"
+ },
+ {
+  "key": "Character_Imp_9",
+  "text": "الشيخ الأكبر"
+ },
+ {
+  "key": "Character_Imp_9_1",
+  "text": "أمر الشيخ"
+ },
+ {
+  "key": "Character_Imp_9_2",
+  "text": "صوت الشيخ"
+ },
+ {
+  "key": "Character_Imp_10",
+  "text": "إنانيس"
+ },
+ {
+  "key": "Character_Imp_10_1",
+  "text": "وهم إنانيس"
+ },
+ {
+  "key": "Character_Imp_10_2",
+  "text": "صوت إنانيس"
+ },
+ {
+  "key": "Character_Imp_11",
+  "text": "هوانغشينغ"
+ },
+ {
+  "key": "Character_Imp_12",
+  "text": "موجي"
+ },
+ {
+  "key": "Character_Imp_12_1",
+  "text": "موجي (تمثال)"
+ },
+ {
+  "key": "Character_Imp_13",
+  "text": "شيوان لي"
+ },
+ {
+  "key": "Character_Imp_14",
+  "text": "والد يوأر"
+ },
+ {
+  "key": "Character_Imp_15",
+  "text": "مو يوان"
+ },
+ {
+  "key": "Character_Imp_15_1",
+  "text": "رجل يرتدي الأسود"
+ },
+ {
+  "key": "Character_Imp_16",
+  "text": "العجوز غن"
+ },
+ {
+  "key": "Character_Imp_17",
+  "text": "راقصة اليشم"
+ },
+ {
+  "key": "Character_Imp_18",
+  "text": "مو تيانمياو"
+ },
+ {
+  "key": "Character_Imp_19",
+  "text": "شيطان الحديد"
+ },
+ {
+  "key": "Character_Imp_20",
+  "text": "تشانغ هونغ"
+ },
+ {
+  "key": "Character_Imp_21",
+  "text": "منغ هوا"
+ },
+ {
+  "key": "Character_Imp_21_1",
+  "text": "سيدة الحجاب"
+ },
+ {
+  "key": "Character_LJC_1",
+  "text": "صوت غريب"
+ },
+ {
+  "key": "Character_LJC_2",
+  "text": "تشو بي"
+ },
+ {
+  "key": "Character_LJC_3",
+  "text": "راهب هادئ"
+ },
+ {
+  "key": "Character_LJC_4",
+  "text": "طاوي أثيري"
+ },
+ {
+  "key": "Character_LJC_5",
+  "text": "الذكرى الباقية لأستاذ فنون الآلات"
+ },
+ {
+  "key": "Character_LJC_6",
+  "text": "الراهب الوقور"
+ },
+ {
+  "key": "Character_LJC_7",
+  "text": "لص جريح"
+ },
+ {
+  "key": "Character_LJC_8",
+  "text": "الغسق"
+ },
+ {
+  "key": "Character_LJC_9",
+  "text": "صاحب الصنّارة"
+ },
+ {
+  "key": "Character_LJC_10",
+  "text": "تسوي"
+ },
+ {
+  "key": "Character_LJC_10_1",
+  "text": "دمية طفلة"
+ },
+ {
+  "key": "Character_LJC_11",
+  "text": "صياد نائم بقناع زهري"
+ },
+ {
+  "key": "Character_LJC_12",
+  "text": "ناسجة نائمة بقناع زهري"
+ },
+ {
+  "key": "Character_LJC_13",
+  "text": "مقاتل الوولين المتعقل"
+ },
+ {
+  "key": "Character_LJC_13_1",
+  "text": "مقاتل الوولين الثابت"
+ },
+ {
+  "key": "Character_LJC_14",
+  "text": "مقاتل من الوولين مؤمن بالخرافات"
+ },
+ {
+  "key": "Character_LJC_15",
+  "text": "دمية بلا صوت"
+ },
+ {
+  "key": "Character_LJC_16",
+  "text": "زوج حائر"
+ },
+ {
+  "key": "Character_LJC_17",
+  "text": "امرأة تبحث عن طفلها"
+ },
+ {
+  "key": "Character_LJC_18",
+  "text": "طفل شبيه بالدمية"
+ },
+ {
+  "key": "Character_LJC_19",
+  "text": "لو لاوو"
+ },
+ {
+  "key": "Character_LJC_20",
+  "text": "لو شياوليو"
+ },
+ {
+  "key": "Character_LJC_21",
+  "text": "الجذع الخشبي المتكلم"
+ },
+ {
+  "key": "Character_LJC_22",
+  "text": "قروي مذعور"
+ },
+ {
+  "key": "Character_LJC_23",
+  "text": "الأخ اللصّ الأكبر"
+ },
+ {
+  "key": "Character_LJC_24",
+  "text": "الأخ اللصّ الثاني"
+ },
+ {
+  "key": "Character_LJC_25",
+  "text": "الأخ اللصّ الأصغر"
+ },
+ {
+  "key": "Character_LJC_26",
+  "text": "يراعة"
+ },
+ {
+  "key": "Character_LJC_27",
+  "text": "الغسق"
+ },
+ {
+  "key": "Character_LJC_28",
+  "text": "تلميذ محبط"
+ },
+ {
+  "key": "Character_LJC_29",
+  "text": "تلميذ متحمس"
+ },
+ {
+  "key": "Character_LJC_30",
+  "text": "المعلم بي يوان"
+ },
+ {
+  "key": "Character_LJC_31",
+  "text": "تلميذ قلق"
+ },
+ {
+  "key": "Character_LJC_32",
+  "text": "تلميذ رزين"
+ },
+ {
+  "key": "Character_LJC_33",
+  "text": "المعلم بي هاي"
+ },
+ {
+  "key": "Character_LJC_33_1",
+  "text": "دمية الراهب القائد"
+ },
+ {
+  "key": "Character_LJC_34",
+  "text": "زعيم الطائفة خه"
+ },
+ {
+  "key": "Character_LJC_35",
+  "text": "الطفل الدمية الأول"
+ },
+ {
+  "key": "Character_LJC_35_1",
+  "text": "طفلا الدمية"
+ },
+ {
+  "key": "Character_LJC_36",
+  "text": "الطفلة الدمية الثانية"
+ },
+ {
+  "key": "Character_LJC_37",
+  "text": "قروي يحمل زوجته بين ذراعيه"
+ },
+ {
+  "key": "Character_LJC_38",
+  "text": "بينغ"
+ },
+ {
+  "key": "Character_LJC_39",
+  "text": "الدمية بي يوان"
+ },
+ {
+  "key": "Character_LJC_39_1",
+  "text": "دمية تكافح"
+ },
+ {
+  "key": "Character_LJC_40",
+  "text": "الدمية بي هاي"
+ },
+ {
+  "key": "Character_LJC_41",
+  "text": "الدمية خه"
+ },
+ {
+  "key": "Character_LJC_42",
+  "text": "همس القرويين"
+ }
+]

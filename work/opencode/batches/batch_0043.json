@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_Complete_09",
+  "text": "مستوى الصعوبة"
+ },
+ {
+  "key": "UI_Complete_10",
+  "text": "إعادة بدء هذه الدورة في نمط 66 يومًا؟"
+ },
+ {
+  "key": "UI_Confirmation_Code_Cancel",
+  "text": "إلغاء"
+ },
+ {
+  "key": "UI_Confirmation_Code_Confirm",
+  "text": "تأكيد"
+ },
+ {
+  "key": "UI_Confirmation_Code_No",
+  "text": "إلغاء"
+ },
+ {
+  "key": "UI_Confirmation_Code_Ok",
+  "text": "تأكيد"
+ },
+ {
+  "key": "UI_Confirmation_Code_Yes",
+  "text": "تأكيد"
+ },
+ {
+  "key": "UI_Confirmation_ReturnStart",
+  "text": "العودة إلى شاشة البداية؟"
+ },
+ {
+  "key": "UI_Confirmation_StartMenu_01",
+  "text": "العنوان"
+ },
+ {
+  "key": "UI_Confirmation_StartMenu_02",
+  "text": "ستبدأ اللعبة الجديدة مع <Bold>الدروس التعليمية</>. اختيار «تأكيد» للمتابعة، أو «إلغاء» لتخطّيها."
+ },
+ {
+  "key": "UI_Confirmation_StartMenu_03",
+  "text": "قد تُفقد بيانات الحفظ التلقائي عند بدء لعبة جديدة. حفظ التقدم الحالي يدويًا قبل المتابعة."
+ },
+ {
+  "key": "UI_Confirmation_StartMenu_04",
+  "text": "حفظ التقدم الحالي يدويًا قبل تحميل اللعبة."
+ },
+ {
+  "key": "UI_DeadBuff_01",
+  "text": "الهجوم +10%"
+ },
+ {
+  "key": "UI_DeadBuff_02",
+  "text": "الهجوم -10%"
+ },
+ {
+  "key": "UI_DeadBuff_03",
+  "text": "كسر الدفاع +10%"
+ },
+ {
+  "key": "UI_DeadBuff_04",
+  "text": "كسر الدفاع -10%"
+ },
+ {
+  "key": "UI_Dead_01",
+  "text": "ميت"
+ },
+ {
+  "key": "UI_Dead_02",
+  "text": "الأيام المتبقية"
+ },
+ {
+  "key": "UI_Dead_03",
+  "text": "مستوى التعزيز"
+ },
+ {
+  "key": "UI_Dead_04",
+  "text": "نهاية الموت: الخسارة أمام الوولين"
+ },
+ {
+  "key": "UI_Dead_05",
+  "text": "استعادة كل ضرر القلب، مع تقدّم الزمن نهائيًا بمقدار {0} يومًا."
+ },
+ {
+  "key": "UI_Dead_07",
+  "text": "الأيام المتبقية:<DaysLeft_Num>{0}</>"
+ },
+ {
+  "key": "UI_Dead_08",
+  "text": "الأيام المتبقية:"
+ },
+ {
+  "key": "UI_Ending_01",
+  "text": "النهاية: {0}"
+ },
+ {
+  "key": "UI_Ending_02",
+  "text": "تم الحصول على قائمة المبدعين الكاملة!"
+ },
+ {
+  "key": "UI_Ending_03",
+  "text": "تم الحصول على قائمة المبدعين غير المكتملة!"
+ },
+ {
+  "key": "UI_Ending_04",
+  "text": "الدورة:"
+ },
+ {
+  "key": "UI_Ending_05",
+  "text": "السجل:"
+ },
+ {
+  "key": "UI_Ending_06",
+  "text": "زئير لونغ"
+ },
+ {
+  "key": "UI_Ending_07",
+  "text": "الإبادة"
+ },
+ {
+  "key": "UI_Ending_08",
+  "text": "المعركة الأخيرة"
+ },
+ {
+  "key": "UI_Ending_09",
+  "text": "ضغينة لا تموت"
+ },
+ {
+  "key": "UI_Ending_10",
+  "text": "عرض الدورات"
+ },
+ {
+  "key": "UI_Ending_11",
+  "text": "تقليب الصفحة"
+ },
+ {
+  "key": "UI_Ending_12",
+  "text": "نسبة الإكمال الإجمالية:"
+ },
+ {
+  "key": "UI_Ending_13",
+  "text": "إجمالي الوفيات:"
+ },
+ {
+  "key": "UI_Ending_14",
+  "text": "العودة إلى عالم السراب"
+ },
+ {
+  "key": "UI_Ending_15",
+  "text": "تعذّر إيقاف الفوضى. ابتلعت الآفة عالم الأطياف في موجة لا تنتهي."
+ },
+ {
+  "key": "UI_Ending_16",
+  "text": "الإخفاق في كشف الحقيقة والعثور على «القلب» قبل انتهاء العمر المحدد بـ66 يومًا."
+ },
+ {
+  "key": "UI_Ending_17",
+  "text": "بعد هزيمة منغ هوا، يصمد عالم الأطياف. لكن لا تزال أسرار تنتظر الحل، وما زال القلب المشعّ مفقودًا. ولا يزال مصير هذه الحياة معلّقًا."
+ },
+ {
+  "key": "UI_Ending_18",
+  "text": "إنقاذ عالم الأطياف من شفا الانهيار. كشف الحقيقة والعثور على «القلب»."
+ },
+ {
+  "key": "UI_Entitlement_01",
+  "text": "مكافأة الطلب المسبق"
+ },
+ {
+  "key": "UI_Entitlement_02",
+  "text": "إتاحة مبكرة لحُلية"
+ },
+ {
+  "key": "UI_Entitlement_03",
+  "text": "إتاحة مبكرة لزيّ"
+ },
+ {
+  "key": "UI_Entitlement_06",
+  "text": "مكافأة الإصدار الفاخر"
+ },
+ {
+  "key": "UI_Entitlement_07",
+  "text": "تم الحصول على زيّ حصري"
+ },
+ {
+  "key": "UI_Entitlement_08",
+  "text": "تم الحصول على مكافأة"
+ },
+ {
+  "key": "UI_Entitlement_11",
+  "text": "المجموعة الإضافية داخل اللعبة"
+ },
+ {
+  "key": "UI_Entitlement_12",
+  "text": "الموسيقى التصويرية الإضافية داخل اللعبة"
+ },
+ {
+  "key": "UI_GameMenu_01",
+  "text": "العودة إلى شاشة البداية"
+ },
+ {
+  "key": "UI_Help_001",
+  "text": "الاستكشاف"
+ },
+ {
+  "key": "UI_Help_002",
+  "text": "الهجوم"
+ },
+ {
+  "key": "UI_Help_003",
+  "text": "الدفاع"
+ },
+ {
+  "key": "UI_Help_Empty",
+  "text": "إمكانية مراجعة الدروس التعليمية التي تظهر أثناء اللعب من هنا."
+ },
+ {
+  "key": "UI_Interact_01",
+  "text": "إزالة"
+ },
+ {
+  "key": "UI_Inventory_01",
+  "text": "الموادّ"
+ },
+ {
+  "key": "UI_Inventory_02",
+  "text": "كنوز تشانغ سريع اليد"
+ },
+ {
+  "key": "UI_Inventory_03",
+  "text": "أغراض المهامّ"
+ },
+ {
+  "key": "UI_Inventory_04",
+  "text": "الطهي"
+ },
+ {
+  "key": "UI_Inventory_05",
+  "text": "مجموع"
+ },
+ {
+  "key": "UI_Inventory_06",
+  "text": "غير مجموع"
+ },
+ {
+  "key": "UI_Inventory_07",
+  "text": "الأغراض"
+ },
+ {
+  "key": "UI_Inventory_08",
+  "text": "الكل"
+ },
+ {
+  "key": "UI_Inventory_09",
+  "text": "موادّ ترقية السلاح"
+ },
+ {
+  "key": "UI_Inventory_10",
+  "text": "أغراض المهامّ"
+ },
+ {
+  "key": "UI_Inventory_11",
+  "text": "عرض المقتنيات"
+ },
+ {
+  "key": "UI_Inventory_12",
+  "text": "اندفاع القوّة"
+ },
+ {
+  "key": "UI_Inventory_13",
+  "text": "ميزة"
+ },
+ {
+  "key": "UI_Inventory_14",
+  "text": "صقل الروح"
+ },
+ {
+  "key": "UI_Inventory_15",
+  "text": "صقل الروح+"
+ },
+ {
+  "key": "UI_Inventory_16",
+  "text": "موادّ ترقية الأسلحة الطيفية"
+ },
+ {
+  "key": "UI_Inventory_17",
+  "text": "موادّ صقل الحُلي"
+ },
+ {
+  "key": "UI_Inventory_18",
+  "text": "موادّ ترقية الدواء"
+ },
+ {
+  "key": "UI_Inventory_19",
+  "text": "موادّ صقل روح السلاح"
+ },
+ {
+  "key": "UI_Inventory_20",
+  "text": "موادّ صقل الروح للسلاح الطيفي"
+ },
+ {
+  "key": "UI_Inventory_21",
+  "text": "مكسور"
+ },
+ {
+  "key": "UI_Inventory_22",
+  "text": "مصقول"
+ },
+ {
+  "key": "UI_Inventory_23",
+  "text": "أسطوري"
+ },
+ {
+  "key": "UI_Inventory_24",
+  "text": "مفتاح"
+ },
+ {
+  "key": "UI_Inventory_25",
+  "text": "التقدم"
+ },
+ {
+  "key": "UI_Inventory_26",
+  "text": "كنز"
+ },
+ {
+  "key": "UI_Inventory_27",
+  "text": "استخدام"
+ },
+ {
+  "key": "UI_Inventory_28",
+  "text": "موادّ أساسية للتقدم"
+ },
+ {
+  "key": "UI_Inventory_29",
+  "text": "غرض قصصي"
+ },
+ {
+  "key": "UI_Inventory_30",
+  "text": "شظايا الحُلي"
+ },
+ {
+  "key": "UI_LionDancing_01",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\"/>/<InputAction id=\"HeavyAttack\" height=\"26\"/>: إطلاق النار"
+ },
+ {
+  "key": "UI_LionDancing_02",
+  "text": "<InputAction id=\"Move\"/>: التنقّل بين الأعمدة"
+ },
+ {
+  "key": "UI_LionDancing_03",
+  "text": "قطف الأخضر: زيادة القوّة"
+ },
+ {
+  "key": "UI_Literature_01",
+  "text": "ملاحظات"
+ },
+ {
+  "key": "UI_Literature_02",
+  "text": "الكتب"
+ },
+ {
+  "key": "UI_Literature_03",
+  "text": "الذكريات"
+ },
+ {
+  "key": "UI_Literature_04",
+  "text": "تشغيل"
+ },
+ {
+  "key": "UI_Literature_05",
+  "text": "إيقاف"
+ },
+ {
+  "key": "UI_Literature_06",
+  "text": "المجموع: {0}"
+ },
+ {
+  "key": "UI_Literature_07",
+  "text": "رقم"
+ },
+ {
+  "key": "UI_Literature_08",
+  "text": "صفحة"
+ },
+ {
+  "key": "UI_Literature_09",
+  "text": "تقليب الصفحة"
+ },
+ {
+  "key": "UI_Literature_10",
+  "text": "وصف موجز"
+ },
+ {
+  "key": "UI_Literature_11",
+  "text": "البتلات المجموعة: {0}"
+ },
+ {
+  "key": "UI_Literature_12",
+  "text": "بتلة"
+ }
+]

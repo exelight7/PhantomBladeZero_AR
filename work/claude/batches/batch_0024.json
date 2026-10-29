@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_LJC_NvZhi2_NvZhi_3",
+  "text": "صبي قوي معافى... مثل ابن عمتي... هذا كل ما أطلبه..."
+ },
+ {
+  "key": "Dlg_LJC_NvZhi2_NvZhi_4",
+  "text": "أي شيء... سأفعل أي شيء... لو أنني أُرزق بابن..."
+ },
+ {
+  "key": "Dlg_LJC_NvZhi2_NvZhi_6",
+  "text": "أرجوك... دعني... دعني أكون أمًا صالحة أنا أيضًا..."
+ },
+ {
+  "key": "Dlg_LJC_NvZhi_NvZhi_1",
+  "text": "يا سيدة الحجاب، باركيني..."
+ },
+ {
+  "key": "Dlg_LJC_NvZhi_NvZhi_2",
+  "text": "أعاهدك أن أنسج ثلاثمئة خصلة من الخيط... ليلًا ونهارًا..."
+ },
+ {
+  "key": "Dlg_LJC_NvZhi_NvZhi_3",
+  "text": "وأحوّلها إلى شريط أقدّمه لكِ قربانًا..."
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen2_SengRen_1",
+  "text": "شكرًا... اذهب... ادخل البئر..."
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_Battle_1",
+  "text": "البركات، البركات."
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_Battle_2",
+  "text": "أميتابها."
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_Battle_3",
+  "text": "انهضوا، يا تشكيل الرجال البرونزيين! يا أصحاب الأجساد الذهبية، أخضعوا الشر!"
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_SRZM_1",
+  "text": "ما جسدي إلا قشرة بالية. انقطعت كل صلاتي بالدنيا... فلا داعي لأن تلوم نفسك. اقتلني!"
+ },
+ {
+  "key": "Dlg_LJC_ShenJiZhangMen2_SengRen_1",
+  "text": "من أجلي... انزل إلى البئر... وشاهد ما في الأسفل!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei1_FeiZei1_1",
+  "text": "لن ينفع هذا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei1_FeiZei1_2",
+  "text": "أحاول منذ أيام... لكن هذا القفل لا يتحرك قيد أنملة..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei1_FeiZei1_3",
+  "text": "ثقب المفتاح على هيئة عظم إصبع... أيّ مفتاح يمكن أن يلائمه؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_1",
+  "text": "لقد تمكنت من فتحها..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_2",
+  "text": "حسنًا... فتحت لي بابًا... وسأردّ لك الجميل..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_3",
+  "text": "هذا المفتاح يفتح قبو النبيذ لدى العمّ لو... وأيّ كنز تجده فيه فهو لك!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_6",
+  "text": "استقل المصعد هناك، وامضِ إلى الأمام، وسيقودك إلى بانغتشن..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_7",
+  "text": "انطلق... سيكون كلٌّ منا أكثر أمانًا إذا افترقنا."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_Hun_5",
+  "text": "هل تعرف الطريق إلى بانغتشن؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_RenOuXiaoHai_1",
+  "text": "حين أكبر... هل سأصبح هكذا أنا أيضًا؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_2",
+  "text": "أنا مريضة... وأعرف أنني لا أستطيع العودة..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_3",
+  "text": "وإلا فسيصير الآخرون من خشب أيضًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_4",
+  "text": "لكنني عدت... وكان هناك كثيرون من الخشب... متكدّسون... في كل مكان..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_Re_1",
+  "text": "كل هذا بسببي... كلّه... لم أرد أن يحدث هذا أبدًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_1",
+  "text": "غُيّر المعبد بعد فوات الأوان... بعد فوات الأوان بكثير!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_2",
+  "text": "أخبرنا العرّاف ياو! كان المزار يخلّ بتوازن فنغ شوي! وكان لا بد أن نغيّره!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_3",
+  "text": "إن لم نغيّره... فسيغفو المزيد ويتحولون إلى دمى!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_4",
+  "text": "حتى المبعوث لم يحتمل الأمر ورحل..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_5",
+  "text": "انظر إليّ! صرت من خشب! صرنا جميعًا من خشب!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_1",
+  "text": "هذا... ليس صحيحًا... لا يبدو صحيحًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_3",
+  "text": "كنت أنسج... وكان نسجي محكمًا ومتينًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_4",
+  "text": "لا أستطيع عزف البيبا... سامحوني... أنا آسفة جدًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_Re_1",
+  "text": "أستطيع فعلها... سأعزفها كما ينبغي... أرجوك... امنحني فرصة أخرى..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_1",
+  "text": "أنا أفضل... أستطيع أن أصبح الوعاء صفر... الوعاء صفر... سأعيش..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_2",
+  "text": "أمي... مُزّقت إربًا. تسوي... حُطمت إلى شظايا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_3",
+  "text": "لكن... لماذا لم أصبح الوعاء صفر بعد...؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_Re_2",
+  "text": "الشمس والزهور وأمي وتسوي... أريد أن ألعب مع الجميع."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_1",
+  "text": "رأيت ذلك... رأيته حقًا!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_2",
+  "text": "رجال المبعوث أسقطوا تمثال السيدة وحطموه، وأخذوا الدمى التي بداخله..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_3",
+  "text": "لا يريدون إلا الدمى... كل الدمى..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_4",
+  "text": "لا... لا يكترثون بالسيدة إطلاقًا!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_5",
+  "text": "طوال هذا الوقت... كنا نحن الحمقى... ننحني مرة بعد مرة... أمام هيكل فارغ!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_6",
+  "text": "هه... هاها... ههههه..."
+ },
+ {
+  "key": "Dlg_LJC_ShuiJing_Hun1_1",
+  "text": "ما الذي في قاع تلك البئر بالضبط؟"
+ },
+ {
+  "key": "Dlg_LJC_UNlock_SiXian1_1",
+  "text": "انحلّت الخيوط التي كانت تسدّ الجسر."
+ },
+ {
+  "key": "Dlg_LJC_UNlock_SiXian2_1",
+  "text": "انحلّت الخيوط التي كانت تسدّ نفق المهرّب."
+ },
+ {
+  "key": "Dlg_LJC_XiaoHaiRenOu1_XiaoHaiRenOu1_1",
+  "text": "تتهادى أزهار زرقاء... رقيقة وخفيفة،"
+ },
+ {
+  "key": "Dlg_LJC_XiaoHaiRenOu1_XiaoHaiRenOuAll_4",
+  "text": "أعيدوها إلى الديار... فتشرق ابتسامة السيدة."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_GeNvRenOu_1",
+  "text": "هل تبحث عن أحدٍ يا سيدي؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_Hun_5",
+  "text": "إذن، خضع بَي أيضًا لنقل الروح..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_Hun_6",
+  "text": "لقد فقدا جسديهما... ونسِيَ كلٌّ منهما الآخر."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_Hun_7",
+  "text": "ومع ذلك، جمعهما القدر من جديد..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_PeiLang_2",
+  "text": "لقد... فقدتُ حبيبتي..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_PeiLang_3",
+  "text": "أينما كانت، سأعثر عليها. سنبقى معًا في الحياة والممات..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_PeiLang_4",
+  "text": "آنستي... هل تنتظرين أحدًا هنا؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu1_GeNvRenOu_1",
+  "text": "هل يمكنك إيصال هذه الرسالة إلى بَي نيابةً عني؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu1_GeNvRenOu_2",
+  "text": "قال... إنه سيعود من أجلي..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu1_GeNvRenOu_10",
+  "text": "هل يمكنك إيصال هذه الرسالة إلى بَي نيابةً عني؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu2_GeNvRenOu_1",
+  "text": "شكرًا لك. أنا ممتنة لك من أعماق قلبي."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu2_GeNvRenOu_Re_1",
+  "text": "هل... وصلت رسالتي إلى بَي؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu_GeNvRenOu_1",
+  "text": "النهر فسيح المجرى... وقلبي يملؤه الفزع..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu_GeNvRenOu_2",
+  "text": "تجوب آلاف الأميال... فمتى تعود إلى الديار؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu_Option_1",
+  "text": "أخذ الرسالة"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_1",
+  "text": "هذا العالم الفاني تلتهمه النيران. ينهض السائرون المقنّعون، ويغرق البشر في اليأس."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_2",
+  "text": "لا نهاية للحرب. سقط العدل. طال الليل، وبحر المعاناة لا ساحل له."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_3",
+  "text": "السيدة الرحيمة، منقذة الخلق من كل عذاب. تجوب النار والطوفان، وتغمر البشر برحمتها."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_4",
+  "text": "يجمعنا عهد الزهور، وتُرى طاعتنا. وإن حُجب الصنم القديم، فإرادتها المقدسة باقية."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_5",
+  "text": "صلّوا، تستجب لكم. تضرّعوا، تجدوا السلام. يا عظيمة الرحمة... يا منقذة الخلق من كل عذاب."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMin1_CunMin1_1",
+  "text": "لم أفقد هذا الذراع..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMin1_CunMin1_2",
+  "text": "أخذه المعلم الغسق... ليصنع دواءً."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMin1_CunMin1_5",
+  "text": "حالما يجهز الترياق... سأستعيد ذراعي. وعندها سينجو الجميع!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMinNv1_NvCunMinNv1_1",
+  "text": "سيعودون..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMinNv1_NvCunMinNv1_2",
+  "text": "الشفاء يحتاج إلى وقت..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMinNv1_NvCunMinNv1_3",
+  "text": "لم نُترك..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou1_LaoTou_1",
+  "text": "أحتاج إلى الوصول إلى التلال الخلفية... لماذا لا أستطيع المرور؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou1_LaoTou_2",
+  "text": "ما هذا الضباب...؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou2_LaoTou2_1",
+  "text": "انظر إليّ... هل ما زلت أبدو كأنني من خشب؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou2_LaoTou2_2",
+  "text": "لست كذلك! لم أعد من خشب!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou2_LaoTou2_3",
+  "text": "هاها... لقد غُيّر المزار..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai1_XiaoHaiNv_1",
+  "text": "أين ذهبت تلك الأخت الكبرى؟ كان من المفترض أن تعلّمني التعاويذ!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai1_1",
+  "text": "أقبلت السيدة، والمبعوث هنا. سيكون الجميع بأمان، فلا تخافوا."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai1_3",
+  "text": "أيتها الدمية الخشبية الصغيرة، انتظري وامكثي. سيبدد الغسق ألمك."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai2_2",
+  "text": "ينهض الأبطال الثلاثة، ويندحر الشر. لن يطول مقام السائرين المقنّعين."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai2_4",
+  "text": "زال المرض، واستقام العقل. وامتلأ كل بيت بالبهجة."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHaiALL_5",
+  "text": "امتلأ كل بيت بالبهجة!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_1",
+  "text": "هل تريد أن تصبح من خشب؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_2",
+  "text": "ما أروع أن تكون من خشب!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_3",
+  "text": "لن تشعر بالمطر ولا بالجوع..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_4",
+  "text": "ولن تخيفك تلك الأشياء المقنّعة بعد الآن!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_BaiShanNv_BaiShanNv_1",
+  "text": "اتفقنا جميعًا... على ألا يعبد أحد السيدة."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_BaiShanNv_BaiShanNv_2",
+  "text": "لكن... لم يجرؤ أحد على نزع الزهرة الحمراء عن وجه التمثال..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin1_CunMin1_2",
+  "text": "ابقَ معنا. نعين بعضنا بعضًا!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin1_CunMin1_3",
+  "text": "قال الراهب الشاب من معبد كويه إن هذا المرض انتشر لأن الناس آمنوا بالسيدة."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin1_CunMin1_4",
+  "text": "ما دمنا لا نؤمن بها، فسنكون بخير. لن يصيبنا مكروه!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_1",
+  "text": "هل هذا معقول؟ هذا المرض يُغرق الناس في النوم، ولا يستيقظون أبدًا."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_2",
+  "text": "لا أطباء ولا أدوية. فهل يكفي أن تغطي وجهك بزهرة حمراء لتُشفى، بطريقة ما؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_3",
+  "text": "أعرف أن طبيبًا عاديًا لن يستطيع علاج هذا. لكن العالم واسع، ولا بد أن فيه من يستطيع."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_4",
+  "text": "والآن يقضون النهار كله في صنع التماثيل، بل حوّلوا المزار إلى مكان لعبادة السيدة. لقد جنّوا!"
+ }
+]

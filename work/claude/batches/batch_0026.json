@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_Meiguhu_Investigate_JiaZhuang1_1",
+  "text": "يستقر حجر في المياه الضحلة، ويبدو أن شيئًا مدفون تحته..."
+ },
+ {
+  "key": "Dlg_Meiguhu_Investigate_JiaZhuang2_1",
+  "text": "كان تحت الحجر مهرٌ ادّخره جين لأخته الصغرى. لكن الماء أفسد معظمه."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_XiNiang_1",
+  "text": "أختي يانأر، ستؤدين اليوم «سحر الغرور»! المسرح مكتظ!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_XiNiang_3",
+  "text": "نبضك... هل أنتِ حامل؟"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_XiNiang_4",
+  "text": "هل هو من زعيم الطائفة مينغ... ذاك الذي يحضر عروضكِ دائمًا؟"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_XiNiang_7",
+  "text": "هذا رائع... ستتركين كل هذا وراءك أخيرًا..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_XiNiang_8",
+  "text": "أنا سعيدة جدًا من أجلكِ."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_XiNiang_9",
+  "text": "متى سيحين دوري أنا..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_YanEr_2",
+  "text": "أنتِ توترينني... آه..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_YanEr_5",
+  "text": "في تلك الليلة، بعدما شربنا... قال إنه سيأخذني معه... ويتزوجني."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_YanEr_6",
+  "text": "هل تظنين أن الحياة في تلك الطوائف الكبرى من أهل الطريق القويم أفضل بكثير من هنا؟"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX1_ZhuChi_10",
+  "text": "العرض التالي: «سحر الغرور»!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX2_CiKe_2",
+  "text": "لكن الطفل يا معلّم مينغ... إنه من صلبك..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX2_CiKe_4",
+  "text": "مفهوم."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX2_MingDaZhangMen_1",
+  "text": "خذ الذهب. أنجز الأمر بإتقان، ولا تترك أثرًا."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX2_MingDaZhangMen_3",
+  "text": "لا يمكن أن يأتي وريث طائفة سيف مينغ من مكان كهذا."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_CiKe_6",
+  "text": "تبًا. لقد قفزتْ..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_CiKe_7",
+  "text": "حسنًا. وهي تحمل طفلًا في بطنها، لن تنجو من تلك البحيرة."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_CiKe_8",
+  "text": "عليّ أن أعود وأرفع تقريرًا إلى زعيم الطائفة مينغ."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_ShiNv_1",
+  "text": "آآآه!!!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_ShiWei_2",
+  "text": "قاتل!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_YanEr_3",
+  "text": "أرسل المعلّم مينغ هذا الرجل... ليقتلني؟"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_YanEr_4",
+  "text": "يا لقسوته!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX3_YanEr_5",
+  "text": "شينيانغ... أرجوكِ، اعتني بنفسك!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_YanEr_2",
+  "text": "من أنت؟ طفلي... أين طفلي؟"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_YanEr_5",
+  "text": "أين... أين أنا..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_YanEr_8",
+  "text": "طفلي..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_1",
+  "text": "حين يدنو الجسد من نهايته، يتجلّى الوهم من تلقاء نفسه. مدهش..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_3",
+  "text": "لقد رحل طفلكِ، كأنه لم يوجد قط."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_4",
+  "text": "والآن يرقد في كنف السيدة..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_6",
+  "text": "مكانٌ للمحطّمين والتائهين."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_7",
+  "text": "على كل من يأتي إلى هنا أن يترك ماضيه وراءه، ويولد من جديد بالتضحية."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_9",
+  "text": "لقد دفعتِ الثمن بالفعل."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_10",
+  "text": "ما دمتِ قد انضممتِ إلى طائفتي، فعليكِ أن تتخلي عن كل روابطكِ الدنيوية. أمنحكِ اسمًا جديدًا، <Bold>يان تشيانسوي</>."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX4_ZhiGaoZhe_11",
+  "text": "وهذه أوتار البيبا، أهبها لكِ أيضًا!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_MengChai_2",
+  "text": "لا بد أنك قدّمت شيئًا استثنائيًا، أيها الشيخ الأكبر."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_MengChai_5",
+  "text": "إن إتقانك لفنونك يبعث على الرهبة، أيها الشيخ الأكبر."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_MengChai_8",
+  "text": "أيها الشيخ الأكبر، لِمَ عفوتَ عنها ثم نفيتها؟"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_WLRSJia_5",
+  "text": "اسمع... الموسيقى تنبعث من ذلك المسرح مجددًا."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_WLRSYi_6",
+  "text": "لم يعد أحد يجرؤ على الاقتراب من ذلك المكان!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_WLRSYi_8",
+  "text": "اسمع كم يبدو صوت تلك القيثارة موحشًا!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_YanEr_7",
+  "text": "سيدي، أنت—آه!"
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_ZhiGaoZhe_1",
+  "text": "كان إتمام هذا المسار سيستغرق ستين عامًا أخرى، لكن تقلّب الحظ اختصر المدة إلى ثلاثة..."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_ZhiGaoZhe_3",
+  "text": "طفل رجل من نخبة الميثاق، حملت به في رحمها امرأة واعدة جدًا من ذلك المسرح."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_ZhiGaoZhe_4",
+  "text": "يا لها من سعادة أن أظفر بهذا الحظ بنفسي! بركات السيدة لا حد لها."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_ZhiGaoZhe_6",
+  "text": "كل ذلك تمجيدًا لها. والشرف كله لي."
+ },
+ {
+  "key": "Dlg_Meiguhu_MEM_XLFX5_ZhiGaoZhe_9",
+  "text": "اتركها وشأنها. قد يفسد قتلها القربان. يجب ألا تُمسّ روحها الطاهرة، وإلا غضبت السيدة."
+ },
+ {
+  "key": "Dlg_Meiguhu_XLFX1_Hun_2",
+  "text": "تنتشر زهور الذكرى في البحيرة. عليّ أن أترقّبها."
+ },
+ {
+  "key": "Dlg_Meiguhu_YanQianSui_Hun_1",
+  "text": "ليتني أستطيع <Bold>صدّ</> تلك الموجة الصوتية الزرقاء..."
+ },
+ {
+  "key": "Dlg_Mn_HSPP_Hun_2",
+  "text": "البيبا المحطمة... تتجاوب مع النحيب البعيد."
+ },
+ {
+  "key": "Dlg_Mn_HSPP_Hun_3",
+  "text": "إذا عزفتُ على البيبا بعد إصلاحها هنا، فمن المفترض أن تفتح البوابة الطيفية."
+ },
+ {
+  "key": "Dlg_Mn_HSPP_investigate_HJZM_1",
+  "text": "عند الاقتراب من البوابة الطيفية، تبدأ البيبا الوهمية غير المكتملة بالارتجاف ارتجافًا خفيفًا."
+ },
+ {
+  "key": "Dlg_Mn_HSPP_investigate_HJZM_2",
+  "text": "يبدو أن فتح البوابة يقتضي إصلاح البيبا الوهمية والعزف عليها هنا."
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_1",
+  "text": "تنذر الهمسات باقتراب الخطر"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_2",
+  "text": "انتظار وراء الحقول بإيمان لا يتزعزع"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_3",
+  "text": "مواصلة السعي طوال النهار"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_4",
+  "text": "باليقظة ليلًا، لا يخلّف القدر ندمًا"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_5",
+  "text": "الخروج من الكهف"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_6",
+  "text": "نجاح عظيم، وترقّب على الرمال"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_7",
+  "text": "الحذر، الحذر"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_8",
+  "text": "يخرج لونغ من الحقول"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_9",
+  "text": "القفز إلى الهاوية"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_10",
+  "text": "يبلغ لونغ المحلّق السماء"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_11",
+  "text": "مباركٌ ذلك العظيم"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_12",
+  "text": "ينتظر تشيان فوق الدماء"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_13",
+  "text": "يصون لونغ الانسجام الأعظم، ويجلب حظًا مديدًا"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_14",
+  "text": "يلقى لونغ المتكبر الندم، وتنقضي كل الشدائد"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_15",
+  "text": "ومنه تبدأ الأشياء كلها"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_16",
+  "text": "يحوّل نهج السماء كل شيء"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_17",
+  "text": "ويعود كلٌّ منها إلى مساره المقدّر"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_18",
+  "text": "الأول بين كل الأشياء"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_19",
+  "text": "عبور الأنهار العظيمة"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_20",
+  "text": "النهاية مباركة"
+ },
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_21",
+  "text": "تنعم الأمم كلها بالسلام"
+ },
+ {
+  "key": "Dlg_Music_Jie_1",
+  "text": "يمتد الوولين إلى أقاصي البصر"
+ },
+ {
+  "key": "Dlg_Music_Jie_2",
+  "text": "تتلاشى الأحقاد القديمة كالدخان"
+ },
+ {
+  "key": "Dlg_Music_Jie_3",
+  "text": "من يقطف خيط القدر الأحمر؟"
+ },
+ {
+  "key": "Dlg_Music_Jie_4",
+  "text": "ما زلت في الأسر حيث بدأ كل شيء"
+ },
+ {
+  "key": "Dlg_Music_Jie_5",
+  "text": "عيناي الغائمتان،"
+ },
+ {
+  "key": "Dlg_Music_Jie_6",
+  "text": "لا تبصران بعد الآن"
+ },
+ {
+  "key": "Dlg_Music_Jie_7",
+  "text": "هل كان النصل قد أسرع في الضرب،"
+ },
+ {
+  "key": "Dlg_Music_Jie_8",
+  "text": "أم العقدة التي ما زالت في قلبي؟"
+ },
+ {
+  "key": "Dlg_Music_Jie_9",
+  "text": "يسطع البدر في الأعالي"
+ },
+ {
+  "key": "Dlg_Music_Jie_10",
+  "text": "أجوب ما وراء الجبال البعيدة"
+ },
+ {
+  "key": "Dlg_Music_Jie_11",
+  "text": "عبر دورات العالم التي لا تُحصى"
+ },
+ {
+  "key": "Dlg_Music_Jie_12",
+  "text": "لا شيء يستطيع أن يسلبني أبدًا"
+ },
+ {
+  "key": "Dlg_Music_Jie_13",
+  "text": "الإيمان الذي تمسكت به منذ البداية"
+ },
+ {
+  "key": "Dlg_Music_Jie_14",
+  "text": "قلبي لا يتغير"
+ },
+ {
+  "key": "Dlg_Music_Jie_15",
+  "text": "ما لا يُحصى من الحب والكراهية"
+ },
+ {
+  "key": "Dlg_Music_Jie_16",
+  "text": "قلب الإنسان لا يثبت على حال"
+ },
+ {
+  "key": "Dlg_Music_Jie_17",
+  "text": "أقطع خيط القدر الأحمر"
+ },
+ {
+  "key": "Dlg_Music_Jie_18",
+  "text": "أقف حيث بدأ كل شيء"
+ },
+ {
+  "key": "Dlg_Music_Jie_19",
+  "text": "أوتار قلبي،"
+ },
+ {
+  "key": "Dlg_Music_Jie_20",
+  "text": "زئير وبكاء"
+ },
+ {
+  "key": "Dlg_Music_Jie_21",
+  "text": "أنا جواب قدرك"
+ },
+ {
+  "key": "Dlg_Music_Jie_22",
+  "text": "أنا هلاك طموحك"
+ },
+ {
+  "key": "Dlg_Music_Jie_23",
+  "text": "ما دام قلبي لا يتغير"
+ },
+ {
+  "key": "Dlg_Music_LiuLong_1",
+  "text": "تحلّق ستة من لونغ في السماء، وتتوالى ست مراحل مع الزمن"
+ },
+ {
+  "key": "Dlg_Music_LiuLong_2",
+  "text": "على ظهور ستة من لونغ، واتباعًا لمسار السماء"
+ },
+ {
+  "key": "Dlg_Music_LiuLong_3",
+  "text": "يحوّل نهج السماء كل شيء، ويعود كل شيء إلى مساره المقدّر."
+ }
+]

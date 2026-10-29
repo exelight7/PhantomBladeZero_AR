@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_LJC_DaoRenZhangMen_SRZM_1",
+  "text": "الحياة والموت ليسا إلا مدًّا وجزرًا عابرين. والرحيل على هذا النحو... فيه سكينة."
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai1_1",
+  "text": "رياحٌ مواتية وغيثٌ رحيم، والخير عامًا بعد عامٍ مقيم"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai1_2",
+  "text": "وغلالٌ وافرة ورخاءٌ عميم، يزدهر عامًا بعد عامٍ ويدوم"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai1_3",
+  "text": "تمام الأمور على المراد"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai2_1",
+  "text": "غنًى وأمان، والبركة تملأ الدار"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai2_2",
+  "text": "سعدٌ ويُسر، والبيت في ازدهار"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai2_3",
+  "text": "تحقّق الأماني"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai3_1",
+  "text": "بنعمة الزهر يُوهَب البنون"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai3_2",
+  "text": "وبفضل السيدة يكثر الأهلون"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai3_3",
+  "text": "الأبناء والأحفاد ملء الدار"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai4_1",
+  "text": "نصحب الكلاب إلى الجبال، ونعود سالمين"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai4_2",
+  "text": "ونحمل القوس إلى الصيد، ونرجع غانمين"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai4_3",
+  "text": "في حمى السيدة"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai5_1",
+  "text": "تُنزل السيدة غيثًا مباركًا، يفرّج الكرب ويسكّن الألباب"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai5_2",
+  "text": "وتهدي التائهين في زمن الفتن، وتفتح لآل لو بفضلها الأبواب"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai6_1",
+  "text": "نعمة الزهر تعمّ الأرجاء، فينال أجداد آل لو منها النعماء"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai6_2",
+  "text": "وتُعقد في الأحلام الأواصر، فتنعم الأجيال بنور رحمتها الوضّاء"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_FZ_3",
+  "text": "حين جئنا إلى هنا... بقي بعض رفاقنا في معسكر الغابة..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_FZ_4",
+  "text": "سمعت قبل قليل... الفتاة تتمتم... حدث أمر مريع في المعسكر..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_FZ_5",
+  "text": "إن استطعت... أرجوك... اذهب وتفقّد أحوالهم..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_Hun_1",
+  "text": "هل أستطيع أن أفعل لك شيئًا آخر؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_5",
+  "text": "أفهم... إما ماتوا أو تحولوا إلى وحوش... ها... لم يبقَ أحد..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_8",
+  "text": "...خذ. هذه تميمتي..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_9",
+  "text": "حين كنت أستولي على الكنوز... أنقذتني من سهام كثيرة... ها..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_11",
+  "text": "اذهب... إلى... البئر..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_12",
+  "text": "أنقذ... تلك الصغيرة..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_Hun_1",
+  "text": "وجدت هذا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_Hun_4",
+  "text": "لم يبقَ في ذلك المعسكر شيءٌ بشري."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_1",
+  "text": "لن تتمكن من عبور ذلك الباب..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_2",
+  "text": "عليك أن تمر عبر البئر عند مدخل القرية!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_4",
+  "text": "استولى المبعوث على نفق المهرّب بأكمله..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_5",
+  "text": "وجعله مكانًا لصنع تلك الأشياء!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_7",
+  "text": "لا أدري... لكن أسرع واعثر على مدخل إلى البئر!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_8",
+  "text": "وإلا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_9",
+  "text": "فستموت تلك الفتاة!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_11",
+  "text": "أخذوها... من هنا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_12",
+  "text": "حاولت إنقاذها، لكن..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_13",
+  "text": "ها... كان ينبغي ألا أبالغ في تقدير قدراتي..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_14",
+  "text": "تلك الأشياء... لا هي بشر ولا هي أحياء... إنها قوية جدًا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_16",
+  "text": "انسني!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_17",
+  "text": "أسرع! الحق بالفتاة!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_3",
+  "text": "إذن أنت أيضًا تحاول الوصول إلى بانغتشن من هنا؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_6",
+  "text": "تلك الدمى... هل وُضعت أرواح أهل القرية فيها؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_10",
+  "text": "أي فتاة؟ يوأر...؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_15",
+  "text": "انتظر هنا. إن وجدت طريقًا للعبور..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Reading1_Hun_1",
+  "text": "فن التحكم بالدمى بالخيوط... لا يُعرف بممارسته إلا طائفة ربط الخيوط."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_Hun_1",
+  "text": "هل أنت... الوتر؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_2",
+  "text": "أنا مجرد وعاء معيب. بالكاد أستحق الذكر."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_3",
+  "text": "الوعاء صفر... هو القالب الذي صُببنا فيه."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_4",
+  "text": "وُجدنا لنكون وعاء المبعوث."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_5",
+  "text": "ولنبيد كل من يعارضه!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_investigate_ROS44_Hun_1",
+  "text": "لا بد أن هذا نفق المهرّب... إنه الطريق الوحيد إلى بانغتشن."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_investigate_ROS44_Hun_2",
+  "text": "عين الدمية مفقودة... إن أعدتها إلى مكانها، فينبغي أن تُفتح البوابة."
+ },
+ {
+  "key": "Dlg_LJC_FengXiuCai_HuoLang_1",
+  "text": "أحضر لكِ أبوكِ دوّارات ورقية!"
+ },
+ {
+  "key": "Dlg_LJC_FengXiuCai_HuoLang_2",
+  "text": "دوّاراتكِ الورقية المفضلة!"
+ },
+ {
+  "key": "Dlg_LJC_Fisherman1_Fisherman_1",
+  "text": "ما دمت قد وصلت إلى هذا المكان... فلِمَ لا تقفز لترى ما في الأسفل؟"
+ },
+ {
+  "key": "Dlg_LJC_Fisherman2_Fisherman_1",
+  "text": "ها... كثيرًا ما تختبئ الحقيقة في قاع الهاوية..."
+ },
+ {
+  "key": "Dlg_LJC_Fisherman3_Fisherman_1",
+  "text": "لا تتردد... اقفز إلى الداخل!"
+ },
+ {
+  "key": "Dlg_LJC_HPMT_Hun_1",
+  "text": "يبدو أن رصيف التنظيم السري ما زال هنا... لكن هذه البحيرة الشاسعة تستلزم أن أستعين بأحد «ألعاب» ربّان القارب <Bold></>لعبورها."
+ },
+ {
+  "key": "Dlg_LJC_HPMT_Hun_2",
+  "text": "إذا وصلت إلى بانغتشن... فربما أجد رصيف ربّان القارب.<Bold></>"
+ },
+ {
+  "key": "Dlg_LJC_HXMM1_Yinghuo_Hun_1",
+  "text": "حُجبت ذكريات الزهرة بفنّ الأطياف. ولا بد أن توجد في مكان ما زهرة الذكرى الرنّانة، قادرة على تبديد هذا الحجاب."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin1_1",
+  "text": "قرابين... للسيدة..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin2_1",
+  "text": "كل شيء ملك للسيدة!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin3_1",
+  "text": "كل هذا للسيدة! لا تأخذوا شيئًا!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin4_1",
+  "text": "تحدّوا السيدة وسنسلخكم أحياء!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin5_1",
+  "text": "إنها تراقب... وترى كل شيء..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin6_1",
+  "text": "ستضمك السيدة إليها... ستضمك..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin7_1",
+  "text": "لا أحد يغادر... لا أحد يبرح مكانه..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei1_1",
+  "text": "العم لو مدين لي. حيًا كان أم ميتًا، سأسترد حقي!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei2_1",
+  "text": "هذه أشيائي! لماذا أسمح لك بأخذها؟"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei3_1",
+  "text": "يا لهذه المسوخ الخشبية... هل تجرؤون على الوقوف في طريقي؟"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei4_1",
+  "text": "انظروا ما فعلته بكم السيدة... انظروا إلى حالكم!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei5_1",
+  "text": "تبًا... هذه القرية ملعونة!"
+ },
+ {
+  "key": "Dlg_LJC_Investigate_CunMinST1_1",
+  "text": "جرّ نفسه إلى خارج المنزل قبل أن يموت."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_Feizei1_1",
+  "text": "يرقد اللص متيبسًا على الأرض، عالقًا خارج الباب."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_Feizei1_2",
+  "text": "في لحظاته الأخيرة، داعب برفق نسخته من «القبضة الخاطفة»."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HSPZ1_1",
+  "text": "ما أقوى هذا الحاجز!"
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HSPZ2_1",
+  "text": "هل سيزول هذا الحاجز إذا جمعت كل زهور الذكرى التي تركتها يراعة؟"
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HSPZ3_1",
+  "text": "كان الغسق تلميذًا لهذا الذي يُسمّى «الشيخ الأكبر». فما الأسرار التي اكتشفها؟"
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HunShuiCunMin_1",
+  "text": "هذا هو المرض الذي ذكره العجوز غن ويوأر من قبل."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_MiaoKan_1",
+  "text": "كانت باي تشيليان أيضًا خاضعة لسيطرة من تُسمّى «السيدة»."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_NvZhi_1",
+  "text": "تستلقي النسّاجة ساكنةً، وقد ضمّت يديها فوق بطنها كأنها تحرس شيئًا. لم تعد تتنفس."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLangQingNiang_1",
+  "text": "تلفّ الدمية العالمة ذراعًا حول كتف الدمية المغنية، كأنها تحميها."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLangQingNiang_2",
+  "text": "يستند وجه الدمية المغنية إلى عنقه، وتبدو ملامحها الخشبية هادئةً في سكون."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLangQingNiang_3",
+  "text": "تشققت أجسادهما عند المفاصل، وكشف الطلاء الباهت عن الخشب الذابل تحته."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_1",
+  "text": "انتُزع وعي بَي بنقل الروح، ولم يبقَ سوى وعاء فارغ."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_2",
+  "text": "حاجباه معقودان بشدة وقبضتاه مشدودتان، كأنه كان يقاوم شيئًا قبل أن يستسلم للنوم."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_Hun_1",
+  "text": "إذن فقد نُقلت روحه حقًا... لا بد أن تلك الدمية إلى جانبها هي بَي."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_Hun_2",
+  "text": "لا بد أن أخبرها بالحقيقة."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan1_1",
+  "text": "كان في ما مضى تمثالًا بسيطًا من الطين الملوّن، يحرس سلام هذه الأرض."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan1_2",
+  "text": "أما الآن، فلم يعد بالإمكان رؤية وجهه الوديع."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan2_1",
+  "text": "كان أهل القرية يقيمون هنا مزاراتهم وتماثيلهم."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan3_1",
+  "text": "مبخرة مهملة كاد رمادها يفيض منها. لعل أهل القرية عدّوا ذلك دليلًا على أن السيدة سمعت دعواتهم."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan4_1",
+  "text": "دُفع إلى زاوية وتُرك ليتراكم عليه الغبار، بلا زهور حمراء تزيّنه."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan4_2",
+  "text": "لعلهم رأوه أصغر من أن يستحق أن يكون «وجه» السيدة."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan5_1",
+  "text": "خدوش حديثة على قاعدة التمثال، كأن أحدًا حاول تحريكه."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan5_2",
+  "text": "لكنهم استسلموا في النهاية. لعلهم خافوا، أو عجزوا ببساطة عن تحريكه."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan6_1",
+  "text": "تتناثر على الأرض والمذبح نقود بالية، وأعواد بخور مكسورة، وبتلات يابسة، وقماش أحمر باهت."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan6_2",
+  "text": "تبدو قشور الفاكهة وقطع الورق وقد قرضتها الجرذان."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan7_1",
+  "text": "يمتد السخام على طيّات ثوب التمثال، علامة واضحة على أن البخور كان يُحرق هنا بلا انقطاع."
+ }
+]

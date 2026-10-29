@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_PZ_JiuGuan_LaoQiGai_LaoQiGai_2",
+  "text": "أيقظ الأسد ودع ناره تتأجج؛ عندها وحدها يسطع نور المرآة!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LaoQiGai_LaoQiGai_3",
+  "text": "مرآة بلا هيئة تكشف الزيف، وتوفر قوتك لكنها تضعف ضرباتك..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LaoQiGai_LaoQiGai_4",
+  "text": "هاهاها! أما إن كانت تستحق ثمنها، فالأمر إليك لتقرره!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_Hun_4",
+  "text": "يبدو أنها مأساة أخرى سببها نقل الروح."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_Hun_6",
+  "text": "سأتحقق من الأمر من أجلك."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_1",
+  "text": "حين سلّمني هوانغ ذلك المفتاح... لا بد أنه أحسّ بأن شيئًا ما سيحدث..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_2",
+  "text": "وفي اليوم التالي مباشرة... وقع شيء فعلًا. سمعت أن خادماته كلهن تحوّلن إلى دمى خشبية... ثم مزّقنه إربًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_3",
+  "text": "أقول لك، لا بد أن ابنته العاقة وراء ذلك. تلك التي ظلت طريحة الفراش سنين!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_5",
+  "text": "بعد ما حدث، صار بيته ملعونًا... لا أجرؤ على الاقتراب منه. ومع ذلك... أشفق عليه... على العجوز هوانغ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_7",
+  "text": "حسنًا! حسنًا! عليك أن تنصفه..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_Re_1",
+  "text": "أعتمد عليك الآن! أرجوك... أنصف هوانغ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun_2",
+  "text": "لم ينجُ أحد."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun__4",
+  "text": "كان ذلك جزاءً مستحقًا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun__7",
+  "text": "لكن لا بد أن لطريقة انتقامهما صلة بسيدة الحجاب."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun__9",
+  "text": "ما عاد يصحّ أن يُسمّى إنسانًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_1",
+  "text": "إذًا، كيف حال منزل هوانغ الآن؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_3",
+  "text": "آه... فهمت. لا بد أن يصيب الشؤم بيتًا فيه أبناء عاقّون..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_5",
+  "text": "هل تقصد أنه...؟ كنت أظن ذلك. منذ أن أدخل محظيته الرابعة إلى بيته، لم يعد كما كان."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_6",
+  "text": "لا بد أن جينًا وشيو قد دُفعا إلى أقصى حدّ حتى يقدما على أمر بهذه الفظاعة انتقامًا لأمهما."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_8",
+  "text": "قال لي أحد عمّالي إنه رأى جين قرب بحيرة ميغو، عند المياه الضحلة قرب قرية لو... يتجول كالمجنون..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui_NiuZhangGui_1",
+  "text": "هوانغ... لن تطأ قدماي بيتك مجددًا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui_NiuZhangGui_2",
+  "text": "يا هوانغ العجوز... اطمئن واسترح الآن... أرجوك."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NvTan_NvTan_1",
+  "text": "الأخت الكبرى صارت متهورة أكثر من اللازم..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NvTan_NvTan_2",
+  "text": "نادراً ما تسنح لنا فرصة للراحة هكذا... لعلّي أنقع جسدي في الماء قليلًا أنا أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_QiangBingB_QiangBingA_1",
+  "text": "سمعت أن قاتلًا فتاكًا هناك على ذلك الجبل الثلجي..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_QiangBingB_QiangBingA_2",
+  "text": "همف. مضى وقت طويل منذ خضت نزالًا حقيقيًا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_QiangBingB_QiangBingB_1",
+  "text": "لا يهم أيّ مسخ كان... لن يخرج من هنا سليمًا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_ShuangCiHuFa1_ShuangCiHuFa_1",
+  "text": "أحب هذا المكان. يبعث على السكينة."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_ShuangCiHuFa2_ShuangCiHuFa_1",
+  "text": "اعتدت الريح."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_ShuangCiHuFa3_ShuangCiHuFa_1",
+  "text": "لا يكاد المكان يتسع لهم. فليكن لهم."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_ShuangHenJian_ShuangHenJian_1",
+  "text": "لماذا لم يرسل تشينغلونغ الإشارة بعد؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_ShuangHenJian_ShuangHenJian_2",
+  "text": "كان من المفترض أن نهاجم ذلك الجبل الثلجي معًا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_WuShi_HuanGui_1",
+  "text": "إلى جانب الحاجز عند الجرف المطل على البحيرة، تستطيع هذه البيبا تبديد حواجز طيفية أخرى أيضًا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_WuShi_HuanGui_2",
+  "text": "سمعت أن لهيب، المعلّم الأكبر لرقصة الأسد، يواجه متاعب..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_WuShi_HuanGui_3",
+  "text": "وقع أمر ما في قاعة رقصة الأسد التابعة له. وقد أحسست في أعماقها بحاجز طيفي من النوع نفسه."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_WuShi_HuanGui_4",
+  "text": "إن سنحت لك الفرصة، فعزف البيبا هناك يستحق التجربة!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_XiaoHaiFuRen_FuRen_2",
+  "text": "لـ-لا، ابقَ مستيقظًا! سأحكي لك قصة!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_XiaoHaiFuRen_FuRen_3",
+  "text": "سأحكي لك عن أيام أبيك في الوولين... لطالما أحببت تلك الحكايات."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_XiaoHaiFuRen_FuRen_5",
+  "text": "تماسك قليلًا بعد... أرجوك... أخشى ألا تستيقظ إذا غلبك النوم..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_XiaoHaiFuRen_XiaoHai_1",
+  "text": "أمي... أشعر بالنعاس..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_XiaoHaiFuRen_XiaoHai_4",
+  "text": "لكنني نعسان جدًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu1_Hun_2",
+  "text": "في وقت يكتنفه كل هذا الخطر... ومع ذلك خرجا إلى البحيرة؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu1_YuFu_1",
+  "text": "أرجوك، ساعدني! خرج اثنان من رفاقي إلى البحيرة ولم يعودا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu1_YuFu_3",
+  "text": "منذ عثرا على ذلك الحجر الغريب، لم يعودا كما كانا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu1_YuFu_4",
+  "text": "قبل رحيلهما، ظلّا يتحدثان عن تقديمه للسيدة."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu1_YuFu_5",
+  "text": "كان في ذلك الشيء ما يبعث على الريبة... لا أعرف كيف أصفه... أنا... لا أستطيع تفسيره..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu1_YuFu_6",
+  "text": "إن كنت ذاهبًا إلى البحيرة... أرجوك أنقذهما!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_Hun_1",
+  "text": "عثرت على قطعة من ذلك المكعب..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_Hun_2",
+  "text": "لكن الاثنين قد..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_Reading_Hun_1",
+  "text": "هذا شيء لا ينتمي إلى هذا العالم... لعلّه ما تريده السيدة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_Reading_Hun_2",
+  "text": "لعلّ ضبابة تعرف المزيد."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_YuFu_3",
+  "text": "بين... يانغ... تبًا... هل كان ذلك الشيء هو السبب؟ لقد تسبب ذلك الشيء في مقتلهما!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_YuFu_4",
+  "text": "هذا... لقد دوّنا هذا. قالا إن السيدة كلّمتهما في حلم..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_YuFu_5",
+  "text": "أرجوك... اقرأه لي! ماذا حدث بالضبط...؟!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu2_YuFu_Re_1",
+  "text": "بين... يانغ... ما الذي حدث لكما...؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu_YuFu_1",
+  "text": "بين... يانغ... أين ذهبتما؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_YuFu_YuFu_2",
+  "text": "ليتني لم أحتفظ بذلك الحجر!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_ZhongNuA_ZhongNuA_1",
+  "text": "هذه النشّابة تخترق ثلاث طبقات من الدروع. فأيّ مسخ سينجو من ذلك؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_ZhongNuB_ZhongNuB_1",
+  "text": "لنرَ كم سهمًا تتحمل تلك الأشياء."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_1",
+  "text": "في البداية... تغمرك قوة هائلة، ويخيّل إليك أن لا شيء يقف في طريقك..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_2",
+  "text": "كأنك... تملك أخيرًا القوة اللازمة للقضاء على السائرين المقنّعين..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_3",
+  "text": "ثم يبدأ الطنين... خافتًا في البداية... كأن شيئًا يهمس في أذنك..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_4",
+  "text": "ثم يبدأ العقل بالتلاشي رويدًا... وحين تستعيد وعيك... تكون الذكرى قد اختفت."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_5",
+  "text": "ثم يأتي الظمأ... لا إلى الماء، بل إلى الدم."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_6",
+  "text": "حين تنظر إلى أعناق سائر التلاميذ... تجد نفسك فجأة تتساءل عن مذاق لحمهم..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_7",
+  "text": "رأيت ما آلوا إليه. كلهم ينتهون إلى الحال نفسها..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_8",
+  "text": "يا أختي الكبرى... لا أريد أن ينتهي بي المطاف هكذا... لا أريد..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_1",
+  "text": "آه! داتشو، لقد عدت!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_2",
+  "text": "شوأر... ألا تخافين مني؟"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_3",
+  "text": "داتشو؟"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_4",
+  "text": "لم أعد داتشو الذي عرفتِه!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_5",
+  "text": "العمة تشين التي كانت تبيع الفطائر عند بوابة البلدة... والمعالج العجوز في دكان الأعشاب... ها... أنا قتلتهما... قتلتهم جميعًا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_6",
+  "text": "أنا... لا أمل في خلاصي بعد الآن!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_7",
+  "text": "داتشو... أنت... أ-أنا لا ألومك..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_8",
+  "text": "طال بك الترحال حتى ضللت طريقك... إن أردت العودة، فما زال الوقت متاحًا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_9",
+  "text": "هل تذكر <Bold>شجرة الصوفورا القديمة قرب البئر</>؟ كنا نلعب هناك صغارًا. لقد كبرَتْ كثيرًا منذ ذلك الحين..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_10",
+  "text": "وقتذاك دفنّا تحتها جرّة فخارية صغيرة... وتمنّينا أمنية معًا... مهما حدث—"
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiXueEr_BXE_11",
+  "text": "انظر يا داتشو! تلك السحب هناك تبدو كأرانب صغيرة..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_CaiZhuFuQin_1",
+  "text": "أنتِ... يا مشؤومة! وجهكِ كوجه أمكِ التي ماتت شابة... كأن الشؤم وُلد معكما، أنتِ وأمك!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_CaiZhuFuQin_4",
+  "text": "تجرئين على الردّ عليّ؟ ها! كانت سينيانغ على حق؛ أنتِ وأمكِ جلبتما اللعنة على هذا البيت! سأ... سأقضي عليكِ اليوم، يا نذير الشؤم!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_CaiZhuFuQin_11",
+  "text": "أنت... يا لك من ابن عاقّ! اخرج! كلاكما، اخرجا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_5",
+  "text": "كفى! أبي، عُد إلى رشدك! ما ذنب أختي؟! إنها من لحمك ودمك!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_7",
+  "text": "أبي، كفى! صبّ غضبك عليّ بدلًا منها! مهما يكن عقابك، سأتحمّله عنها! همف..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_9",
+  "text": "اليوم... سأقطع إصبعًا. لكن إن آذيت أختي مرة أخرى، فسأشقّ عنقي أمام قبور أسلافنا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_10",
+  "text": "وسأخبر أسلافنا أمام قبورهم كيف فضّلت محظية على زوجتك، وعاديت لحمك ودمك، ودفعت أبناءك إلى حتفهم!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiu_3",
+  "text": "أبي؟ أ... أنتَ ثمل..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiu_8",
+  "text": "أ-أخي!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LaoMo_2",
+  "text": "بالطبع. وجهاء ضيعة السراب ينتظرون قدومك بفارغ الصبر."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LaoMo_3",
+  "text": "لولا رقصة الأسد التي نؤديها لطرد النحس، لما اطمأنّ أولئك التجار الأثرياء وهم يمارسون أعمالهم."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LaoMo_5",
+  "text": "لكن... صديقك، الوجيه غاو..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LaoMo_7",
+  "text": "سمعت أن الوجيه غاو مرض مرضًا شديدًا. لن يستطيع حضور وليمة رأس السنة."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LieYan_1",
+  "text": "هل بدأت الاستعدادات لرقصة الأسد لهذا العام في ضيعة السراب؟"
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LieYan_4",
+  "text": "لقد أحسنوا إلينا كثيرًا. علينا أن نريهم الروح الحقيقية لطائفة رقصة الأسد."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LieYan_6",
+  "text": "وماذا به؟"
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan1_LieYan_8",
+  "text": "حقًا؟ غاو قوي وماهر... كيف أصابه المرض فجأة؟"
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan2_LengTu_1",
+  "text": "أنا لنغ تو. لقد دوّى اسمك في أرجاء الوولين كالرعد، يا لهيب، المعلّم الأكبر لرقصة الأسد."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan2_LengTu_4",
+  "text": "هاهاها... ما هي إلا شائعات لا أساس لها."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan2_LengTu_5",
+  "text": "أنا مجرد مؤدٍّ متواضع، أجوب الوولين ببعض حيل الدمى البسيطة."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan2_LengTu_6",
+  "text": "في الحقيقة، لا يختلف ذلك كثيرًا عن رقصة الأسد التي تؤديها."
+ },
+ {
+  "key": "Dlg_PZ_MEM_LieYan2_LengTu_8",
+  "text": "بالضبط."
+ }
+]

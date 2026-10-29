@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ7_QiShiDi_1",
+  "text": "بالضبط! ليس الارتقاء الكامل كما وعدوا... ستفقد نفسك رغم ذلك، لكن ببطء أكبر..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ7_QiShiDi_2",
+  "text": "وهل يحتفظ من يخضعون له فعلًا بإرادتهم الحرة؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QXJZ7_QiShiDi_3",
+  "text": "بحسب ما رأيت، لم يعودوا يطيعون إلا ذلك المعلّم باي!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_MoJiZi_4",
+  "text": "تشيانتشيان، لا تكفين عن ملاحقة الحكايات بدلًا من التركيز على تدريبك."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_MoJiZi_5",
+  "text": "تكبر حكايات الوولين كلما تناقلها الناس. والحق أنني كنت متهورًا أكثر مما ينبغي في تلك الغارة على قطاع الطرق."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_MoJiZi_6",
+  "text": "ومع ذلك... كانت أيامًا تفور فيها دماؤنا ويبدو العالم مفتوحًا على مصراعيه..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_MoJiZi_7",
+  "text": "في ذلك الزمن، كنا نحن الثلاثة شبابًا متهورين، تملؤنا أحلام الشيا والطموحات الكبرى."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_MoJiZi_8",
+  "text": "ظننا أننا نستطيع إصلاح كل ظلم بأيدينا، ولا سلاح لنا سوى سيوفنا..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_MoJiZi_10",
+  "text": "تشيانتشيان... أحدثك بهذا كيلا تضيعي في أساطير الوولين."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_MoJiZi_11",
+  "text": "لا تُقاس البطولة الحقة بعظم الأعمال، بل بأن يظل المرء وفيًا للعدل الذي في قلبه."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_QianQian_1",
+  "text": "يا معلمي، سمعت اليوم من أحد الشيوخ حكاية أخرى: كيف قضيت أنت والمعلمان الآخران على قطاع الطرق قرب بلدة يه!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_QianQian_2",
+  "text": "كان قطاع الطرق أكثر منكم عددًا، لكن لم تكن لهم فرصة! هبطت أنت والمعلمة يوين والمعلم هوانغشينغ عليهم كأنكم آلهة وأرديتموهم!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian1_QianQian_9",
+  "text": "يا معلمي، أشعر أن قلبك لم يتغير منذ تلك الأيام..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_MoJiZi_2",
+  "text": "لا شيء. كنت أفكر فحسب... لم يعرف الوولين السلام منذ عقود؛ من الحرب على حصن مو إلى فوضى السائرين المقنّعين، وها نحن أمام هذا الآن..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_MoJiZi_3",
+  "text": "لم تتوقف إراقة الدماء حقًا طوال هذه السنين. في عالم تسوده السيوف والاقتتال، من يستطيع أن يبقى كما هو...؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_MoJiZi_5",
+  "text": "هل لاحظتِ؟ لطالما كانت المعلمة يوين قوية العزيمة، لكنها في هذه الأيام لا تترك مجالًا يُذكر لأحد كي يشكك في قراراتها."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_MoJiZi_6",
+  "text": "وأما المعلم هوانغشينغ... فيبدو هذه الأيام أكثر انطواءً من أي وقت مضى..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_MoJiZi_16",
+  "text": "ومع ذلك، ستنقضي هذه المحنة. ولا يزال في الوولين الكثير مما يستحق التطلع إليه."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_QianQian_1",
+  "text": "يا معلمي... تبدو مرهقًا. هل السبب السائرون المقنّعون؟ أرجوك... اعتنِ بنفسك..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_QianQian_8",
+  "text": "يا معلمي... إن أذنت لي... أظن أن صرامة المعلمة يوين وصمت المعلم هوانغشينغ... ليسا إلا قناعين."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_QianQian_10",
+  "text": "...يتسلح بعضهم بالسلطة والقوة، بينما ينزوي آخرون وراء الصمت والجفاء."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_QianQian_12",
+  "text": "في كلتا الحالتين... لعلهم يخشون فحسب أن يدَعوا الآخرين يرون مدى هشاشتهم حقًا."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian2_QianQian_13",
+  "text": "في هذه الأوقات العصيبة... كم من الناس يستطيع أن يبقى بلا خوف وصادقًا مع نفسه مثلك يا معلمي؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_3",
+  "text": "معلّمي موجي فريد من نوعه..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_4",
+  "text": "لم يتزعزع إيمانه قط بأن الناس طيبون... وأن أطول ليل لا بد أن ينقضي."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_5",
+  "text": "أعلم... أن تفكيره قد يبدو ساذجًا في نظر الوولين... حتى المعلمة يوين والمعلم هوانغشينغ يريانه كذلك..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_6",
+  "text": "لكنني لم أرَ في ذلك سذاجة قط... بل إنسانًا بحق."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_7",
+  "text": "ليس كأبطال الحكايات والأساطير العظام، أولئك الذين لا وجود لهم إلا فيها."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_8",
+  "text": "يبتسم ويقلق ويحزن لما يعانيه الآخرون. ولا يألو جهدًا في حماية الضعفاء... ويجد عزاءه فيما بقي في هذا العالم من طيبة..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_9",
+  "text": "فيه دفء وإنسانية... يجعلانك تشعر بأن الأمل لا يزال موجودًا، حتى في هذا الوولين القاسي البارد..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_QianQian3_QianQian_11",
+  "text": "أريد أن أصبح مثله... رقيقة، ثابتة، وصادقة مع قلبي..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZhuiSha_HuangBuXia_4",
+  "text": "هه... أين معلّمك موجي الآن؟ لماذا لم يأتِ لينقذك؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZhuiSha_HuangBuXia_7",
+  "text": "هه... لن يفلت المعلّم موجي. سيجعله المعلّم هوانغشينغ يتعذّب عذابًا أشد من الموت!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZhuiSha_HuangBuXia_8",
+  "text": "اتبع المعلّم هوانغشينغ... هذا هو السبيل الوحيد!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZhuiSha_ShouShangDiZi_2",
+  "text": "المعلّم... المعلّم موجي... سيأتي لنجدتنا!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZhuiSha_ShouShangDiZi_6",
+  "text": "ماذا... ماذا فعلت به؟!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_1",
+  "text": "كفى! أيّ شرف في استهداف أصحاب الرداءين الأبيض والأزرق؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_2",
+  "text": "هاجموني أنا بدلًا منهم!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_3",
+  "text": "أنا أحد قادة الرداء الأرجواني... ومهارتي ومكانتي تجعلانني أنفع لكم بكثير."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_4",
+  "text": "هؤلاء التلاميذ لا يفعلون إلا تنفيذ الأوامر. أطلقوا سراحهم... وافعلوا بي ما تشاؤون!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_2",
+  "text": "ما زلتَ متمسكًا بذلك العهد العزيز؟ انظر حولك. معسكر الميثاق ينهار."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_3",
+  "text": "التزمنا بالقواعد، وفينا بوعودنا... والآن اختفى المعلّم موجي من دون أن يترك أثرًا..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_4",
+  "text": "وقفنا مكتوفي الأيدي بينما كان رفاقنا يسقطون واحدًا تلو الآخر!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_6",
+  "text": "حوّلت نفسي إلى كائن قادر على قتل الوحوش!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_7",
+  "text": "وأنت أيضًا تستطيع..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ZiYiShuangJianB_1",
+  "text": "أقسمنا ألا نلجأ إلى هذا الفنّ الخبيث أبدًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ZiYiShuangJianB_5",
+  "text": "وهل لهذا اخترتِ أن تصبحي وحشًا؟"
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_1",
+  "text": "هل ما زال هنا أناس طبيعيون حقًا؟ ههه..."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_3",
+  "text": "هه... واحد آخر يمضي إلى حتفه..."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_4",
+  "text": "تفضّل إذن. اسلك <Bold>ذلك المدخل هناك</>..."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_4_1",
+  "text": "بعد بيوت الحمام والممر المحاذي للجرف... عند <Bold>أبراج المراقبة الثلاثة المشتعلة</>، ستجد سبعة مبارزين."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_5",
+  "text": "قائدهم... لا أحد يعرف اسمه الحقيقي. لا ينادونه إلا بكبير التلاميذ."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_6",
+  "text": "لديهم المفتاح الذي تحتاج إليه."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_8",
+  "text": "يتحرك السبعة كأنهم شخص واحد. وقد قتلوا أعداء لا يُحصون بتشكيلة النجوم السبعة."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_9",
+  "text": "لكنهم الآن... أجساد خاوية، ووجوههم جوفاء..."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_11",
+  "text": "من دون قلب، لا يكون الإنسان سوى قشرة خاوية..."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_11_1",
+  "text": "ينامون كأن أرواحهم قد فارقتهم... وحين يستيقظون، لا يعودون بشرًا."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_13",
+  "text": "وجهي... إنه يتلاشى، أليس كذلك؟... هه."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_14",
+  "text": "لا تقلق... لقد تناولت السم بالفعل. سأموت قبل أن أتحول إلى واحد من تلك الأشياء. ههه!"
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_15",
+  "text": "امضِ... دعني أرتاح..."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_DiZi_16_Re",
+  "text": "هيا... دعني أرتاح..."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_Hun_2",
+  "text": "سأتجه إلى عمق ميدان التدريب."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_Hun_7",
+  "text": "شكرًا لك."
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_Hun_10",
+  "text": "هل هذا... ما يفعله الارتقاء الكامل بالجميع؟"
+ },
+ {
+  "key": "Dlg_ZDDY_QXJZ_Hun_12",
+  "text": "وأنت..."
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_DiZi_1",
+  "text": "أرجوك... أسرع... أنقذ الميثاق..."
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_DiZi_3",
+  "text": "ه-هوانغشينغ... أجبرنا على الخضوع لهذا «الارتقاء الكامل»... وقد خضع له معظمهم بالفعل..."
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_DiZi_4",
+  "text": "لكن «الكامل» لم يكن إلا اسمًا برّاقًا..."
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_DiZi_5",
+  "text": "إنه في الحقيقة مجرد..."
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_DiZi_R1",
+  "text": "آه... جيد... اقتلوهم!"
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_DiZi_R2",
+  "text": "أنقذوا... الميثاق... أرجوكم..."
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_DiZi_R3",
+  "text": "اقضوا... على تلك المسوخ!"
+ },
+ {
+  "key": "Dlg_ZDDY_QiaoTou_Hun_2",
+  "text": "تلاميذ الميثاق هنا... لقد صاروا جميعًا..."
+ },
+ {
+  "key": "Dlg_ZDDY_ShiKe_DaMen1_1",
+  "text": "الاستقامة في النفس، والإخلاص في صون الطريق"
+ },
+ {
+  "key": "Dlg_ZDDY_ShiKe_YiGuanZhong1_1",
+  "text": "هوى جناح السيف وضاع الطريق القويم، ولم يبق من الرفاق القدامى إلّا غبارٌ دفين."
+ },
+ {
+  "key": "Dlg_ZDDY_ShiKe_YiGuanZhong1_2",
+  "text": "أضاءت البطولة الدنيا يومًا، واليوم ترقد أرواح أهل الحقّ تحت الثرى منذ حين."
+ },
+ {
+  "key": "Dlg_ZDDY_ShiKe_YiGuanZhong1_3",
+  "text": "تُعرض السماء عن الصادقين من الكرام، ويحتضن الزمن الساقط قدّيسين زائفين."
+ },
+ {
+  "key": "Dlg_ZDDY_ShiKe_YiGuanZhong1_4",
+  "text": "ولو عاد الشرف بعد الموت، ما محا حقدًا حُفر في دمائنا على مرّ السنين."
+ },
+ {
+  "key": "Dlg_ZDDY_TuDiMiao_Leave_Hun_1",
+  "text": "هناك شيء مخفي هنا... ربما عليّ مواصلة البحث."
+ },
+ {
+  "key": "Dlg_ZDDY_XiaoDongKu_BaiShanNvDiZi_1",
+  "text": "آآآآه!"
+ },
+ {
+  "key": "Dlg_ZDDY_Xiaoxue_1",
+  "text": "جائع... جائع جدًا..."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_HuangXingZi1_1",
+  "text": "صقل القلب وشحذ السلاح، طلبًا لأقصى غايات طريق القتال."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_HuangXingZi1_2",
+  "text": "السيف في اليد والرمح على أهبة، قسمًا بتطهير زمن الفتن من الأهوال."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_HuangXingZi1_3",
+  "text": "في أقصى قمم كونلون، تبدو السماء والأرض بلا حدود."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_HuangXingZi1_4",
+  "text": "وإذا بلغ الفنّ القتالي كماله، هدأت الريح والغيوم والرعود."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_MoJiZi1_1",
+  "text": "بابي متواضع صغير، وكلّ من دخله رفيق روح."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_MoJiZi1_2",
+  "text": "فلِمَ الخوف من ليالٍ مظلمة وراء ممرّات الجبال والسفوح؟"
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_MoJiZi1_3",
+  "text": "طوبى لمن وجد تحت القمر رفيقًا صادقًا."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_MoJiZi1_4",
+  "text": "فلِمَ الخوف من موجٍ هائجٍ في بحرٍ يمتدّ آفاقًا؟"
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_YiShiTing1_1",
+  "text": "لتتّحد المدارس كلّها في صون الطريق القويم."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_YiShiTing1_2",
+  "text": "ولتحرس السيوف عالم القتال ألف جيلٍ ويدوم."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_YuYinZi1_1",
+  "text": "بالسكون التامّ يأتي الصفاء التامّ."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_YuYinZi1_2",
+  "text": "وبطرد الشياطين تُنار الظلال ويزول الظلام."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_YuYinZi1_3",
+  "text": "وبعبور أعمق الهوّات تُدرك الغاية العليا."
+ },
+ {
+  "key": "Dlg_ZDDY_YingLian_YuYinZi1_4",
+  "text": "وبنبذ الوهم يُحفظ الحقّ ويحيا."
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiDaoWeiA1_ZiYiDaoWeiA_1",
+  "text": "لن تسيطر عليّ حيلٌ وضيعة كهذه أبدًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiDaoWeiA2_ZiYiDaoWeiA_1",
+  "text": "اقتلني فحسب!"
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiShuangJianB1_ZiYiShuangJianB_1",
+  "text": "قد يفنى جسدي... لكن إرادتي لن تلين!"
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiShuangJianB2_ZiYiShuangJianB_1",
+  "text": "افعلها. أجهز عليّ!"
+ },
+ {
+  "key": "Dlg_ZuZi_Conference1_MuTianMiao_4",
+  "text": "لا رغبة لي في نبش تلك الذكريات التي طواها الزمن."
+ }
+]

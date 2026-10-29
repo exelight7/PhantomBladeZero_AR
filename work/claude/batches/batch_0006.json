@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_Battle_WuMen_Hun_1",
+  "text": "حاجز من شا-تشي... لا بد من القضاء على الأعداء القريبين كي أتابع."
+ },
+ {
+  "key": "Dlg_Battle_WuMen_Hun_2",
+  "text": "(يجب أن أقضي على جميع الأعداء القريبين.)"
+ },
+ {
+  "key": "Dlg_Battle_Yizhe1_Hun_1",
+  "text": "إنه معلّق في الهواء، ويتغذى على شا-تشي لدى تلاميذ بايشان."
+ },
+ {
+  "key": "Dlg_Battle_Yizhe2_Hun_1",
+  "text": "ماذا؟ إنهم يُبعثون من جديد وكأن شيئًا لم يحدث؟"
+ },
+ {
+  "key": "Dlg_Battle_Yizhe_Hun_1",
+  "text": "لا بد أن أقضي على ذلك المعالج أولًا، وإلا فلن تنتهي هذه المعركة أبدًا."
+ },
+ {
+  "key": "Dlg_Carriage_Conversation1_ZhongShu_1",
+  "text": "دخل المعلّم سول بانغتشن. ويبدو أن القلب الملوّث لنحّات اللحم قد أعاد إليه قوته."
+ },
+ {
+  "key": "Dlg_Carriage_Conversation1_ZuoShang_2",
+  "text": "قد لا يكون تغيير مجرى اللعبة سيئًا."
+ },
+ {
+  "key": "Dlg_Carriage_Conversation1_ZuoShang_3",
+  "text": "وأنا في انتظار خطوته التالية."
+ },
+ {
+  "key": "Dlg_Common_Dead66_Inanis_1",
+  "text": "في هذه الدورة، يقتطع كل بعث يومًا من عمرك."
+ },
+ {
+  "key": "Dlg_Common_Dead66_Inanis_2",
+  "text": "حين تنفد الأيام الـ66... لن تعود أبدًا."
+ },
+ {
+  "key": "Dlg_Common_Investigate_FlowerZaoYin_1",
+  "text": "سسس... شش... فرقعة..."
+ },
+ {
+  "key": "Dlg_Common_Investigate_FlowerZaoYin_2",
+  "text": "بهتت الذكرى الباقية حتى غدت كخيط واهن."
+ },
+ {
+  "key": "Dlg_Common_Investigate_FlowerZaoYin_3",
+  "text": "قد يصلح شيء ذو خواص روحية، كاليشم، وسيطًا يعيد ذكريات الزهرة إلى الظهور."
+ },
+ {
+  "key": "Dlg_Common_Option1",
+  "text": "الدخول"
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_2",
+  "text": "ذلك... ذلك العقد... أعرفه... إنه لي... لي..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_3",
+  "text": "لكن... لِمَ أتذكره؟"
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_4",
+  "text": "أشعر كأن... منذ زمن بعيد... داتشو... هو..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_5",
+  "text": "لا... لا أستطيع التذكر... لا أستطيع تذكر أي شيء... رأسي... فارغ... يؤلمني..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_6",
+  "text": "أرجوك... ساعدني... لا أستطيع التذكر..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_7",
+  "text": "خذه... خذ العقد... إلى بانغتشن... إلى الزقاق الخلفي..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_8",
+  "text": "ضعه عليّ... على ذاتي في بانغتشن... على ذاتي الحقيقية..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_BXE_10",
+  "text": "ش... شكرًا... حقًا... شكرًا..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_Hun_1",
+  "text": "يبدو أن هذا العقد حرّك أثرًا من الوعي لا يزال عالقًا في الدمية..."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr1_Hun_9",
+  "text": "سأفعل."
+ },
+ {
+  "key": "Dlg_DDSD_BaiXueEr_BXE_1",
+  "text": "داتشو... أخيرًا أحضرتَ العقد..."
+ },
+ {
+  "key": "Dlg_DDSD_JiShaHuangXingZi_Hun_1",
+  "text": "هذا لكل الأرواح التي أزهقتها..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_Hun_3",
+  "text": "موجي؟ أين أنت؟"
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_Hun_5",
+  "text": "لم أظن أن لقاءنا ذلك سيكون الأخير."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_Hun_9",
+  "text": "أخذوها وجعلوها «الوعاء صفر» للمبعوث... نموذجًا أوليًا لتجاربهم."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_Hun_10",
+  "text": "كان غرضه من صنع دمية كاملة كهذه... أن..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_Hun_14",
+  "text": "هوانغشينغ... هل ما زال يقدّر رابطة الأخوّة؟"
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_1",
+  "text": "لم أظن... أنك ستتمكن من هزيمته."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_2",
+  "text": "كان لي شرف القتال إلى جانبك..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_4",
+  "text": "لم يقتلني هوانغشينغ... بل حبس جزءًا مني داخل هذا التمثال الطيني."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_6",
+  "text": "في ذلك اليوم... قاتلنا نحن الثلاثة إلى جانب تنظيمك..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_7",
+  "text": "لكن... كان هوانغشينغ قد تآمر مع تسو شانغ... وقتلا أختي الكبرى، يوين..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_8",
+  "text": "كما أسر الوتر... وسجنها <Bold>تحت المزار</>..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_11",
+  "text": "سيدة الحجاب..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_12",
+  "text": "إنها كيان مرعب حبيس في العالم الخفي... شيء يجب ألا يُسمح له بالإفلات أبدًا..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_13",
+  "text": "كل ما فعلوه... كان غايته إحضارها إلى عالم اليقظة..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_15",
+  "text": "ههه... وما الفرق؟ سينتهي كل شيء قريبًا..."
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_16",
+  "text": "يا معلّم سول... باتت آمالنا كلها معلّقة بك الآن!"
+ },
+ {
+  "key": "Dlg_DDSD_KLSJ_MJZ_17",
+  "text": "استخدم المقصلة الطائرة لهوانغشينغ... لتدير المفتاح عند القاعدة!"
+ },
+ {
+  "key": "Dlg_DDSD_LiZheJuZhe_Hun_1",
+  "text": "من دون المنشار، لن يزداد المحطِّم إلا اضطرابا..."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_1",
+  "text": "آه... شكرًا جزيلًا يا معلّم سول..."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_3",
+  "text": "هذا آخر برج شا-تشي في هذه الأنحاء... بحثت في كل مكان. وقد التهمت كل الأحجار البدائية!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_5",
+  "text": "إن آل الأمر إلى ذلك، فأنا أفضل الموت!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_6",
+  "text": "لكن... أظن أن حالتي تتحسن."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_7",
+  "text": "صرت أستطيع الصمود مدة أطول بين حجر بدائي وآخر، وأشعر أن ختم العقل أوشك أن يزول نهائيًا!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_8",
+  "text": "ربما يبطئ كل هذا البرد شا-تشي..."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_9",
+  "text": "لو استطعت أن أعيش ما تبقى من عمري كرجل عادي، لما وجدت بأسًا في البقاء في هذه الأرض المتجمدة."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_12",
+  "text": "تفضّل يا معلّم سول. سأستريح هنا قليلًا ثم أتابع طريقي."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun11",
+  "text": "اعتنِ بنفسك!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun_2",
+  "text": "ما الذي يشغل بالكَ؟"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun_4",
+  "text": "هل تخشى أن يعود شا-تشي للسيطرة عليكَ إن غاب الحجر البدائي؟"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun_10",
+  "text": "إن صحّ ذلك، فسيكون رائعًا حقًا."
+ },
+ {
+  "key": "Dlg_DHSD_BiGuan_ZuoShang_ZuoShang_1",
+  "text": "وبالمناسبة، قبل أن يدخل شيفو في خلوته، ترك خريطةً تحدد موقعًا. وأوصاني بأن أسلّمها إليك."
+ },
+ {
+  "key": "Dlg_DHSD_BiGuan_ZuoShang_ZuoShang_2",
+  "text": "قال إن لهذا الموقع صلة بنسبك."
+ },
+ {
+  "key": "Dlg_DHSD_BiGuan_ZuoShang_ZuoShang_3",
+  "text": "لعلّك تجد طريقة لمعالجة شا-تشي لديك... وتكتشف حتى حقيقة والديك."
+ },
+ {
+  "key": "Dlg_DHSD_ChaoFeng_YingMei1_1",
+  "text": "آه... يا معلم سول!"
+ },
+ {
+  "key": "Dlg_DHSD_ChaoFeng_YingMei1_3",
+  "text": "ستموت هنا! ستموت هنا!"
+ },
+ {
+  "key": "Dlg_DHSD_ChaoFeng_YingMei2_2",
+  "text": "إذًا أنت من دمّر الوعاء المثالي... كل هذا بلا جدوى!"
+ },
+ {
+  "key": "Dlg_DHSD_FXDKAll_Hun_1",
+  "text": "ذلك الجرس مرة أخرى..."
+ },
+ {
+  "key": "Dlg_DHSD_FXDKAll_Hun_2",
+  "text": "حتى سيّد النصل في العاصفة الثلجية انخدع به."
+ },
+ {
+  "key": "Dlg_DHSD_FXDKAll_Hun_3",
+  "text": "ذلك الجرس... غيّر حياتي أنا أيضًا."
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe1_Battle_1",
+  "text": "مهارتك مثيرة للإعجاب."
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe1_Battle_2",
+  "text": "هل تستطيع هزيمة جسدي هذا؟"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe1_Battle_3",
+  "text": "راقب جيدًا. سأضرب مرة واحدة فحسب!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe2_FengXueDaoKe_Battle_1",
+  "text": "إن انتصرت... فاقتل أولئك الأشرار عنّي جميعًا حتى آخر واحد!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe2_Hun_Battle_2",
+  "text": "سأنفّذ ذلك!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe3_Battle_1",
+  "text": "ليس كافيًا! ما زال غير كافٍ!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe3_Battle_2",
+  "text": "يا للأسف، لم نتمكن من تبادل مزيد من الضربات."
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe4_Battle_1",
+  "text": "من أجل... شياو فنغ... انتقم له..."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_1",
+  "text": "...البرد قارس هنا يا معلّم سول..."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_3",
+  "text": "هذا المكان خطر. سأرافقك يا معلّم سول. دعني أساعدكَ."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_4",
+  "text": "التنظيم وطائفة ربط الخيوط يمزّق كلٌّ منهما الآخر! كيف أفوّت هذه المتعة؟"
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_Re_1",
+  "text": "كن حذرًا هناك يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_Hun_2",
+  "text": "إذن، وصلت إلى هنا أنت أيضًا."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_Hun_5",
+  "text": "لم تعثر على الحجر البدائي هنا بعد، أليس كذلك؟ انتظر هنا، سأعود."
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWanCheng_Inanis_1",
+  "text": "أعرف أنك قادر على إيقاف السيدة وإنقاذ الوولين."
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWanCheng_Inanis_2",
+  "text": "لكن ماذا عن <Bold>شؤونك الخاصة</>... هل حُسمت كلها؟"
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWanCheng_Inanis_3",
+  "text": "لا أريدك أن تظل مثقلًا بالندم!"
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWeiWan_Inanis_1",
+  "text": "ما زال أمامك أمر بالغ الأهمية عليك إتمامه..."
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWeiWan_Inanis_2",
+  "text": "التسرع في المضي قدمًا... <Bold>قد لا يؤدي إلا إلى كارثة</>."
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWeiWan_Inanis_3",
+  "text": "هل تريد حقًا أن تتابع؟"
+ },
+ {
+  "key": "Dlg_DHSD_HuanShuShiNan1_HuanShuShiNan1_1",
+  "text": "إنها هنا... تتسرّب إلى لحمي..."
+ },
+ {
+  "key": "Dlg_DHSD_HuanShuShiNan4_HuanShuShiNan4_1",
+  "text": "الصوت عالٍ جدًا! عالٍ جدًا... جميل... السيدة... إنها تناديني!"
+ },
+ {
+  "key": "Dlg_DHSD_HuanShuShiNv_HuanShuShiNv_1",
+  "text": "يدي... يدي... فيها عيون... إنها تحدّق إليّ!"
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_DaoHen1_1",
+  "text": "خلّف نصل أطول من المعتاد هذا الشق الطويل المستقيم."
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_GuiChaiShiTi_1",
+  "text": "لم تكتفِ طائفة ربط الخيوط بالانتصار في المواجهة، بل حوّلتها إلى مجزرة..."
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_HuanShuShi1_1",
+  "text": "ذلك الدخيل... هه... حتى هو لن يفلت من قبضة الشيخ الأكبر..."
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_HuanShuShi2_1",
+  "text": "اختفى شياو فنغ منذ زمن بعيد... لن يعثر عليه أبوه أبدًا الآن!"
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_HuanShuShi3_1",
+  "text": "اتخذ تسعة وتسعون جسدًا جديدًا... لم يعد بالإمكان إيقافه!"
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_RenOu1_1",
+  "text": "أسقطت ضربة واحدة مجموعةً من الدمى دفعة واحدة. أسلوب النصل المستخدم مثير للإعجاب."
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_RenOu2_Hun_1",
+  "text": "يبدو أن مبارزًا شق طريقه بالقوة، فأسقط عددًا لا يُحصى من الدمى وتلاميذ طائفة ربط الخيوط."
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_RenOu2_Hun_2",
+  "text": "لم أرَ في حياتي أسلوبًا في المبارزة كهذا."
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_RenTuZi1_1",
+  "text": "يبدو أن الصقيع يتخلل جرح هذه الجثة."
+ },
+ {
+  "key": "Dlg_DHSD_LGT_Hun_2",
+  "text": "هل هذا..."
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_0",
+  "text": "أهلًا!"
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_1",
+  "text": "كدت أستنفد كل ما عندي لأدبّر هذا. اذهب وأرهم الويل!"
+ }
+]

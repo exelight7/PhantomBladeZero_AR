@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Item_Accessory_005_1",
+  "text": "قلادة الاستقامة · محسّنة"
+ },
+ {
+  "key": "Item_Accessory_006",
+  "text": "واقي الصخر"
+ },
+ {
+  "key": "Item_Accessory_006_1",
+  "text": "واقي الصخر · محسّن"
+ },
+ {
+  "key": "Item_Accessory_007",
+  "text": "جهاز ردود الفعل"
+ },
+ {
+  "key": "Item_Accessory_007_1",
+  "text": "تميمة ردود الفعل · محسّنة"
+ },
+ {
+  "key": "Item_Accessory_007_2",
+  "text": "تميمة ردود الفعل · عليا"
+ },
+ {
+  "key": "Item_Accessory_008",
+  "text": "قلادة سريع اليد"
+ },
+ {
+  "key": "Item_Accessory_008_1",
+  "text": "قلادة اليد السريعة المحسّنة"
+ },
+ {
+  "key": "Item_Accessory_009",
+  "text": "زوج قلادات سريع اليد"
+ },
+ {
+  "key": "Item_Accessory_009_1",
+  "text": "قلادة سريع اليد المزدوجة المحسّنة"
+ },
+ {
+  "key": "Item_Accessory_010",
+  "text": "قوة اليد السريعة"
+ },
+ {
+  "key": "Item_Accessory_010_1",
+  "text": "القلادة الثقيلة لسريع اليد·مُحسّنة"
+ },
+ {
+  "key": "Item_Accessory_012",
+  "text": "تميمة كاسرة الدروع"
+ },
+ {
+  "key": "Item_Accessory_012_1",
+  "text": "تميمة الحصن المحسّنة"
+ },
+ {
+  "key": "Item_Accessory_013",
+  "text": "جرة الحفظ"
+ },
+ {
+  "key": "Item_Accessory_013_1",
+  "text": "جرة الحفظ المحسّنة"
+ },
+ {
+  "key": "Item_Accessory_014",
+  "text": "ختم دوغو"
+ },
+ {
+  "key": "Item_Accessory_014_1",
+  "text": "ختم دوغو لينغهه"
+ },
+ {
+  "key": "Item_Accessory_015",
+  "text": "القارورة المهدئة"
+ },
+ {
+  "key": "Item_Accessory_016",
+  "text": "لفافة صامتة"
+ },
+ {
+  "key": "Item_Accessory_017",
+  "text": "تميمة الرنين"
+ },
+ {
+  "key": "Item_Accessory_018",
+  "text": "واقي الصدر النحاسي"
+ },
+ {
+  "key": "Item_Accessory_019",
+  "text": "عقدة جوهرة"
+ },
+ {
+  "key": "Item_Accessory_019_1",
+  "text": "نسيج ثمين محسّن"
+ },
+ {
+  "key": "Item_Accessory_020",
+  "text": "مسبحة من خشب العود"
+ },
+ {
+  "key": "Item_Accessory_020_1",
+  "text": "مسبحة من خشب العود المحسّنة"
+ },
+ {
+  "key": "Item_Accessory_021",
+  "text": "قلب الدمية الخشبي"
+ },
+ {
+  "key": "Item_Accessory_021_1",
+  "text": "قلب الدمية الخشبي·المحسّن"
+ },
+ {
+  "key": "Item_Accessory_022",
+  "text": "قفل الموت"
+ },
+ {
+  "key": "Item_Accessory_022_1",
+  "text": "تميمة مصوغة محسّنة"
+ },
+ {
+  "key": "Item_Accessory_023",
+  "text": "تميمة الأم"
+ },
+ {
+  "key": "Item_Accessory_023_1",
+  "text": "تميمة الأم·مُحسّنة"
+ },
+ {
+  "key": "Item_Accessory_024",
+  "text": "الخيط الرفيع"
+ },
+ {
+  "key": "Item_Accessory_024_1",
+  "text": "كرة الخيط الرفيع·المحسّنة"
+ },
+ {
+  "key": "Item_Accessory_025",
+  "text": "واقي السهام"
+ },
+ {
+  "key": "Item_Accessory_025_1",
+  "text": "واقي السهام·المحسّن"
+ },
+ {
+  "key": "Item_Accessory_026",
+  "text": "قفص الشرارة المظلمة"
+ },
+ {
+  "key": "Item_Accessory_026_1",
+  "text": "قفص صراصير العمّ لو المحسّن"
+ },
+ {
+  "key": "Item_Accessory_026_2",
+  "text": "قفص صراصير العمّ لو الأسمى"
+ },
+ {
+  "key": "Item_Accessory_027",
+  "text": "واقي اللهب"
+ },
+ {
+  "key": "Item_Accessory_027_1",
+  "text": "واقي اللازورد·المحسّن"
+ },
+ {
+  "key": "Item_Accessory_028",
+  "text": "عصابة رأس شا-تشي"
+ },
+ {
+  "key": "Item_Accessory_028_1",
+  "text": "عصابة رأس شا-تشي·المحسّنة"
+ },
+ {
+  "key": "Item_Accessory_029",
+  "text": "تميمة تخثّر الدم"
+ },
+ {
+  "key": "Item_Accessory_029_1",
+  "text": "تميمة تخثّر الدم·مُحسّنة"
+ },
+ {
+  "key": "Item_Accessory_030",
+  "text": "العزيمة القرمزية"
+ },
+ {
+  "key": "Item_Accessory_031",
+  "text": "جرة دواء القصر"
+ },
+ {
+  "key": "Item_Accessory_032",
+  "text": "مروحة الرقص"
+ },
+ {
+  "key": "Item_Accessory_033",
+  "text": "الثلج والدم"
+ },
+ {
+  "key": "Item_Accessory_034",
+  "text": "كرة نار الأسد الميمون"
+ },
+ {
+  "key": "Item_Accessory_034_1",
+  "text": "كرة نار الأسد المبارك·المصقولة"
+ },
+ {
+  "key": "Item_Accessory_035",
+  "text": "قلادة اليشم المباركة"
+ },
+ {
+  "key": "Item_Accessory_035_1",
+  "text": "قلادة اليشم المتلألئة·مصقولة"
+ },
+ {
+  "key": "Item_Accessory_036",
+  "text": "المرآة الإلهية بلا هيئة"
+ },
+ {
+  "key": "Item_Accessory_037",
+  "text": "واقيات الساعدين للردّ المضاد"
+ },
+ {
+  "key": "Item_Accessory_038",
+  "text": "قاهر الفرسان"
+ },
+ {
+  "key": "Item_Accessory_039",
+  "text": "الوعاء المحطم"
+ },
+ {
+  "key": "Item_Accessory_040",
+  "text": "قلادة السمكتين التوأم"
+ },
+ {
+  "key": "Item_Accessory_040_1",
+  "text": "قلادة السمكتين التوأم·المصقولة"
+ },
+ {
+  "key": "Item_Accessory_041",
+  "text": "صنم الحارس"
+ },
+ {
+  "key": "Item_Accessory_041_1",
+  "text": "صنم الجبار·مصقول"
+ },
+ {
+  "key": "Item_Accessory_041_2",
+  "text": "صنم الجبار·أسمى"
+ },
+ {
+  "key": "Item_Accessory_042",
+  "text": "تميمة اليأس"
+ },
+ {
+  "key": "Item_Accessory_042_1",
+  "text": "تميمة اليأس·مصقولة"
+ },
+ {
+  "key": "Item_Accessory_043",
+  "text": "مرسوم بايشان"
+ },
+ {
+  "key": "Item_Accessory_043_1",
+  "text": "مرسوم بايشان·المصقول"
+ },
+ {
+  "key": "Item_Accessory_044",
+  "text": "التميمة القصوى"
+ },
+ {
+  "key": "Item_Accessory_044_1",
+  "text": "تميمة اللوتس·مصقولة"
+ },
+ {
+  "key": "Item_Accessory_045",
+  "text": "الصمود المستميت"
+ },
+ {
+  "key": "Item_Accessory_045_1",
+  "text": "الصمود المستميت·المصقول"
+ },
+ {
+  "key": "Item_Accessory_046",
+  "text": "قلب مشع خام"
+ },
+ {
+  "key": "Item_Accessory_047",
+  "text": "الغمد العجائبي"
+ },
+ {
+  "key": "Item_Accessory_048",
+  "text": "حوض الكنز"
+ },
+ {
+  "key": "Item_Accessory_049",
+  "text": "عين القناص"
+ },
+ {
+  "key": "Item_Accessory_050",
+  "text": "شظية الدرع القديم"
+ },
+ {
+  "key": "Item_Accessory_050_1",
+  "text": "شظية الدرع القديم·المُحسَّنة"
+ },
+ {
+  "key": "Item_Accessory_050_2",
+  "text": "شظية الدرع القديم·الفائقة"
+ },
+ {
+  "key": "Item_Accessory_051",
+  "text": "صقلته المعارك"
+ },
+ {
+  "key": "Item_Accessory_052",
+  "text": "مكعب الشرارة المظلمة"
+ },
+ {
+  "key": "Item_Accessory_053",
+  "text": "واقي الصواعق"
+ },
+ {
+  "key": "Item_Accessory_054",
+  "text": "جراب السمّ"
+ },
+ {
+  "key": "Item_Accessory_055",
+  "text": "علبة أحمر الخدود"
+ },
+ {
+  "key": "Item_Accessory_056",
+  "text": "بصيرة الصياد"
+ },
+ {
+  "key": "Item_Accessory_056_1",
+  "text": "قلادة البصيرة·مُحسَّنة"
+ },
+ {
+  "key": "Item_Accessory_057",
+  "text": "عصابة رأس الجلاد"
+ },
+ {
+  "key": "Item_Accessory_058",
+  "text": "ريشة المروحة"
+ },
+ {
+  "key": "Item_Accessory_059",
+  "text": "فانوس قمر الرعد"
+ },
+ {
+  "key": "Item_Accessory_060",
+  "text": "قناع الطيف"
+ },
+ {
+  "key": "Item_Accessory_061",
+  "text": "قناع نو"
+ },
+ {
+  "key": "Item_Accessory_062",
+  "text": "هوابط المريد الجليدية"
+ },
+ {
+  "key": "Item_Accessory_063",
+  "text": "منفضة ريش المريد"
+ },
+ {
+  "key": "Item_Accessory_063_2",
+  "text": "عند إلحاق آثار النار أو الجليد أو البرق أو السمّ بالأعداء، تتراكم كمية كبيرة من طاقة العناصر. وعند اكتمال الشحن، استعادة مقدار 1<img id=\"SpiritShadow\" width=\"40\"/> من الشرارة المظلمة."
+ },
+ {
+  "key": "Item_Accessory_064",
+  "text": "واقي الصقيع"
+ },
+ {
+  "key": "Item_Accessory_066",
+  "text": "خاتم الفوضى"
+ },
+ {
+  "key": "Item_Accessory_066_1",
+  "text": "لهيب الفوضى+"
+ },
+ {
+  "key": "Item_Accessory_066_2",
+  "text": "لهيب الفوضى++"
+ },
+ {
+  "key": "Item_Accessory_067",
+  "text": "خاتم الإبهام المجهول"
+ },
+ {
+  "key": "Item_Accessory_067_1",
+  "text": "خاتم الإبهام المجهول+"
+ },
+ {
+  "key": "Item_Accessory_067_2",
+  "text": "خاتم الإبهام المجهول++"
+ },
+ {
+  "key": "Item_Accessory_068",
+  "text": "تميمة الخشب الحي"
+ }
+]

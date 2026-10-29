@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Character_PZ_40",
+  "text": "امرأة"
+ },
+ {
+  "key": "Character_PZ_41",
+  "text": "قائد قلق ذو نصلين"
+ },
+ {
+  "key": "Character_PZ_41_1",
+  "text": "القائد ذو الندبتين"
+ },
+ {
+  "key": "Character_PZ_42",
+  "text": "قائد الرماة"
+ },
+ {
+  "key": "Character_PZ_43",
+  "text": "الرامي الأول"
+ },
+ {
+  "key": "Character_PZ_44",
+  "text": "الرامي الثاني"
+ },
+ {
+  "key": "Character_PZ_45",
+  "text": "رامي النشاب الأول"
+ },
+ {
+  "key": "Character_PZ_46",
+  "text": "رامي النشاب الثاني"
+ },
+ {
+  "key": "Character_PZ_47",
+  "text": "الرمّاح الأول"
+ },
+ {
+  "key": "Character_PZ_48",
+  "text": "الرمّاح الثاني"
+ },
+ {
+  "key": "Character_PZ_49",
+  "text": "الطاوي بي دي"
+ },
+ {
+  "key": "Character_PZ_49_1",
+  "text": "طاوي يطعم الأسماك"
+ },
+ {
+  "key": "Character_PZ_50",
+  "text": "رجل غارق في النوم"
+ },
+ {
+  "key": "Character_PZ_51",
+  "text": "امرأة غارقة في النوم"
+ },
+ {
+  "key": "Character_PZ_52",
+  "text": "عجوز غارق في النوم"
+ },
+ {
+  "key": "Character_PZ_53",
+  "text": "رجل عند السرير"
+ },
+ {
+  "key": "Character_PZ_55",
+  "text": "غسّالة غارقة في النوم"
+ },
+ {
+  "key": "Character_PZ_56",
+  "text": "عرافة غارقة في النوم"
+ },
+ {
+  "key": "Character_PZ_57",
+  "text": "المعالج المتدرّب النائم"
+ },
+ {
+  "key": "Character_PZ_58",
+  "text": "صبي غارق في النوم"
+ },
+ {
+  "key": "Character_PZ_59",
+  "text": "دمية صغيرة خاوية"
+ },
+ {
+  "key": "Character_PZ_60",
+  "text": "دمية تهز رأسها"
+ },
+ {
+  "key": "Character_PZ_61",
+  "text": "دمية كئيبة"
+ },
+ {
+  "key": "Character_PZ_62",
+  "text": "دمية متفيهقة"
+ },
+ {
+  "key": "Character_PZ_63",
+  "text": "صياد سمك"
+ },
+ {
+  "key": "Character_PZ_64",
+  "text": "قائد الذئاب ذو الرداء الأرجواني"
+ },
+ {
+  "key": "Character_PZ_65",
+  "text": "مبارز النصلين المتألم"
+ },
+ {
+  "key": "Character_PZ_66",
+  "text": "مبارز النصلين الراسخ"
+ },
+ {
+  "key": "Character_PZ_67",
+  "text": "السيدة"
+ },
+ {
+  "key": "Character_PZ_68",
+  "text": "حارس حازم ذو الرداء الأرجواني"
+ },
+ {
+  "key": "Character_PZ_69",
+  "text": "حارس متحدٍّ ذو الرداء الأرجواني"
+ },
+ {
+  "key": "Character_PZ_70",
+  "text": "حارسة بايشان صامدة"
+ },
+ {
+  "key": "Character_PZ_71",
+  "text": "حارسة بايشان متحدّية"
+ },
+ {
+  "key": "Character_PZ_72",
+  "text": "صاحب المتجر نيو"
+ },
+ {
+  "key": "Character_PZ_73",
+  "text": "دمية بقي فيها شيء من الوعي"
+ },
+ {
+  "key": "Character_PZ_74",
+  "text": "ممثلة الأوبرا الأولى"
+ },
+ {
+  "key": "Character_PZ_75",
+  "text": "يو لينغ"
+ },
+ {
+  "key": "Character_PZ_76",
+  "text": "لهيب"
+ },
+ {
+  "key": "Character_PZ_77",
+  "text": "الأخ الأكبر مو"
+ },
+ {
+  "key": "Character_PZ_78",
+  "text": "اللظى"
+ },
+ {
+  "key": "Character_PZ_79",
+  "text": "وو شيوان"
+ },
+ {
+  "key": "Character_PZ_80",
+  "text": "دمية مقاتل الوولين"
+ },
+ {
+  "key": "Character_PZ_81",
+  "text": "تلميذ رقصة الأسد"
+ },
+ {
+  "key": "Character_Tutorial_1",
+  "text": "رمّاح بلا وجه"
+ },
+ {
+  "key": "Character_XG_1",
+  "text": "هارب يحتضر"
+ },
+ {
+  "key": "Character_XG_2",
+  "text": "تلميذ الميثاق المتهالك"
+ },
+ {
+  "key": "Character_XG_3",
+  "text": "قناع حديدي يحتضر"
+ },
+ {
+  "key": "Character_XG_4",
+  "text": "حارس ودود"
+ },
+ {
+  "key": "Character_XG_5",
+  "text": "حارس صارم"
+ },
+ {
+  "key": "Character_XG_6",
+  "text": "قائد المبارزين"
+ },
+ {
+  "key": "Character_XG_7",
+  "text": "حارسة بايشان قلقة"
+ },
+ {
+  "key": "Character_XG_7_1",
+  "text": "حارسة بايشان"
+ },
+ {
+  "key": "Character_XG_8",
+  "text": "تلميذ رمّاح"
+ },
+ {
+  "key": "Character_XG_9",
+  "text": "تلميذ الميثاق المتحجّر"
+ },
+ {
+  "key": "Character_XG_10",
+  "text": "مبارز متغطرس"
+ },
+ {
+  "key": "Character_XG_11",
+  "text": "حارس رمّاح"
+ },
+ {
+  "key": "Character_XG_12",
+  "text": "حارس بوابة السلاسل الحديدية الأول"
+ },
+ {
+  "key": "Character_XG_13",
+  "text": "حارس بوابة السلاسل الحديدية الثاني"
+ },
+ {
+  "key": "Character_XG_14",
+  "text": "حارس رمّاح ثانٍ"
+ },
+ {
+  "key": "Character_XG_15",
+  "text": "البائع المتجول"
+ },
+ {
+  "key": "Character_XG_16",
+  "text": "الراهب هويجيويه من معبد كويه"
+ },
+ {
+  "key": "Character_XG_17",
+  "text": "تلميذ الميثاق المحتضر"
+ },
+ {
+  "key": "Character_XG_18",
+  "text": "حارس ظلال التنظيم"
+ },
+ {
+  "key": "Character_XG_19",
+  "text": "تلميذ الميثاق المنهك"
+ },
+ {
+  "key": "Character_XG_20",
+  "text": "مبارز الثوب الأزرق"
+ },
+ {
+  "key": "Character_XG_21",
+  "text": "مبارز مصاب بجروح بالغة"
+ },
+ {
+  "key": "Character_XG_22",
+  "text": "مبارز منهك"
+ },
+ {
+  "key": "Character_XG_23",
+  "text": "رمّاح قلق"
+ },
+ {
+  "key": "Character_XG_24",
+  "text": "رمّاح محبط"
+ },
+ {
+  "key": "Character_XG_25",
+  "text": "رمّاح في دورية"
+ },
+ {
+  "key": "Character_XG_26",
+  "text": "مبارز الدورية الأول"
+ },
+ {
+  "key": "Character_XG_27",
+  "text": "مبارز الدورية الثاني"
+ },
+ {
+  "key": "Character_XG_28",
+  "text": "تلميذ البوابة الأول"
+ },
+ {
+  "key": "Character_XG_29",
+  "text": "تلميذ البوابة الثاني"
+ },
+ {
+  "key": "Character_XG_30",
+  "text": "ذكرى باقية"
+ },
+ {
+  "key": "Character_XG_31",
+  "text": "تلميذ الميثاق المذعور"
+ },
+ {
+  "key": "Character_XG_32",
+  "text": "همجي يحتضر"
+ },
+ {
+  "key": "Character_XG_33",
+  "text": "هوا"
+ },
+ {
+  "key": "Character_XG_34",
+  "text": "المطارِد"
+ },
+ {
+  "key": "Character_XG_35",
+  "text": "رامٍ يحتضر"
+ },
+ {
+  "key": "Character_XG_36",
+  "text": "صوت المطارِد"
+ },
+ {
+  "key": "Character_XG_38",
+  "text": "رامٍ عجوز مكفهر"
+ },
+ {
+  "key": "Character_XG_39",
+  "text": "تلميذ الميثاق"
+ },
+ {
+  "key": "Character_XG_40",
+  "text": "تلميذ الميثاق الخجول"
+ },
+ {
+  "key": "Character_XG_41",
+  "text": "تلميذ الميثاق المرح"
+ },
+ {
+  "key": "Character_XG_42",
+  "text": "تلميذة بايشان الأولى"
+ },
+ {
+  "key": "Character_XG_43",
+  "text": "تلميذة بايشان الثانية"
+ },
+ {
+  "key": "Character_XG_44",
+  "text": "بنغ منغ"
+ },
+ {
+  "key": "Character_XM_1",
+  "text": "الوجيه غاو"
+ },
+ {
+  "key": "Character_XM_2",
+  "text": "معلم ربط الخيوط"
+ },
+ {
+  "key": "Character_XM_3",
+  "text": "صاحب المتجر فان"
+ },
+ {
+  "key": "Character_XM_4",
+  "text": "التاجر ليو"
+ },
+ {
+  "key": "Character_XM_5",
+  "text": "الزعيم يو"
+ },
+ {
+  "key": "Character_XM_6",
+  "text": "الوجيه ياو"
+ },
+ {
+  "key": "Character_XM_7",
+  "text": "تلميذ فنّ ربط الخيوط القَلِق"
+ },
+ {
+  "key": "Character_XM_8",
+  "text": "تلميذ فنّ ربط الخيوط المجتهد"
+ },
+ {
+  "key": "Character_XM_9",
+  "text": "تلميذ فنّ ربط الخيوط اللامبالي"
+ },
+ {
+  "key": "Character_XM_10",
+  "text": "تلميذ فنّ ربط الخيوط الجديد"
+ },
+ {
+  "key": "Character_XM_11",
+  "text": "تلميذ فنّ ربط الخيوط الدنيوي"
+ },
+ {
+  "key": "Character_XM_13",
+  "text": "دمية غامضة"
+ }
+]

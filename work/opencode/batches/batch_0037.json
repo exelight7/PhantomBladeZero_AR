@@ -1,0 +1,214 @@
+[
+ {
+  "key": "PhantomEdges_Function_010_15",
+  "text": "عند التعرض لهجوم عدو أثناء استخدام الخنجر الطائر، تنفيذ <Character_Yellow_Decorator2>انتقال آني</> لإبطال ضرر ذلك الهجوم، ثم رمي الخنجر على العدو."
+ },
+ {
+  "key": "PhantomEdges_Function_010_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للدخول في حالة حركة عالية السرعة. ترك <WeaponDes_Num_Green>1</> قرين طيفي بعد كل مسافة محددة مقطوعة، حتى حد أقصى قدره <dtv id=\"X153\"/>. عند انتهاء الحالة، يهاجم سول وجميع القرناء الطيفيون الهدف معًا. استهلاك <dtv id=\"X154\"/><img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_011_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق قذفة من مدفع الماء إلى الأمام. انفجارها عند الإصابة. استهلاك <dtv id=\"X481\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_011_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمدة تأثير <Character_Yellow_Decorator2>[البلل]</> الذي يطبّقه طوفان يو لونغ."
+ },
+ {
+  "key": "PhantomEdges_Function_011_15",
+  "text": "الضغط المطول على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/> لإطلاق نفاث ماء عالي الضغط يخترق الأعداء ويصيب الأهداف خلفهم. عدم انخفاض الضرر بعد اختراق الأعداء."
+ },
+ {
+  "key": "PhantomEdges_Function_011_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <dtv id=\"X482\"/> قذفات من مدفع الماء إلى الأمام. انفجارها عند الإصابة. استهلاك <dtv id=\"X483\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_012_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق كرة نارية بسرعة إلى الأمام. انفجارها عند الإصابة. استهلاك <dtv id=\"X341\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_012_10",
+  "text": "{<WeaponDes_Main_Green>زيادة ضرر</>|<WeaponDes_Main_Green>زيادة ضرر</>|<WeaponDes_Main_Green>زيادة ضرر</>} <Character_Yellow_Decorator2>الاحتراق</> بعد إشعال الأعداء."
+ },
+ {
+  "key": "PhantomEdges_Function_012_15",
+  "text": "بعد الاندفاع إلى الأمام باستخدام <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط فورًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للدوران إلى الأمام بسرعة فائقة، ثم القفز والدوس على الأرض لإحداث موجة صدمة نارية تصيب الأعداء في مساحة واسعة وتشعلهم. استهلاك <dtv id=\"X342\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_012_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <dtv id=\"X343\"/> كرات نارية بسرعة إلى الأمام. انفجارها عند الاصطدام. استهلاك <dtv id=\"X344\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_013_5",
+  "text": "قدرة الرجال البرونزيين على استخدام تقنية الجسد الذهبي ليصبحوا منيعين."
+ },
+ {
+  "key": "PhantomEdges_Function_013_10",
+  "text": "{<WeaponDes_Main_Green>زيادة مدة الاستدعاء قليلًا</>|<WeaponDes_Main_Green>زيادة مدة الاستدعاء بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة مدة الاستدعاء كثيرًا</>}."
+ },
+ {
+  "key": "PhantomEdges_Function_013_15",
+  "text": "عند وجود <dtv id=\"X224\"/> من الرجال البرونزيين في ساحة المعركة في الوقت نفسه، يتخذون تشكيلة قتالية."
+ },
+ {
+  "key": "PhantomEdges_Function_013_25",
+  "text": "خسارة الأعداء شا-تشي عند مهاجمة رجل برونز في حالة الجسد الذهبي."
+ },
+ {
+  "key": "PhantomEdges_Function_014_5",
+  "text": "إتباع سلسلة ضربات بالضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لجذب العدو المحدد نحو سول. إذا كان الهدف يتمتع بالثبات أو كان عدوًا ضخمًا، يُجذب سول نحوه بدلًا من ذلك. لا يستهلك أي <img id=\"SpiritShadow\" width=\"40\"/> إضافي."
+ },
+ {
+  "key": "PhantomEdges_Function_014_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لضرر منجل السلسلة ضد الأعداء المصابين بالاحتراق أو التجمد أو الشلل أو التسمم أو النزيف."
+ },
+ {
+  "key": "PhantomEdges_Function_014_15",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لقذف المنجل السلسلي نحو الأرض أو جدار والتأرجح باتجاه النقطة المستهدفة. عدم استهلاك <img id=\"SpiritShadow\" width=\"40\"/> خارج القتال."
+ },
+ {
+  "key": "PhantomEdges_Function_014_25",
+  "text": "عند نهاية سلسلة الضربات، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتدوير المنجل السلسلي وإحداث إعصار يلحق ضررًا مستمرًا بالأعداء العالقين فيه."
+ },
+ {
+  "key": "PhantomEdges_Function_015_5",
+  "text": "تمديد سلسلة الضربات إلى <dtv id=\"X303\"/> هجمات. الضغط المطول على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أثناء الهجوم الأخير لمواصلة التأرجح، ثم توجيه ضربة ساحقة إلى الأرض تنثر وابلًا من الشرارات الحديدية."
+ },
+ {
+  "key": "PhantomEdges_Function_015_10",
+  "text": "{<WeaponDes_Main_Green>زيادة مقدار خفض الهجوم قليلًا</>|<WeaponDes_Main_Green>زيادة مقدار خفض الهجوم بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة مقدار خفض الهجوم كثيرًا</>} الذي يطبقه <Character_Yellow_Decorator2>[اللهب الفسفوري]</> على الأعداء."
+ },
+ {
+  "key": "PhantomEdges_Function_015_15",
+  "text": "عند موت عدو أشعله <Character_Yellow_Decorator2>[اللهب الفسفوري] </>، ينطلق <Character_Yellow_Decorator2>[الانفجار الفسفوري] </> لإشعال الأعداء القريبين."
+ },
+ {
+  "key": "PhantomEdges_Function_015_25",
+  "text": "الضغط مطولًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للدوران باستمرار بمطارق الشهاب الناري، ما يزيد مقدار <Character_Yellow_Decorator2>خفض الضرر</> ويولّد <Character_Yellow_Decorator2>[إعصار الفسفور] </>فوق الرأس."
+ },
+ {
+  "key": "PhantomEdges_Function_016_5",
+  "text": "إخراج الأعداء الذين تصيبهم الضربات أثناء اختبائهم في الماء أو الثلج دائمًا <Character_Yellow_Decorator2>مكسوري الدفاع</>."
+ },
+ {
+  "key": "PhantomEdges_Function_016_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر المُلحَق بالأعداء المختبئين في الماء أو الثلج."
+ },
+ {
+  "key": "PhantomEdges_Function_016_15",
+  "text": "الضغط على <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للاندفاع إلى الأمام، ثم الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لرمي الرمح الثلاثي بسرعة."
+ },
+ {
+  "key": "PhantomEdges_Function_016_25",
+  "text": "الضغط على <InputAction id=\"Move\" dir=\"Back\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للتراجع، ثم الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لرمي الرمح بسرعة."
+ },
+ {
+  "key": "PhantomEdges_Function_017_5",
+  "text": "إمكان <Character_Yellow_Decorator2>شحن كل هجوم لفترة وجيزة</> بالضغط المطوّل على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"0\"/>، لتمكين ذلك الهجوم ومنح <Character_Yellow_Decorator2>تركيز قبضـة</> إضافي. عند اكتمال الشحن، تومض القفازات الحديدية. الإفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بتوقيت دقيق لتنفيذ شحنة مثالية، وتفعيل <Character_Yellow_Decorator2>ضربة القبضة المتقنة</>. يمنح ذلك الهجوم قوةً أكبر بكثير و<Character_Yellow_Decorator2>تركيز قبضة</> إضافيًا."
+ },
+ {
+  "key": "PhantomEdges_Function_017_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لتأثير <Character_Yellow_Decorator2>[تركيز القبضة]</> ومدته."
+ },
+ {
+  "key": "PhantomEdges_Function_017_15",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك <dtv id=\"X164\"/><img id=\"SpiritShadow\" width=\"40\"/> والصدّ بالقفازات الحديدية. <Character_Yellow_Decorator2>الصدّ المثالي</> لهجوم عدوّ قبل إصابته يعيد <dtv id=\"X165\"/><img id=\"SpiritShadow\" width=\"40\"/> ويمنح <Character_Yellow_Decorator2>تركيز القبضة</>. إذا كان <Character_Yellow_Decorator2>تركيز القبضة</> ممتلئًا بالفعل، تمتد مدته <dtv id=\"X167\"/> ثانية."
+ },
+ {
+  "key": "PhantomEdges_Function_017_25",
+  "text": "أثناء حالة <Character_Yellow_Decorator2>امتلاء تركيز القبضة</>، استهلاك الحالة لجعل سلسلة الضربات التالية لا تستهلك <img id=\"SpiritShadow\" width=\"40\"/>."
+ },
+ {
+  "key": "PhantomEdges_Function_018_5",
+  "text": "أثناء نشاط <Character_Yellow_Decorator2>[</><Character_Yellow_Decorator2>العجلة المشعة]</>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> في أي وقت لتنفيذ الضربة الثالثة وتفجير <Character_Yellow_Decorator2>[ال</><Character_Yellow_Decorator2>عجلة المشعة]</> يدويًا."
+ },
+ {
+  "key": "PhantomEdges_Function_018_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمدة <Character_Yellow_Decorator2>[العجلة المشعة]</>"
+ },
+ {
+  "key": "PhantomEdges_Function_018_15",
+  "text": "كلما زاد الضرر الذي <Character_Yellow_Decorator2> تُلحقه [العجلة</><Character_Yellow_Decorator2>المتألقة] </>أثناء نشاطها، زاد الضرر واستنزاف شا-تشي للضربة الثالثة التي تُنفّذ بالضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_018_25",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بتوقيت دقيق عند <Character_Yellow_Decorator2>تفجير [العجلة المشعة] </>تلقائيًا لتنفيذ الضربة الثالثة، <Character_Yellow_Decorator2>وتفعيل انفجار قوي</>."
+ },
+ {
+  "key": "PhantomEdges_Function_019_5",
+  "text": "بعد الاندفاع إلى الأمام بالضغط على <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ طعنة جوية."
+ },
+ {
+  "key": "PhantomEdges_Function_019_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لضرر البرق ومعدل تراكم الشلل."
+ },
+ {
+  "key": "PhantomEdges_Function_019_15",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ <Character_Yellow_Decorator2>[طعنة عكسية]</>."
+ },
+ {
+  "key": "PhantomEdges_Function_019_25",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> عند نهاية سلسلة الضربات للقفز في الهواء، ثم الهبوط أرضًا بالرمح والجسد كأنهما شيء واحد، وإطلاق موجة صدمة هائلة."
+ },
+ {
+  "key": "PhantomEdges_Function_020_5",
+  "text": "إلحاق <Character_Yellow_Decorator2>النزيف</> بالعدو عند الهجوم وتعبئة مقياس النزيف لديه. عند امتلاء المقياس، يحدث <Character_Yellow_Decorator2>فقدان الدم</>. لا تأثير له على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "PhantomEdges_Function_020_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>}<Character_Yellow_Decorator2> </>لمعدل تراكم مقياس النزيف."
+ },
+ {
+  "key": "PhantomEdges_Function_020_15",
+  "text": "عند نهاية سلسلة الضربات، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لقذف المقصلة الطائرة إلى الأمام بسرعة عالية. لا يستهلك <img id=\"SpiritShadow\" width=\"40\"/> إضافيًا."
+ },
+ {
+  "key": "PhantomEdges_Function_020_25",
+  "text": "زيادة الضرر الذي تُلحقه <Character_Yellow_Decorator2>[تحليق عجلة الدم]</>. كما يمكنها الإجهاز على الأعداء الأضعف ممن تقل صحتهم عن <dtv id=\"X423\"/>."
+ },
+ {
+  "key": "PhantomEdges_Function_022_5",
+  "text": "أثناء الاندفاع، الضغط على <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لمنح عربة الحرب دفعة سرعة وجيزة."
+ },
+ {
+  "key": "PhantomEdges_Function_022_10",
+  "text": "{<WeaponDes_Main_Green>خفض طفيف</>|<WeaponDes_Main_Green>خفض متوسط</>|<WeaponDes_Main_Green>خفض كبير</>} <img id=\"SpiritShadow\" width=\"40\"/> لمعدل الاستهلاك."
+ },
+ {
+  "key": "PhantomEdges_Function_022_15",
+  "text": "زيادة ضرر الصدم."
+ },
+ {
+  "key": "PhantomEdges_Function_022_25",
+  "text": "أثناء الاندفاع، الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ضربة أرضية قوية بعربة الحرب، وإبعاد الأعداء المحيطين."
+ },
+ {
+  "key": "PhantomEdges_Function_023_5",
+  "text": "أثناء الوجود داخل <Character_Yellow_Decorator2>الحقل</>، زيادة الهجوم وخفض الضرر المتلقى لك ولحلفائك."
+ },
+ {
+  "key": "PhantomEdges_Function_023_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمدة الحقل."
+ },
+ {
+  "key": "PhantomEdges_Function_023_15",
+  "text": "الأعداء داخل المجال يستهلكون شا-تشي أكثر عند صدّ الهجمات."
+ },
+ {
+  "key": "PhantomEdges_Function_023_25",
+  "text": "<WeaponDes_Main_Green>زيادة كبيرة</> لمساحة تأثير الحقل."
+ },
+ {
+  "key": "PhantomEdges_Function_024_5",
+  "text": "بعد المراوغة باستخدام <InputAction id=\"Move\" dir=\"Left\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"Move\" dir=\"Right\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط فورًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق [الأنصال الصوتية] بسرعة."
+ },
+ {
+  "key": "PhantomEdges_Function_024_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لاستنزاف شا-تشي الذي تسببه<Character_Yellow_Decorator2> الأنصال الصوتية الزرقاء</>، وللضرر الذي تسببه <Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</>."
+ },
+ {
+  "key": "PhantomEdges_Function_024_15",
+  "text": "بعد الاندفاع إلى الأمام باستخدام <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو التراجع خطوة باستخدام <InputAction id=\"Move\" dir=\"Back\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط فورًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق [نصل صوتي]."
+ }
+]

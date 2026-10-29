@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_7",
+  "text": "بالقرب من مخبئه، تجد عادةً خنجرًا للرمي تتدلى منه عملات نحاسية. فتّش حولك، وستجده قريبًا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_Re_2",
+  "text": "بالقرب من مخبئه، تجد عادةً خنجرًا للرمي تتدلى منه عملات نحاسية. فتّش حولك، وستجده قريبًا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_1",
+  "text": "آه... أ-أنت!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_2",
+  "text": "قطاع الطرق والغزاة... هل أنت من يطاردونه؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_3",
+  "text": "مهلًا، لنتحدث! لا تؤذني..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_4",
+  "text": "أ-على أي حال... لن يسألوني! وحتى لو سألوني، لا أعرف شيئًا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_KanShou0_KSFeiZei1_1",
+  "text": "انتظر، انتظر... هل ستدخل؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_KanShou_KSFeiZei1_1",
+  "text": "المكان مليء بالفخاخ... وهي خبيثة جدًا. لا تقل إنني لم أحذّرك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_KanShou_KSFeiZei2_1",
+  "text": "إن هلكت هناك... فكل ما معك من غنائم لي..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangBaiShan_BaiShanJia_1",
+  "text": "لانلان... أنا من وافق على إخفاء الأخت الصغرى منغ..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangBaiShan_BaiShanYi_2",
+  "text": "آه، هل ندمت الآن؟ وفّري عليّ هذا التظاهر بالبراءة، أيتها الأخت الكبرى جيو. من تحاولين خداعه؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1a_LiangShangJun_1",
+  "text": "لا، لم أره."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1a_LiangShangJun_2",
+  "text": "...انسَ الأمر. سألت في كل مكان، ولا أحد يعرف شيئًا. تابع طريقك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_Hun_1",
+  "text": "ترك هذه الرسالة... مكتوبة بالدم. عليك أن تقرأها."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_Hun_4",
+  "text": "تقول إن لديه أمرًا لم ينجزه. وأراد من يعثر عليها أن يخبر أخاه، اللصّ الوديع، بموته."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_3",
+  "text": "لم أقرأ حرفًا في حياتي، واللصّ الرشيق يعرف ذلك جيدًا. فلماذا يترك لي رسالة؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_5",
+  "text": "اللصّ الوديع؟ أنا هو! تسك... هل يعقل حقًا أن تكون هذه من اللصّ الرشيق؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_6",
+  "text": "حسنًا. لديّ ثلاثة أسئلة. إن كانت إجاباتك صحيحة، صدّقتك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_7",
+  "text": "كان اللصّ الرشيق يتباهى دائمًا بأنه ذاع صيته في صغره."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_8",
+  "text": "فما الذي فعله في الثالثة عشرة وظلّ يتباهى به؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_Hun_1",
+  "text": "سرق حزامًا من اليشم من أحد الأثرياء."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_LiangShangJun_2",
+  "text": "صحيح... كانت تلك أول غنيمة حقيقية له."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_LiangShangJun_3",
+  "text": "قايضنا حزام اليشم بعشرة أرغفة... وتابوت."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_LiangShangJun_4",
+  "text": "تقاسمنا الخبز... واستخدمنا التابوت... لندفن لصًا عجوزًا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2b_LiangShangJun_1",
+  "text": "همم... يا لها من سخافة!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2b_LiangShangJun_2",
+  "text": "هذه الرسالة... يستحيل أن تكون من أخي!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2c_Hun_1",
+  "text": "حطّم اللؤلؤة المضيئة في رواق المعرفة."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2c_Hun_2",
+  "text": "سرق سجلّ زعيم إحدى طوائف الميثاق."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2c_Hun_3",
+  "text": "أضرم النار في مخزن الحبوب المحلي."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3_LiangShangJun_1",
+  "text": "والآن... الدبوس الذي دمّر حياته. هل تعرف شكل رأسه؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3a_Hun_1",
+  "text": "كان عليه نقش فراشة، بدا جناحاها وكأنهما يرتجفان."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3a_LiangShangJun_2",
+  "text": "أجل... شيء جميل وثمين... لكنه لم يجلب له سوى المصائب..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3b_LiangShangJun_1",
+  "text": "ها! لم يكن شكل ذلك الدبوس يشبه هذا أبدًا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3b_LiangShangJun_2",
+  "text": "لا تعرف شيئًا، ثم تجرؤ على الادعاء بأن معك رسالته؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3c_Hun_1",
+  "text": "كان عليه نقش لطائر الفينيق."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3c_Hun_2",
+  "text": "كان عليه نقش لزهرة الفاوانيا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3c_Hun_3",
+  "text": "كان عليه نقش زوج من بطّ الماندرين."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4_LiangShangJun_1",
+  "text": "إذًا أخبرني... هل تعرف ما حلّ بطفل تلك الأسرة الفقيرة؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_Hun_1",
+  "text": "لم تذكر الرسالة الطفل. يبدو أن مصيره مجهول."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_2",
+  "text": "صحيح... اختفى ذلك الطفل، ولم يتجاوز اللصّ الرشيق الأمر قط..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_3",
+  "text": "...ما دام قد رحل... فسأفي عنه بهذا الدين."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_4",
+  "text": "خذ، هذا لك!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_5",
+  "text": "شكرًا لأنك أتيتني بكلماته الأخيرة. على الأقل لم يمت بلا أثر..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4b_LiangShangJun_1",
+  "text": "كنت أعلم أنك تحاول خداعي!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4c_Hun_1",
+  "text": "ضمّ الميثاق ذلك الطفل إليه."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4c_Hun_2",
+  "text": "تكفّل أحد الأثرياء بذلك الطفل."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4c_Hun_3",
+  "text": "تكفّلت السلطات بذلك الطفل."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_LiangShangJun_1",
+  "text": "أهلًا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_LiangShangJun_2",
+  "text": "هل رأيت لصًا يُلقّب باللصّ الرشيق؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option1",
+  "text": "تحطيم اللؤلؤة المضيئة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option2",
+  "text": "سرقة حزام اليشم من أحد الوجهاء"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option3",
+  "text": "سرقة سجل أحد قادة الميثاق"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option4",
+  "text": "إضرام النار في مخزن الحبوب المحلي"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option5",
+  "text": "العنقاء"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option6",
+  "text": "الفاوانيا"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option7",
+  "text": "الفراشة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option8",
+  "text": "بط الماندرين"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option9",
+  "text": "الإيواء لدى الميثاق"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option10",
+  "text": "الإيواء لدى أحد الوجهاء"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option11",
+  "text": "الإيواء لدى السلطات"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option12",
+  "text": "لم يرد ذكره في الرسالة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao1_ZhengDao1_1",
+  "text": "ذلك الوحش... بلا رأس... بلا رأس!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao1_ZhengDao1_2",
+  "text": "لكنه يعرف الطرق! ويعرف الناس!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao1_ZhengDao1_3",
+  "text": "مهما فررنا... لن نفلت... لن ينجو أحد منا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao2_ZhengDao2_1",
+  "text": "حين يتألم ذلك الوحش، يفقد صوابه..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao2_ZhengDao2_2",
+  "text": "حاول أخي الأصغر في الطائفة أن يهاجمه من الجانب، لكن الوحش لوّح بذراعه..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao2_ZhengDao2_3",
+  "text": "فسحقه... كأنما سُحقت بطيخة..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YE_Option1",
+  "text": "الجرحى في الغابة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YE_Option2",
+  "text": "الجرحى في الغابة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr0_YuEr_1",
+  "text": "آه... يا سيد سول..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_Hun_5",
+  "text": "هذا المكان أخطر بكثير من الوادي. لا تتجولي بعيدًا مرة أخرى."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_Hun_6",
+  "text": "ما إن أصل إلى بانغتشن حتى أعود لأجلكِ."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_1",
+  "text": "كنت... كنت سأنتظرك في الوادي..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_2",
+  "text": "لكن حين سمعت أن في الغابة جرحى ما زالوا هناك، لم أستطع البقاء مكتوفة اليدين..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_3",
+  "text": "ل-لكن لا تقلق! كنت حذرة!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_4",
+  "text": "ظللت مختبئة طوال الطريق، وحرصت على ألا تراني تلك الوحوش..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_7",
+  "text": "ح-حسنًا... فهمت..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2Re_YuEr_1",
+  "text": "بحسب السجل الذي خلّفه اللص وانغ، يفترض أن نعثر على إخوته الجرحى هناك..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2Re_YuEr_2",
+  "text": "يا سيد سول... أرجوك توخَّ الحذر!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_2",
+  "text": "آنسة يوأر! بفضل دوائك، توقف نزيف الإخوة أخيرًا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_3",
+  "text": "هل يمكنك أن تسدينا معروفًا آخر...؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_5",
+  "text": "ما زال بعض إخوتنا مختبئين في الغابة..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_8",
+  "text": "آه، نعم! كل شيء مدوّن هنا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_9",
+  "text": "أشكركما نيابةً عن إخوتي!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_Hun_1",
+  "text": "هل عثرتِ على الجرحى الذين جئتِ لمساعدتهم؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_Hun_7",
+  "text": "إن كنت تعرف أماكنهم، فاكتبها لي، وسأتولى إيصال الدواء إليهم."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_YuEr_19",
+  "text": "يا سيد سول... أرجوك توخَّ الحذر!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr3_YuEr_1",
+  "text": "السيد سول! لقد عدت!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_AGui_5",
+  "text": "أستطيع تعليمها أنا أيضًا، لتغدو سريعة كالريح."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_AZhen_6",
+  "text": "هاهاها! يا غوي، يا أحمق ثقيل الرأس!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_AZhen_7",
+  "text": "لا يمكن أن تكبر لتصير جرذًا يتسلل فوق السطوح مثلك!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_FeiZeiALL_8",
+  "text": "هاهاهاهاها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_FeiZeiXiaoWang_8",
+  "text": "يا أخي تشن، أنت دائمًا تفضح ما ينبغي أن يبقى سرًا! فلنسمّها «بطولات القفز فوق السطوح»!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_Hun_1",
+  "text": "عثرت على كل اللصوص الجرحى في القائمة. هل عادوا؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_LaoZhou_2",
+  "text": "يا بطلنا العظيم! يا آنسة يوأر! لقد أنقذتمونا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_LiHaoZi_3",
+  "text": "أقول لك يا أخي، ينبغي أن تعلّم هذه الفتاة بعض أصول القتال!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_LiHaoZi_4",
+  "text": "بروحٍ مثل روحها، ستغدو يومًا بطلة مشهورة في الوولين!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_9",
+  "text": "السيد سول، أعطاني اللص وانغ هذه القارورة الصغيرة للدواء."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_10",
+  "text": "قال إنها هدية شكر لأنني أنقذت حياة إخوته."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_11",
+  "text": "وقال أيضًا... ما زال في الوولين أناس طيبون، لذا يريد أن يحاول كسب رزقه بعمل شريف."
+ }
+]

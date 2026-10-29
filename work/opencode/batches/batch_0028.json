@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Item_Memo_Subhead_LieYan_004",
+  "text": "IV. فن بديع"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_005",
+  "text": "V. المنعطف غير المتوقع"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_006",
+  "text": "VI. الرجل الخشبي"
+ },
+ {
+  "key": "Item_Memo_Subhead_MoJiZiDiZi_001",
+  "text": "II. افتراق الطرق"
+ },
+ {
+  "key": "Item_Memo_Subhead_NongHuBrother_001",
+  "text": "II. الطريق الخاطئ"
+ },
+ {
+  "key": "Item_Memo_Subhead_NongHu_001",
+  "text": "I. الخيانة"
+ },
+ {
+  "key": "Item_Memo_Subhead_PZHJMother_001",
+  "text": "I. الابن الذي غادر المنزل"
+ },
+ {
+  "key": "Item_Memo_Subhead_PZHJSon_001",
+  "text": "II. مستقبل واعد"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_002",
+  "text": "I. سم أم دواء؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_003",
+  "text": "II. قشرة خاوية"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_004",
+  "text": "III. من سيهتم؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_005",
+  "text": "IV. بعيد المنال"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_006",
+  "text": "V. مكسب بلا خسارة"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_007",
+  "text": "VI. «المعلّم باي»"
+ },
+ {
+  "key": "Item_Memo_Subhead_QianQian_001",
+  "text": "I. الماضي"
+ },
+ {
+  "key": "Item_Memo_Subhead_QianQian_002",
+  "text": "II. القناع"
+ },
+ {
+  "key": "Item_Memo_Subhead_QianQian_003",
+  "text": "III. المعلّم"
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_001",
+  "text": "I. الشذوذ"
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_002",
+  "text": "II. اختفى بلا أثر"
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_003",
+  "text": "III. الهيئة الحقيقية للمبعوث...؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_004",
+  "text": "IV. الهيئة الحقيقية للمبعوث!"
+ },
+ {
+  "key": "Item_Memo_Subhead_ShouHaiZhe_001",
+  "text": "I. ساق هزيلة"
+ },
+ {
+  "key": "Item_Memo_Subhead_ShouHaiZhe_002",
+  "text": "II. صراعات داخلية"
+ },
+ {
+  "key": "Item_Memo_Subhead_ShouHaiZhe_003",
+  "text": "III. العقل المدبر"
+ },
+ {
+  "key": "Item_Memo_Subhead_WeiSanChuan_001",
+  "text": "II. معًا"
+ },
+ {
+  "key": "Item_Memo_Subhead_WuLi_001",
+  "text": "I. المعالج المتجول"
+ },
+ {
+  "key": "Item_Memo_Subhead_XuanLi_001",
+  "text": "I. من نسل عشيرة شيوان"
+ },
+ {
+  "key": "Item_Memo_Subhead_XuanLi_002",
+  "text": "II. شيء من وراء السماوات"
+ },
+ {
+  "key": "Item_Memo_Subhead_XuanLi_003",
+  "text": "III. «لونغ» و«الآفة»"
+ },
+ {
+  "key": "Item_Memo_Subhead_XuanLi_004",
+  "text": "IV. منغ هوا"
+ },
+ {
+  "key": "Item_Memo_Subhead_XuanLi_005",
+  "text": "V. الاندماج مع الآفة"
+ },
+ {
+  "key": "Item_Memo_Subhead_XuanLi_006",
+  "text": "VI. السيطرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_001",
+  "text": "I. سحر الغرور"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_002",
+  "text": "II. النسب"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_003",
+  "text": "III. إلى البحيرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_004",
+  "text": "IV. يان تشيانسوي"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_005",
+  "text": "V. القربان"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_006",
+  "text": "VI. تغيّر كل شيء"
+ },
+ {
+  "key": "Item_Memo_Subhead_Yinghuo_001",
+  "text": "I. قلب البحيرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_Yinghuo_002",
+  "text": "II. مستوطنة ممارسي فنون الأطياف"
+ },
+ {
+  "key": "Item_Memo_Subhead_Yinghuo_003",
+  "text": "III. المبعوث"
+ },
+ {
+  "key": "Item_Memo_Subhead_Yinghuo_004",
+  "text": "IV. مصدر الكارثة"
+ },
+ {
+  "key": "Item_Memo_Subhead_Yinghuo_005",
+  "text": "V. لا كلام"
+ },
+ {
+  "key": "Item_Memo_Subhead_Yinghuo_006",
+  "text": "VI. التابع"
+ },
+ {
+  "key": "Item_Memo_Subhead_YuEr_001",
+  "text": "I. الصراع"
+ },
+ {
+  "key": "Item_Memo_Subhead_YuEr_002",
+  "text": "II. تجربة القلب المشعّ"
+ },
+ {
+  "key": "Item_Memo_Subhead_YuEr_003",
+  "text": "III. الوعاء المثالي"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZDDYCunFu_001",
+  "text": "I. لينقذني أحد... أرجوكم..."
+ },
+ {
+  "key": "Item_Memo_Subhead_ZDDYJianKe_002",
+  "text": "II. اقتل... اقتل!"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZDDYZhangMen_003",
+  "text": "III. أأعيش أم أموت؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuiSha_001",
+  "text": "I. المطاردة"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuoJing_001",
+  "text": "I. اليوم الذي بدأ فيه كل شيء"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuoJing_002",
+  "text": "II. القوة المطلقة"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuoJing_003",
+  "text": "III. دمار شامل"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiDaoWeiA_001",
+  "text": "III. التضحية بالنفس"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiDaoWeiB_001",
+  "text": "IV. مأزق يائس"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiShuangJianA_001",
+  "text": "I. الوداع"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiShuangJianB_001",
+  "text": "II. وسائل استثنائية"
+ },
+ {
+  "key": "Item_Memo_TouLingALL_001",
+  "text": "زهرة ذكرى قادة الميثاق"
+ },
+ {
+  "key": "Item_Memo_XiangJianHeJiALL_001",
+  "text": "زهرة الذكرى: أقارب أعداء"
+ },
+ {
+  "key": "Item_Memo_XuanLiALL_001",
+  "text": "زهرة ذكرى شيوان لي"
+ },
+ {
+  "key": "Item_Memo_YQSALL_001",
+  "text": "زهرة ذكرى يانأر"
+ },
+ {
+  "key": "Item_Memo_YingHuoALL_001",
+  "text": "زهرة ذكرى اليراعة"
+ },
+ {
+  "key": "Item_Memo_YuCongALL_001",
+  "text": "زهرة ذكرى الدمية ثلاثية الوجوه الشاذة"
+ },
+ {
+  "key": "Item_Memo_YuErALL_001",
+  "text": "زهرة ذكرى يوأر"
+ },
+ {
+  "key": "Item_Memo_ZaiHuiXiongZhangALL_001",
+  "text": "زهرة الذكرى: اللقاء مجددًا بالأخ"
+ },
+ {
+  "key": "Item_Memo_ZhuoJingALL_001",
+  "text": "زهرة ذكرى سِفر الآفة المحرّم"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_Common_1",
+  "text": "مذيب"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_Common_2",
+  "text": "مذيب مركّز"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_Common_3",
+  "text": "المذيب الشامل"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_DoubleBlade_1",
+  "text": "المعدن التوأم"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_DoubleBlade_2",
+  "text": "المعدن التوأم المصقول"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_DoubleBlade_3",
+  "text": "المعدن التوأم الخالي من العيوب"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_GreatBlade_1",
+  "text": "معدن الصفيحة العريضة"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_GreatBlade_2",
+  "text": "معدن الصفيحة العريضة المصقول"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_GreatBlade_3",
+  "text": "معدن الصفيحة العريضة الخالي من العيوب"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_SingleBlade_1",
+  "text": "معدن مطروق"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_SingleBlade_2",
+  "text": "معدن مطروق مصقول"
+ },
+ {
+  "key": "Item_Name_MainWeapon_Upgrade_SingleBlade_3",
+  "text": "معدن مطروق خالٍ من العيوب"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_CombatSkill_1",
+  "text": "سبيكة نحاس غريب"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_CombatSkill_2",
+  "text": "نحاس من عالم آخر"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_CombatSkill_3",
+  "text": "نحاس من عالم آخر مطروق"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Common_1",
+  "text": "رماد البخور"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Common_2",
+  "text": "رماد بخور وهمي"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Common_3",
+  "text": "رماد بخور السيدة"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Damage_1",
+  "text": "فحم نار الظلام"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Damage_2",
+  "text": "فحم نار الظلام المتقد"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Damage_3",
+  "text": "فحم نار الظلام الحارق"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_MagicTricks_1",
+  "text": "خشب عتيق"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_MagicTricks_2",
+  "text": "خشب الكافور"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_MagicTricks_3",
+  "text": "خشب كافور محرّم"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Stunt_1",
+  "text": "ترس ميكانيكي"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Stunt_2",
+  "text": "ترس ميكانيكي دقيق"
+ },
+ {
+  "key": "Item_Name_ShaChiWeapon_Upgrade_Stunt_3",
+  "text": "ترس ميكانيكي من ينغ"
+ },
+ {
+  "key": "Item_PieceDes_001",
+  "text": "شظية سوداء غريبة الشكل، ليست معدنًا ولا يشمًا، ودافئة الملمس. جمع أربع شظايا يجعل نقوشها الطبيعية تتطابق لتكوّن قطعة كاملة."
+ },
+ {
+  "key": "Item_PieceDes_002",
+  "text": "شظية من كهرمان شا-تشي المتحطم. تمتص شا-تشي المتناثرة في محيطها، لكن قدرًا كبيرًا من تلك القوة يتسرب أيضًا من شقوقها."
+ },
+ {
+  "key": "Item_PieceDes_Accessory_013_1",
+  "text": "النصف العلوي من تميمة قطعته شفرة حادة قطعًا نظيفًا. ولا تزال حافة القطع ملطخة بالشحم والدم.\n\nيبدو أن مالكها السابق كان تاجرًا جشعًا، لا يكف عن خداع زبائنه بالحيل الرخيصة. ولم يفعل الجزّار سوى أن أعطاه ما يستحق."
+ },
+ {
+  "key": "Item_PieceDes_Accessory_013_2",
+  "text": "النصف السفلي من التميمة. يشهد كسرها النظيف على الضربة السريعة والحاسمة التي فصلتها.\n\nعند جمعها بنصفها العلوي، خفض ضرر السم."
+ },
+ {
+  "key": "Item_PieceDes_Accessory_031_1",
+  "text": "غطاء قِدر دواء مصنوع من طين خشن، على هيئة جذر معقود وملمسه خشن."
+ },
+ {
+  "key": "Item_PieceDes_Accessory_031_2",
+  "text": "سلسلة حديدية شبه سليمة كانت تُستخدم لتعليق القِدر فوق النار."
+ }
+]

@@ -1,5 +1,7 @@
 # PhantomBladeZero_AR
 
+> **ابدأ من [GUIDE.md](GUIDE.md)** — دليل الملفات وطريقة التركيب والمساهمة. مهام المراجعة في [tasks/](tasks/).
+
 أدوات وتصحيحات لتحسين تعريب Phantom Blade Zero (مودّ 3BADIOH).
 
 ## كيف يعمل المودّ

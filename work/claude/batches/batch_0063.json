@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Reading_LianMeng_Book_06",
+  "text": "شذرات الميثاق"
+ },
+ {
+  "key": "Reading_MGC_Letter_001",
+  "text": "دعوة أنيقة"
+ },
+ {
+  "key": "Reading_MGC_Letter_002",
+  "text": "الرسالة الأخيرة للرامي الأعور"
+ },
+ {
+  "key": "Reading_MGC_Letter_003",
+  "text": "رسالة إلى المعلم مينغ"
+ },
+ {
+  "key": "Reading_MGC_Letter_004",
+  "text": "معالم ميغو الستة"
+ },
+ {
+  "key": "Reading_MJZ_Page_001",
+  "text": "ملاحظات موجي I"
+ },
+ {
+  "key": "Reading_MJZ_Page_002",
+  "text": "ملاحظات موجي II"
+ },
+ {
+  "key": "Reading_MJZ_Page_003",
+  "text": "ملاحظات موجي III"
+ },
+ {
+  "key": "Reading_MJZ_Page_004",
+  "text": "ملاحظات موجي IV"
+ },
+ {
+  "key": "Reading_MJZ_Page_005",
+  "text": "ملاحظات موجي V"
+ },
+ {
+  "key": "Reading_MJZ_Page_006",
+  "text": "ملاحظات موجي · خريطة بعلامات بدائية"
+ },
+ {
+  "key": "Reading_MeiGu_TreasureList_001",
+  "text": "الكنوز المفقودة في بحيرة ميغو"
+ },
+ {
+  "key": "Reading_MengChai_BookDes_17",
+  "text": "في شرق الوولين، تتبع طائفة ربط الخيوط المبعوث. ومع ذلك، يبدو أن لقب «المبعوث» نفسه يشير إلى رسول يعمل نيابةً عن السيدة الرحيمة ذات حجاب الزهر."
+ },
+ {
+  "key": "Reading_MengChai_Book_17",
+  "text": "المبعوث"
+ },
+ {
+  "key": "Reading_MengChai_Page_001",
+  "text": "وعاء الين المثالي"
+ },
+ {
+  "key": "Reading_MengChai_Page_002",
+  "text": "الوعاء صفر"
+ },
+ {
+  "key": "Reading_MengChai_Page_003",
+  "text": "القلب المشعّ"
+ },
+ {
+  "key": "Reading_MengChai_Page_004",
+  "text": "اكتمال وعاء الين المثالي"
+ },
+ {
+  "key": "Reading_MengChai_Page_005",
+  "text": "تركيب القلب المشعّ"
+ },
+ {
+  "key": "Reading_MengChai_Page_006",
+  "text": "الاستعداد للصدع"
+ },
+ {
+  "key": "Reading_MengChai_Page_007",
+  "text": "وعاء الين المثالي الاحتياطي"
+ },
+ {
+  "key": "Reading_MoJiZi_BookDes_13",
+  "text": "في الليلة التي سبقت رحيله، رتّب موجي ملاحظاته القديمة بعناية، صفحةً صفحة، وجمعها في مجلد. دوّن فيه رواية كاملة لتعاونه مع التنظيم قبل عام، وللأحداث الكثيرة التي تلت ذلك.\n\nلم يُبدِ بين السطور إلا القليل من آرائه. وترك للقراء أن يقرروا بأنفسهم الصواب والخطأ، والمحاسن والعيوب."
+ },
+ {
+  "key": "Reading_MoJiZi_Book_13",
+  "text": "الرسالة الأخيرة لموجي"
+ },
+ {
+  "key": "Reading_PangZhen_BookDes_05",
+  "text": "كأن ذلك كان بالأمس. تدفقت العربات والخيول بلا انقطاع في الشوارع، وتعالت نداءات الباعة فوق أنغام الأوبرا المنبعثة من المسرح، ثم ذاب كل ذلك في دويّ الصنوج والطبول والمفرقعات.\n\nابتلع الضجيج الصرخات المنبعثة من زاوية منسية، حتى خفتت وكادت تصمت؛ بالكاد خرجت من الزقاق قبل أن تتلاشى في الريح."
+ },
+ {
+  "key": "Reading_PangZhen_Book_05",
+  "text": "أهل بانغتشن"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_001",
+  "text": "مذكرة إصلاح ربّان القارب"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_005",
+  "text": "استغاثة لم تلقَ جوابًا"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_006",
+  "text": "عقد موقّع"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_007",
+  "text": "ملاحظات عن مسار القلب"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_008",
+  "text": "رسالة كُتبت على عجل بالدم"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_009",
+  "text": "رسالة لم تُرسَل"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_011",
+  "text": "دفتر حسابات الحانة"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_014",
+  "text": "إلى أبي، تشانغ تشينغ"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_015",
+  "text": "الرسالة الأخيرة لصديق قديم"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_016",
+  "text": "صفحة من يوميات"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_017",
+  "text": "صكّ موقّع"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_018",
+  "text": "رسالة اعتذار"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_021",
+  "text": "سجلّ مريض"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_022",
+  "text": "ملاحظات عن «زهرة»"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_029",
+  "text": "[شظية من مسرحية] أبيات المقاتل"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_030",
+  "text": "[شظية من مسرحية] أبيات البطلة"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_031",
+  "text": "رسالة بخطٍّ مضطرب"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_032",
+  "text": "بيوت الثعبان الأربعة"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_033",
+  "text": "طلب السيدة"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_034",
+  "text": "إلى شيو"
+ },
+ {
+  "key": "Reading_Pangzhen_Letter_035",
+  "text": "قصيدة بلا توقيع"
+ },
+ {
+  "key": "Reading_Pangzhen_TreasureList_001",
+  "text": "كنوز بانغتشن المفقودة"
+ },
+ {
+  "key": "Reading_QSD_Letter_002",
+  "text": "صورة الهيئة الحقيقية للسيدة"
+ },
+ {
+  "key": "Reading_QSD_Letter_003",
+  "text": "دليل جغرافي لجبل تمزيق الأرواح"
+ },
+ {
+  "key": "Reading_QSD_Letter_004",
+  "text": "خريطة النجوم"
+ },
+ {
+  "key": "Reading_QSKD_Letter_001",
+  "text": "رسالة إلى الشيخ الأكبر"
+ },
+ {
+  "key": "Reading_QiJu_BookDes_15",
+  "text": "تخوض القطع على الرقعة معركة ضارية. لكن تحت الرقعة، منذ كم سنة وهذه النقلة الخفية قيد التنفيذ؟"
+ },
+ {
+  "key": "Reading_QiJu_Book_15",
+  "text": "لعبة تسو شانغ"
+ },
+ {
+  "key": "Reading_QiuMing_BookDes_16",
+  "text": "عادت تلك الطائفة التي اختفت منذ زمن بعيد وراء الممر، حاملةً معها «فنّ نقل الروح»، وأعادت الوولين إلى الاضطراب."
+ },
+ {
+  "key": "Reading_QiuMing_Book_16",
+  "text": "طائفة ربط الخيوط"
+ },
+ {
+  "key": "Reading_Rongqi_Letter_005",
+  "text": "رسالة لم تُرسَل"
+ },
+ {
+  "key": "Reading_Rongqi_Letter_006",
+  "text": "قواعد ورشة القلب المشعّ"
+ },
+ {
+  "key": "Reading_Rongqi_Letter_008",
+  "text": "تركيبة مسحوق نقل الروح"
+ },
+ {
+  "key": "Reading_Rongqi_Letter_009",
+  "text": "فنّ نقل الروح لطائفة ربط الخيوط"
+ },
+ {
+  "key": "Reading_Rongqi_Letter_010",
+  "text": "الدفعة 79: أشياء مستبعدة"
+ },
+ {
+  "key": "Reading_SanJie_BookDes_10",
+  "text": "حتى الآن، لا يزال اسم أركان كونلون ذائع الصيت في أرجاء الوولين. كأنما كلما رُويت مآثرهم أكثر وانتشرت أسطورتهم أبعد، طال بقاء مجد تلك الأيام الغابرة، وصمد هذا الميثاق المتداعي مدة أطول."
+ },
+ {
+  "key": "Reading_SanJie_Book_10",
+  "text": "أركان كونلون"
+ },
+ {
+  "key": "Reading_ShengMu_BookDes_19",
+  "text": "أتحجب الأزهار وجوههم ترحيبًا بالسيدة في عالم الفانين، أم لمجرد منع عابديها من رؤية الحقيقة؟"
+ },
+ {
+  "key": "Reading_ShengMu_Book_19",
+  "text": "لغز السيدة"
+ },
+ {
+  "key": "Reading_ShiYan_BookDes_18",
+  "text": "لا يسجل الدفتر أسماء أي بشر، بل سلاسل من الأرقام وحدها، إلى جانب التعصب الملتوي المحفوظ بين صفحاته."
+ },
+ {
+  "key": "Reading_ShiYan_Book_18",
+  "text": "ملاحظات تجارب المبعوث"
+ },
+ {
+  "key": "Reading_ShuiXing_BookDes_22",
+  "text": "كان في بحيرة ميغو ذات يوم طاقم بحري لا يكترث باسم الوافد الجديد ولا بماضيه. ولم يكن الحكم على المرء إلا بمهارته في الماء وحجم ما يصطاده.\n\nوإذا صادف أن انجرفت إلى هناك روح مرهقة سيئة الحظ، أمكنها مع ذلك أن تكسب بضعة أقداح من النبيذ الخشن، فتغسل بها نصف عمر من الشقاء على صوت الماء وتحت ضوء الفوانيس."
+ },
+ {
+  "key": "Reading_ShuiXing_Book_22",
+  "text": "شذرات من عصابة المياه السوداء"
+ },
+ {
+  "key": "Reading_XSSL_BSW_Letter_001",
+  "text": "رسالة غير موقعة"
+ },
+ {
+  "key": "Reading_XSSL_BSW_Letter_002",
+  "text": "ملاحظات عن شظية العالم الخفي"
+ },
+ {
+  "key": "Reading_XSSL_BSW_Letter_003",
+  "text": "خريطة الممر السري لدار الثعبان الخضراء"
+ },
+ {
+  "key": "Reading_XSSL_BSW_Letter_004",
+  "text": "تصميم القلب المشعّ"
+ },
+ {
+  "key": "Reading_XSSL_BSW_Letter_005",
+  "text": "دليل مصوّر لضيعة السراب"
+ },
+ {
+  "key": "Reading_XSSL_BSW_Letter_006",
+  "text": "قائمة أعضاء نقابة التجار"
+ },
+ {
+  "key": "Reading_XSSL_Letter_009",
+  "text": "ملاحظات عن فنون الأطياف"
+ },
+ {
+  "key": "Reading_XSSL_Letter_010",
+  "text": "دليل مصوّر لنباتات الأراضي الأجنبية"
+ },
+ {
+  "key": "Reading_XSSL_Letter_011",
+  "text": "دراسة في الطوائف الأجنبية"
+ },
+ {
+  "key": "Reading_XSSL_Letter_013",
+  "text": "سجل سم الصمت وسم السكون"
+ },
+ {
+  "key": "Reading_XSSL_Letter_014",
+  "text": "سجلّ الترياق السباعي"
+ },
+ {
+  "key": "Reading_XiMeng_BookDes_21",
+  "text": "تعلو القاعات طبقات حيث يلتقي الجبل بالماء،\nوتتبارى مئة فرجة في بريق يفوق ضوء النهار.\n\nوتفتح أبوابها على سوق يعج بالتجار والمسافرين،\nوتستقبل الوافدين من بعيد بموائد عامرة بأشهى الطعام.\n\nوفوق ساحة المبارزة يتنافسون بشدة على الشارات النفيسة،\nوعلى وقع الأنغام العذبة ينتشي الجميع وسط أجواء بهيجة.\n\nولا يهم أن يجاور جبل تمزيق الأرواح أرضا محرمة،\nفلحن واحد من الناي والأوتار يتجاوز الغيوم إلى الآفاق البعيدة."
+ },
+ {
+  "key": "Reading_XiMeng_Book_21",
+  "text": "ماضي ضيعة السراب"
+ },
+ {
+  "key": "Reading_XiaoZhang_BookDes_14",
+  "text": "لكل ما يسعى تشانغ سريع اليد إلى استعادته حكاية تخصّه.\n\nلعل الذهب والفضة لم يعودا كافيين لتقدير قيمته، لكن الذكريات التي يحملها تستحق أن تُروى حتى آخرها."
+ },
+ {
+  "key": "Reading_XiaoZhang_Book_14",
+  "text": "قائمة آثار تشانغ سريع اليد"
+ },
+ {
+  "key": "Reading_Xiaoxue_Letter_001",
+  "text": "قائمة مقتنيات شيويه"
+ },
+ {
+  "key": "Reading_XieYuan_Page_001",
+  "text": "ذكريات شيه يوان 1"
+ },
+ {
+  "key": "Reading_XieYuan_Page_002",
+  "text": "ذكريات شيه يوان II"
+ },
+ {
+  "key": "Reading_Xigu_Letter_001",
+  "text": "رسالة الدم اليائسة"
+ },
+ {
+  "key": "Reading_Xigu_Letter_002",
+  "text": "الطلب الأخير لسيّد الفأس"
+ },
+ {
+  "key": "Reading_Xigu_Letter_004",
+  "text": "الرسالة الأخيرة للقائد وو"
+ },
+ {
+  "key": "Reading_Xigu_Letter_005",
+  "text": "رسالة سرية من الاستراتيجي شو فنغ"
+ },
+ {
+  "key": "Reading_Xigu_Letter_006",
+  "text": "ردّ زعيم الطائفة مينغ"
+ },
+ {
+  "key": "Reading_Xigu_Letter_009",
+  "text": "سجلات الحجر البدائي: الارتقاء الكامل"
+ },
+ {
+  "key": "Reading_Xigu_Letter_010",
+  "text": "الرسالة السرية للقائد تشن تشو"
+ },
+ {
+  "key": "Reading_Xigu_Letter_011",
+  "text": "إعلان إرشادي للقرية"
+ },
+ {
+  "key": "Reading_Xigu_Letter_012",
+  "text": "سجلات إصابات تلاميذ الميثاق"
+ },
+ {
+  "key": "Reading_Xigu_Letter_013",
+  "text": "الطفل المفقود"
+ },
+ {
+  "key": "Reading_Xigu_Letter_014",
+  "text": "رسالة غو لينغران إلى زعيم الطائفة مينغ"
+ },
+ {
+  "key": "Reading_Xigu_Letter_015",
+  "text": "إيصال قرض مزارع"
+ },
+ {
+  "key": "Reading_Xigu_Letter_016",
+  "text": "صكّ بيع أرض مهجورة"
+ },
+ {
+  "key": "Reading_Xigu_Letter_017",
+  "text": "وصية عالم عشيرة لونغ"
+ }
+]

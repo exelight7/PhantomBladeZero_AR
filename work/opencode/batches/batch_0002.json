@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Achievement_Name_34",
+  "text": "آخر أبناء بايشان"
+ },
+ {
+  "key": "Achievement_Name_35",
+  "text": "معًا حتى النهاية"
+ },
+ {
+  "key": "Achievement_Name_36",
+  "text": "شرف جوّال"
+ },
+ {
+  "key": "Achievement_Name_37",
+  "text": "النصل الطيفي"
+ },
+ {
+  "key": "Achievement_Name_38",
+  "text": "إرث المعالج"
+ },
+ {
+  "key": "Achievement_Name_39",
+  "text": "ما فُقد وما عُثر عليه"
+ },
+ {
+  "key": "Achievement_Name_40",
+  "text": "حتى الأشجار تعرف الحزن"
+ },
+ {
+  "key": "Achievement_Name_41",
+  "text": "عشرة أسلحة مصقولة"
+ },
+ {
+  "key": "Achievement_Name_42",
+  "text": "القوّة الساحقة"
+ },
+ {
+  "key": "Achievement_Name_43",
+  "text": "إتقان كامل"
+ },
+ {
+  "key": "Achievement_Name_44",
+  "text": "أنصت إلى كل زهرة"
+ },
+ {
+  "key": "Achievement_Name_45",
+  "text": "لا تدع حجرًا دون تقليبه"
+ },
+ {
+  "key": "Achievement_Name_46",
+  "text": "ملاحظات جامع المقتنيات"
+ },
+ {
+  "key": "Achievement_Name_47",
+  "text": "ترسانة الأسلحة الطيفية"
+ },
+ {
+  "key": "Achievement_Name_48",
+  "text": "المهارة خير من القوة"
+ },
+ {
+  "key": "Achievement_Name_49",
+  "text": "درب الطيف"
+ },
+ {
+  "key": "Achievement_Name_50",
+  "text": "سبيل النصل"
+ },
+ {
+  "key": "Achievement_Name_51",
+  "text": "النصل الصدئ"
+ },
+ {
+  "key": "Achievement_Name_52",
+  "text": "حلم في السُّكر"
+ },
+ {
+  "key": "Achievement_Name_53",
+  "text": "نصر بلا دماء"
+ },
+ {
+  "key": "Achievement_Name_54",
+  "text": "اللهب الكامن"
+ },
+ {
+  "key": "Achievement_Name_55",
+  "text": "عطش النصل"
+ },
+ {
+  "key": "Achievement_Name_56",
+  "text": "الثلج والصقيع"
+ },
+ {
+  "key": "Achievement_Name_57",
+  "text": "شطر إلى نصفين"
+ },
+ {
+  "key": "Achievement_Name_58",
+  "text": "انفجار مؤجّل"
+ },
+ {
+  "key": "Achievement_Name_59",
+  "text": "ترابط مثالي"
+ },
+ {
+  "key": "Achievement_Name_60",
+  "text": "عاصفة بايشان"
+ },
+ {
+  "key": "Achievement_Name_61",
+  "text": "ضربة السقوط السماوي"
+ },
+ {
+  "key": "Achievement_Name_62",
+  "text": "قلب الموازين"
+ },
+ {
+  "key": "Achievement_Name_63",
+  "text": "قبضات الغضب"
+ },
+ {
+  "key": "Achievement_Name_64",
+  "text": "سرعة البرق"
+ },
+ {
+  "key": "Achievement_Name_65",
+  "text": "صديق من العدم"
+ },
+ {
+  "key": "Achievement_Name_66",
+  "text": "تحدّي القدر"
+ },
+ {
+  "key": "Appearance_Des_1",
+  "text": "لباس سفر خفيف، مهترئ وممزق إثر مبارزة هزّت السماء والأرض ولم يشهدها أحد. ومع ذلك، ما زال ينسجم مع حركة قدمي سول."
+ },
+ {
+  "key": "Appearance_Des_2",
+  "text": "لباس سفر خفيف يوازن بين الحماية وحرية الحركة. وعند إطلاق الخطوة الشبحية، يندفع خيط قرمزي داكن مع كل حركة، فيشوّش نظر العدو حتى يلتبس عليه القماش والنصل فيبدوان كأنهما شيء واحد."
+ },
+ {
+  "key": "Appearance_Des_3",
+  "text": "لعل حكاية هذا المبارز الجوّال ستظل تُروى في أرجاء عالم القتال بعد أعوام كثيرة. لا أحد في هذا العالم يضاهي طيفه أو يصدّ نصله."
+ },
+ {
+  "key": "Appearance_Des_4",
+  "text": "يغلي شا-تشي مع الدم في عروقه ويندفع عبر درع الحرب، فيكسبه لونًا قرمزيًا غريبًا وعميقًا."
+ },
+ {
+  "key": "Appearance_Des_5",
+  "text": "زيّ صيّاد فضفاض بقلنسوة ثقيلة بما يكفي لصدّ الريح أثناء الركض بأقصى سرعة. لا شيء ينتزع حياة سول بسهولة. لا شيء سوى الزمن."
+ },
+ {
+  "key": "Appearance_Des_6",
+  "text": "لا درع، بل رباطة جأش معلّم أكبر. القوة، وسلالة الدم، والأصل... كل شكّ راود ذهنه في ساعات السكون وجد أخيرًا جوابًا."
+ },
+ {
+  "key": "Appearance_Des_7",
+  "text": "زيّ قتالي مهيب تعلوه دروع من الحراشف، مثالي للصمود في معركة طويلة ضارية. لعلهم يلتقون مجددًا قريبًا. بعض الشراب ووجبة بسيطة."
+ },
+ {
+  "key": "Appearance_Des_8",
+  "text": "زيّ سفر لمحارب تشبّع منذ زمن بعيد بالريح والثلج. وفي جيبه مطوية صورة فتى صغير، وترتبط بها هوسة أب لا تلين."
+ },
+ {
+  "key": "Appearance_Func_5",
+  "text": "إتاحة الفتح عند بلوغ أي نهاية"
+ },
+ {
+  "key": "Appearance_Func_6",
+  "text": "الفتح ببلوغ نهاية محددة."
+ },
+ {
+  "key": "Appearance_Name_1",
+  "text": "الندبة السوداء (الهارب)"
+ },
+ {
+  "key": "Appearance_Name_2",
+  "text": "الندبة السوداء"
+ },
+ {
+  "key": "Appearance_Name_3",
+  "text": "أسطورة الوولين"
+ },
+ {
+  "key": "Appearance_Name_4",
+  "text": "هيئة الفولاذ الدموي"
+ },
+ {
+  "key": "Appearance_Name_5",
+  "text": "المطارِد"
+ },
+ {
+  "key": "Appearance_Name_6",
+  "text": "الإرث"
+ },
+ {
+  "key": "Appearance_Name_7",
+  "text": "أواصر القربى"
+ },
+ {
+  "key": "Appearance_Name_8",
+  "text": "العاصفة الثلجية"
+ },
+ {
+  "key": "Appearance_PlaceHold_4",
+  "text": "القبعة المخروطية الافتراضية"
+ },
+ {
+  "key": "Appearance_PlaceHold_5",
+  "text": "بلا قبعة"
+ },
+ {
+  "key": "Appearance_PlaceHold_6",
+  "text": "تسريحة الشعر الافتراضية"
+ },
+ {
+  "key": "Appearance_PlaceHold_7",
+  "text": "تسريحة شعر تجريبية"
+ },
+ {
+  "key": "Appearance_PlaceHold_8",
+  "text": "بلا لحية"
+ },
+ {
+  "key": "Appearance_PlaceHold_9",
+  "text": "الزي الافتراضي بلا قبعة"
+ },
+ {
+  "key": "AttributeTablePair_01",
+  "text": "هجوم شا-تشي"
+ },
+ {
+  "key": "AttributeTablePair_02",
+  "text": "عدد الطلقات"
+ },
+ {
+  "key": "Bell_DDSD_001",
+  "text": "درب السيدة"
+ },
+ {
+  "key": "Bell_DDSD_002",
+  "text": "معسكر الجزار الحديدي"
+ },
+ {
+  "key": "Bell_DDSD_003",
+  "text": "كهف القفص المعلّق"
+ },
+ {
+  "key": "Bell_DDSD_004",
+  "text": "ممر الكهف"
+ },
+ {
+  "key": "Bell_DDSD_005",
+  "text": "منصة القائد"
+ },
+ {
+  "key": "Bell_DDSD_006",
+  "text": "البوابة الخارجية للمزار"
+ },
+ {
+  "key": "Bell_DDSD_007",
+  "text": "مزار السيدة"
+ },
+ {
+  "key": "Bell_DH_001",
+  "text": "درب الفضة"
+ },
+ {
+  "key": "Bell_DH_002",
+  "text": "معسكر الميثاق الأخير"
+ },
+ {
+  "key": "Bell_DH_003",
+  "text": "سقوط العملاق"
+ },
+ {
+  "key": "Bell_DH_004",
+  "text": "جرف تمزيق الأرواح"
+ },
+ {
+  "key": "Bell_DH_005",
+  "text": "المعسكر المهجور"
+ },
+ {
+  "key": "Bell_DH_006",
+  "text": "كهف الجرف المتجمّد"
+ },
+ {
+  "key": "Bell_DH_007",
+  "text": "الحلم الساقط"
+ },
+ {
+  "key": "Bell_DH_008",
+  "text": "الفرصة الأخيرة"
+ },
+ {
+  "key": "Bell_DH_009",
+  "text": "الوادي المتجمّد"
+ },
+ {
+  "key": "Bell_DH_010",
+  "text": "وكر العملاق"
+ },
+ {
+  "key": "Bell_DH_011",
+  "text": "مطل العاصفة الثلجية"
+ },
+ {
+  "key": "Bell_DH_012",
+  "text": "طيف البيت القديم"
+ },
+ {
+  "key": "Bell_DH_DP_008",
+  "text": "عمود لونغ في جرف تمزيق الأرواح"
+ },
+ {
+  "key": "Bell_DP_001",
+  "text": "عمود لونغ"
+ },
+ {
+  "key": "Bell_DaRongShu_001",
+  "text": "شجرة البانيان ذات الوجه البشري"
+ },
+ {
+  "key": "Bell_FJZL_DP_002",
+  "text": "عمود لونغ في غابة المرايا"
+ },
+ {
+  "key": "Bell_FJZL_XiaoZhang_001",
+  "text": "مخبأ تشانغ (الغابة القرمزية)"
+ },
+ {
+  "key": "Bell_Item_01",
+  "text": "العودة إلى أقرب جرس"
+ },
+ {
+  "key": "Bell_Item_02",
+  "text": "الاستخدام للعودة إلى أقرب جرس."
+ },
+ {
+  "key": "Bell_Item_03",
+  "text": "العودة إلى أقرب جرس؟"
+ },
+ {
+  "key": "Bell_Item_04",
+  "text": "لا يمكن العودة إلى أقرب جرس أثناء الوجود في عالم السراب."
+ },
+ {
+  "key": "Bell_JJYBP_007",
+  "text": "زنزانة الدمية"
+ },
+ {
+  "key": "Bell_LJC_XiaoZhang_002",
+  "text": "مخبأ تشانغ (قرية لو)"
+ },
+ {
+  "key": "Bell_LYZ_008",
+  "text": "معبد إله الجبل"
+ },
+ {
+  "key": "Bell_LYZ_010",
+  "text": "رصيف البحيرة المتجمّدة"
+ },
+ {
+  "key": "Bell_LYZ_011",
+  "text": "مرآة الحراس الأربعة"
+ },
+ {
+  "key": "Bell_LYZ_013",
+  "text": "الدرب المحظور"
+ },
+ {
+  "key": "Bell_LYZ_014",
+  "text": "سقوط الظل الأبيض"
+ },
+ {
+  "key": "Bell_LZSJ_001",
+  "text": "الغابة القرمزية"
+ },
+ {
+  "key": "Bell_LZSJ_002",
+  "text": "الطريق الرئيسي المهجور"
+ },
+ {
+  "key": "Bell_LZSJ_003",
+  "text": "مطل جسر بانغتشن"
+ },
+ {
+  "key": "Bell_LZSJ_004",
+  "text": "فخ الخارجين عن القانون"
+ },
+ {
+  "key": "Bell_LZSJ_005",
+  "text": "معسكر اللصوص"
+ },
+ {
+  "key": "Bell_LZSJ_006",
+  "text": "جرف الشوق"
+ }
+]

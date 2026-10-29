@@ -1,0 +1,402 @@
+[
+ {
+  "key": "PhantomEdges_Function_024_25",
+  "text": "الجلوس والعزف المتواصل على آلة البيبا بالضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، لإطلاق وابل من الأنصال الصوتية <Character_Yellow_Decorator2>الزرقاء</> و<Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</>. استهلاك <img id=\"SpiritShadow\" width=\"40\"/> باستمرار."
+ },
+ {
+  "key": "PhantomEdges_Function_025_5",
+  "text": "زيادة كبيرة لمتانة الدرع لدى <Character_Yellow_Decorator2>دمى السيف والدرع</> و<Character_Yellow_Decorator2>دمى الرمح والدرع</>."
+ },
+ {
+  "key": "PhantomEdges_Function_025_15",
+  "text": "تشنّ <Character_Yellow_Decorator2>دمى السيف والدرع</> و<Character_Yellow_Decorator2>دمى الرمح والدرع</> هجومًا مضادًا بعد صدّ هجمات الأعداء."
+ },
+ {
+  "key": "PhantomEdges_Function_025_25",
+  "text": "<WeaponDes_Main_Green>زيادة كبيرة</> لكسر الدفاع الذي تسببه جميع الدمى المستدعاة."
+ },
+ {
+  "key": "PhantomEdges_Function_026_5",
+  "text": "قدرة قائد المبارزين على إطلاق <Character_Yellow_Decorator2>موجات نصلية</>."
+ },
+ {
+  "key": "PhantomEdges_Function_026_15",
+  "text": "عند وجود <dtv id=\"X385\"/> من المبارزين في الميدان، تنفيذ أسلوب تشكيل."
+ },
+ {
+  "key": "PhantomEdges_Function_026_25",
+  "text": "<dtv id=\"X386\"/> من المبارزين: <WeaponDes_Main_Green>زيادة كبيرة جدًا للضرر</> الذي يلحقونه بالأعداء <Character_Yellow_Decorator2>مكسوري الدفاع</>."
+ },
+ {
+  "key": "PhantomEdges_Function_109_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <Character_Yellow_Decorator2>[شعاع الموت]</> يخترق <Character_Yellow_Decorator2></> الأعداء ويصيب الأعداء خلفهم <Character_Yellow_Decorator2>بضرر أقل</>. استهلاك <dtv id=\"X472\"/> <img id=\"SpiritShadow\" width=\"40\"/>."
+ },
+ {
+  "key": "PhantomEdges_Function_109_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لضرر <Character_Yellow_Decorator2>[شعاع الموت] </>بعد اختراق عدو."
+ },
+ {
+  "key": "PhantomEdges_Function_109_15",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <Character_Yellow_Decorator2>[شعاع الموت]</> باستمرار، واستهلاك الطاقة <img id=\"SpiritShadow\" width=\"40\"/> بمرور الوقت."
+ },
+ {
+  "key": "PhantomEdges_Function_109_25",
+  "text": "أثناء الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستخدام <Character_Yellow_Decorator2>[نظرة الموت]</>، ظهور عيون طافية على الجانبين وإطلاقها <Character_Yellow_Decorator2>[شعاع الموت]</> باستمرار."
+ },
+ {
+  "key": "Place_Name_1",
+  "text": "بانغتشن"
+ },
+ {
+  "key": "Save_1",
+  "text": "ميدان تدريب التنظيم"
+ },
+ {
+  "key": "Save_2",
+  "text": "الطريق الرئيسي"
+ },
+ {
+  "key": "Tutorial_Attack_Des_1_1",
+  "text": "الضغط على <InputAction id=\"Lock\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتثبيت الهدف"
+ },
+ {
+  "key": "Tutorial_Attack_Title_1",
+  "text": "تبديل السلاح"
+ },
+ {
+  "key": "Tutorial_Attack_Title_2",
+  "text": "الاغتيال"
+ },
+ {
+  "key": "Tutorial_Attack_Title_3",
+  "text": "دليل الاستراتيجية"
+ },
+ {
+  "key": "Tutorial_Battle_1_1",
+  "text": "الأسلحة الثقيلة مثل الفأس المروّع فعّالة في تحطيم الدروع!"
+ },
+ {
+  "key": "Tutorial_Battle_2_1",
+  "text": "يصعب على الهجمات الأمامية كسر الدروع!"
+ },
+ {
+  "key": "Tutorial_Battle_2_2",
+  "text": "الصدّ المثالي ضد <Tutorial_Title_Blue>هجمات الوميض الأزرق</> لتفعيل <Tutorial_Title_Red>خطوة الشبح</> والانتقال خلف الأعداء."
+ },
+ {
+  "key": "Tutorial_Battle_ZuoShang2_1",
+  "text": "بذل أقصى الجهد! استخدام سلاسل الضربات لكسر دفاع تسو شانغ!"
+ },
+ {
+  "key": "Tutorial_Battle_ZuoShang2_2",
+  "text": "التحكّم في سلسلة الضربات الأساسية وسلسلة ضربات شا-تشي"
+ },
+ {
+  "key": "Tutorial_Battle_ZuoShang_1",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبل إصابة هجوم العدو مباشرةً لتنفيذ <Tutorial_Body_Yellow>صدّ مثالي</>!"
+ },
+ {
+  "key": "Tutorial_Battle_ZuoShang_2",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبل إصابة <Tutorial_Title_Blue>هجوم الوميض الأزرق</> للعدو مباشرةً!"
+ },
+ {
+  "key": "Tutorial_Battle_ZuoShang_3",
+  "text": "الضغط على <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبل إصابة <Tutorial_Title_Red>هجوم الوميض الأحمر</> للعدو مباشرةً!"
+ },
+ {
+  "key": "Tutorial_Bell_1",
+  "text": "لمس الجرس لاستعادة الصحة والدواء. يكشف اللمس الأول مناطق جديدة على الخريطة."
+ },
+ {
+  "key": "Tutorial_Bell_1_1",
+  "text": "اجتياز العالم الخفي بسرعة للوصول إلى الأجراس التي سبق قرعها."
+ },
+ {
+  "key": "Tutorial_Bell_2a_1",
+  "text": "التواصل مع أجراس الكركي يستحضر ذكرى من الماضي، لكن سول سيستريح ليلًا، ما يخفض الأيام المتبقية نهائيًا بمقدار يوم واحد."
+ },
+ {
+  "key": "Tutorial_Bell_2b_1",
+  "text": "التواصل مع جرس الكركي يستحضر ذكرى من الماضي."
+ },
+ {
+  "key": "Tutorial_Bell_2b_2",
+  "text": "في وضع «المحكوم بالموت»، تُشفى الجروح أيضًا."
+ },
+ {
+  "key": "Tutorial_Bell_2b_3",
+  "text": "لكن سول سيستريح هناك ليلًا، ما يخفض الأيام المتبقية بمقدار يوم واحد."
+ },
+ {
+  "key": "Tutorial_Bell_2b_4",
+  "text": "لا يمكن استعادة الأيام التي تُفقد بسبب أجراس الكركي وتقدّم القصة."
+ },
+ {
+  "key": "Tutorial_Bell_Medicine_1",
+  "text": "الضغط على <InputAction id=\"TopMedicine\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستخدام قارورة الدواء الثانية. ضبط الدواء من قائمة <InputAction id=\"option\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>."
+ },
+ {
+  "key": "Tutorial_Blossoms_1_1",
+  "text": "العثور على زهور الذكرى الزرقاء على الخريطة لكشف أصداء الماضي. جمع عدد كافٍ منها لزيادة الحد الأقصى للصحة!"
+ },
+ {
+  "key": "Tutorial_ChangeWeapon_1_1",
+  "text": "الضغط على <InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتبديل السلاح!"
+ },
+ {
+  "key": "Tutorial_ChangeWeapon_1_2",
+  "text": "يستعيد تبديل السلاح شا-تشي بالكامل"
+ },
+ {
+  "key": "Tutorial_ChangeWeapon_1_3",
+  "text": "لتبديل السلاح فترة انتظار قصيرة"
+ },
+ {
+  "key": "Tutorial_ChangeWeapon_1_4",
+  "text": "انتهاء فترة الانتظار. الضغط على <InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> مجددًا لتبديل السلاح."
+ },
+ {
+  "key": "Tutorial_Defense_Des_1_1",
+  "text": "<InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> + <UIRowName id=\"LeftThumbstick\" height=\"26\"/> الحركة أثناء وضعية الدفاع"
+ },
+ {
+  "key": "Tutorial_Defense_Title_1",
+  "text": "الحفاظ على وضعية الدفاع"
+ },
+ {
+  "key": "Tutorial_Defense_Title_2",
+  "text": "الصدّ المثالي"
+ },
+ {
+  "key": "Tutorial_Defense_Title_3",
+  "text": "دواء"
+ },
+ {
+  "key": "Tutorial_Dodge_Des_1_1",
+  "text": "<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> مراوغة إلى الخلف"
+ },
+ {
+  "key": "Tutorial_Dodge_Des_1_2",
+  "text": "<UIRowName id=\"LeftThumbstick\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> المراوغة في أي اتجاه."
+ },
+ {
+  "key": "Tutorial_Enemies_1_1",
+  "text": "إعطاء الأولوية للقضاء على الأعداء ذوي الهجمات بعيدة المدى!"
+ },
+ {
+  "key": "Tutorial_Enemies_2_1",
+  "text": "الركض بمحاذاة الجدران لاغتيال الأعداء."
+ },
+ {
+  "key": "Tutorial_Enemies_3_1",
+  "text": "<InputAction id=\"SprintSwitch\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للانحناء في العشب وتجنّب الرصد."
+ },
+ {
+  "key": "Tutorial_Enemies_3_2",
+  "text": "سيعثر الأعداء عليك إن اقتربوا أكثر من اللازم!"
+ },
+ {
+  "key": "Tutorial_Enemies_4_1",
+  "text": "النزول لاغتيال الأعداء في الأسفل"
+ },
+ {
+  "key": "Tutorial_Function_1",
+  "text": "<InputAction id=\"option\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> فتح قائمة الشخصية."
+ },
+ {
+  "key": "Tutorial_Function_2",
+  "text": "<InputAction id=\"Map\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> فتح الخريطة"
+ },
+ {
+  "key": "Tutorial_Function_3",
+  "text": "<UIRowName id=\"RightShoulder_Black\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> عرض المهامّ"
+ },
+ {
+  "key": "Tutorial_Function_4",
+  "text": "سجل المهامّ"
+ },
+ {
+  "key": "Tutorial_Function_5",
+  "text": "<UIRowName id=\"TrackQuestPoint\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> تتبّع هذه المهمة على الخريطة."
+ },
+ {
+  "key": "Tutorial_Function_6",
+  "text": "<UIRowName id=\"RightShoulder_Black\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> عرض الشخصية"
+ },
+ {
+  "key": "Tutorial_Function_7",
+  "text": "تغيير تجهيز الشخصية ومظهرها."
+ },
+ {
+  "key": "Tutorial_Function_8",
+  "text": "<UIRowName id=\"RightShoulder_Black\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> عرض الأغراض"
+ },
+ {
+  "key": "Tutorial_Function_9",
+  "text": "الموادّ والأغراض الأساسية المجموعة خلال الرحلة."
+ },
+ {
+  "key": "Tutorial_Function_10",
+  "text": "<UIRowName id=\"RightShoulder_Black\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> عرض الأرشيف"
+ },
+ {
+  "key": "Tutorial_Function_11",
+  "text": "قراءة الكتب والشذرات لكشف أسرار عالم الأطياف."
+ },
+ {
+  "key": "Tutorial_Function_12",
+  "text": "<UIRowName id=\"Return_Game\" height=\"24\" LeftPadding=\"5\" RightPadding=\"5\"/> العودة إلى اللعبة"
+ },
+ {
+  "key": "Tutorial_Function_13",
+  "text": "توفّر هذه الخريطة دليلًا عامًا، لكن يلزم العثور على المسارات المخفية بالاستكشاف."
+ },
+ {
+  "key": "Tutorial_Function_14",
+  "text": "متابعة القصة الرئيسية واقتفاء أثر تسو شانغ."
+ },
+ {
+  "key": "Tutorial_Function_15",
+  "text": "قلب مجرى الأحداث، وربما تحدّي القدر..."
+ },
+ {
+  "key": "Tutorial_Function_16",
+  "text": "قد يكون التحقيق في حكايات الوولين عونًا كبيرًا في الطريق."
+ },
+ {
+  "key": "Tutorial_Gameplay_Title_1",
+  "text": "الحركة الأساسية"
+ },
+ {
+  "key": "Tutorial_Gameplay_Title_2",
+  "text": "<InputAction id=\"Sprint\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/> الركض السريع"
+ },
+ {
+  "key": "Tutorial_Guide_1",
+  "text": "جرس الكركي"
+ },
+ {
+  "key": "Tutorial_Guide_1_1",
+  "text": "الاستراحة عند <Tutorial_Body_Yellow>أجراس على هيئة الكركي</> لاستعادة ذكريات الماضي وكشف الذكريات العالقة لتسو شانغ في العالم الخفي. جمع كل الأدلة لكشف الحقيقة!"
+ },
+ {
+  "key": "Tutorial_Guide_2",
+  "text": "زهرة الذكرى"
+ },
+ {
+  "key": "Tutorial_HUD_01",
+  "text": "الاقتراب من الأعداء الغافلين من الخلف والضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاغتيالهم"
+ },
+ {
+  "key": "Tutorial_Hud_02",
+  "text": "<InputAction id=\"Jump\" height=\"26\"/> القفز"
+ },
+ {
+  "key": "Tutorial_Hud_03",
+  "text": "<InputAction id=\"SpecialMove\" height=\"26\"/> اجتياز التضاريس"
+ },
+ {
+  "key": "Tutorial_Hud_04",
+  "text": "<InputAction id=\"SprintSwitch\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> الانحناء"
+ },
+ {
+  "key": "Tutorial_Hud_05",
+  "text": "<InputAction id=\"SprintSwitch\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> الوقوف"
+ },
+ {
+  "key": "Tutorial_Hud_06",
+  "text": "الركض السريع\n<InputAction id=\"Sprint\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>"
+ },
+ {
+  "key": "Tutorial_Hud_07",
+  "text": "<UIRowName id=\"LeftThumbstick\" height=\"26\"/> الحركة"
+ },
+ {
+  "key": "Tutorial_Hud_08",
+  "text": "<UIRowName id=\"RightThumbstick\" height=\"26\"/> ضبط الكاميرا"
+ },
+ {
+  "key": "Tutorial_JiaoHu_1",
+  "text": "<InputAction id=\"Interaction\" height=\"32\" RightPadding=\"10\" LeftPadding=\"10\"/> دفع الصخرة لسحق الأعداء في الأسفل."
+ },
+ {
+  "key": "Tutorial_Medicine_1",
+  "text": "<InputAction id=\"BottomMedicine\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستخدام الدواء"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_1_1",
+  "text": "استخدام سلاح طيفي يستهلك الشرارة المظلمة <img id=\"SpiritShadow\" width=\"40\"/>. استعادة الاستخدامات عند الأجراس."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_2_1",
+  "text": "تجهيز سلاحين طيفيين واستخدام <InputAction id=\"ChangeShaChiWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للتبديل بينهما."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_2_2",
+  "text": "يمكن لمنجل السلسلة للصياد التعلّق بنقاط ارتكاز خاصة ورفع سول إلى الأعلى، حتى عندما لا يكون مجهزًا."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_3",
+  "text": "يمكن للقوس إسقاط الأجسام المخفية في الأماكن المرتفعة حتى عندما لا يكون مجهزًا."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_4",
+  "text": "يمكن لعمود السحق تحطيم الأرضيات الواهنة حتى عندما لا يكون مجهزًا."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_5",
+  "text": "عزف البيبا الوهمية لتبديد حواجز الأوهام حتى عندما لا تكون مجهزة."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_6",
+  "text": "يمكن لطوفان يو لونغ إخماد حواجز اللهب حتى عندما لا يكون مجهزًا."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_7",
+  "text": "يمكن لمدفع النمر تفجير الجدران الحجرية حتى عندما لا يكون مجهزًا."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_8",
+  "text": "يمكن للمقصلة الطائرة فتح الآليات الخاصة التي وضعها هوانغشينغ حتى عندما لا تكون مجهزة."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_9",
+  "text": "استخدام اللِّبدة المشتعلة لإحراق حواجز الشجيرات الشائكة حتى عندما لا تكون مجهزة."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_10",
+  "text": "لبعض الأسلحة الطيفية استخدامات تتجاوز القتال، إذ تساعد أيضًا في الاستكشاف!\nيمكن للفأس المروّع قطع السلاسل الضخمة حتى عندما لا يكون مجهزًا."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_11",
+  "text": "يمكن للحصن صدّ سهام الأقواس، ما يتيح لسول التوغّل في المناطق الخطرة حتى عندما لا يكون مجهزًا."
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_3",
+  "text": "قدرة استكشاف القوس"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_4",
+  "text": "قدرة استكشاف عمود السحق"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_5",
+  "text": "قدرة استكشاف البيبا الوهمية"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_6",
+  "text": "قدرة استكشاف طوفان يو لونغ"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_7",
+  "text": "قدرة استكشاف مدفع النمر"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_8",
+  "text": "قدرة استكشاف المقصلة الطائرة"
+ },
+ {
+  "key": "Tutorial_PhantomEdges_Title_9",
+  "text": "قدرة استكشاف اللِّبدة المشتعلة"
+ }
+]

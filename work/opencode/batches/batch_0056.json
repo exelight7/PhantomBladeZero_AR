@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Weapon_FunctionName_013_5",
+  "text": "الضربة القاطعة المتهورة"
+ },
+ {
+  "key": "Weapon_FunctionName_013_10",
+  "text": "لا يُقهر {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_013_15",
+  "text": "درع البقاء"
+ },
+ {
+  "key": "Weapon_FunctionName_013_25",
+  "text": "السهم الدموي"
+ },
+ {
+  "key": "Weapon_FunctionName_013_EX",
+  "text": "الانسحاب الحاصد"
+ },
+ {
+  "key": "Weapon_FunctionName_013_Re",
+  "text": "الخارج عن القانون عديم الرحمة"
+ },
+ {
+  "key": "Weapon_FunctionName_013_Skill",
+  "text": "هياج التعطّش للدماء"
+ },
+ {
+  "key": "Weapon_FunctionName_014_EX",
+  "text": "موجة اللهب"
+ },
+ {
+  "key": "Weapon_FunctionName_014_EX_2",
+  "text": "نصل الاحتراق"
+ },
+ {
+  "key": "Weapon_FunctionName_014_Skill",
+  "text": "لهيب التمزيق"
+ },
+ {
+  "key": "Weapon_FunctionName_015_5",
+  "text": "مطاردة كسر الدفاع"
+ },
+ {
+  "key": "Weapon_FunctionName_015_10",
+  "text": "ميزة قاسية {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_015_15",
+  "text": "منشار الدم"
+ },
+ {
+  "key": "Weapon_FunctionName_015_25",
+  "text": "التصفية"
+ },
+ {
+  "key": "Weapon_FunctionName_015_EX",
+  "text": "أفضل هجوم"
+ },
+ {
+  "key": "Weapon_FunctionName_015_Re",
+  "text": "افتراس الأقوياء"
+ },
+ {
+  "key": "Weapon_FunctionName_015_Skill",
+  "text": "الخاتمة الوحشية"
+ },
+ {
+  "key": "Weapon_FunctionName_016_5",
+  "text": "ضربة الصقيع"
+ },
+ {
+  "key": "Weapon_FunctionName_016_10",
+  "text": "برد نافذ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_016_15",
+  "text": "تلاقي الصقيع"
+ },
+ {
+  "key": "Weapon_FunctionName_016_25",
+  "text": "ضربة الختام الجليدية"
+ },
+ {
+  "key": "Weapon_FunctionName_016_EX",
+  "text": "التجمّد"
+ },
+ {
+  "key": "Weapon_FunctionName_016_Re",
+  "text": "تعمّق الصقيع"
+ },
+ {
+  "key": "Weapon_FunctionName_016_Skill",
+  "text": "عواء الصقيع للظل الأبيض"
+ },
+ {
+  "key": "Weapon_FunctionName_017_5",
+  "text": "الحقل القرمزي"
+ },
+ {
+  "key": "Weapon_FunctionName_017_10",
+  "text": "أشواك خفية {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_017_15",
+  "text": "عهود مقطوعة"
+ },
+ {
+  "key": "Weapon_FunctionName_017_25",
+  "text": "زهرة متوهجة من العالم السفلي"
+ },
+ {
+  "key": "Weapon_FunctionName_017_EX",
+  "text": "زنابق العنكبوت الحمراء"
+ },
+ {
+  "key": "Weapon_FunctionName_017_Re",
+  "text": "ضغينة باقية"
+ },
+ {
+  "key": "Weapon_FunctionName_017_Skill",
+  "text": "عاصفة الإزهار الأحمر"
+ },
+ {
+  "key": "Weapon_FunctionName_018_5",
+  "text": "اندفاع جارف"
+ },
+ {
+  "key": "Weapon_FunctionName_018_10",
+  "text": "تقدّم لا يوقف {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_018_15",
+  "text": "قوة لا تُقاوَم"
+ },
+ {
+  "key": "Weapon_FunctionName_018_25",
+  "text": "ضربة قاطعة فاتحة"
+ },
+ {
+  "key": "Weapon_FunctionName_018_EX",
+  "text": "طعنة"
+ },
+ {
+  "key": "Weapon_FunctionName_018_Re",
+  "text": "اندفاع لا هوادة فيه"
+ },
+ {
+  "key": "Weapon_FunctionName_018_Skill",
+  "text": "فن كسر التشكيل"
+ },
+ {
+  "key": "Weapon_FunctionName_019_5",
+  "text": "شفرة تتغذى على الدم"
+ },
+ {
+  "key": "Weapon_FunctionName_019_10",
+  "text": "شفرة مصبوغة بالغروب {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_019_15",
+  "text": "موجة لا تهدأ"
+ },
+ {
+  "key": "Weapon_FunctionName_019_25",
+  "text": "شقّ الإبادة"
+ },
+ {
+  "key": "Weapon_FunctionName_019_EX",
+  "text": "شق العجلة القرمزية"
+ },
+ {
+  "key": "Weapon_FunctionName_019_Re",
+  "text": "غروب لا يأفل"
+ },
+ {
+  "key": "Weapon_FunctionName_019_Skill",
+  "text": "هياج إبادة قطّاع الطرق"
+ },
+ {
+  "key": "Weapon_FunctionName_020_5",
+  "text": "عاصفة كاسحة للسحب"
+ },
+ {
+  "key": "Weapon_FunctionName_020_10",
+  "text": "دوران سلس {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_020_15",
+  "text": "تشينغلونغ بلا هيئة"
+ },
+ {
+  "key": "Weapon_FunctionName_020_25",
+  "text": "قوة لا تقهر"
+ },
+ {
+  "key": "Weapon_FunctionName_020_EX",
+  "text": "عاصفة الهلال"
+ },
+ {
+  "key": "Weapon_FunctionName_020_EX_2",
+  "text": "ضربة تشينغلونغ"
+ },
+ {
+  "key": "Weapon_FunctionName_020_Re",
+  "text": "ضربة شطر"
+ },
+ {
+  "key": "Weapon_FunctionName_020_Skill",
+  "text": "ضربة تشينغلونغ والنبيذ الدافئ"
+ },
+ {
+  "key": "Weapon_FunctionName_022_5",
+  "text": "نصل مشبع بالتشي"
+ },
+ {
+  "key": "Weapon_FunctionName_022_10",
+  "text": "الإجهاز الظلي {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_022_15",
+  "text": "مطاردة لا تلين"
+ },
+ {
+  "key": "Weapon_FunctionName_022_25",
+  "text": "النصال طليقة"
+ },
+ {
+  "key": "Weapon_FunctionName_022_Re",
+  "text": "الشفرة عديمة الظل"
+ },
+ {
+  "key": "Weapon_FunctionName_022_Skill",
+  "text": "وابل النصلين"
+ },
+ {
+  "key": "Weapon_FunctionName_023_5",
+  "text": "الاندفاع المشحون"
+ },
+ {
+  "key": "Weapon_FunctionName_023_10",
+  "text": "انفجار التآكل {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_023_15",
+  "text": "الهياج المشحون"
+ },
+ {
+  "key": "Weapon_FunctionName_023_25",
+  "text": "القطع التآكلي"
+ },
+ {
+  "key": "Weapon_FunctionName_023_EX",
+  "text": "تآكل الهالة الشيطانية"
+ },
+ {
+  "key": "Weapon_FunctionName_023_Re",
+  "text": "الهيئة الشيطانية اللانهائية"
+ },
+ {
+  "key": "Weapon_FunctionName_023_Skill",
+  "text": "هيئة الشيطان"
+ },
+ {
+  "key": "Weapon_FunctionName_024_EX",
+  "text": "هيئة الظل"
+ },
+ {
+  "key": "Weapon_FunctionName_024_Skill",
+  "text": "مرثية طيفية"
+ },
+ {
+  "key": "Weapon_FunctionName_026_5",
+  "text": "الكمين الدائري"
+ },
+ {
+  "key": "Weapon_FunctionName_026_10",
+  "text": "التدفق المهدِّد {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_026_15",
+  "text": "وابل الشؤم"
+ },
+ {
+  "key": "Weapon_FunctionName_026_25",
+  "text": "ضربة تمزق القلب"
+ },
+ {
+  "key": "Weapon_FunctionName_026_EX",
+  "text": "هالة الشؤم"
+ },
+ {
+  "key": "Weapon_FunctionName_026_Re",
+  "text": "مصيبتا تيانشا التوأم"
+ },
+ {
+  "key": "Weapon_FunctionName_026_Skill",
+  "text": "حصد تيانشا"
+ },
+ {
+  "key": "Weapon_FunctionName_027_5",
+  "text": "وسم الأفعى"
+ },
+ {
+  "key": "Weapon_FunctionName_027_10",
+  "text": "الثعابين الملتفة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_027_15",
+  "text": "أفعى أثيرية"
+ },
+ {
+  "key": "Weapon_FunctionName_027_25",
+  "text": "العضة الدؤوبة"
+ },
+ {
+  "key": "Weapon_FunctionName_027_EX",
+  "text": "مدار الأفعى القرمزية"
+ },
+ {
+  "key": "Weapon_FunctionName_027_EX_2",
+  "text": "إجهاز عن بُعد"
+ },
+ {
+  "key": "Weapon_FunctionName_027_Re",
+  "text": "أفاعي المئة عقدة"
+ },
+ {
+  "key": "Weapon_FunctionName_027_Skill",
+  "text": "هياج الثعبانين"
+ },
+ {
+  "key": "Weapon_FunctionName_028_5",
+  "text": "متابعة التصدي"
+ },
+ {
+  "key": "Weapon_FunctionName_028_10",
+  "text": "التأهّب للضرب {مستوى 1|مستوى 2|مستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_028_15",
+  "text": "الهجوم المضاد"
+ },
+ {
+  "key": "Weapon_FunctionName_028_25",
+  "text": "ربط الوحش الإلهي"
+ },
+ {
+  "key": "Weapon_FunctionName_028_EX",
+  "text": "التصدي"
+ },
+ {
+  "key": "Weapon_FunctionName_028_Re",
+  "text": "ضربة استشرافية"
+ },
+ {
+  "key": "Weapon_FunctionName_028_Skill",
+  "text": "الخطاف الذي لا يُضاهى"
+ },
+ {
+  "key": "Weapon_FunctionName_029_5",
+  "text": "الحلقة الطائرة المشحونة"
+ },
+ {
+  "key": "Weapon_FunctionName_029_10",
+  "text": "الحلقة الطائرة المعززة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_029_15",
+  "text": "خطوة طيفية"
+ },
+ {
+  "key": "Weapon_FunctionName_029_25",
+  "text": "خدعة الأثر اللاحق"
+ },
+ {
+  "key": "Weapon_FunctionName_029_Re",
+  "text": "عاصفة الحلقات"
+ },
+ {
+  "key": "Weapon_FunctionName_029_Skill",
+  "text": "حلقات حاصدة"
+ },
+ {
+  "key": "Weapon_FunctionName_031_5",
+  "text": "نعمة السيدة"
+ },
+ {
+  "key": "Weapon_FunctionName_031_10",
+  "text": "قوة الآفة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_FunctionName_031_15",
+  "text": "القانون المظلم"
+ },
+ {
+  "key": "Weapon_FunctionName_031_25",
+  "text": "سيّد السحر الغامض"
+ }
+]

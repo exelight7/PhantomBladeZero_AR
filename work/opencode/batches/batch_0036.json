@@ -1,0 +1,402 @@
+[
+ {
+  "key": "PhantomEdges_FunctionName_015_5",
+  "text": "تفتّح الحديد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_015_10",
+  "text": "اللهب المحرق للقلب {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_015_15",
+  "text": "الانفجار الفسفوري"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_015_25",
+  "text": "إعصار الفسفور"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_015_Advance",
+  "text": "اللهب الفسفوري"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_015_Re",
+  "text": "النار الشبحية آكلة العظام"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_016_5",
+  "text": "خبير الماء"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_016_10",
+  "text": "اختراق ناب لونغ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_016_15",
+  "text": "خطوة لونغ · إلى الأمام"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_016_25",
+  "text": "خطوة لونغ · إلى الخلف"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_016_Advance",
+  "text": "البلل"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_016_EX",
+  "text": "لا ملاذ في الأسفل"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_016_Re",
+  "text": "رمية دقيقة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_5",
+  "text": "ضربة القبضة المتقنة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_10",
+  "text": "تركيز القبضة المتحرر {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_15",
+  "text": "صدّ القبضة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_25",
+  "text": "الغضب المنطلق"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_Advance",
+  "text": "تركيز القبضة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_Re",
+  "text": "موجة القبضة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_5",
+  "text": "الإشراق الأخير"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_10",
+  "text": "حبر باقٍ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_15",
+  "text": "نصل مصوغ بالحبر"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_25",
+  "text": "ثاقب الحبر"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_Advance",
+  "text": "العجلة المشعة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_Re",
+  "text": "عجلتان مشعتان"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_5",
+  "text": "طعنة رمح الرعد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_10",
+  "text": "غضب الرعد {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_15",
+  "text": "طعنة عكسية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_25",
+  "text": "هبوط الرعد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_Re",
+  "text": "الرعد المتسلسل"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_5",
+  "text": "العجلة الدموية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_10",
+  "text": "نزيف لا ينقطع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_15",
+  "text": "تحليق عجلة الدم"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_25",
+  "text": "الحصاد الخاطف للأرواح"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_Advance",
+  "text": "الحصاد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_Re",
+  "text": "الصيد الساحب للأرواح"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_Terrian",
+  "text": "إتقان الآليات"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_5",
+  "text": "اندفاع بأقصى سرعة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_10",
+  "text": "هياج مدرّع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_15",
+  "text": "اندفاعة ساحقة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_25",
+  "text": "ضربة تهزّ الأرض"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_Re",
+  "text": "إطلاق العنان"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_5",
+  "text": "بركة عليا"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_10",
+  "text": "ملاذ دائم {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_15",
+  "text": "خبث صامت"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_25",
+  "text": "ملاذ بلا حدود"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_Re",
+  "text": "السكينة القصوى"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_5",
+  "text": "نقرة مراوغة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_10",
+  "text": "رنين الفولاذ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_15",
+  "text": "التحول التوافقي"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_25",
+  "text": "أنشودة كسر التشكيلات"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_Advance",
+  "text": "النصل الصوتي"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_Re",
+  "text": "البيبا الوهمية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_5",
+  "text": "دروع محصّنة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_15",
+  "text": "صدّ مضاد"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_25",
+  "text": "ضربة عمياء"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_Re",
+  "text": "جرس الهاوية"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_026_5",
+  "text": "موجة السيف"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_026_15",
+  "text": "تشكيل السيوف الأصغر"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_026_25",
+  "text": "القوّة الساحقة"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_026_Re",
+  "text": "أسياد المبارزين"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_109_5",
+  "text": "شعاع الموت"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_109_10",
+  "text": "شعاع ثاقب {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_109_15",
+  "text": "نظرة الموت"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_109_25",
+  "text": "نظرة الألف عين"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_109_Re",
+  "text": "الطلق السريع"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_109_Terrian",
+  "text": "طلقة بعيدة المدى"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_124_EX",
+  "text": "ختم العقل الصوتي"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_124_Terrian",
+  "text": "تبديد الضباب"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_125_Advance",
+  "text": "دمية النخبة"
+ },
+ {
+  "key": "PhantomEdges_Function_001_5",
+  "text": "النقر مرتين على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك <dtv id=\"X094\"/> مقدار إضافي <img id=\"SpiritShadow\" width=\"40\"/> وتنفيذ ضربة <Character_Yellow_Decorator2>مشحونة بالكامل</> فورًا."
+ },
+ {
+  "key": "PhantomEdges_Function_001_10",
+  "text": "{<WeaponDes_Main_Green>خفض الضرر المتلقّى بدرجة طفيفة</>|<WeaponDes_Main_Green>خفض الضرر المتلقّى بدرجة متوسطة</>|<WeaponDes_Main_Green>خفض الضرر المتلقّى بدرجة كبيرة</>} أثناء <Character_Yellow_Decorator2>الشحن</>."
+ },
+ {
+  "key": "PhantomEdges_Function_001_15",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بعد المراوغة أو أثناء الركض لشحن <Character_Yellow_Decorator2>الهجوم</> أثناء الحركة."
+ },
+ {
+  "key": "PhantomEdges_Function_001_25",
+  "text": "إطلاق <Character_Yellow_Decorator2>هجوم مشحون بالكامل</> أثناء الركض لتنفيذ ضربة قاطعة قافزة أشد قوة."
+ },
+ {
+  "key": "PhantomEdges_Function_002_5",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> <Character_Yellow_Decorator2>أثناء الوجود في الهواء</> لضرب الأرض بعمود السحق وهز المنطقة المحيطة."
+ },
+ {
+  "key": "PhantomEdges_Function_002_10",
+  "text": "{<WeaponDes_Main_Green>زيادة كبيرة</> لقدرة <Character_Yellow_Decorator2>الضربة الختامية</> و<Character_Yellow_Decorator2>[ضربة السقوط السماوي]</> على إعاقة الأعداء.|<WeaponDes_Main_Green>زيادة كبيرة</> لقدرة <Character_Yellow_Decorator2>جميع ضربات عمود السحق</> على <Character_Yellow_Decorator2>إعاقة</> الأعداء.|<WeaponDes_Main_Green>زيادة كبيرة</> لقدرة <Character_Yellow_Decorator2>جميع ضربات عمود السحق</> على <Character_Yellow_Decorator2>إعاقة</> الأعداء، وزيادة <Character_Yellow_Decorator2>كسر الدفاع</> لديهم.}"
+ },
+ {
+  "key": "PhantomEdges_Function_002_15",
+  "text": "تُحدث ضربات عمود السحق على الأرض <Character_Yellow_Decorator2>موجة صدمة</> تنتشر إلى الخارج."
+ },
+ {
+  "key": "PhantomEdges_Function_002_25",
+  "text": "عند انتهاء هجوم بعمود السحق، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لمتابعته بضربة أرضية أخرى <Character_Yellow_Decorator2></> من دون استهلاك <img id=\"SpiritShadow\" width=\"40\"/>."
+ },
+ {
+  "key": "PhantomEdges_Function_004_5",
+  "text": "بعد المراوغة، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للاندفاع إلى الأمام ودفع الأعداء بعيدًا."
+ },
+ {
+  "key": "PhantomEdges_Function_004_10",
+  "text": "{<WeaponDes_Main_Green>خفض استهلاك شا-تشي أثناء رفع الدرع بدرجة طفيفة</>|<WeaponDes_Main_Green>خفض استهلاك شا-تشي أثناء رفع الدرع بدرجة متوسطة</>|<WeaponDes_Main_Green>خفض استهلاك شا-تشي أثناء رفع الدرع بدرجة كبيرة</>}."
+ },
+ {
+  "key": "PhantomEdges_Function_004_15",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لركوب الدرع والتقدم في خط مستقيم، وإلحاق <Character_Yellow_Decorator2>الضرر</> بالأعداء المصابين وخفض شا-تشي لديهم بدرجة كبيرة. يستهلك <dtv id=\"X212\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_004_25",
+  "text": "يمكن إخراج الحصن ورفعه <Character_Yellow_Decorator2>بسرعة أكبر</>، وإعادته إلى مكانه بسرعة أكبر بعد استخدام <Character_Yellow_Decorator2>[موجة الصدمة الانتقامية]</>."
+ },
+ {
+  "key": "PhantomEdges_Function_005_5",
+  "text": "استنزاف مزيد من الصحة من الأعداء مكسوري الدفاع. لا تأثير له على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "PhantomEdges_Function_005_10",
+  "text": "{<WeaponDes_Main_Green>زيادة مقدار الصحة المستنزفة بالهجمات بدرجة طفيفة</>|<WeaponDes_Main_Green>زيادة مقدار الصحة المستنزفة بالهجمات بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة مقدار الصحة المستنزفة بالهجمات بدرجة كبيرة</>}."
+ },
+ {
+  "key": "PhantomEdges_Function_005_15",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> عند نهاية هجوم بفكّ الذئب لتنفيذ ضربة القوة الكاملة مباشرة إلى الأمام من دون استهلاك <img id=\"SpiritShadow\" width=\"40\"/>."
+ },
+ {
+  "key": "PhantomEdges_Function_005_25",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لدفع فكّ الذئب إلى الأمام في دوران سريع للغاية، وسحق الأعداء في طريقه. زيادة الضرر الذي يتلقاه الأعداء المصابون لمدة <dtv id=\"X312\"/> ثانية."
+ },
+ {
+  "key": "PhantomEdges_Function_006_5",
+  "text": "بعد المراوغة باستخدام <InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للتحرك بسرعة أثناء إطلاق النار."
+ },
+ {
+  "key": "PhantomEdges_Function_006_10",
+  "text": "{تترك الانفجارات ألسنة لهب على الأرض، تلحق الضرر بالأعداء و<Character_Yellow_Decorator2>تشعلهم</>.|<WeaponDes_Main_Green>زيادة الضرر الذي تلحقه النيران التي تخلفها الانفجارات بدرجة طفيفة</>.|<WeaponDes_Main_Green>زيادة الضرر الذي تلحقه النيران التي تخلفها الانفجارات بدرجة متوسطة</>.}"
+ },
+ {
+  "key": "PhantomEdges_Function_006_15",
+  "text": "مباشرة بعد الإطلاق، الضغط مجددًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن السريع وإطلاق طلقة ثانية. يستهلك <dtv id=\"X523\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_006_25",
+  "text": "من مسافة قريبة، عند شنّ عدو هجوم الوميض الأحمر أو هجوم الوميض الأزرق، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> في التوقيت الدقيق لصد الهجوم الوشيك بمدفع النمر. يستهلك <dtv id=\"X524\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_Function_008_5",
+  "text": "بعد المراوغة باستخدام <InputAction id=\"Move\" dir=\"Left\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"Move\" dir=\"Right\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق النار بسرعة أثناء الحركة."
+ },
+ {
+  "key": "PhantomEdges_Function_008_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر المُلحَق بالأعداء <Character_Yellow_Decorator2>غير مكسوري الدفاع</>."
+ },
+ {
+  "key": "PhantomEdges_Function_008_15",
+  "text": "بعد الاندفاع إلى الأمام باستخدام <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق النار بسرعة أثناء الحركة."
+ },
+ {
+  "key": "PhantomEdges_Function_008_25",
+  "text": "بعد التراجع باستخدام <InputAction id=\"Move\" dir=\"Back\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق النار بسرعة أثناء الحركة."
+ },
+ {
+  "key": "PhantomEdges_Function_009_5",
+  "text": "بعد المراوغة باستخدام <InputAction id=\"Move\" dir=\"Left\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"Move\" dir=\"Right\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق النار أثناء الحركة السريعة."
+ },
+ {
+  "key": "PhantomEdges_Function_009_10",
+  "text": "{<WeaponDes_Main_Green>زيادة الضرر قليلًا</>|<WeaponDes_Main_Green>زيادة الضرر بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة الضرر كثيرًا</>} عند عدم اكتشاف الأعداء لسول."
+ },
+ {
+  "key": "PhantomEdges_Function_009_15",
+  "text": "بعد الاندفاع إلى الأمام باستخدام <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق النار أثناء الحركة السريعة."
+ },
+ {
+  "key": "PhantomEdges_Function_009_25",
+  "text": "بعد التراجع باستخدام <InputAction id=\"Move\" dir=\"Back\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق النار أثناء الحركة السريعة."
+ },
+ {
+  "key": "PhantomEdges_Function_010_5",
+  "text": "أثناء الهجوم بالخنجر الطائر، الضغط على <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ <Character_Yellow_Decorator2>انتقال آني</>، ثم رمي الخنجر على الأعداء. هذه الحركة لا تقطع سلسلة الضربات الحالية."
+ },
+ {
+  "key": "PhantomEdges_Function_010_10",
+  "text": "عندما يكون العدو المثبّت هدفًا ضمن المدى، كما يدل التوهج الخاص على أيقونة التثبيت، {<WeaponDes_Main_Green>يرتفع قليلًا</>|<WeaponDes_Main_Green>يرتفع بدرجة متوسطة</>|<WeaponDes_Main_Green>يرتفع كثيرًا</>} ضرر الخنجر الطائر واستنزاف شا-تشي."
+ }
+]

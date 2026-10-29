@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_12",
+  "text": "طلب مني أن أخبرك بأنه مدين لك بهدية شكر تليق بك، وسيأتي يومًا ليقدمها لك بنفسه."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_13",
+  "text": "لم أجد للقارورة الصغيرة فائدة تُذكر... فملأتها بأعشاب مهدئة."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_14",
+  "text": "تفوح منها رائحة تبعث السكينة... وتساعد على صفاء الذهن."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_15",
+  "text": "السيد سول، تواجه الخطر كل يوم. أنت أحوج إلى هذا مني!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_16",
+  "text": "خذه أرجوك! اعتبره هدية بسيطة شكرًا لإنقاذ الجميع."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr5_FeiZei_1",
+  "text": "تلك الفتاة... أسرع... أنقذها..."
+ },
+ {
+  "key": "Dlg_FJZL_YuYao_Option1",
+  "text": "بدء النزال التدريبي"
+ },
+ {
+  "key": "Dlg_FJZL_YuYao_Option2",
+  "text": "عدم الجاهزية بعد"
+ },
+ {
+  "key": "Dlg_FJZL_YuYinZi_MengChai_1",
+  "text": "وما جرى بعد ذلك... تسك تسك... أمر مدهش حقًا."
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_2",
+  "text": "هل أنتِ أيضًا إحدى صانعات السيدة إنانيس؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_3",
+  "text": "هل أنتِ الأخت الصغرى للحدّادة؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_6",
+  "text": "هل رأيتِ هذا من قبل؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_8",
+  "text": "يبدو أن بعض أجزائها مفقودة. إذا عثرت عليها، هل تستطيعين إصلاحها؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_11",
+  "text": "أين أجد ضبابة؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_14_0",
+  "text": "أسمع بكاءً خافتًا لا يسمعه سواي. ما السبب؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_15",
+  "text": "لا بد أن الوتر تريد أن تخبرني بأمر مهم... عمّا حدث ذلك اليوم في الغابة القرمزية."
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Hun_16",
+  "text": "يأتي البكاء من الجهة الأخرى من الجبل..."
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Option1",
+  "text": "عن البيبا الوهمية"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Option2",
+  "text": "عن البكاء الخافت"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_Option3",
+  "text": "صقل الحُليّ"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_1",
+  "text": "أخيرًا! ها قد أتيت أخيرًا، لقد انتظرتك دهرًا!"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_4",
+  "text": "أخت صغرى؟ نحن ثلاث توائم! لم تُولد الحدّادة قبلي إلا بلحظة. لا تقل لي إنها تتباهى من جديد بأنها الكبرى."
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_5",
+  "text": "حسنًا، حسنًا. حتى لو كنت آخر من وُلد، فأنا أكبر منك بكثير!"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_7",
+  "text": "ها؟ هذه هي آلة البيبا التي صنعتها السيدة إنانيس للوتر! كيف آلت إلى هذا الحال؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_9",
+  "text": "أخشى أن الأمر يفوق قدرتي. إن عثرت على كل القطع المفقودة، فخذها إلى أختي الثانية، <Bold>ضبابة</>."
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_10",
+  "text": "باستثناء السيدة إنانيس نفسها، لا أحد يستطيع ترميمها سواها."
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_12",
+  "text": "غالبًا ما تختبئ في <Bold>حانة سرية في بانغتشن</>. إذا استطعتَ دخول البلدة، فابحث عنها هناك!"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_14",
+  "text": "الوتر... إنها ابنة السيدة إنانيس. تقيم في جسد دمية، لكنها تتقن الموسيقى وفنون الأطياف."
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_14_1",
+  "text": "لعلها تحاول بهذه الطريقة أن تطلب مساعدتكَ؟"
+ },
+ {
+  "key": "Dlg_FJZL_ZY_ZY_17",
+  "text": "تتناثر في أرجاء الوولين حليّ ضائعة كثيرة. إحضارها إليّ يتيح لي <Bold>صقلها</> أكثر!"
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AGui_1",
+  "text": "ابتلع غوي «غراب الليل» حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AGui_6",
+  "text": "تحسنت حاله كثيرًا. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AGui_Re_1",
+  "text": "عاد اللون إلى وجهه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AZhen_1",
+  "text": "ابتلع تشن، ثعبان البحر المراوغ، حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AZhen_4",
+  "text": "بدأ يستعيد وعيه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AZhen_Re_1",
+  "text": "بدأ يستعيد وعيه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LaoZhou_1",
+  "text": "ابتلع تشو «القرد النحيل» حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LaoZhou_4",
+  "text": "توقف النزيف. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LaoZhou_Re_1",
+  "text": "توقف النزيف. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LiHaoZi_1",
+  "text": "ابتلع لي «الجرذ الطائر» حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LiHaoZi_4",
+  "text": "انتظم تنفّسه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LiHaoZi_Re_1",
+  "text": "انتظم تنفّسه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FXSD_BingKu_UI_1",
+  "text": "بعد المتابعة، لن يكون الرجوع إلى المنطقة السابقة ممكنًا. هل تريد المتابعة؟"
+ },
+ {
+  "key": "Dlg_FXSD_Investigate_DaWu_1",
+  "text": "سدّت الرياح والثلوج الطريق إلى هنا."
+ },
+ {
+  "key": "Dlg_FXSD_Investigate_ShiBi_1",
+  "text": "جدار حجري تغطيه طبقة سميكة من الجليد. يُصدر الاصطدام به صوتًا مكتومًا أجوف."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_2",
+  "text": "هل كنتِ هنا طوال الوقت؟"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_5",
+  "text": "حقًا؟ مؤسف أنه لم يعد لدينا وقت لنتجادل كما في السابق."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_6",
+  "text": "كان شيفو يقول دائمًا: «المعرفة التي لا تترك سؤالًا بلا جواب وحدها تستحق أن تُسمّى...»"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_7",
+  "text": "«بذرة الحقيقة»."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_11",
+  "text": "كم واحدًا من أتباع تسو شانغ السابقين استطعتِ استمالته؟"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_20",
+  "text": "من الآن فصاعدًا... يعود الأمر إليكِ."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_21",
+  "text": "أعرف أن كثيرين في التنظيم قد أقسموا لكِ الولاء. وسيساعدونكِ على إتمام الأمر."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_1",
+  "text": "ها قد وصلتَ أخيرًا. تأخرتَ مرة أخرى."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_3",
+  "text": "جئت لأودّعك."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_4",
+  "text": "أنهيت تحرّياتي في بانغتشن. عرفت الحقيقة الآن."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_8",
+  "text": "إن أتاح لنا القدر أن نلتقي مجددًا، فسأجادلك حينها."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_9",
+  "text": "والآن عليّ أن أنزل من الجبل... إلى مكان لا يطاله تسو شانغ."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_10",
+  "text": "وهناك، سينهض تنظيم جديد من جديد."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_12",
+  "text": "أنت... اهتم أولًا بأن تخرج حيًّا."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_13",
+  "text": "لم أتوقع قط... أنك في نهاية المطاف ستكون الوحيد الذي ما زال يبالي إن عاش الناس أو ماتوا..."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_14",
+  "text": "قادة الميثاق لا يكترثون بأمر عامة الناس."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_15",
+  "text": "أما سيدة الحجاب الرحيمة فلا تكترث بهم هي الأخرى."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_16",
+  "text": "لم يعد تنظيم تسو شانغ يلتزم بقواعده، ولا يكترث هو بأهل الوولين."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_17",
+  "text": "الباعة المتجولون، والعمّال، والمسنّون، والأطفال... من بقي ليحميهم؟"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_18",
+  "text": "والعجيب أن... لم يبقَ سواك!"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_19",
+  "text": "وأنت... لم يبقَ لك إلا القليل من الوقت..."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_22",
+  "text": "حسنًا! إن نجوت، فسأرسل من يبحث عنك!"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_23",
+  "text": "أنا... ينبغي أن أذهب الآن."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Option1",
+  "text": "لا تزال هناك أمور لم تُحسم. لا يمكن المتابعة بعد."
+ },
+ {
+  "key": "Dlg_FXSD_ShanShenMiao2_Hun_1",
+  "text": "قبل أن تنتهي حياتي، سأحسم الأمر نهائيًا!"
+ },
+ {
+  "key": "Dlg_FXSD_ShanShenMiao_Hun_1",
+  "text": "لقد... أوشك الوقت أن يحين..."
+ },
+ {
+  "key": "Dlg_FXSD_ShanShenMiao_Leave_Hun_1",
+  "text": "عليّ الاستعداد للمعركة الأخيرة... سأستريح أولًا في معبد الجبل."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_Hun_2",
+  "text": "مدفع النمر هذا... قد ينفع."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_1",
+  "text": "هل لديك وسيلة لاختراق الجليد؟"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_3",
+  "text": "في مأساة جرف تمزيق الأرواح... ذهب أحد شيوخنا للتحقيق ولم يعد..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_4",
+  "text": "خشي أن يؤذي الآخرين، فقطع أصابعه وذهب وحده إلى وادٍ موحش..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_5",
+  "text": "كان الخاتم الذي ارتداه أثرًا نفيسًا لطائفتنا، وقد فُقد منذ ذلك الحين..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_6",
+  "text": "والآن عثرت على ذلك الوادي... لكن الجليد الصلب يغلقه. لا يستطيع أحد اختراقه بالقوة."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_7",
+  "text": "لا أبغي الأثر... أريد فقط أن أعيد رفاته... وأواريه الثرى."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1a_ShuangHenJian_1",
+  "text": "توشك معركة كبرى أن تبدأ... لا ينبغي أن أسمح لهذا بأن يشتتني."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1b_Hun_1",
+  "text": "أين يقع هذا الوادي المتجمد؟ سأذهب للتحري."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1b_ShuangHenJian_2",
+  "text": "شكرًا لك! سأضع علامة على كهف الجليد في خريطتك. أعتمد عليك!"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_Hun_1",
+  "text": "هذه رفات شيفو... أعدتها إليك."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_2",
+  "text": "آه... هذه الأصابع المقطوعة... كأنني أرى شيفو من جديد!"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_3",
+  "text": "حين دقّ الجرس يومها... ملأ شا-تشي السماء... وأدرك الجميع أن مكروهًا قد وقع..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_4",
+  "text": "لكن شا-تشي الذي اجتاح ذلك الجرف كان طاغيًا... ففرّ الناس مذعورين، لا يريدون إلا الابتعاد..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_5",
+  "text": "قال شيفو إنه، بصفته مقاتلًا، لا يستطيع الوقوف مكتوف اليدين فيما تُزهق الأرواح..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_6",
+  "text": "لذا توجّه إلى الجرف ليوقف سفك الدماء ويساعد من بقي..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_7",
+  "text": "لكن... حين وصل... لم يجد إلا الجثث..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_8",
+  "text": "وفي النهاية... ابتلعه شا-تشي هو أيضًا... وفي اللحظة الأخيرة، قطع أصابعه بيده."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_9",
+  "text": "يقول بعضهم إن ما بقي من خير في الوولين مات في تلك المذبحة..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_10",
+  "text": "لكن هذه الأصابع... دليل على أن ذرةً من المروءة بقيت!"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_11",
+  "text": "وأنت رجل من طينته!"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian3_ShuangHenJian_1",
+  "text": "بسرعة... ساعدوا القائد..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_1",
+  "text": "حين كنت شابًا... حلمت أن أجوب الوولين بسيف... وأن أسافر في أرجاء العالم كما فعل شيفو..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_2",
+  "text": "لكن... طريقي... ينتهي هنا..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_3",
+  "text": "احتفظ بهذا الخاتم..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_4",
+  "text": "جُب العالم... عني... وعن شيفو..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_5",
+  "text": "لن ينتهي الوولين... ولا كل ما يمثّله... عند ذلك الجرف."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_6",
+  "text": "عليك أن تعيش لترى ذلك بعينيك... من أجلنا..."
+ }
+]

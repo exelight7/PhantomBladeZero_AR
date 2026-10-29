@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Achievement_Des_1",
+  "text": "الهرب من المطاردين على الطريق الرئيسي"
+ },
+ {
+  "key": "Achievement_Des_2",
+  "text": "العبور من الخان"
+ },
+ {
+  "key": "Achievement_Des_3",
+  "text": "الخروج من الكهف خلف الشلال"
+ },
+ {
+  "key": "Achievement_Des_4",
+  "text": "كشف الوهم في غابة المرايا"
+ },
+ {
+  "key": "Achievement_Des_5",
+  "text": "مغادرة قرية لو والتوجّه إلى بانغتشن"
+ },
+ {
+  "key": "Achievement_Des_6",
+  "text": "زيارة حانة التنظيم"
+ },
+ {
+  "key": "Achievement_Des_7",
+  "text": "حلّ قفل رأس الثعبان في دار الثعبان الخضراء"
+ },
+ {
+  "key": "Achievement_Des_8",
+  "text": "استقصاء ميدان التدريب"
+ },
+ {
+  "key": "Achievement_Des_9",
+  "text": "بلوغ عالم السراب"
+ },
+ {
+  "key": "Achievement_Des_10",
+  "text": "اختراق قلب البحيرة"
+ },
+ {
+  "key": "Achievement_Des_11",
+  "text": "عبور ضيعة السراب"
+ },
+ {
+  "key": "Achievement_Des_12",
+  "text": "الدخول في الثلج والتوجّه إلى الجرف"
+ },
+ {
+  "key": "Achievement_Des_13",
+  "text": "انكشاف كل شيء"
+ },
+ {
+  "key": "Achievement_Des_14",
+  "text": "هزيمة سيّد الفأس بنغ منغ"
+ },
+ {
+  "key": "Achievement_Des_15",
+  "text": "هزيمة هوا، العروس"
+ },
+ {
+  "key": "Achievement_Des_16",
+  "text": "هزيمة المطارِد، صيّاد التنظيم"
+ },
+ {
+  "key": "Achievement_Des_17",
+  "text": "هزيمة هوا تشيانشياو، المهووس بالسيف"
+ },
+ {
+  "key": "Achievement_Des_18",
+  "text": "هزيمة باي تشيليان، سيدة الثعبانين"
+ },
+ {
+  "key": "Achievement_Des_19",
+  "text": "هزيمة مو شياوكوي، الآنسة في التنظيم"
+ },
+ {
+  "key": "Achievement_Des_20",
+  "text": "هزيمة اللهب، المعلّم الأكبر لرقصة الأسد"
+ },
+ {
+  "key": "Achievement_Des_21",
+  "text": "هزيمة كبير تلاميذ النجوم السبعة"
+ },
+ {
+  "key": "Achievement_Des_22",
+  "text": "هزيمة هوانغشينغ، المتمرّد على كونلون"
+ },
+ {
+  "key": "Achievement_Des_23",
+  "text": "هزيمة الدمية الكنّاسة"
+ },
+ {
+  "key": "Achievement_Des_24",
+  "text": "هزيمة لي دانغ، مدفع النمر"
+ },
+ {
+  "key": "Achievement_Des_25",
+  "text": "هزيمة سيد النصل في العاصفة الثلجية"
+ },
+ {
+  "key": "Achievement_Des_26",
+  "text": "هزيمة المنشار والمحطِّم"
+ },
+ {
+  "key": "Achievement_Des_27",
+  "text": "ذهاب كل المكائد أدراج الرياح"
+ },
+ {
+  "key": "Achievement_Des_28",
+  "text": "هزيمة يو لونغ، زعيم جماعة المياه السوداء، ويان تشيانسوي، عازفة القيثارة، والرامي الأعور في منطقة بحيرة ميغو"
+ },
+ {
+  "key": "Achievement_Des_29",
+  "text": "هزيمة الدمى الأربع العظيمة: يوتسان، يوبي، يودينغ، ويوتسونغ"
+ },
+ {
+  "key": "Achievement_Des_30",
+  "text": "هزيمة تشو يوان والقائد بي فنغ"
+ },
+ {
+  "key": "Achievement_Des_31",
+  "text": "هزيمة حرّاس الظلال الثلاثة: قاهر الفرسان، وقابض الأرواح، وطاعن القلب"
+ },
+ {
+  "key": "Achievement_Des_32",
+  "text": "إكمال [أسرار قلب البحيرة]"
+ },
+ {
+  "key": "Achievement_Des_33",
+  "text": "إكمال [صحوة السلالة]"
+ },
+ {
+  "key": "Achievement_Des_34",
+  "text": "إكمال [أسرار طائفة بايشان]"
+ },
+ {
+  "key": "Achievement_Des_35",
+  "text": "إكمال [رحلة العودة إلى الديار]"
+ },
+ {
+  "key": "Achievement_Des_36",
+  "text": "إكمال [السيد الشاب لان]"
+ },
+ {
+  "key": "Achievement_Des_37",
+  "text": "إكمال [ختم العقل المبتور]"
+ },
+ {
+  "key": "Achievement_Des_38",
+  "text": "إتمام [زنبقة اللحم]، و[المعالج المتدرّب]، و[رحمة المعالج]"
+ },
+ {
+  "key": "Achievement_Des_39",
+  "text": "إكمال جميع [طلبات اليد الماهرة]"
+ },
+ {
+  "key": "Achievement_Des_40",
+  "text": "إكمال [قلب شجرة التين البنغالي]"
+ },
+ {
+  "key": "Achievement_Des_41",
+  "text": "إجراء الصقل على 10 أسلحة"
+ },
+ {
+  "key": "Achievement_Des_42",
+  "text": "رفع سلاح إلى مستوى 30"
+ },
+ {
+  "key": "Achievement_Des_43",
+  "text": "جمع 10 من كهرمان شا-تشي"
+ },
+ {
+  "key": "Achievement_Des_44",
+  "text": "جمع 10 زهور للذكرى"
+ },
+ {
+  "key": "Achievement_Des_45",
+  "text": "جمع 10 أحجار سوداء"
+ },
+ {
+  "key": "Achievement_Des_46",
+  "text": "جمع 30 قطعة ملحقة"
+ },
+ {
+  "key": "Achievement_Des_47",
+  "text": "إجراء الصقل على 10 أسلحة طيفية"
+ },
+ {
+  "key": "Achievement_Des_48",
+  "text": "رفع سلاح طيفي إلى مستوى 30"
+ },
+ {
+  "key": "Achievement_Des_49",
+  "text": "تنفيذ اغتيال متسلسل"
+ },
+ {
+  "key": "Achievement_Des_50",
+  "text": "تنفيذ إجهاز متسلسل"
+ },
+ {
+  "key": "Achievement_Des_51",
+  "text": "إحداث فقدان الدم باستخدام الفولاذ المسنّن"
+ },
+ {
+  "key": "Achievement_Des_52",
+  "text": "استخدام نصل المهووس المكسور للدخول في حالة [سكران]"
+ },
+ {
+  "key": "Achievement_Des_53",
+  "text": "استخدام [ارتداد الأفعى] لسيف الأفعى اللين لصدّ هجوم عدو"
+ },
+ {
+  "key": "Achievement_Des_54",
+  "text": "استخدام الحمرة الجهنمية لإطلاق [النصل الطيفي]"
+ },
+ {
+  "key": "Achievement_Des_55",
+  "text": "استخدام نصل حرب الخارج عن القانون لإطلاق [هياج التعطّش للدماء]"
+ },
+ {
+  "key": "Achievement_Des_56",
+  "text": "استخدام الظل الأبيض لتجميد عدو"
+ },
+ {
+  "key": "Achievement_Des_57",
+  "text": "استخدام [ضربة تشينغلونغ] لنصل الهلال لقتل عدو فورًا"
+ },
+ {
+  "key": "Achievement_Des_58",
+  "text": "استخدام مناشير الشيطان لتفعيل [تآكل الهالة الشيطانية]"
+ },
+ {
+  "key": "Achievement_Des_59",
+  "text": "استخدام الموت السلس لإصابة عدو محدد الهدف بحلقات طائرة متعاقبة"
+ },
+ {
+  "key": "Achievement_Des_60",
+  "text": "استخدام سيوف عاصفة بايشان لإطلاق [عاصفة البرق]"
+ },
+ {
+  "key": "Achievement_Des_61",
+  "text": "استخدام عمود السحق لتنفيذ ضربة هابطة من الجو على عدو"
+ },
+ {
+  "key": "Achievement_Des_62",
+  "text": "هزيمة يو لونغ، قائد عصابة المياه السوداء، مرتين"
+ },
+ {
+  "key": "Achievement_Des_63",
+  "text": "استخدام القفازات الحديدية لتنفيذ [ضربة القبضة المتقنة]"
+ },
+ {
+  "key": "Achievement_Des_64",
+  "text": "استخدام رمح الرعد لشلّ عدو"
+ },
+ {
+  "key": "Achievement_Des_65",
+  "text": "استخدام أي سلاح طيفي من نوع الاستدعاء لاستدعاء حليف"
+ },
+ {
+  "key": "Achievement_Des_66",
+  "text": "فتح جميع الإنجازات الأخرى"
+ },
+ {
+  "key": "Achievement_Des_66_0",
+  "text": "كسب جميع الجوائز المتبقية"
+ },
+ {
+  "key": "Achievement_Name_1",
+  "text": "رحلة القلب"
+ },
+ {
+  "key": "Achievement_Name_2",
+  "text": "قلب لا يتزعزع"
+ },
+ {
+  "key": "Achievement_Name_3",
+  "text": "حجب السماء"
+ },
+ {
+  "key": "Achievement_Name_4",
+  "text": "لا موطئ قدم"
+ },
+ {
+  "key": "Achievement_Name_5",
+  "text": "زهرة الخلاص الزائف"
+ },
+ {
+  "key": "Achievement_Name_6",
+  "text": "إلى الفخ المميت"
+ },
+ {
+  "key": "Achievement_Name_7",
+  "text": "عالم أضحى خواءً"
+ },
+ {
+  "key": "Achievement_Name_8",
+  "text": "من يملك حق الحكم؟"
+ },
+ {
+  "key": "Achievement_Name_9",
+  "text": "أين مضى الأصدقاء القدامى؟"
+ },
+ {
+  "key": "Achievement_Name_10",
+  "text": "المياه العكرة عميقة"
+ },
+ {
+  "key": "Achievement_Name_11",
+  "text": "الدم يبشّر بالفجر"
+ },
+ {
+  "key": "Achievement_Name_12",
+  "text": "عبر الصقيع والثلج"
+ },
+ {
+  "key": "Achievement_Name_13",
+  "text": "بالقلب والدم"
+ },
+ {
+  "key": "Achievement_Name_14",
+  "text": "ثأر الفأس"
+ },
+ {
+  "key": "Achievement_Name_15",
+  "text": "نصل الشبح القرمزي"
+ },
+ {
+  "key": "Achievement_Name_16",
+  "text": "المطارِد"
+ },
+ {
+  "key": "Achievement_Name_17",
+  "text": "إفراغ ألف كأس"
+ },
+ {
+  "key": "Achievement_Name_18",
+  "text": "المرآة المحطمة"
+ },
+ {
+  "key": "Achievement_Name_19",
+  "text": "هل نلتقي مجددًا؟"
+ },
+ {
+  "key": "Achievement_Name_20",
+  "text": "روح الأسد باقية"
+ },
+ {
+  "key": "Achievement_Name_21",
+  "text": "سيف في مواجهة النجوم السبعة"
+ },
+ {
+  "key": "Achievement_Name_22",
+  "text": "مفترق الدماء"
+ },
+ {
+  "key": "Achievement_Name_23",
+  "text": "لا شيء يذهب سدى"
+ },
+ {
+  "key": "Achievement_Name_24",
+  "text": "كل شيء يعود إلى التراب"
+ },
+ {
+  "key": "Achievement_Name_25",
+  "text": "الظل الأبيض"
+ },
+ {
+  "key": "Achievement_Name_26",
+  "text": "واجهتُ المنشار حتى النهاية"
+ },
+ {
+  "key": "Achievement_Name_27",
+  "text": "لا بد لكل الأحلام أن تنتهي"
+ },
+ {
+  "key": "Achievement_Name_28",
+  "text": "سيد المياه الضبابية"
+ },
+ {
+  "key": "Achievement_Name_29",
+  "text": "الأربعة المُحرَّرون"
+ },
+ {
+  "key": "Achievement_Name_30",
+  "text": "معلّما النصل"
+ },
+ {
+  "key": "Achievement_Name_31",
+  "text": "سقوط الحرّاس الثلاثة"
+ },
+ {
+  "key": "Achievement_Name_32",
+  "text": "فنون محرّمة تحت البحيرة"
+ },
+ {
+  "key": "Achievement_Name_33",
+  "text": "الطيف والنصل"
+ }
+]

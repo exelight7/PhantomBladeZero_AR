@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_9",
+  "text": "لكن كل ذلك كان عبثًا...! رأيت ذلك بعيني... ابتلعت البحيرة قاربًا كاملًا بمن فيه..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_11",
+  "text": "ما زلت... تريد الذهاب؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_12",
+  "text": "<Bold>اتبع الدرج الحجري... واصعد المنحدر</>... وستصل إلى بحيرة ميغو."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_13",
+  "text": "اعتنِ بنفسك... وإن نجوت من هذا... فتذكّر أنني كنت إنسانًا يومًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_Re_1",
+  "text": "اعتنِ بنفسك... وإن نجوت من هذا... فتذكّر أنني كنت إنسانًا يومًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_WuRen_Hun_1",
+  "text": "لا أحد في الأفق..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_XueXing_Hun_1",
+  "text": "تفوح من الريح رائحة الدم..."
+ },
+ {
+  "key": "Dlg_PZ_JingBian_NvXingRenOu2_1",
+  "text": "أين... أين هو... جسدي... جسدي الأصلي؟"
+ },
+ {
+  "key": "Dlg_PZ_JingBian_NvXingRenOu_1",
+  "text": "لا... لا... هذه ليست أنا الحقيقية... لقد... انتزعوا جسدي مني..."
+ },
+ {
+  "key": "Dlg_PZ_JingYangXuan_Hun_1",
+  "text": "لا يزال في الداخل أثر شا-تشي قوي ومألوف.\nليس من الحكمة التسرع في الدخول."
+ },
+ {
+  "key": "Dlg_PZ_Jingji2_Hun_1",
+  "text": "إذا أمكن إصلاح اللِّبدة المشتعلة، فقد تحرق هذا العائق."
+ },
+ {
+  "key": "Dlg_PZ_Jingji_Hun_1",
+  "text": "الأشواك رطبة أكثر من أن تشتعل من شعلة عادية."
+ },
+ {
+  "key": "Dlg_PZ_Jingji_Hun_2",
+  "text": "لعل سلاحًا قادرًا على <Bold>إطلاق لهيب حارق</> يحرق هذا العائق."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_BiDi_1",
+  "text": "يقضي الناس أعمارهم في طلب المزيد، فلا يزيدهم ذلك إلا أثقالًا. أما السمك فلا يطلب سوى الطعام والماء، ومع ذلك يعيش هانئًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_BiDi_4",
+  "text": "أخي الأكبر لا يطيق أن يرى طريق الحق يُدنّس. وقد كرّس نفسه لاستئصال الشر وإقامة العدل."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_BiDi_5",
+  "text": "لكن الوولين ليس بهذه البساطة. فالناس يختلفون في نظرتهم إلى الصواب والخطأ. ما رأيك أيها البطل الشاب؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_BiDi_6",
+  "text": "التقيت قائد الطائفة بي يوان ذات مرة في قرية لو..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_BiDi_7",
+  "text": "قاوم هو ومعه معلمان آخران ذلك الفن المظلم حتى الرمق الأخير، ولم يدعوه يستحوذ عليهم. وأنا من أراحهم أخيرًا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_BiDi_8",
+  "text": "نولد ثم نموت. وهذا حتمي كغروب الشمس..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_BiDi_9",
+  "text": "ظل أخي الأكبر وفيًا لطريق الحق حتى النهاية... لك شكري أيها البطل الشاب."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_HuanGui_2",
+  "text": "لو كان الجميع بصفاء بصيرتك يا معلم بي دي، لما احتاج أحد إلى خمري لينسى همومه."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi1_HuanGui_3",
+  "text": "قائد طائفتك بي يوان مكرّس لفعل الصواب، وها أنت ذا... تراقب السمك."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi2_BiDi_2",
+  "text": "ذلك السيف أثر قديم، لكنه ملعون..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi2_BiDi_3",
+  "text": "لكن تشي لديك مختلف، أيها البطل الشاب... وقد يغدو هذا السيف الملعون، بين يديك، قوةً في وجه الشر..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi2_BiDi_5",
+  "text": "ذكرت ضبابة قبل قليل فن صقل الروح."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi2_BiDi_6",
+  "text": "ثمة ورشة حدادة مهجورة في أزقة بانغتشن. قد تجد فيها «جوهر البرونز» لصقل روح هذا السيف."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi2_Hun_1",
+  "text": "ترك المعلم بي يوان هذا السيف البرونزي. حان وقت إعادته إلى طائفتك."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi2_Hun_4",
+  "text": "هذا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_BiDi_1",
+  "text": "عاد هذا السيف يلمع... لعل الأخ الأكبر يرتاح أخيرًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_BiDi_2",
+  "text": "يا ضبابة، إن فن صقل الروح لعجيب حقًا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_BiDi_3",
+  "text": "سيف عتيق بعثته الذكريات من جديد... أتصقل الذكريات السلاح، أم يصقل السلاح الذكريات؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_BiDi_5",
+  "text": "الشيء بالشيء يذكر... عهد إليّ المعلم بيهاي ذات مرة بمخطوطة."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_BiDi_6",
+  "text": "مع أنني أسلك طريق الطاوية... أدرس هذه الأمور من حين إلى آخر."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_BiDi_7",
+  "text": "بهذه المخطوطة... قد تتمكنين من صقل الأثر الذي خلّفه."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_BiDi_Re_1",
+  "text": "عاد هذا السيف البرونزي يلمع... لعل الأخ الأكبر يرتاح أخيرًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi3_HuanGui_4",
+  "text": "ليس العالم سوى حلم ووهم. ولعلنا لسنا سوى حلم عابر للمعلم سول."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi_BiDi_1",
+  "text": "تراقب الأسماك... فتبادلك الأسماك النظر..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi_BiDi_2",
+  "text": "من عيون الأسماك... هل نحن فرح أم حزن؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi_BiDi_3",
+  "text": "كلما ازددنا طلبًا، ازددنا فقدًا. وكلما ازددنا فقدًا، ازددنا ألمًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_BiDi_Option_1",
+  "text": "هذا السيف البرونزي..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_DaXueShi1_DaXueShi_1",
+  "text": "هذه المفاصل... حركتها أسلس من مفاصل أي إنسان."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_DaXueShi2_DaXueShi_1",
+  "text": "قد تُستخدم فنون الآلات في الحِرف أو الاستعراض... لكن هذا الشيء صُنع للقتل..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_DaXueShi3_DaXueShi_1",
+  "text": "إن دارت تلك المطردة وتحركت تلك الشفرات... فـ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_HuanGui_2",
+  "text": "يظن معظم الناس أن كل ما يأتي من خارج هذا العالم لا بد أن يكون إلهيًا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_HuanGui_3",
+  "text": "ولا يدركون أن كائنات تتجاوز حتى الآلهة تسبح بين النجوم."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_HuanGui_4",
+  "text": "قد يكون هذا شيئًا سقط من سفينتهم."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_HuanGui_5",
+  "text": "لعل القوة التي تستمدها السيدة تأتي هي الأخرى من خارج هذا العالم..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_HuanGui_6",
+  "text": "معرفتي محدودة. أما كبير علماء التنظيم <Bold>شيوان لي</> فيعرف أكثر بكثير."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_HuanGui_7",
+  "text": "مع أنني لا أستطيع إعادة صنع أسرار هذا الحجر—"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_HuanGui_8",
+  "text": "لكن يمكنني أن أصوغ منه شيئًا نافعًا. شيئًا يساعدك على الانتفاع بأسلحتك الطيفية على نحو أفضل."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_Hun_1",
+  "text": "هل تعرفين شيئًا عن هذا؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FangKuai_HuanGui_Hun_9",
+  "text": "الأمر بين يديك."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FeiZeiA_FeiZeiA_1",
+  "text": "كانت الغابة القرمزية ملعونة، لكننا خرجنا منها أحياء، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_FeiZeiB_FeiZeiB_1",
+  "text": "لكن... جروحك..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_GongDuiZhang1_GongDuiZhang_1",
+  "text": "الجميع، كونوا على أهبة الاستعداد!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_GongDuiZhang2_GongDuiZhang_1",
+  "text": "لا يتحرك أحد حتى أعطي الأمر!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_GongShouA_GongShouA_1",
+  "text": "ثلاثون سهمًا ينبغي أن تكفي هناك... أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_GongShouB_GongShouB_1",
+  "text": "ما دام رفاقنا قد اجتمعوا هنا،"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_GongShouB_GongShouB_2",
+  "text": "فما الذي يُخشى من عرين أسد أو وكر نمر؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_1",
+  "text": "لا أذكر... اسمي... كل ما أعرفه... أنني كنت أبرع مغنية في الفرقة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_2",
+  "text": "غناء... رقص... وأكمام تتطاير... وتصفيق يملأ المكان..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_3",
+  "text": "ليتني... أستطيع الغناء إلى الأبد... وأظل جميلة إلى الأبد..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_4",
+  "text": "لكن... في غمضة عين... صرت على هذه الحال..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_5",
+  "text": "رحلت أخواتي جميعًا... ولم يبقَ لي ما أعيش من أجله."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_6",
+  "text": "لكن مروحة رقصي... لازمتني سنين طويلة. كل ما أتمناه أن أراها مرة أخيرة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_7",
+  "text": "إنها في جناح تيانشيانغ... لكنه مغلق. والمفتاح مع البوّاب..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_9",
+  "text": "يا ترى ماذا حلّ بذلك البوّاب القصير؟ لعلّه ما زال يتجول في <Bold>الزقاق قرب المسرح</>..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_10",
+  "text": "كان يعشق رائحة مسحوق الوجه الذي نستخدمه. يكفي أن يُحرق قليل منه في المبخرة عند <Bold>الزقاق</>... فلعل ذلك يستدرجه."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_Hun_8",
+  "text": "البوّاب؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_1",
+  "text": "ها هي مروحتي... شكرًا... لأنك أعدتها إليّ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_2",
+  "text": "قال لي معلّمي... يجب أن أظل جميلة على المسرح دائمًا... عندها فقط لن يستطيع الجمهور أن يرفع عينيه عني."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_3",
+  "text": "حتى بعد إسدال الستار... عليّ أن أبقى جميلة... كي يظل الجمهور يذكرني..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_4",
+  "text": "وأخيرًا... أستطيع مغادرة المسرح... بوقار..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_JainKeA_JainKeA_1",
+  "text": "لا طاقة لنا بمواجهة شيء كهذا مرة أخرى... فلنأمل أن يجد الباحث طريقة للتغلب عليه..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_JainKeB_JainKeB_1",
+  "text": "كم من معلم ومقاتل من الميثاق... سقطوا جميعًا أمام هذه الوحوش!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_JianHuFa_JianHuFa_1",
+  "text": "ندى الفجر. فولاذ الغسق."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_JianHuFa_JianHuFa_2",
+  "text": "السيف في اليد. والأرواح في حمايتنا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_JianHuFa_JianHuFa_3",
+  "text": "يجمعنا عهد. ونخوض المحنة معًا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_JianHuFa_JianHuFa_4",
+  "text": "قد يسقط الجسد. أمّا الإرادة فلن تلين."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_Hun_1",
+  "text": "هل أنت من المعسكر؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_Hun_4",
+  "text": "الرداء الأبيض... والرداء الأزرق؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_2",
+  "text": "نعم... لكن... المعسكر سقط بالفعل..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_3",
+  "text": "نجا منّا بضعة قادة من الرداء الأرجواني... أما أصحاب الرداء الأبيض والأزرق فلم يحالفهم الحظ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_5",
+  "text": "تُحدَّد رتبنا بالألوان. يرتدي التلاميذ الأبيض، والقادة الأزرق. وأنا أرتدي الأرجواني بصفتي قائد فرقة الذئب."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_6",
+  "text": "ومع ذلك... هناك مبارز بالسيف يفوق في مهارته أيّ قائد فرقة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_7",
+  "text": "لكنه تورّط مع امرأة من طائفة شريرة... ولهذا ما زال مجرد صاحب رداء أزرق."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_8",
+  "text": "ولا يبالي بذلك إطلاقًا. فهو يفضّل دراسة تشكيلات السيوف مع إخوته الأصغر من أصحاب الرداء الأبيض."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_9",
+  "text": "لكن... للقدر قسوة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_Re_1",
+  "text": "تُحدَّد رتبنا بالألوان. لكن هناك صاحب رداء أزرق لم يرتقِ إلى رتبة أعلى قط... للقدر قسوة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_Hun_1",
+  "text": "منحت أولئك السبعة موتًا مشرّفًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_2",
+  "text": "...الارتقاء الكامل هو ما فعل هذا بهم... يملأ رؤوس الناس بآمال زائفة، ثم يسلبهم هويتهم."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_3",
+  "text": "أجبر رجال هوانغشينغ كثيرًا من قادة الرداء الأرجواني على الخضوع للارتقاء الكامل."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_4",
+  "text": "لكنني أعرف أنهم ما كانوا ليقبلوا طوعًا أن يصبحوا أجسادًا خاوية بلا عقل!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_5",
+  "text": "لا بد أن أصدقائي القدامى ما زالوا يقاومون تلك القوة الشريرة التي تنهش قنواتهم الحيوية!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_6",
+  "text": "أرجوك، أرحهم هم أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_7",
+  "text": "يُسمّى هذا اليشم «بسالة البطل». سيساعدك على العثور على من لا تزال لديهم قدرة على القتال."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_Re_1",
+  "text": "لا بد أن أصدقائي القدامى ما زالوا يقاومون تلك القوة الشريرة التي تنهش قنواتهم الحيوية!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_Re_2",
+  "text": "أرجوك، أرحهم هم أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing3_LangTouLing_1",
+  "text": "...الارتقاء الكامل هو ما فعل هذا بهم..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LaoQiGai_LaoQiGai_1",
+  "text": "ههه... في أزقة بانغتشن تعوي الرياح الباردة، والشوك والعليق يسدان الطريق إلى الأعالي!"
+ }
+]

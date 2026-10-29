@@ -1,0 +1,122 @@
+[
+ {
+  "key": "Weapon_Function_023_25",
+  "text": "الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإحداث ثوران مبكر لـ<Character_Yellow_Decorator2>[تآكل الهالة الشيطانية] </> أو آثاره المتحوّلة على جميع الأعداء. إذا تسبب الثوران في كسر دفاع عدو، فإنه <WeaponDes_Main_Green>يطيل كثيرًا</> مدة بقائه مكسور الدفاع."
+ },
+ {
+  "key": "Weapon_Function_026_5",
+  "text": "استبدال المراوغات بخطوة دائرية قريبة المدى. <Character_Yellow_Decorator2>المراوغات المثالية</> تسهم في <WeaponDes_Main_Green>زيادة كبيرة</> لمقياس <Character_Yellow_Decorator2>[هالة الشؤم] </>."
+ },
+ {
+  "key": "Weapon_Function_026_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>}<Character_Yellow_Decorator2> لتراكم مقياس </><Character_Yellow_Decorator2>هالة الشؤم</> الناتج عن <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> الضربات."
+ },
+ {
+  "key": "Weapon_Function_026_15",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك كامل <Character_Yellow_Decorator2>[هالة الشؤم] </> وقذف وابل من الفؤوس المزدوجة المستحضرة، التي <Character_Yellow_Decorator2>تلاحق</> العدو المثبّت بالاستهداف."
+ },
+ {
+  "key": "Weapon_Function_026_25",
+  "text": "بعد استخدام <Character_Yellow_Decorator2>[حصد تيانشا]</>، أو تنفيذ <Character_Yellow_Decorator2>مراوغة مثالية</> أمام هجوم الوميض الأحمر، أو <Character_Yellow_Decorator2>صدّ مثالي</> لهجوم الوميض الأزرق، الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للتراجع وإطلاق سلسلة من الهجمات القوية بعيدة المدى."
+ },
+ {
+  "key": "Weapon_Function_027_5",
+  "text": "الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لرمي <Character_Yellow_Decorator2>الأفعى القرمزية</> ووسم العدو. زيادة الضرر واستنزاف شا-تشي عند مهاجمة العدو الموسوم. ما دامت الشفرة القصيرة بعيدة عن سول، فإنها تستهلك شا-تشي باستمرار وتعود تلقائيًا عند عدم كفاية شا-تشي. الضغط مجددًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستعادتها."
+ },
+ {
+  "key": "Weapon_Function_027_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لسرعة تصاعد الضرر لـ <Character_Yellow_Decorator2>[رقصة الثعبانين]</>."
+ },
+ {
+  "key": "Weapon_Function_027_15",
+  "text": "بعد رمي <Character_Yellow_Decorator2>الأفعى القرمزية</> باستخدام <Character_Yellow_Decorator2>[مدار الأفعى القرمزية] </>أو <Character_Yellow_Decorator2>[وسم الأفعى]</>، تتشكل أفعى قرمزية ثانية في اليد، مما يتيح مواصلة استخدام <Character_Yellow_Decorator2>[</><Character_Yellow_Decorator2>رقصة الثعبانين]</> وسلاسل الضربات الأساسية للأفعى القرمزية."
+ },
+ {
+  "key": "Weapon_Function_027_25",
+  "text": "تبقى <Character_Yellow_Decorator2>الأفعى القرمزية</> المرمية باستخدام <Character_Yellow_Decorator2>[مدار الأفعى القرمزية]</> أو<Character_Yellow_Decorator2> </><Character_Yellow_Decorator2>[وسم الأفعى]</> فعالة حتى بعد تبديل الأسلحة."
+ },
+ {
+  "key": "Weapon_Function_028_5",
+  "text": "بعد التصدي بنجاح لهجوم الوميض الأزرق باستخدام <Character_Yellow_Decorator2>[التصدي]</>، الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ هجمات متابعة مختلفة."
+ },
+ {
+  "key": "Weapon_Function_028_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمدة وضعية <Character_Yellow_Decorator2>[الصد]</>."
+ },
+ {
+  "key": "Weapon_Function_028_15",
+  "text": "نجاح <Character_Yellow_Decorator2>[التصدي]</> يزيد الهجوم لمدة <dtv id=\"X271\"/> ثانية. أثناء ذلك، تحطم الهجمات دروع الأعداء الحاملين لها فورًا."
+ },
+ {
+  "key": "Weapon_Function_028_25",
+  "text": "يتيح <Character_Yellow_Decorator2>[التصدي]</> صدّ هجمات<Character_Yellow_Decorator2> الوميض الأسود</> الصادرة عن أي عدو والرد عليها، ثم تنفيذ <Character_Yellow_Decorator2>[متابعة التصدي]</>."
+ },
+ {
+  "key": "Weapon_Function_029_5",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن وإلقاء <Character_Yellow_Decorator2>[الحلقات الطائرة]</> الأقوى."
+ },
+ {
+  "key": "Weapon_Function_029_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الذي تلحقه الحلقات الطائرة الملقاة <Character_Yellow_Decorator2>[الحلقات الطائرة]</>."
+ },
+ {
+  "key": "Weapon_Function_029_15",
+  "text": "تحويل <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> المراوغة إلى <Character_Yellow_Decorator2>انتقال آني</> ذي مسافة انتقال أطول، لتيسير تفادي هجمات العدو."
+ },
+ {
+  "key": "Weapon_Function_029_25",
+  "text": "بعد الانتقال الآني، بقاء <Character_Yellow_Decorator2>أثر لاحق</> عند نقطة البدء. وعند إصابة عدوٍّ الأثرَ اللاحق، انفجاره إلى <Character_Yellow_Decorator2>[الحلقات الطائرة]</> التي <Character_Yellow_Decorator2>تلاحق</> المهاجم."
+ },
+ {
+  "key": "Weapon_Function_031_5",
+  "text": "تمنح <Character_Yellow_Decorator2>[الرموز السحرية]</> المخزنة تأثيرات سلبية مختلفة:\n<img id=\"Fire\" width=\"40\"/> زيادة الهجوم.\n<img id=\"Thunder\" width=\"40\"/> زيادة كسر الدفاع ضد الأعداء.\n<img id=\"Ice\" width=\"40\"/> زيادة مقدار خفض الضرر."
+ },
+ {
+  "key": "Weapon_Function_031_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لجميع تأثيرات <Character_Yellow_Decorator2>[نعمة السيدة]</>."
+ },
+ {
+  "key": "Weapon_Function_031_15",
+  "text": "بعد أن يستهلك انفجار الرمز رمزًا، تبقى <Character_Yellow_Decorator2>[نعمة السيدة] </>سارية لمدة <dtv id=\"X559\"/> ثانية إضافية. الحصول على الرمز نفسه مجددًا ينهي التأثير."
+ },
+ {
+  "key": "Weapon_Function_031_25",
+  "text": "زيادة الحد الأقصى لعدد <Character_Yellow_Decorator2>[الرموز السحرية]</> المخزّنة بمقدار <dtv id=\"X556\"/>. إذا خُزّن <dtv id=\"X557\"/> رمزًا، يستهلك انفجار الرمز <dtv id=\"X558\"/> رموز لتقوية تأثيره.  \n\nإضافة <Character_Yellow_Decorator2>[انفجار الرمز]</> التالي:\n<img id=\"Fire\" width=\"40\"/><img id=\"Thunder\" width=\"40\"/><img id=\"Ice\" width=\"40\"/> إطلاق شعاع من <Character_Yellow_Decorator2>اللهب الفوضوي </> يخترق الأعداء."
+ },
+ {
+  "key": "Weapon_Function_112_10",
+  "text": "[لجميع الأسلحة المستخدمة بكلتا اليدين] الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ضربة مائلة قوية إلى الأمام تترك أثرًا مشتعلًا. تتمتع هذه الضربة بقدرة كبيرة على كسر الدفاع. لا يمكن استخدامها إلا عندما يكون <Character_Yellow_Decorator2>شا-تشي</> عند {&<dtv id=\"X293\"/>|<dtv id=\"X294\"/>|<dtv id=\"X295\"/>}، كما أنها <Character_Yellow_Decorator2>تستهلك كامل شا-تشي </>عند الاستخدام. لا يمكن تغيير السلاح الرئيسي لمدة <dtv id=\"X064\"/> ثانية بعد هذه الحركة. {#0|الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل انتهاء الحركة لتنفيذ ضربة متابعة صاعدة تُطلق الحمم من الأثر المشتعل، مسببةً الضرر مجددًا.|#1}"
+ },
+ {
+  "key": "Weapon_Function_112_15",
+  "text": "إضافة <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/> إلى نهاية سلسلة الضربات الأساسية، أو الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بعد أي هجوم باستخدام <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، لتنفيذ <Character_Yellow_Decorator2>ضربة كاسحة</>. <Character_Yellow_Decorator2>يؤدي التصادم مع هجوم عدو</> إلى تفعيل <Character_Yellow_Decorator2>تصادم النصال</> وبناء <Character_Yellow_Decorator2>[قوّة النصل]</>. عند امتلاء <Character_Yellow_Decorator2>[قوّة النصل]</>، يزداد الضرر المُلحَق واستنزاف شا-تشي لمدة <dtv id=\"X296\"/> ثانية."
+ },
+ {
+  "key": "Weapon_Function_122_10",
+  "text": "[لجميع الأسلحة المزدوجة] الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> + <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ الضربة الطيفية الثلاثية، والاقتراب فورًا من العدو لتوجيه ضربة قوية قد تقتله أو تصيبه بجروح بالغة. لا يمكن استخدامها إلا عندما يكون <Character_Yellow_Decorator2>شا-تشي</> عند {&<dtv id=\"X443\"/>|<dtv id=\"X444\"/>|<dtv id=\"X445\"/>}، و<Character_Yellow_Decorator2>تستهلك كل شا-تشي عند الاستخدام</>. بعد تنفيذ هذه الحركة، لا يمكن تغيير السلاح الرئيسي لمدة <dtv id=\"X446\"/> ثانية. {#0|إذا تسببت الضربة في <Character_Yellow_Decorator2>كسر الدفاع</> لدى العدو، فالضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل انتهاء الحركة لتنفيذ هجوم متابعة. |#1}"
+ },
+ {
+  "key": "Weapon_Function_Common_DanShou_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>"
+ },
+ {
+  "key": "Weapon_Function_Common_DanShou_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن إطلاقها بعد أي ضربة خلال سلسلة الضربات الأساسية. ومع توفر ما يكفي من شا-تشي، تصبح هجومًا معززًا يلحق ضررًا أكبر ويزيد كسر الدفاع."
+ },
+ {
+  "key": "Weapon_Function_Common_ShuangChi_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>"
+ },
+ {
+  "key": "Weapon_Function_Common_ShuangChi_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن إطلاقها بعد أي ضربة خلال سلسلة الضربات الأساسية. ومع توفر ما يكفي من شا-تشي، تصبح هجومًا معززًا يلحق ضررًا أكبر ويزيد كسر الدفاع."
+ },
+ {
+  "key": "Weapon_Function_Common_ShuangShou_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>"
+ },
+ {
+  "key": "Weapon_Function_Common_ShuangShou_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن إطلاقها بعد أي ضربة خلال سلسلة الضربات الأساسية. ومع توفر ما يكفي من شا-تشي، تصبح هجومًا معززًا يلحق ضررًا أكبر ويزيد كسر الدفاع."
+ }
+]

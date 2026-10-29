@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_LJC_YuanZi_Investigate_YuanMen_CunMin1_1",
+  "text": "مَن... مَن هناك؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_Investigate_YuanMen_Hun_2",
+  "text": "عابر سبيل لا اسم له... أبحث عن نفق المهرّب المؤدي إلى بانغتشن."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_Investigate_YuanMen_ZhengDao1_4",
+  "text": "أسرع، ادخل!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_MenNei_CunMin1_2",
+  "text": "إنه البطل! لقد قضى على تلك الأشياء الخشبية! لقد نجونا!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_MenNei_ZhengDao2_3",
+  "text": "اخفض صوتك. تأمل جيدًا؛ فقد يكون واحدًا من أولئك المقنّعين!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_1",
+  "text": "أقسم! أ-أنا لم أؤمن بالسيدة قط!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_2",
+  "text": "أنا... لم أحلم إلا بأمي..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_3",
+  "text": "كان وجهها... مغطى بزهرة حمراء كبيرة... لكنني عرفت أنها أمي..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_6",
+  "text": "السيدة... هل هي التي ترسل المبعوث ليأخذني...؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_Hun_7",
+  "text": "إذن هذا هو بَي... الرجل الذي كانت الدمية المغنية تبحث عنه."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_Hun_8",
+  "text": "طلبت مني امرأة أن أوصل إليك هذه الرسالة."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_1",
+  "text": "يا تشينغنيانغ... بالأمس فقط، تحت الأزهار وضوء القمر، كان قلبانا واحدًا..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_2",
+  "text": "والآن تسلكين وحدك طريق العالم السفلي..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_3",
+  "text": "لم يبقَ سواي... في هذه الحجرة الباردة الخاوية..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_4",
+  "text": "يا تشينغنيانغ... يا تشينغنيانغ... مزّقتنا السماء وفرّقت بيننا الحياة والموت!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_5",
+  "text": "لكن لماذا تزورينني في أحلامي كل ليلة وتنادين اسمي برفق؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_6",
+  "text": "أستيقظ والدموع تغمرني، ولا أجد راحة حتى في نومي!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_9",
+  "text": "هذا... خط تشينغنيانغ..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_10",
+  "text": "ل-لا... هذا مستحيل... لقد رحلت... كيف كتبت هذا؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_11",
+  "text": "ش-شبح! إنه شبح!!!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1e_PengLang_1",
+  "text": "أبعدوها عنّي! لا تدعوها تلتصق بي!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1e_PengLang_2",
+  "text": "لم أتلقَّ شيئًا! ولم أرَ شيئًا!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu_PengLang_1",
+  "text": "يا للسماء... لِمَ انتزعتَ حبيبتي منّي؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu_PengLang_2",
+  "text": "وتركتني وحيدًا في هذا العالم الفسيح؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu_PengLang_3",
+  "text": "تشينغنيانغ... يا تشينغنيانغ..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao1_ZhengDao1_2",
+  "text": "في الحقيقة، جئنا نحن أيضًا بحثًا عن ذلك النفق."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao1_ZhengDao1_3",
+  "text": "لكننا لم نجد سوى دمى محطمة. إما أكوامًا من الخشب الميت... أو دمى تهجم عليك ما إن تراك."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao1_ZhengDao1_4",
+  "text": "عثرنا على بضعة قرويين ما زالوا بكامل قواهم العقلية... وبالكاد استطعنا الصمود في هذا المكان."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao2_ZhengDao2_1",
+  "text": "لا يسع المرء أن يلوم القرويين على توجّسهم..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao2_ZhengDao2_2",
+  "text": "إذا طال بك المقام في هذا المكان الملعون... فقد يذهب عقل أيٍّ كان بسبب تلك السيدة... وذلك المبعوث..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao2_ZhengDao2_3",
+  "text": "كان لي صديق اسمه شو. أحمق عنيد... أصرّ على الذهاب إلى ساحة التماثيل للعبادة..."
+ },
+ {
+  "key": "Dlg_LJC_ZhangMen_Kill_1",
+  "text": "اختفت الخيوط التي كانت تختم البئر عند مدخل القرية."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou1_Investigate_ZDGSshiti_1",
+  "text": "تجمّد اليأس على وجهه. ونقش الموت خراب العالم في عينيه الخافتتين الخاليتين من الحياة."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou1_ZDGS_1",
+  "text": "كما خشيت... لم يعد لهذا العالم من خلاص..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_Hun_2",
+  "text": "سيدة الحجاب... ما حقيقتها؟"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_Investigate_ZDGSshiti_1",
+  "text": "حتى بعد موته، ظلّت ملامحه حازمة لا تلين."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_1",
+  "text": "هاها... إذن... لم يأخذوا الجميع... بعد..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_1_1",
+  "text": "أخي الأصغر في الطائفة، هويجيويه... ما زال ينتظر في خان الوادي... خبرًا مني..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_1_2",
+  "text": "هذا المكان خطر... أرجوك أن تخبره... أن يغادر فورًا... وألا يعرّض نفسه للخطر هنا..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_3",
+  "text": "<Bold>الرحيمة... مخلّصة المعذّبين... سيدة الحجاب المزهرة...</>"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_4",
+  "text": "قبل نحو... سنتين أو ثلاث... بدأ ينتشر في هذه المنطقة..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_5",
+  "text": "ههه... لا تؤمن بها... حسنًا..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_6",
+  "text": "من أجل هذه الأرواح المسكينة..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_7",
+  "text": "اقتلها!"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_Hun_1",
+  "text": "ألقِ نظرة على هذا، من فضلك."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_5",
+  "text": "ما كان ليترك هذا وراءه... لا بدّ أن لذلك سببًا... لا..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_6",
+  "text": "أنت... لا تؤمن بذلك الشيء الدنيء... في هذا العالم الفاسد... قلّما نجد مثل هذا الصفاء الذهني..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_7",
+  "text": "أستودعك هذه المسبحة... ستكون خير عون لك."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_8",
+  "text": "أهل هذه القرية... كانوا طيبي القلوب... السيدة هي من أضلّتهم!"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_11",
+  "text": "أنقذ... من لا يزال بالإمكان إنقاذهم!"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_Option_1",
+  "text": "التصديق"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_Option_2",
+  "text": "عدم التصديق"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_Option_3",
+  "text": "آثار هويجيويه"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_ZDGS_1",
+  "text": "لم أظن قط... أن غرباء سيأتون إلى هذه القرية بعد..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_ZDGS_2",
+  "text": "هل... تؤمن بسيدة الحجاب...؟"
+ },
+ {
+  "key": "Dlg_LJC_ZhuoBi1_Battle_1",
+  "text": "لن ينكسر هذا الدرع أبدًا."
+ },
+ {
+  "key": "Dlg_LJC_ZhuoBi2_Battle_1",
+  "text": "الزموا مواقعكم."
+ },
+ {
+  "key": "Dlg_LJC_ZhuoBi2_Battle_2",
+  "text": "اثبتوا في المقدمة واحموا المؤخرة."
+ },
+ {
+  "key": "Dlg_LJC_ZhuoBi3_Battle_1",
+  "text": "اقضوا على كل المتسللين."
+ },
+ {
+  "key": "Dlg_LJC_ZhuoBi3_Battle_2",
+  "text": "لا تدعوا أحدًا يعبر هذه البوابة."
+ },
+ {
+  "key": "Dlg_LJC_lock_KaiGuan_1",
+  "text": "الذراع عالق."
+ },
+ {
+  "key": "Dlg_LJC_lock_ShengJiangTi_1",
+  "text": "المصعد معطّل."
+ },
+ {
+  "key": "Dlg_LJC_lock_ShengJiangTi_Hun_1",
+  "text": "هل من طريق آخر إلى ضفة البحيرة؟"
+ },
+ {
+  "key": "Dlg_LJC_lock_SiXian_1",
+  "text": "خيوط تسدّ الطريق."
+ },
+ {
+  "key": "Dlg_MGH_MFZF_GuHe_GuHe_4",
+  "text": "أيها المعلم، يا أقدس الناس وأبرّهم وأعلاهم مقامًا... غوهه يطيع!"
+ },
+ {
+  "key": "Dlg_MGH_MFZF_GuHe_ZhiGaoZhe_1",
+  "text": "أيها المريد... غوهه! أطع أمري!"
+ },
+ {
+  "key": "Dlg_MGH_MFZF_LeiTing_LeiTing_4",
+  "text": "يا سيدي، يا أقدس الناس وأعلاهم مقامًا... لي تينغ ممتثلة لأمرك!"
+ },
+ {
+  "key": "Dlg_MGH_MFZF_LeiTing_ZhiGaoZhe_1",
+  "text": "أيتها المريدة... لي تينغ، أطيعي أمري!"
+ },
+ {
+  "key": "Dlg_MGUZX_HXMM_Inanis_Inanis_1",
+  "text": "أسرع!"
+ },
+ {
+  "key": "Dlg_MGUZX_HXMM_ZhiGaoZhe_Hun_1",
+  "text": "هؤلاء الشيوخ الأكبرون على أعتاب الموت بالفعل، ومع ذلك لا تزال عقولهم باقية داخل الدمى، فتُبقي الصدع قائمًا من بعيد."
+ },
+ {
+  "key": "Dlg_MGUZX_HXMM_ZhiGaoZhe_Hun_2",
+  "text": "إذا قضيتُ على أجسادهم الحقيقية، فسيُغلق الصدع إلى الأبد."
+ },
+ {
+  "key": "Dlg_Map_Touchpad_Hun_1",
+  "text": "خريطة الطيف هذه من إنانيس لا تدلّني إلا على اتجاه تقريبي..."
+ },
+ {
+  "key": "Dlg_Map_Touchpad_Hun_2",
+  "text": "لا بد أن أجد الطريق الدقيق بنفسي..."
+ },
+ {
+  "key": "Dlg_Map_Touchpad_Hun_3",
+  "text": "لعل لمس الأجراس يكشف لي المزيد..."
+ },
+ {
+  "key": "Dlg_MeiGu_MSXZ2_Hun_5",
+  "text": "قائمة كنوز أخرى، على ما أرى."
+ },
+ {
+  "key": "Dlg_MeiGu_MSXZ2_MSXZ_1",
+  "text": "هل سمعت بها أنت أيضًا يا معلّم سول؟ الكنوز المخبأة هنا... يكشف كلّ واحد منها أسرارًا عجيبة..."
+ },
+ {
+  "key": "Dlg_MeiGu_MSXZ2_MSXZ_5",
+  "text": "ههه، أترك الأمر لك يا معلّم سول. كل شيء هنا، كلّه!"
+ },
+ {
+  "key": "Dlg_MeiGu_MSXZ4_MSXZ_1",
+  "text": "يا للعجب! كل هذه الكنوز النادرة... عثرت عليها كلها، حتى آخرها! أحسنت."
+ },
+ {
+  "key": "Dlg_MeiGu_MSXZ4_MSXZ_5",
+  "text": "تفضّل، هدية صغيرة مني. سأعتمد عليك في رعايتي ورعاية أعمالي يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_MeiGu_MSXZ_MSXZ_1",
+  "text": "هاه؟ منذ متى تعلمت حيلتي الصغيرة يا معلّم سول؟"
+ },
+ {
+  "key": "Dlg_MeiGu_MSXZ_Option3",
+  "text": "آثار بحيرة ميغو المفقودة"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuYanGongKe_1",
+  "text": "هذا آخر ما أستطيع... لن أتمكن من مواصلة السير. لن أصل إلى هوانغشينغ أبدًا."
+ },
+ {
+  "key": "Dlg_Meiguhu_DuYanGongKe_2",
+  "text": "إن كنت قد جئت إلى هنا تبحث عن «البوابة» أنت أيضًا..."
+ },
+ {
+  "key": "Dlg_Meiguhu_DuYanGongKe_3",
+  "text": "فأثبت لي جدارتك!"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai1_1",
+  "text": "بريحٍ مواتية وماءٍ هادئ نعود آمنين؛"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai1_2",
+  "text": "وبالمراكب والسلال ملأى نعود غانمين."
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai1_3",
+  "text": "خيرٌ وافر في كلّ عام"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai2_1",
+  "text": "سمكٌ وماء، وصالهما ألف عام؛"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai2_2",
+  "text": "وسحلبٌ وسوسن، يفوح شذاهما مئة جيلٍ على الدوام."
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai2_3",
+  "text": "قرانٌ سعيد"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai3_1",
+  "text": "موجٌ هادئ وقاربٌ ثابت، والناس في عافية؛"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai3_2",
+  "text": "وزهرٌ يُعقد وحلمٌ يهدي، والمراكب بالسمك ملأى ووافية."
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_MinZhai3_3",
+  "text": "نور الرحمة يعمّ الجميع"
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_ShuiXing1_1",
+  "text": "تقاسمنا الحياة والموت وسط العواصف والمدود."
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_ShuiXing1_2",
+  "text": "وأسماء الأبطال على الموج الأزرق باقيةٌ للخلود."
+ },
+ {
+  "key": "Dlg_Meiguhu_DuiLian_ShuiXing1_3",
+  "text": "تبقى رابطتنا على مرّ العصور."
+ },
+ {
+  "key": "Dlg_Meiguhu_FangFu_Option1",
+  "text": "الإيداع في جرة الحفظ"
+ },
+ {
+  "key": "Dlg_Meiguhu_Investigate_FangFu1_1",
+  "text": "يبدو أن التمثال الذي يرشح منه الماء الأسود هو مصدر الفساد هنا."
+ },
+ {
+  "key": "Dlg_Meiguhu_Investigate_FangFu1_2",
+  "text": "لعل غرضًا مطهّرًا ينظف القذارة التي تغطي التمثال."
+ },
+ {
+  "key": "Dlg_Meiguhu_Investigate_FangFu2_1",
+  "text": "انفصلت المادة اللزجة عن التمثال، وسقط معها شيء على الطاولة."
+ }
+]

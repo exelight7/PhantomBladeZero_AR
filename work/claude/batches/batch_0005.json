@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_2DAnimation3_MXK_8_1",
+  "text": "هل تعدني؟!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_10",
+  "text": "اتفقنا!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_10_1",
+  "text": "خذي هذه!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_ZuoShang_7",
+  "text": "هه، لم يُخرج سول كل ما عنده. ما زال أمامكِ شوط طويل!"
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_1",
+  "text": "في داخلك قوة غامضة مضطربة منذ يوم ولادتك."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_2",
+  "text": "تستفزها المؤثرات الخارجية بسهولة، وقد تدفعك إلى الجنون."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_3",
+  "text": "روّض نفسك على السكينة، ولا تدع الغضب يستولي عليك أبدًا."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_4",
+  "text": "همم..."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_5",
+  "text": "لا بد أن الخبر بلغك الآن: أبطال الوولين عند جرف تمزيق الأرواح أصابهم الجنون، فسلّوا سيوفهم على بعضهم."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_6",
+  "text": "عثرنا على جرس غريب. رنينه ينشّط شا-تشي في الجسد ويزيده قوة."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_7",
+  "text": "حين يتجاوز شا-تشي قدرة العقل على السيطرة عليه... يصاب المرء بالجنون التام، كما في الارتقاء."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_8",
+  "text": "ذلك الجرس... احذر منه أشد الحذر!"
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_10",
+  "text": "لكن... أين ذهب أولئك الأساتذة العشرة؟"
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_10_3",
+  "text": "في الوولين، ينجرف الناس كعدس الماء في العاصفة. فمن يستطيع أن يعثر على جذوره حقًا؟"
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_10_7",
+  "text": "همم. أنتما موهوبان حقًا. لا بد أن سلالتكما مميزة."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_10_8",
+  "text": "قد تعرفان أصلكما يومًا ما، حين يحين الوقت. لكن لا تتعجلا."
+ },
+ {
+  "key": "Dlg_2DAnimation5_MuTianMiao_13",
+  "text": "والآن وقد انضممتما إلى التنظيم، فاعتبرا هذا المكان بيتكما."
+ },
+ {
+  "key": "Dlg_2DAnimation5_ZuoShang_10_1",
+  "text": "شيفو... وُلد سول وداخله شا-تشي. هل يمكن أن يكون لذلك صلة بنسبه؟"
+ },
+ {
+  "key": "Dlg_2DAnimation5_ZuoShang_10_2",
+  "text": "نشأنا يتيمين. ليتنا نعرف شيئًا عن والدينا الحقيقيين..."
+ },
+ {
+  "key": "Dlg_2DAnimation5_ZuoShang_10_4",
+  "text": "لكننا لم نأتِ من العدم."
+ },
+ {
+  "key": "Dlg_2DAnimation5_ZuoShang_10_5",
+  "text": "حين كنا طفلين، ربّتنا عائلتان فقيرتان تسكنان الشارع نفسه..."
+ },
+ {
+  "key": "Dlg_2DAnimation5_ZuoShang_10_6",
+  "text": "لكنني واثق أن والدينا الحقيقيين شخصان آخران."
+ },
+ {
+  "key": "Dlg_2DAnimation5_ZuoShang_12",
+  "text": "مفهوم."
+ },
+ {
+  "key": "Dlg_3D2_Animation_Date_1",
+  "text": "قبل عام"
+ },
+ {
+  "key": "Dlg_3D2_Animation_Narrative_2",
+  "text": "يتحالف التنظيم مع الميثاق لمحاربة السائرين المقنّعين."
+ },
+ {
+  "key": "Dlg_3D2_Animation_Subtitle1",
+  "text": "الوتر"
+ },
+ {
+  "key": "Dlg_3D2_Animation_Subtitle4",
+  "text": "يوين"
+ },
+ {
+  "key": "Dlg_3D2_Animation_Subtitle5",
+  "text": "هوانغشينغ، موجي"
+ },
+ {
+  "key": "Dlg_BHC_Investigate_ST1",
+  "text": "جثة رحّال من الوولين؛ جسده منتفخ والدم يسيل من كل فتحة فيه. تفوح من الهواء حوله رائحة السمك وأوراق الشجر المتعفنة."
+ },
+ {
+  "key": "Dlg_BHC_Investigate_ST2",
+  "text": "أوصدوا الباب دونه وهو لا يزال حيًّا... هل كان من في الداخل يخفون شيئًا، أم يختبئون من شيء في الخارج؟"
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_Hun_2",
+  "text": "ماذا يوجد هناك في البحيرة؟"
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_Hun_6",
+  "text": "يجيدون القتال في الماء... وهذا سيجعل التعامل معهم أصعب."
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_ZD1_1",
+  "text": "إن كنت تريد الموت... فواصل طريقك..."
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_ZD1_3",
+  "text": "عصابة المياه السوداء... كان أهل الوولين الماهرون في الماء يجتمعون هنا قديمًا."
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_ZD1_4",
+  "text": "لاحقًا... قاتلوا إلى جانب أركان كونلون الثلاثة ضد السائرين المقنّعين..."
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_ZD1_5",
+  "text": "لكنهم في النهاية... خضعوا لذلك... الارتقاء..."
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_ZD1_7",
+  "text": "هربت إلى هنا... حتى السائرون المقنّعون لن يلاحقوني إلى هذا الحد."
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_ZD1_8",
+  "text": "خذ هذا! وانتبه لنفسك!"
+ },
+ {
+  "key": "Dlg_BaiHeZhaoZe_ZhengDao_ZD1_Re_1",
+  "text": "العالم قاسٍ. من هنا فصاعدًا، نترك الباقي للقدر..."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_Date_1",
+  "text": "قبل عامين"
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_Hun_1",
+  "text": "سلّم تسو شانغ المبعوث جسد الوتر... وطريقة صنع القلب المشعّ."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_Hun_2",
+  "text": "إنه لا يستغل المبعوث إلا لصنع القلب المشعّ... ووعاءٍ لنفسه."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_Hun_3",
+  "text": "طموح تسو شانغ يتجاوز بكثير مجرد السيطرة على التنظيم... أو حتى على الوولين بأسره."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_Hun_4",
+  "text": "تسو شانغ... ما الذي تريده حقًا؟"
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_LengTu_4",
+  "text": "هذا... للسيدة. هه، لا عليك. لا حاجة لأن تعرف."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_LengTu_7",
+  "text": "القلب المشعّ؟"
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_LengTu_12",
+  "text": "هذا القلب والشظية... كأنهما خُلقا أحدهما للآخر."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_LengTu_15",
+  "text": "إن أمكن صنع القلب المشعّ حقًّا، فلن يُضاهى من يحمله. فلمن تنوي أن تمنحه؟"
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_LengTu_18",
+  "text": "سيكون ذلك غاية الكمال."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_LengTu_19",
+  "text": "إذن... ماذا تريد في المقابل، يا مندوب الظلال تسو؟"
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_1",
+  "text": "أخبرني أيها المبعوث... أين عثرت على شظية العالم الخفي تلك؟"
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_2",
+  "text": "هذه الشظية مما خلّفه الأحد عشر. قاتلهم التنظيم قبل سنوات، لذا نعرفها جيدًا."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_3",
+  "text": "مؤسف... اختفت الشظايا الأخرى بسقوط الأحد عشر."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_5",
+  "text": "همم. في ذهني بعض الأمور. ولا يليق بي أن أحتفظ بها لنفسي."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_6",
+  "text": "حين أباد التنظيم الأحد عشر، استعدت مخطوطات شيوان يو التي خلّفها، ومعها تعليمات مفصّلة لصنع <Bold>القلب المشعّ</>."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_8",
+  "text": "كان قلبًا محكم الصنع، يستمد قوته من شظية العالم الخفي."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_9",
+  "text": "يمكنه أن يبدد جنون الارتقاء تمامًا من دون أن ينتقص من قوته."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_10",
+  "text": "قبل سنوات، خطط شيوان يو لاستبدال جهاز الارتقاء في جسده بهذا القلب."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_11",
+  "text": "لسوء حظه، سقط صريع سيفي قبل أن يتمكن من إتمامه."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_13",
+  "text": "هه... بما أنك تملك الشظية وبوسعي توفير المعرفة والموارد، فما رأيك أن نُتمّ صنع القلب المشعّ معًا؟"
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_16",
+  "text": "لنفترض أنني استطعت أن أحصل لك على <Bold>وعاء الوتر</>..."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_17",
+  "text": "يمكنك صنع دمية مثالية من جسدها... ثم وضع القلب المشعّ فيها."
+ },
+ {
+  "key": "Dlg_BaiHe_IMPTMEM3_ZuoShang_20",
+  "text": "إذا نشب بيني وبين التنظيم والميثاق خلاف يومًا، فلا أطلب منك سوى أن تمدّ لي يد العون."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang1_BangZhongBing_4",
+  "text": "تمهّلوا أنتم الاثنان! أتقنت فن «استشعار السمك في الماء» خصيصًا لمسابقة اليوم!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang1_BangZhongDing_5",
+  "text": "ليس بهذه السرعة! شبكتي تغوص بعيدًا اليوم... لقد علقت بها سمكة كبيرة!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang1_BangZhongDing_6",
+  "text": "هيّا...! ههههه! يا له من ملك للنهر! يبدو أن أفخر خمر الزعيم من نصيبي الليلة!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang1_BangZhongJia_1",
+  "text": "قال الزعيم: من يعود خالي الوفاض، ألقيناه في النهر طعامًا للسلاحف العضّاضة!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang1_BangZhongJia_3",
+  "text": "دع هذه الجولة لي! سأريك كيف تُنجز المهمة، وأصطاد سمكتين نأكلهما مع شراب الشباب!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang1_BangZhongYi_2",
+  "text": "سهل! ما إن أبدأ حتى أشكّ كل سمكة في النهر برمحي!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_BangZhong1_1",
+  "text": "باه! يأتون إلى أرصفتنا ويتبجحون، ثم يسمّون رجالنا «قرود الماء»؟ سأحوّلهم إلى أشباح مائية حقيقية!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_BangZhong2_2",
+  "text": "لا، لا! تلك السفينة تحت حماية صهر زعيم نقابة التجار. لا يسعنا أن نجعله عدوًا لنا!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_BangZhong3_3",
+  "text": "تبًا! لا بد أن أعدائي هم من يثيرون المتاعب! س-سأتولى الأمر بنفسي! لن أجرّ العصابة إلى هذا!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_BangZhongAll_8",
+  "text": "أجل! لن نسمح بذلك! الزعيم رجل صاحب مروءة!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_BangZhongAll_10",
+  "text": "نعم يا زعيم!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_YouLong_4",
+  "text": "كفى! اسمعوني يا رجال!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_YouLong_5",
+  "text": "جمعنا القدر هنا جميعًا في عصابة المياه السوداء!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_YouLong_6",
+  "text": "خضنا معًا غمار المعارك، وتشاركنا الدم والحديد! فهل نترك الآن حفنة من الحمقى الغافلين يهينون إخوتنا في عقر دارنا؟"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_YouLong_7",
+  "text": "لن أقبل بمثل هذه الإهانة! وعصابة المياه السوداء لن تقبل بها أيضًا!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang2_YouLong_9",
+  "text": "هاها! سيعرفون اليوم قوانين عصابة المياه السوداء! يا إخوتي، تناولوا أسلحتكم... إلى النهر!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_BangZhongAll_8",
+  "text": "أجل! هذا صحيح! أحسنت القول! أجل..."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_BangZhongAll_10",
+  "text": "نحن مع الزعيم! لن نرتاح حتى نبيد السائرين المقنّعين!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_BangZhongBing_7",
+  "text": "وإذا أحسنّا التعامل معها، فقد تنفعنا حتى تحت الماء!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_BangZhongJia_4",
+  "text": "يا زعيم! خطرت لنا فكرة!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_BangZhongJia_5",
+  "text": "نحن رجال عصابة المياه السوداء أبرع الناس في السباحة وحبس الأنفاس؛ لعلنا نستطيع كبح تلك القوة المنحرفة!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_YouLong_1",
+  "text": "قد سمعتم الخبر... السائرون المقنّعون طلقاء. رفاقنا القدامى إما قتلى وإما جرحى. يا لها من مهزلة!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_YouLong_2",
+  "text": "حتى أركان كونلون، أولئك الأبطال الشامخون، سقطوا..."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_YouLong_3",
+  "text": "حتى أراضي ميغو لم تنعم بلحظة سلام مؤخرًا..."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang3_YouLong_9",
+  "text": "أحسنتم! لا جبناء في عصابة المياه السوداء! سنخضع للارتقاء، ولن نتوقف حتى نقضي على كل السائرين المقنّعين!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_BangZhongBing_3",
+  "text": "ههه... لحمك... تفوح منه رائحة شهية..."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_BangZhongJia_1",
+  "text": "هاهاها! هذا الارتقاء مذهل! أشعر أن لا شيء يقدر عليّ!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_BangZhongNanHai_4",
+  "text": "أختي... أ-أخاف..."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_BangZhongNvHai_5",
+  "text": "مهلًا، ا-استيقظ... نحن... أريا وشياو جيانغ..."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_BangZhongNvHai_7",
+  "text": "ر-رأسك... ماذا حدث لك؟"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_BangZhongYi_2",
+  "text": "سمك... السمك لا يكفيني... أريد طرائد أكبر!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_YouLong_6",
+  "text": "اهربوا... اهربوا!"
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_YouLong_8",
+  "text": "عصابة المياه السوداء... ماتت منذ زمن... ولم يبقَ منها..."
+ },
+ {
+  "key": "Dlg_BaiHe_MEM_BaiHeBang4_YouLong_9",
+  "text": "آه... آآآآآه!"
+ },
+ {
+  "key": "Dlg_Battle_BaoLuWeiZhi_Hun_1",
+  "text": "أنا مكشوف هنا... لا أستطيع البقاء طويلًا."
+ },
+ {
+  "key": "Dlg_Battle_GeShe_NvJianKe_Hun_1",
+  "text": "إنها تكبح نفسها... لكنها لا تسيطر على شا-تشي."
+ },
+ {
+  "key": "Dlg_Battle_GeShe_NvJianKe_Hun_2",
+  "text": "الأفضل أن أتجنبها وأواصل طريقي."
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Character_LJC_43",
+  "text": "الفتاة الصغيرة على السور"
+ },
+ {
+  "key": "Character_LJC_44",
+  "text": "دمية الرجل العجوز"
+ },
+ {
+  "key": "Character_LJC_45",
+  "text": "دمية بذراع واحدة"
+ },
+ {
+  "key": "Character_LJC_46",
+  "text": "دمية صبورة"
+ },
+ {
+  "key": "Character_LJC_47",
+  "text": "دمية صغيرة مرحة"
+ },
+ {
+  "key": "Character_LJC_48",
+  "text": "دمية حازمة"
+ },
+ {
+  "key": "Character_LJC_49",
+  "text": "دمية تغطيها الأتربة"
+ },
+ {
+  "key": "Character_LJC_50",
+  "text": "دمية غاضبة"
+ },
+ {
+  "key": "Character_LJC_51",
+  "text": "اللص المنقذ"
+ },
+ {
+  "key": "Character_LJC_52",
+  "text": "اللصّ السائر المقنّع"
+ },
+ {
+  "key": "Character_LJC_53",
+  "text": "دمية صغيرة"
+ },
+ {
+  "key": "Character_LJC_54",
+  "text": "الراهب حارس البوابة"
+ },
+ {
+  "key": "Character_LJC_55",
+  "text": "صوت مخلص"
+ },
+ {
+  "key": "Character_LJC_56",
+  "text": "صوت مقتدر"
+ },
+ {
+  "key": "Character_LJC_58",
+  "text": "تلميذ الميثاق حارس البوابة"
+ },
+ {
+  "key": "Character_LJC_59",
+  "text": "قروي حارس البوابة"
+ },
+ {
+  "key": "Character_LJC_60",
+  "text": "قروية مذعورة"
+ },
+ {
+  "key": "Character_LJC_61",
+  "text": "قروي رصين"
+ },
+ {
+  "key": "Character_LJC_63",
+  "text": "تلميذة حائرة من بايشان"
+ },
+ {
+  "key": "Character_LJC_64",
+  "text": "دمية مرتجفة"
+ },
+ {
+  "key": "Character_LJC_65",
+  "text": "دمية أثيرية"
+ },
+ {
+  "key": "Character_LJC_66",
+  "text": "دمية تهذي"
+ },
+ {
+  "key": "Character_LJC_67",
+  "text": "دمية مغنية"
+ },
+ {
+  "key": "Character_LJC_67_1",
+  "text": "تشينغنيانغ، الدمية المغنية"
+ },
+ {
+  "key": "Character_LJC_68",
+  "text": "عالم مفجوع"
+ },
+ {
+  "key": "Character_LJC_68_1",
+  "text": "بَي، العالم المفجوع"
+ },
+ {
+  "key": "Character_LJC_68_2",
+  "text": "دمية عالمة"
+ },
+ {
+  "key": "Character_LJC_69",
+  "text": "راهبة طاوية هادئة"
+ },
+ {
+  "key": "Character_LJC_70",
+  "text": "لص عالق"
+ },
+ {
+  "key": "Character_LJC_71",
+  "text": "دمية موسيقية"
+ },
+ {
+  "key": "Character_MCHJ_1",
+  "text": "دمية بثلاثة أعين"
+ },
+ {
+  "key": "Character_MFZF_1",
+  "text": "صوت نسائي متحمّس"
+ },
+ {
+  "key": "Character_MFZF_2",
+  "text": "صوت ذكوري مريب"
+ },
+ {
+  "key": "Character_MFZF_3",
+  "text": "صوت نسائي رزين"
+ },
+ {
+  "key": "Character_MFZF_4",
+  "text": "صوت ذكوري ثابت"
+ },
+ {
+  "key": "Character_MG_1",
+  "text": "يان تشيانسوي"
+ },
+ {
+  "key": "Character_MG_1_1",
+  "text": "يانأر"
+ },
+ {
+  "key": "Character_MG_2",
+  "text": "شي نيانغ"
+ },
+ {
+  "key": "Character_MG_2_1",
+  "text": "صوت نسائي واضح"
+ },
+ {
+  "key": "Character_MG_3",
+  "text": "مقدم المسرح"
+ },
+ {
+  "key": "Character_MG_4",
+  "text": "زعيم الطائفة مينغ"
+ },
+ {
+  "key": "Character_MG_5",
+  "text": "قاتل"
+ },
+ {
+  "key": "Character_MG_6",
+  "text": "صرخات الخادمات"
+ },
+ {
+  "key": "Character_MG_7",
+  "text": "صيحة الحارس"
+ },
+ {
+  "key": "Character_MG_8",
+  "text": "صوت مقاتل الوولين"
+ },
+ {
+  "key": "Character_MG_9",
+  "text": "صوت مقاتل آخر من الوولين"
+ },
+ {
+  "key": "Character_Main_0",
+  "text": "؟؟؟"
+ },
+ {
+  "key": "Character_Main_1",
+  "text": "سول"
+ },
+ {
+  "key": "Character_Main_1_1",
+  "text": "سول (منتحلًا شخصية يو تشن)"
+ },
+ {
+  "key": "Character_Main_2",
+  "text": "تسو شانغ"
+ },
+ {
+  "key": "Character_Main_3",
+  "text": "مو شياوكوي"
+ },
+ {
+  "key": "Character_Main_3_1",
+  "text": "صوت الفتاة الصغيرة من الذكرى"
+ },
+ {
+  "key": "Character_PZ_1",
+  "text": "طفل البصيرة"
+ },
+ {
+  "key": "Character_PZ_1_1",
+  "text": "طفل نبيه"
+ },
+ {
+  "key": "Character_PZ_2",
+  "text": "مقاتل الوولين"
+ },
+ {
+  "key": "Character_PZ_3_1",
+  "text": "طفل 1"
+ },
+ {
+  "key": "Character_PZ_3_2",
+  "text": "طفل 2"
+ },
+ {
+  "key": "Character_PZ_3_3",
+  "text": "طفل 3"
+ },
+ {
+  "key": "Character_PZ_3_4",
+  "text": "طفل 4"
+ },
+ {
+  "key": "Character_PZ_3_5",
+  "text": "طفل 5"
+ },
+ {
+  "key": "Character_PZ_4",
+  "text": "أطفال"
+ },
+ {
+  "key": "Character_PZ_5",
+  "text": "رحّال أشيب"
+ },
+ {
+  "key": "Character_PZ_6",
+  "text": "دمية تحدق في البئر"
+ },
+ {
+  "key": "Character_PZ_7",
+  "text": "تلميذ الميثاق المصاب إصابة بالغة"
+ },
+ {
+  "key": "Character_PZ_8",
+  "text": "تلميذة مشوشة"
+ },
+ {
+  "key": "Character_PZ_9",
+  "text": "دمية متضررة"
+ },
+ {
+  "key": "Character_PZ_10",
+  "text": "تلميذ الميثاق الدنيوي"
+ },
+ {
+  "key": "Character_PZ_11",
+  "text": "تلميذ الميثاق الفطن"
+ },
+ {
+  "key": "Character_PZ_12",
+  "text": "تلميذ الميثاق المتحمّس"
+ },
+ {
+  "key": "Character_PZ_13",
+  "text": "تلميذ الميثاق الوحيد"
+ },
+ {
+  "key": "Character_PZ_14",
+  "text": "غو وانيويه"
+ },
+ {
+  "key": "Character_PZ_14_1",
+  "text": "امرأة عند البئر"
+ },
+ {
+  "key": "Character_PZ_15",
+  "text": "جارة"
+ },
+ {
+  "key": "Character_PZ_16",
+  "text": "أم قلقة"
+ },
+ {
+  "key": "Character_PZ_16_1",
+  "text": "أم"
+ },
+ {
+  "key": "Character_PZ_17",
+  "text": "ابن"
+ },
+ {
+  "key": "Character_PZ_18",
+  "text": "مزارع"
+ },
+ {
+  "key": "Character_PZ_19",
+  "text": "أخو المزارع"
+ },
+ {
+  "key": "Character_PZ_19_1",
+  "text": "قاطع طريق شاب"
+ },
+ {
+  "key": "Character_PZ_20",
+  "text": "تاجر جوّال"
+ },
+ {
+  "key": "Character_PZ_21",
+  "text": "ابنة التاجر"
+ },
+ {
+  "key": "Character_PZ_22",
+  "text": "هوانغ، التاجر الثري السكير"
+ },
+ {
+  "key": "Character_PZ_23",
+  "text": "ابنة التاجر الثري، شيو"
+ },
+ {
+  "key": "Character_PZ_23_1",
+  "text": "شيو"
+ },
+ {
+  "key": "Character_PZ_24",
+  "text": "ابن التاجر الثري، جين"
+ },
+ {
+  "key": "Character_PZ_24_1",
+  "text": "جين"
+ },
+ {
+  "key": "Character_PZ_25",
+  "text": "باي شيويه"
+ },
+ {
+  "key": "Character_PZ_26",
+  "text": "الدمية عازفة القيثارة"
+ },
+ {
+  "key": "Character_PZ_27",
+  "text": "دمية صاحبة متجر"
+ },
+ {
+  "key": "Character_PZ_29",
+  "text": "دمية الراقصة الأولى"
+ },
+ {
+  "key": "Character_PZ_30",
+  "text": "دمية الراقصة الثانية"
+ },
+ {
+  "key": "Character_PZ_31",
+  "text": "حارسة بايشان الماهرة"
+ },
+ {
+  "key": "Character_PZ_32",
+  "text": "كبير الباحثين في أمر الدمى"
+ },
+ {
+  "key": "Character_PZ_33",
+  "text": "مبارز الثوب الأزرق الأول"
+ },
+ {
+  "key": "Character_PZ_34",
+  "text": "مبارز الثوب الأزرق الثاني"
+ },
+ {
+  "key": "Character_PZ_35",
+  "text": "لص متوتر"
+ },
+ {
+  "key": "Character_PZ_36",
+  "text": "لص مرتجف"
+ },
+ {
+  "key": "Character_PZ_37",
+  "text": "حارسة بايشان"
+ },
+ {
+  "key": "Character_PZ_38",
+  "text": "كشافة بايشان المترددة"
+ },
+ {
+  "key": "Character_PZ_39",
+  "text": "طفل"
+ }
+]

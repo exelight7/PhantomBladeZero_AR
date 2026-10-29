@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Item_Memo_BaiChiLianALL_001",
+  "text": "زهرة ذكرى باي تشيليان"
+ },
+ {
+  "key": "Item_Memo_BaiHeBangALL_001",
+  "text": "زهرة ذكرى عصابة المياه السوداء"
+ },
+ {
+  "key": "Item_Memo_BaiXueErALL_001",
+  "text": "زهرة الذكرى: باي شيويه إر"
+ },
+ {
+  "key": "Item_Memo_ChuangRuZheALL_001",
+  "text": "زهرة ذكرى المتسلل"
+ },
+ {
+  "key": "Item_Memo_FJZLGuaiMianALL_001",
+  "text": "زهرة ذكرى اليد الحجرية وحُمّى الحديد"
+ },
+ {
+  "key": "Item_Memo_FJZLInanisALL_001",
+  "text": "زهرة الذكرى لإنانيس"
+ },
+ {
+  "key": "Item_Memo_FJZLTongMenALL_001",
+  "text": "زهرة الذكرى: رفقاء الطائفة"
+ },
+ {
+  "key": "Item_Memo_FJZLzhengdaoALL_001",
+  "text": "زهرة الذكرى: عن الارتقاء الكامل"
+ },
+ {
+  "key": "Item_Memo_FanKangZheALL_001",
+  "text": "زهرة ذكرى مقاومي الارتقاء"
+ },
+ {
+  "key": "Item_Memo_FengXueDaoKeALL_001",
+  "text": "زهرة ذكرى سيّد النصل في العاصفة الثلجية"
+ },
+ {
+  "key": "Item_Memo_GaoYuanWaiALL_001",
+  "text": "زهرة ذكرى الوجيه غاو"
+ },
+ {
+  "key": "Item_Memo_HuangXingZiALL_001",
+  "text": "زهرة الذكرى عن هوانغشينغ"
+ },
+ {
+  "key": "Item_Memo_Inanis_001",
+  "text": "زهرة الذكرى التي تركها إنانيس"
+ },
+ {
+  "key": "Item_Memo_LJCCunMinALL_001",
+  "text": "زهرة الذكرى لأهالي قرية لو"
+ },
+ {
+  "key": "Item_Memo_LJCJiangHuRenALL_001",
+  "text": "زهرة ذكرى مقاتلي الوولين"
+ },
+ {
+  "key": "Item_Memo_LJCZhangMenALL_001",
+  "text": "زهرة الذكرى لأساتذة الميثاق"
+ },
+ {
+  "key": "Item_Memo_LaoGenTou_001",
+  "text": "زهرة ذكرى العجوز غن"
+ },
+ {
+  "key": "Item_Memo_LengTuALL_001",
+  "text": "زهرة ذكرى لنغ تو"
+ },
+ {
+  "key": "Item_Memo_LieYanALL_001",
+  "text": "زهرة ذكرى المعلم الأكبر لرقصة الأسد"
+ },
+ {
+  "key": "Item_Memo_PZHJ_CiMuXinALL_001",
+  "text": "زهرة الذكرى: قلب أم"
+ },
+ {
+  "key": "Item_Memo_PZHJ_SZSY_002",
+  "text": "II. الممر الخفي"
+ },
+ {
+  "key": "Item_Memo_PZHJ_SZSY_003",
+  "text": "III. الممر المختفي"
+ },
+ {
+  "key": "Item_Memo_PZHJ_Subhead_BaiXueEr_001",
+  "text": "I. الشجرة العتيقة"
+ },
+ {
+  "key": "Item_Memo_PZHJ_Subhead_ChenZhu_001",
+  "text": "II. توبة صادقة"
+ },
+ {
+  "key": "Item_Memo_PZShiYanALL_001",
+  "text": "زهرة الذكرى: تجارب الضيعة"
+ },
+ {
+  "key": "Item_Memo_PZ_001",
+  "text": "I. الاختفاءات"
+ },
+ {
+  "key": "Item_Memo_QXJZAll_001",
+  "text": "زهرة ذكرى النجوم السبعة"
+ },
+ {
+  "key": "Item_Memo_QianQianALL_001",
+  "text": "زهرة ذكرى تشيانتشيان"
+ },
+ {
+  "key": "Item_Memo_QiuMingALL_001",
+  "text": "زهرة الذكرى لتلميذ فنّ ربط الخيوط"
+ },
+ {
+  "key": "Item_Memo_ShiYanALL_001",
+  "text": "زهرة الذكرى لضحية التجربة"
+ },
+ {
+  "key": "Item_Memo_ShouHaiZheALL_001",
+  "text": "زهرة ذكرى الوحش"
+ },
+ {
+  "key": "Item_Memo_ShuangXiaALL_001",
+  "text": "زهرة ذكرى البطلين التوأمين"
+ },
+ {
+  "key": "Item_Memo_ShuiJingALL_001",
+  "text": "زهرة الذكرى: البحث"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiChiLian_001",
+  "text": "I. الخلاص الوحيد"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiChiLian_002",
+  "text": "II. نبوءة السيدة"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_001",
+  "text": "I. صيد السمك"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_002",
+  "text": "II. يو لونغ، قائد الطاقم"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_003",
+  "text": "III. الارتقاء الطوعي"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_004",
+  "text": "IV. صيد السمك على اليابسة"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiShanHuFaA_001",
+  "text": "V. طريق مسدود"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiShanHuFaB_001",
+  "text": "VI. الأيام الذهبية"
+ },
+ {
+  "key": "Item_Memo_Subhead_ChuangRuZhe_001",
+  "text": "I. اختراق"
+ },
+ {
+  "key": "Item_Memo_Subhead_ChuangRuZhe_002",
+  "text": "II. البحث"
+ },
+ {
+  "key": "Item_Memo_Subhead_DaJiaGuiXiu_001",
+  "text": "I. الإصبع المبتور"
+ },
+ {
+  "key": "Item_Memo_Subhead_DaShiXiong_001",
+  "text": "II. قرار من المرء نفسه"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLBaiShan_001",
+  "text": "IV. وسيلة للمقاومة"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLInanis_001",
+  "text": "I. العرض"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLInanis_002",
+  "text": "II. مرض عضال"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLInanis_003",
+  "text": "III. اللوتس المذهّب"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLInanis_004",
+  "text": "IV. ضيف غير مدعو"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLInanis_005",
+  "text": "V. لفافة نقل الروح"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLInanis_006",
+  "text": "VI. حياة جديدة"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLQuanChi_001",
+  "text": "I. الإرث"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLQuanChi_002",
+  "text": "II. مسارات متباينة"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLTongMen_001",
+  "text": "I. أواصر الرفاق"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLTongMen_002",
+  "text": "II. تجديد الأوامر"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLTongMen_003",
+  "text": "III. لا تساهل"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLzhengdao_001",
+  "text": "I. أمر التنظيم المكتوب بخط اليد"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLzhengdao_002",
+  "text": "II. فساد أم جبن؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_FJZLzhengdao_003",
+  "text": "III. قوة مستجدة"
+ },
+ {
+  "key": "Item_Memo_Subhead_FengXueDaoKe_001",
+  "text": "I. خطر"
+ },
+ {
+  "key": "Item_Memo_Subhead_FengXueDaoKe_002",
+  "text": "II. المطاردة"
+ },
+ {
+  "key": "Item_Memo_Subhead_FengXueDaoKe_003",
+  "text": "III. إلى الأعماق"
+ },
+ {
+  "key": "Item_Memo_Subhead_FengXueDaoKe_004",
+  "text": "IV. الفخ"
+ },
+ {
+  "key": "Item_Memo_Subhead_FengXueDaoKe_005",
+  "text": "V. الهياج"
+ },
+ {
+  "key": "Item_Memo_Subhead_FengXueDaoKe_006",
+  "text": "VI. الختم"
+ },
+ {
+  "key": "Item_Memo_Subhead_GaoYuanWai_001",
+  "text": "I. طائفة ربط الخيوط"
+ },
+ {
+  "key": "Item_Memo_Subhead_GaoYuanWai_002",
+  "text": "II. الانتقاد"
+ },
+ {
+  "key": "Item_Memo_Subhead_GaoYuanWai_003",
+  "text": "III. الاستحواذ"
+ },
+ {
+  "key": "Item_Memo_Subhead_GuWanYue_001",
+  "text": "I. نداء عاشق"
+ },
+ {
+  "key": "Item_Memo_Subhead_GuiXiuXiongZhang_001",
+  "text": "II. أغصان متقاربة"
+ },
+ {
+  "key": "Item_Memo_Subhead_HYNJK_001",
+  "text": "I. قرار الميثاق"
+ },
+ {
+  "key": "Item_Memo_Subhead_HanBing_001",
+  "text": "II. الصقيع والفوضى"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_001",
+  "text": "I. الدفاع. الدفاع. الدفاع."
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_002",
+  "text": "II. الركيزة الأخيرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_003",
+  "text": "III. مسارات متباينة"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_004",
+  "text": "IV. كيف يمكن هزيمتهم؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_005",
+  "text": "V. تشو شيه"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_006",
+  "text": "VI. طريق جديد للمضي قدمًا"
+ },
+ {
+  "key": "Item_Memo_Subhead_HunDun_001",
+  "text": "III. ثلاث أرواح كروح واحدة"
+ },
+ {
+  "key": "Item_Memo_Subhead_Inanis_001",
+  "text": "الصوت داخل الزهرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCCunMin_001",
+  "text": "I. لقاء الحبيبين"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCCunMin_002",
+  "text": "II. أهذا ابني؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCCunMin_003",
+  "text": "III. تحرّر في العزلة"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCCunMin_004",
+  "text": "IV. ذلك ليس أبي!"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCFeiZei_001",
+  "text": "II. الحياة والموت معًا"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCWuLinRenShi_001",
+  "text": "I. أين يكمن الأمل؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCZhangMen_001",
+  "text": "I. الأخيار والأشرار"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCZhangMen_002",
+  "text": "II. أمنية"
+ },
+ {
+  "key": "Item_Memo_Subhead_LJCZhangMen_003",
+  "text": "III. المؤامرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_LaoGenTou_001",
+  "text": "كان تحدّي العجوز غن للوباء المستعر، والمسارعة إلى بانغتشن والتوغّل في الثلوج لتسليم العربة المدرعة، أعظم ما أقدم عليه في حياته.\n\nومع ذلك، لو تُرك له الخيار، لما تمنى سوى أن يعود إلى الأيام الخوالي، ويبقى إلى جانب زوجته وسط مشاحنات الحياة اليومية الصغيرة."
+ },
+ {
+  "key": "Item_Memo_Subhead_LengTu_001",
+  "text": "I. شظية العالم الخفي"
+ },
+ {
+  "key": "Item_Memo_Subhead_LengTu_002",
+  "text": "II. المشاركة"
+ },
+ {
+  "key": "Item_Memo_Subhead_LengTu_003",
+  "text": "III. القلب المشعّ"
+ },
+ {
+  "key": "Item_Memo_Subhead_LengTu_004",
+  "text": "IV. وعاء القلب المشعّ"
+ },
+ {
+  "key": "Item_Memo_Subhead_LengTu_005",
+  "text": "V. المرايا والخرائب"
+ },
+ {
+  "key": "Item_Memo_Subhead_LengTu_006",
+  "text": "VI. صدع العظام"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_001",
+  "text": "I. تهاني العام الجديد"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_002",
+  "text": "II. التعريف"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_003",
+  "text": "III. الحقيقة والوهم"
+ }
+]

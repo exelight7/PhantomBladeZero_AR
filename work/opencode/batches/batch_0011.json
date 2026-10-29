@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Character_DDSD_9",
+  "text": "دمية أنثى"
+ },
+ {
+  "key": "Character_DDSD_10_1",
+  "text": "السائر المقنّع عند القوس"
+ },
+ {
+  "key": "Character_DDSD_10_2",
+  "text": "السائر المقنّع على الجرف البعيد"
+ },
+ {
+  "key": "Character_DDSD_10_3",
+  "text": "صوت السائر المقنّع الحاد"
+ },
+ {
+  "key": "Character_DDSD_10_4",
+  "text": "صوت السائر المقنّع الأجش"
+ },
+ {
+  "key": "Character_DDSD_10_5",
+  "text": "الوجه اليشمي (قناع ذهبي)"
+ },
+ {
+  "key": "Character_DDSD_10_6",
+  "text": "الوجه اليشمي (قناع حديدي)"
+ },
+ {
+  "key": "Character_DDSD_10_7",
+  "text": "الوجه اليشمي (قناع يشمي)"
+ },
+ {
+  "key": "Character_DDSD_11",
+  "text": "تلميذ الميثاق الراسخ"
+ },
+ {
+  "key": "Character_DDSD_12",
+  "text": "تلميذ الميثاق المخلص"
+ },
+ {
+  "key": "Character_DDSD_13",
+  "text": "تلميذة الميثاق القلقة"
+ },
+ {
+  "key": "Character_DDSD_14",
+  "text": "تلميذ الميثاق الساذج"
+ },
+ {
+  "key": "Character_DDSD_15",
+  "text": "تلميذ الميثاق حادّ السمع"
+ },
+ {
+  "key": "Character_DDSD_16",
+  "text": "تلميذ الميثاق الحائر"
+ },
+ {
+  "key": "Character_DH_2",
+  "text": "حارس الظلال المحتضر"
+ },
+ {
+  "key": "Character_DH_3_1",
+  "text": "صوت فتى من بعيد"
+ },
+ {
+  "key": "Character_DH_3_2",
+  "text": "صوت فتى"
+ },
+ {
+  "key": "Character_DH_3_3",
+  "text": "فتى"
+ },
+ {
+  "key": "Character_DH_4",
+  "text": "تلميذ الشيخ الأكبر"
+ },
+ {
+  "key": "Character_DH_6",
+  "text": "قائد حرس ربط الخيوط"
+ },
+ {
+  "key": "Character_DH_7",
+  "text": "سيّد النصل في العاصفة الثلجية"
+ },
+ {
+  "key": "Character_DH_8",
+  "text": "ساحر الأوهام أبيض الشعر"
+ },
+ {
+  "key": "Character_DH_9",
+  "text": "تلميذ الشيخ الأكبر المتحمس"
+ },
+ {
+  "key": "Character_DH_10",
+  "text": "تلميذ الشيخ الأكبر القَلِق"
+ },
+ {
+  "key": "Character_DH_11",
+  "text": "تلميذ الشيخ الأكبر العازم"
+ },
+ {
+  "key": "Character_DH_12",
+  "text": "تلميذ الشيخ الأكبر المبتهج"
+ },
+ {
+  "key": "Character_DH_13",
+  "text": "تلميذ الشيخ الأكبر الناقم"
+ },
+ {
+  "key": "Character_DH_15",
+  "text": "ساحر الأوهام المحتضر"
+ },
+ {
+  "key": "Character_DH_16",
+  "text": "ساحر الأوهام المصاب إصابة بالغة"
+ },
+ {
+  "key": "Character_DH_17",
+  "text": "ساحر الأوهام المذعور"
+ },
+ {
+  "key": "Character_DH_18",
+  "text": "التلميذ الأبرز للشيخ الأكبر"
+ },
+ {
+  "key": "Character_DH_19",
+  "text": "أول رمّاح مستريح"
+ },
+ {
+  "key": "Character_DH_20",
+  "text": "ثاني رمّاح مستريح"
+ },
+ {
+  "key": "Character_DH_21",
+  "text": "أول مبارز مستريح"
+ },
+ {
+  "key": "Character_DH_22",
+  "text": "ثاني مبارز مستريح"
+ },
+ {
+  "key": "Character_DH_23",
+  "text": "القائد تشينغ لونغ"
+ },
+ {
+  "key": "Character_DH_24",
+  "text": "قاتل الظلال المحتضر"
+ },
+ {
+  "key": "Character_DH_25",
+  "text": "بي تاوتاو"
+ },
+ {
+  "key": "Character_DH_26",
+  "text": "أول قاتلي الظلال"
+ },
+ {
+  "key": "Character_DH_27",
+  "text": "ثاني قاتلي الظلال"
+ },
+ {
+  "key": "Character_DXZL_1",
+  "text": "المحطِّم"
+ },
+ {
+  "key": "Character_DXZL_2",
+  "text": "المنشار"
+ },
+ {
+  "key": "Character_DXZL_3",
+  "text": "فارس متهور"
+ },
+ {
+  "key": "Character_DXZL_4",
+  "text": "فارس رزين"
+ },
+ {
+  "key": "Character_DXZL_5",
+  "text": "يه هان، سيفا تيانشان التوأمان"
+ },
+ {
+  "key": "Character_DXZL_6",
+  "text": "لي تشيو، أحد سيفي تيانشان التوأمين"
+ },
+ {
+  "key": "Character_DXZL_7",
+  "text": "الأخ الأكبر الأقدم"
+ },
+ {
+  "key": "Character_DXZL_8",
+  "text": "الأخ الأكبر الثاني"
+ },
+ {
+  "key": "Character_DXZL_9",
+  "text": "الأخ الأكبر الثالث"
+ },
+ {
+  "key": "Character_DXZL_10",
+  "text": "أخت صغرى"
+ },
+ {
+  "key": "Character_DXZL_11",
+  "text": "معلم الميثاق المحتضر"
+ },
+ {
+  "key": "Character_DXZL_26",
+  "text": "مبارز مفجوع"
+ },
+ {
+  "key": "Character_DXZL_27",
+  "text": "شيه تشيودونغ"
+ },
+ {
+  "key": "Character_EX_1",
+  "text": "النصل الطيفي"
+ },
+ {
+  "key": "Character_EX_1_1",
+  "text": "حارس الظلال اليقظ"
+ },
+ {
+  "key": "Character_EX_1_2",
+  "text": "حارس الظلال الودود"
+ },
+ {
+  "key": "Character_EX_2",
+  "text": "لان شاودي"
+ },
+ {
+  "key": "Character_EX_2_1",
+  "text": "السيد الشاب ذو الثياب الزرقاء"
+ },
+ {
+  "key": "Character_EX_3",
+  "text": "سول ومو شياوكوي (بصوت واحد)"
+ },
+ {
+  "key": "Character_EX_4",
+  "text": "متسول عجوز"
+ },
+ {
+  "key": "Character_EX_5",
+  "text": "فتاة صغيرة"
+ },
+ {
+  "key": "Character_EX_5_1",
+  "text": "الفتاة الصغيرة (الوتر)"
+ },
+ {
+  "key": "Character_EX_5_2",
+  "text": "الوتر"
+ },
+ {
+  "key": "Character_EX_5_3",
+  "text": "وهم الوتر"
+ },
+ {
+  "key": "Character_EX_6",
+  "text": "صوت غامض"
+ },
+ {
+  "key": "Character_EX_7",
+  "text": "حشد"
+ },
+ {
+  "key": "Character_EX_8",
+  "text": "نحّات اللحم"
+ },
+ {
+  "key": "Character_EX_9",
+  "text": "مبارز أثيري"
+ },
+ {
+  "key": "Character_EX_10",
+  "text": "العم تشونغ"
+ },
+ {
+  "key": "Character_FJZL_1",
+  "text": "مقاتل الميثاق الجريح"
+ },
+ {
+  "key": "Character_FJZL_2",
+  "text": "تلميذة بايشان المصابة إصابة بالغة"
+ },
+ {
+  "key": "Character_FJZL_3",
+  "text": "تلميذ الميثاق الشاب"
+ },
+ {
+  "key": "Character_FJZL_4",
+  "text": "تلميذ الميثاق المرتقي"
+ },
+ {
+  "key": "Character_FJZL_5",
+  "text": "تلميذ الميثاق المخضرم"
+ },
+ {
+  "key": "Character_FJZL_6",
+  "text": "تلميذ بايشان الساخط"
+ },
+ {
+  "key": "Character_FJZL_7",
+  "text": "تلميذ بايشان النزيه"
+ },
+ {
+  "key": "Character_FJZL_8",
+  "text": "تلميذ الميثاق الساخط"
+ },
+ {
+  "key": "Character_FJZL_9",
+  "text": "تلميذ الميثاق الرزين"
+ },
+ {
+  "key": "Character_FJZL_10",
+  "text": "تلميذ الميثاق الصارم"
+ },
+ {
+  "key": "Character_FJZL_11",
+  "text": "تلميذ الميثاق المتخفي"
+ },
+ {
+  "key": "Character_FJZL_12",
+  "text": "تلميذة الميثاق المختلّة"
+ },
+ {
+  "key": "Character_FJZL_13",
+  "text": "تلميذ الميثاق المهموم"
+ },
+ {
+  "key": "Character_FJZL_14",
+  "text": "تشاو دي"
+ },
+ {
+  "key": "Character_FJZL_15",
+  "text": "تشوغه فنغ"
+ },
+ {
+  "key": "Character_FJZL_16",
+  "text": "وي سانتشوان"
+ },
+ {
+  "key": "Character_FJZL_17",
+  "text": "باي تشيليان"
+ },
+ {
+  "key": "Character_FJZL_25",
+  "text": "لص حاد السمع"
+ },
+ {
+  "key": "Character_FJZL_26",
+  "text": "هوا تشيانشياو"
+ },
+ {
+  "key": "Character_FJZL_27",
+  "text": "لص خبير بالدنيا"
+ },
+ {
+  "key": "Character_FJZL_31",
+  "text": "لانلان"
+ },
+ {
+  "key": "Character_FJZL_32",
+  "text": "جيو"
+ },
+ {
+  "key": "Character_FJZL_32_1",
+  "text": "تلميذ بايشان الهادئ"
+ },
+ {
+  "key": "Character_FJZL_33",
+  "text": "مقاتل الميثاق الجريح الثاني"
+ },
+ {
+  "key": "Character_FJZL_34",
+  "text": "مقاتل الميثاق الجريح الثالث"
+ },
+ {
+  "key": "Character_FJZL_35",
+  "text": "مقاتل الميثاق الجريح الأول"
+ },
+ {
+  "key": "Character_FJZL_36",
+  "text": "أول لصوص الحراسة"
+ },
+ {
+  "key": "Character_FJZL_37",
+  "text": "ثاني لصوص الحراسة"
+ },
+ {
+  "key": "Character_FJZL_38",
+  "text": "أول لصوص السطوح"
+ },
+ {
+  "key": "Character_FJZL_39",
+  "text": "ثاني لصوص السطوح"
+ },
+ {
+  "key": "Character_FJZL_40",
+  "text": "تلميذة بايشان المحتضرة"
+ }
+]

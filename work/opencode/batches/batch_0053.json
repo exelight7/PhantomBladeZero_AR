@@ -1,0 +1,178 @@
+[
+ {
+  "key": "Weapon_022",
+  "text": "التوأم القاني"
+ },
+ {
+  "key": "Weapon_023",
+  "text": "مناشير الشيطان"
+ },
+ {
+  "key": "Weapon_024",
+  "text": "الشفرة عديمة الظل"
+ },
+ {
+  "key": "Weapon_026",
+  "text": "فأسا التمزيق المزدوجان"
+ },
+ {
+  "key": "Weapon_027",
+  "text": "الثعبان الأبيض والأفعى القرمزية"
+ },
+ {
+  "key": "Weapon_028",
+  "text": "خطّافا الرحيل"
+ },
+ {
+  "key": "Weapon_029",
+  "text": "الموت السلس"
+ },
+ {
+  "key": "Weapon_030",
+  "text": "سيف المهووس الثمل"
+ },
+ {
+  "key": "Weapon_031",
+  "text": "مروحة السيدة"
+ },
+ {
+  "key": "Weapon_103",
+  "text": "تيانمياو · الصفارية البرية"
+ },
+ {
+  "key": "Weapon_FunctionDes_000_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> كلفة <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق وابل سريع من الضربات القاطعة. هجوم غير قابل للصدّ."
+ },
+ {
+  "key": "Weapon_FunctionDes_001_Re",
+  "text": "يتحوّل سول بصقل الروح إلى <Character_Yellow_Decorator2>الحمرة الجهنمية</>، سلاح الإرث العريق لحصن مو."
+ },
+ {
+  "key": "Weapon_FunctionDes_001_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لتنفيذ النصل الكاسح وتوجيه ضربات سريعة متتابعة إلى العدو. هذا الهجوم غير قابل للصد."
+ },
+ {
+  "key": "Weapon_FunctionDes_002_EX",
+  "text": "إصابة العدو بهجوم تُلحق به <Character_Yellow_Decorator2>نزيفًا</> وتملأ مقياس النزيف لديه. وعند امتلاء المقياس، يحدث <Character_Yellow_Decorator2>فقدان الدم</>. لا تأثير له في الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_FunctionDes_002_Re",
+  "text": "استمرار هجماتك في ملء مقياس النزيف لدى العدو حتى عند صدّها. لا تأثير له في الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_FunctionDes_002_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق سلسلة هجمات متتابعة محمومة، وملء مقياس النزيف بسرعة، والتسبب في <Character_Yellow_Decorator2>فقدان الدم</>. لا تأثير له في الدمى أو الأجساد الذهبية أو الأجساد الطيفية. هذا الهجوم لا يمكن صدّه."
+ },
+ {
+  "key": "Weapon_FunctionDes_003_EX",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك شا-تشي والدخول في حالة <Character_Yellow_Decorator2>[نشيد الصفارية]</> لمدة <dtv id=\"X191\"/> ثانية. أثناء التفعيل، إطلاق موجة نصل تشق الهواء مع كل <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> هجوم، وتكون نافذة كالنداء الصفاري."
+ },
+ {
+  "key": "Weapon_FunctionDes_003_Re",
+  "text": "أثناء تنفيذ سلاسل ضربات <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، استخدام <Character_Yellow_Decorator2>سيف مو تيانمياو</> إلى جانب نصل الصفارية البرية لتنفيذ هجمات بسيفين. أثناء تفعيل <Character_Yellow_Decorator2>[نشيد الصفارية]</>، يطلق سيف تيانمياو موجات نصل أشد قوة."
+ },
+ {
+  "key": "Weapon_FunctionDes_003_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق فن سيف الصفارية البرية ومهاجمة الأعداء الأقوياء بوابل لا ينقطع من ضربات السيف. هذا الهجوم غير قابل للصد."
+ },
+ {
+  "key": "Weapon_FunctionDes_004_EX",
+  "text": "<InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> استهلاك شا-تشي للتبديل بين الأشكال الثلاثة التالية وإطلاق هجمات قوية.\n<Character_Yellow_Decorator2>[الفولاذ] </>يمنح أعلى قيم للهجوم وكسر الدفاع.\n<Character_Yellow_Decorator2>[الفوضى]</> تُمكّن الهجمات من إلحاق <Character_Yellow_Decorator2>اللهب الفوضوي</>، القادر على إشعال الأعداء واستنزاف صحتهم وشا-تشي باستمرار. كما أن أي <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> هجوم ينشئ <Character_Yellow_Decorator2>لهبًا فوضويًا عائمًا</>.\n<Character_Yellow_Decorator2>هجمات [الصقيع] </>تُلحق <Character_Yellow_Decorator2>برودة</>. وبعد تراكم كافٍ، يصبح الأعداء <Character_Yellow_Decorator2>متجمدين</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_004_Re",
+  "text": "استخدام <Character_Yellow_Decorator2> </><Character_Yellow_Decorator2>[التحول الثلاثي]</> لزيادة الضرر المُلحَق ومقدار استنزاف شا-تشي بدرجة كبيرة لمدة <dtv id=\"X462\"/> ثانية."
+ },
+ {
+  "key": "Weapon_FunctionDes_004_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</> <Niagara id=\"Fire\"/> لإطلاق سلسلة من الهجمات بهيئات <Character_Yellow_Decorator2>[الفولاذ]</> و<Character_Yellow_Decorator2>[الصقيع]</> و<Character_Yellow_Decorator2>[الفوضى]</>. هذا الهجوم لا يمكن صدّه."
+ },
+ {
+  "key": "Weapon_FunctionDes_005_EX",
+  "text": "عند تلقي ضرر قاتل، الدخول في <Character_Yellow_Decorator2>[انبعاث السلالة]</>، واستعادة الصحة كاملة وزيادة الهجوم. أثناء نشاطه، استنزاف الصحة باستمرار وتعذر استعادتها مباشرة. ينتهي <Character_Yellow_Decorator2>[انبعاث السلالة]</> عند فقدان <dtv id=\"X031\"/> من الصحة القصوى بسبب هذا الأثر. لا يمكن تفعيل هذا الأثر مجددًا إلا بعد لمس جرس أو العودة إلى الحياة. عند توافر آثار إحياء أخرى في الوقت نفسه، يُفعّل <Character_Yellow_Decorator2>[انبعاث السلالة]</> أولًا."
+ },
+ {
+  "key": "Weapon_FunctionDes_005_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإيقاظ قوة سلالة حصن مو والتحول إلى «روح مو» لمدة <dtv id=\"X032\"/> ثانية. أثناء النشاط، زيادة الهجوم والدفاع بدرجة كبيرة، وإطلاق موجات النصل مع كل هجوم."
+ },
+ {
+  "key": "Weapon_FunctionDes_005_Skill_2",
+  "text": "أثناء <Character_Yellow_Decorator2>[صحوة السلالة]</>، الضغط على <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> وإطلاق عاصفة من موجات النصل المتشابكة. استخدام هذه المهارة ينهي <Character_Yellow_Decorator2>[صحوة السلالة]</>. هجوم لا يمكن صده."
+ },
+ {
+  "key": "Weapon_FunctionDes_007_EX",
+  "text": "<Character_Yellow_Decorator2>خفض</> استهلاك شا-تشي عند صد الهجمات، لكن <Character_Yellow_Decorator2>تعطيل الصدّ المثالي</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_007_Re",
+  "text": "حتى في حالة مكسور الدفاع، يمكن الضغط مطوّلًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للصدّ مقابل خسارة مقدار ضئيل من الصحة."
+ },
+ {
+  "key": "Weapon_FunctionDes_007_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</> <Niagara id=\"Fire\"/> لإطلاق سلسلة من ضربات السيف العظيم القوية والمتأنية، القادرة على دفع الأعداء إلى الوراء من مسافة متوسطة إلى بعيدة. هذا الهجوم لا يمكن صدّه."
+ },
+ {
+  "key": "Weapon_FunctionDes_008_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nتصبح الهجمات بعيدة المدى في حالتي <Character_Yellow_Decorator2>الثمل</> أو <Character_Yellow_Decorator2>السكران</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_008_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن إطلاقها بعد أي ضربة خلال سلسلة الضربات الأساسية. ومع توفر ما يكفي من شا-تشي، تصبح هجومًا معززًا يلحق ضررًا أكبر ويزيد كسر الدفاع. أثناء حالة <Character_Yellow_Decorator2>الثمل</> أو <Character_Yellow_Decorator2>السكران</>، يصبح الهجوم بعيد المدى."
+ },
+ {
+  "key": "Weapon_FunctionDes_008_EX",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشرب باستخدام <Character_Yellow_Decorator2>[الشرب]</>،<Character_Yellow_Decorator2> </>واستعادة شا-تشي والدخول في حالة <Character_Yellow_Decorator2>ثمل</>. تتحول الهجمات إلى هجمات <Character_Yellow_Decorator2>[السيف الطائر]</>، ويتناقص ضررها كلما زادت المسافة. يعود سول إلى حالة <Character_Yellow_Decorator2>صاحٍ</> بعد <dtv id=\"X111\"/> ثانية. \nالاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لزيادة مقدار شا-تشي المستعاد بواسطة <Character_Yellow_Decorator2>[الشرب]</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_008_Re",
+  "text": "إعادة حدادة نصل هوا تشيانشياو المكسور بالكامل. <Character_Yellow_Decorator2>لم يعد ضرره يتناقص مع المسافة</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_008_Skill",
+  "text": "أثناء كون سول <Character_Yellow_Decorator2>صاحيًا</>، الضغط على <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/>، وإطلاق <Character_Yellow_Decorator2>[وابل السيف الطائر]</>، والدخول في حالة <Character_Yellow_Decorator2>ثمل</>. لا يمكن صد هذا الهجوم.\n\nأثناء كون سول <Character_Yellow_Decorator2>ثمل</>، الضغط على <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> والدخول في حالة <Character_Yellow_Decorator2>سكران</> لمدة <dtv id=\"X112\"/> ثانية. وأثناء كون سول <Character_Yellow_Decorator2>سكران</>، تتقيد حركته بشدة ويتعذر استخدام <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للصد. لكن سول يتفادى الهجمات القادمة تلقائيًا، ويرتفع ضرر <Character_Yellow_Decorator2>[السيف الطائر]</> بدرجة كبيرة.\n\nأثناء كون سول <Character_Yellow_Decorator2>سكران</>، الضغط مجددًا على <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق <Character_Yellow_Decorator2>[وابل السيف الطائر المعزز]</> دون استهلاك <Niagara id=\"Fire\"/> والعودة إلى حالة <Character_Yellow_Decorator2>صاحٍ</>. لا يمكن صد هذا الهجوم."
+ },
+ {
+  "key": "Weapon_FunctionDes_009_EX",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبيل إصابة هجوم العدو لتنفيذ حركة استعراضية بالسيف تصرف الهجوم وتعيد توجيه قوته نحو العدو."
+ },
+ {
+  "key": "Weapon_FunctionDes_009_EX_2",
+  "text": "عدم استهلاك شا-تشي في وضعية الدفاع. استبدال المراوغات بخطوات جانبية رشيقة أثناء وضعية الدفاع. إتاحة المراوغات المتتالية عند تنفيذ مراوغة مثالية."
+ },
+ {
+  "key": "Weapon_FunctionDes_009_Re",
+  "text": "الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك شا-تشي بالكامل وإطلاق سلسلة متدفقة من ضربات السيف السريعة. زيادة قوة الهجوم كلما زادت كمية شا-تشي المستهلكة."
+ },
+ {
+  "key": "Weapon_FunctionDes_009_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لأداء رقصة سيوف منسابة. عند أدائها في التوقيت الدقيق <Character_Yellow_Decorator2>قبل لحظة إصابة هجوم العدو</>، تزداد قوة رقصة السيوف. هذا الهجوم لا يمكن صدّه."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nتملأ إصابة الأعداء <Character_Yellow_Decorator2>مقياس الرياح</>. وعند امتلائه، يتكوّن <Character_Yellow_Decorator2>[سيف الرياح]</>، ما يزيد استنزاف شا-تشي الناجم عن <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> الهجمات."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن تنفيذها بعد أي ضربة أثناء سلسلة الضربات الأساسية. ومع توافر شا-تشي كافٍ، تتحول إلى هجوم معزز يسبب ضررًا أكبر وكسرًا للدفاع. تملأ إصابة الأعداء <Character_Yellow_Decorator2>مقياس الرعد</>. وعند امتلائه، يتكوّن <Character_Yellow_Decorator2>[سيف الرعد]</>، ما يتيح <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للهجمات إحداث تراكم للبرق والتسبب بـ<Character_Yellow_Decorator2>شلل</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_EX",
+  "text": "عند تفعيل كلٍّ من<Character_Yellow_Decorator2> [سيف الرياح]</> و<Character_Yellow_Decorator2> [سيف الرعد] </>، الدخول في حالة <Character_Yellow_Decorator2>[بركة بايشان]</> لمدة <dtv id=\"X361\"/> ثانية. أثناء التفعيل، زيادة الهجوم. عند انتهاء الحالة، اختفاء كلٍّ من <Character_Yellow_Decorator2>[سيف الرياح]</> و<Character_Yellow_Decorator2> [سيف الرعد]</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_EX_2",
+  "text": "أثناء تفعيل <Character_Yellow_Decorator2> [بركة بايشان] </>، الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <Character_Yellow_Decorator2>[عاصفة البرق]</> قوية وإنهاء <Character_Yellow_Decorator2>[سيف الرياح]</> و<Character_Yellow_Decorator2> [سيف الرعد]</> قبل أوانهما."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_Re",
+  "text": "<Character_Yellow_Decorator2>[عاصفة البرق] </>تجذب الأعداء وتعبّئ <Character_Yellow_Decorator2>مقياس الرياح </>و<Character_Yellow_Decorator2>مقياس الرعد </>مع كل عدو تصيبه."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق سلسلة شرسة من الضربات القاطعة التي توجهها الرياح ويحدّها الرعد. هذا الهجوم لا يمكن صده."
+ },
+ {
+  "key": "Weapon_FunctionDes_011_EX",
+  "text": "عند التبديل إلى هذا السلاح أو الصدّ المثالي لهجوم وميض أزرق من عدو، استدعاء سيف ضخم <Character_Yellow_Decorator2>[سيف لونغ الذهبي] </> لضرب العدو."
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_DHSD_LGT_LGT_3",
+  "text": "حين قبلت المهمة أول مرة، لم أكن أريد إلا خداعك لتساعدني في العثور على زوجتي!"
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_4",
+  "text": "وقد عثرتَ عليها من أجلي فعلًا..."
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_5",
+  "text": "لم يعد لديّ ما أعيش لأجله!"
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_6",
+  "text": "وحتى لو كان لديّ ما أعيش لأجله... لما استطعت فعل شيء."
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_7",
+  "text": "حين يشيخ المرء، يخاف كل شيء... إلا الموت!"
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_8",
+  "text": "إن أردت مساعدتي، فاستخدم عربتي... وأطِح بالمزيد من أولئك الأوغاد!"
+ },
+ {
+  "key": "Dlg_DHSD_LGT_LGT_9",
+  "text": "سأذهب لأتشاجر مع زوجتي، كما كنا نفعل قديمًا!"
+ },
+ {
+  "key": "Dlg_DHSD_LaoGenTou_Hun_4_1",
+  "text": "البرد هنا قارس. لن تصمد طويلًا في هذا الطقس."
+ },
+ {
+  "key": "Dlg_DHSD_LaoGenTou_Hun_4_2",
+  "text": "خذ قاربي. سيعيدك إلى حيث أتيت."
+ },
+ {
+  "key": "Dlg_DHSD_LaoGenTou_LaoGenTou_4_3",
+  "text": "هاه! بالكاد تستطيع الاعتناء بنفسك، وها أنت تقلق عليّ؟"
+ },
+ {
+  "key": "Dlg_DHSD_LaoGenTou_LaoGenTou_4_4",
+  "text": "لا تقلق. سأستريح هنا قليلًا، ثم أتابع طريقي."
+ },
+ {
+  "key": "Dlg_DHSD_LaoGenTou_LaoGenTou_4_5",
+  "text": "هيا، اذهب الآن!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe1_FengXueDaoKe_5",
+  "text": "قف في طريقي وسأصرعك!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe1_QiuMingDuiZhang_3",
+  "text": "ههه... بأمر الشيخ الأكبر، يُقتل كل متسلل يدخل جبل تمزيق الأرواح المحرّم فور رؤيته!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe1_QiuMingDuiZhang_4",
+  "text": "شارفت على الهلاك، بالكاد تصمد... ستكون هذه القفار المتجمدة قبرك!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe2_FengXueDaoKe_1",
+  "text": "هل رأيت فتى اسمه شياو فنغ؟ عمره نحو اثني عشر عامًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe2_FengXueDaoKe_2",
+  "text": "ملأ تلاميذ الشيخ الأكبر رأس ابني بالأكاذيب، وساقوه إلى طريق الشر بكلامهم المعسول."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe2_FengXueDaoKe_3",
+  "text": "اختفى ابني في ملاذ خفي لفنون الأطياف المحرّمة... لا أعلم إن كان حيًّا أم ميتًا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe2_FengXueDaoKe_7",
+  "text": "اضحك ثانيةً، وسأنتزع لسانك قطعةً قطعةً. ثم أصابعك... ذراعيك... ساقيك... لكنني لن أسمح لك بالموت!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe2_FengXueDaoKe_8",
+  "text": "خذني إلى الشيخ الأكبر! لن يخرج أحد منهم حيًّا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe2_HuanShuShi_4",
+  "text": "هه... إن كان ما تقوله صحيحًا، فلن تستعيده أبدًا. وحتى إن استعدته... فلن تعرفه بعد الآن."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ChuangRuZhe2_HuanShuShi_5",
+  "text": "يسعى إلى ذلك المكان أصحاب الموهبة والطموح... ولبلوغ الحقيقة المطلقة، عليهم أن يتخلوا عن أجسادهم ويتخذوا هيئة جديدة."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZheDiZi_1",
+  "text": "أ-أيها الشيخ الأكبر... لقد اخترق ذلك <Bold>الدخيل</> الختم الثالث بالفعل! إ-إنه يتجه مباشرة إلى تسعة وتسعين!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZheDiZi_3",
+  "text": "لماذا جاء إلى هنا؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZheDiZi_5",
+  "text": "أن أُختار على يدك... وأن أبصر حقيقة هذا العالم وأسلك هذا الطريق... حظ لا يناله المرء إلا بعد حيوات كثيرة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZheDiZi_6",
+  "text": "كان ينبغي لأبيه أن يجثو شاكرًا لك... ومع ذلك يجرؤ على رفض إحسانك؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZheDiZi_8",
+  "text": "لا يستحق أي رحمة، أيها الشيخ الأكبر!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZhe_2",
+  "text": "إنه من خيرة المقاتلين في الشمال. كما توقعت، حتى الحاجز المتجمد لجبل تمزيق الأرواح لا يعني له شيئًا..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZhe_4",
+  "text": "منذ سنوات طويلة، ضممت إلى تلاميذي فتى واعدًا. ولم يخطر لي قط أنه ابن <Bold>الدخيل</>..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZhe_7",
+  "text": "همف. لا يعدو أن يكون همجيًا، عنيدًا لا يُرجى منه صلاح، وفظًا إلى أبعد حد!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK1_ZhiGaoZhe_9",
+  "text": "نصبت الفخ بالفعل! وما علينا الآن إلا الانتظار."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_1",
+  "text": "ثلاث سنوات من البحث... وكل الطرق تقود إلى هذا الجبل."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_2",
+  "text": "هذه المنطقة دافئة ورطبة... لا يُفترض أن يتساقط فيها الثلج."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_3",
+  "text": "همم... هذه العاصفة الثلجية ليست طبيعية..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_4",
+  "text": "انبعثت من شا-تشي الذي خلّفه أولئك الناس في جرف تمزيق الأرواح... بعدما أفقدهم ذلك الجرس صوابهم، فراحوا يذبح بعضهم بعضًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_5",
+  "text": "إذًا، هنا يختبئ الشيخ الأكبر وأتباعه... ويمارسون فنونهم الدنيئة."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_6",
+  "text": "شياو فنغ... اصمد قليلًا بعد."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_7",
+  "text": "سأقلب هذا المكان رأسًا على عقب... وأقتلع الشيخ الأكبر وطائفته من جذورهم!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_FengXueDaoKe_4",
+  "text": "من يخدم الشر لا يستحق الرحمة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_FengXueDaoKe_5",
+  "text": "لا ناجين هنا... لكن أين شياو فنغ والشيخ الأكبر؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_FengXueDaoKe_7",
+  "text": "شياو فنغ؟ هل هذا أنت؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ShaoNian_6",
+  "text": "أبي! أبي!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ZhiGaoZheDiZi_1",
+  "text": "دخل المبارز! أيها التلاميذ، أقيموا التشكيل!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ZhiGaoZheDiZi_2",
+  "text": "أيها البطل، أيها البطل، أرجوك! اتركني حيًا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ZhiGaoZheDiZi_3",
+  "text": "لقد خدعنا... الشيخ الأكبر، ذلك الوحش العجوز!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_1",
+  "text": "شياو فنغ!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_4",
+  "text": "هذا ليس شياو فنغ. لن تخدعني حيل رخيصة كهذه."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_5",
+  "text": "لكن كل خيط يقودني إلى هنا... إن لم أبتلع الطعم، فقد لا أعثر على ابني أبدًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_6",
+  "text": "حتى لو كان فخًا... فليكن."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_7",
+  "text": "ثمّة من يحرّك الخيوط. إن حطمت الوهم، بقي الأمل."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_ShaoNian_2",
+  "text": "أبي! من هنا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_ShaoNian_3",
+  "text": "تعال! من هنا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_ShaoNian_8",
+  "text": "أبي! سأقودك إلى الشيخ الأكبر!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_1",
+  "text": "ماذا؟ شياو فنغ!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_2",
+  "text": "اللعنة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_3",
+  "text": "وجدته."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_4",
+  "text": "لكن... لم تكن سوى..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_5",
+  "text": "أشلاء متجمدة... مبعثرة في الثلج..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_6",
+  "text": "لكنني عرفت. عرفت أنه ابني."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_7",
+  "text": "آه... اللعنة عليك! آآآآه!!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_8",
+  "text": "سأقضي على كل واحد منكم!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_ZhiGaoZhe_9",
+  "text": "أرسلوا مزيدًا من التلاميذ صغار الرتبة. دعوه يقتل. فليقتل كما يحلو له!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_ZhiGaoZhe_10",
+  "text": "هه... ما إن يستولي عليه الجنون حتى يصير الوعاء الأمثل لتسعة وتسعين!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_3",
+  "text": "ذلك <Bold>الرجل</> أفزعني حقًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_4",
+  "text": "كاد يفسد خطتنا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_5",
+  "text": "هه... يبدو أن صديقنا الجديد، حاكم الظلال تسو، يملك خطة لا تخيب."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_7",
+  "text": "ههه... أجل... لكنني أعرف كيف أتعامل مع رجل مثله."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_10",
+  "text": "وبفضل براعته القتالية، لن يستطيع أحد المساس بتسعة وتسعين!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_1",
+  "text": "أصبح تسعة وتسعون في قبضتنا. وقد تطلّب ذلك جهدًا كبيرًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_2",
+  "text": "وفي النهاية، حبسته داخل ذلك <Bold>الدخيل</> المتغطرس. وهو الآن في أمان تام."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_6",
+  "text": "سمعت أنه جرّب هذه الحيلة بعينها من قبل... على أخيه في العهد؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_8",
+  "text": "مزجتُ فنّ الدمى الظلية الذي تتقنه بالارتقاء الكامل... ثم حبستُه في تسعة وتسعين."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_9",
+  "text": "حتى الآلهة لن تستطيع الإفلات."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing1_ZhiGaoZheDiZi1_1",
+  "text": "أيها الشيخ الأكبر... اكتملت أعمال التنبؤ. أوشكت ساعة فتح الصدع!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing1_ZhiGaoZheDiZi2_2",
+  "text": "لكن كتاب الآفة المحرّم يحذّر من أن فتح الصدع سيُفني كل حياة... وستُبتلع الأشياء كلها!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing1_ZhiGaoZheDiZi4_5",
+  "text": "منذ قرون لا تُحصى، والآفة لا تكف عن الالتهام..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing1_ZhiGaoZheDiZi4_6",
+  "text": "قد يحدث ذلك بعد دهور، أو في اللحظة التالية... عاجلًا أم آجلًا، ستنتشر الآفة في عالم اليقظة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing1_ZhiGaoZheDiZi4_7",
+  "text": "لكن إن فتحنا الصدع من أجل السيدة... فستحمينا حتمًا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing2_ZhiGaoZheDiZi5_1",
+  "text": "هاهاها! أخيرًا... لقد جاء اليوم!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing2_ZhiGaoZheDiZi5_2",
+  "text": "هذه القوة قادرة على إبادة عالم الأطياف... والنجوم... والخلق كله!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing2_ZhiGaoZheDiZi5_3",
+  "text": "حتى العالم الخفي ليس إلا الفراغ الشاسع الذي خلّفته الآفة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing2_ZhiGaoZheDiZi5_4",
+  "text": "حين يذوب كل شيء في العدم... يا له من مشهد بديع!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing3_ZhiGaoZheDiZi6_1",
+  "text": "هه... هل تذكر كيف عاملني الميثاق؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing3_ZhiGaoZheDiZi6_2",
+  "text": "والآن، سيذوقون هم اليأس أخيرًا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing3_ZhiGaoZheDiZi6_3",
+  "text": "يجب أن نستقدم السيدة إلى عالم اليقظة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_ZhuoJing3_ZhiGaoZheDiZi6_4",
+  "text": "يا سيدتي... أنزلي الآفة بهذا العالم المتداعي! واغسلي عنه أكاذيبه وجشعه وجهله!"
+ },
+ {
+  "key": "Dlg_DHSD_MFZF_HanSui_HanSui_4",
+  "text": "أيها المعلم، يا أقدس الناس وأبرّهم وأعلاهم مقامًا... هانسوي يطيع!"
+ },
+ {
+  "key": "Dlg_DHSD_MFZF_HanSui_ZhiGaoZhe_1",
+  "text": "أيها المريد هانسوي! أنصت إلى أمري!"
+ },
+ {
+  "key": "Dlg_DHSD_PiaoFu_DuiZhao_Hun_1",
+  "text": "هذا الوهم... لعلّه كان انعكاسًا لهذا المكان في العالم الخفي..."
+ },
+ {
+  "key": "Dlg_DHSD_PiaoFu_RaoLuan_Hun_1",
+  "text": "أفّ... هذا يعيق حركتي."
+ },
+ {
+  "key": "Dlg_DHSD_PiaoFu_YiXiang_Hun_1",
+  "text": "جثث طافية... هل هذا ضرب من الوهم؟"
+ },
+ {
+  "key": "Dlg_DHSD_QiuMingZuZi_Hun_1",
+  "text": "أن تدفع طائفة ربط الخيوط التنظيم إلى هذا الحد..."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_2",
+  "text": "شيفو... شيفو!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_3",
+  "text": "ماذا... ماذا فعلتُ؟"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_4",
+  "text": "شيفو! شيفو!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_5",
+  "text": "تسو شانغ؟ العم تشونغ؟"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_MuTianMiao_1",
+  "text": "سول..."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZhongShu_ZhongShu_1",
+  "text": "لماذا تدعه يذهب؟ مهارتكما متقاربة. لو خضتما نزالًا عادلًا..."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZhongShu_ZuoShang_2",
+  "text": "لقد قتل شيفو... أريد أن أعرف: أيهما أقوى، لونغ أم مو."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZhongShu_ZuoShang_3",
+  "text": "إن قتلته الآن، فلن أعرف الجواب أبدًا."
+ }
+]

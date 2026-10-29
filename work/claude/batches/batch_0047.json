@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_8",
+  "text": "ظنّوا أنهم لن يحتاجوا إلى دواء كهذا أبدًا،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing0_ShuoShuRen_9",
+  "text": "لكن كارثةً مباغتة حلّت بهم."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_DiZiALL_13",
+  "text": "يا معلم!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_DiZiALL_16",
+  "text": "لندافع عن طائفتنا حتى الموت!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_LengTu_15",
+  "text": "يا معلم! لقد بلغوا سفح الجبل!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_LengTu_17",
+  "text": "رجاءً يا جماعة، لا تتسرّعوا. لديّ خطة."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_LengTu_17_1",
+  "text": "إن كان ثأر سيّد الشر منك، فلمَ لا نخدعه..."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_LengTu_19",
+  "text": "نتظاهر بموتك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_LengTu_22",
+  "text": "سمّ السكون الذي لدى الأخ الأكبر أفعى يسدّ القنوات الحيوية لوقت قصير، فيجعل من يتناوله يبدو ميتًا."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_LengTu_22_1",
+  "text": "إن تناولته أمام سيّد الشر، فسيخدعه على الأرجح."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_LengTu_24",
+  "text": "وما وجه الحماقة فيه؟ هل تفضّل أن تشاهد سيّد الشر يذبحنا جميعًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_QiQiaoLangJun_20",
+  "text": "لكن..."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_QiQiaoLangJun_23",
+  "text": "لا أظن أن هذا حكيم..."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_QiQiaoLangJun_25",
+  "text": "ما الذي يجعلك تقول ذلك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_ShuoShuRen_6",
+  "text": "تجتاح النصال اللامعة سماءً تعصف بها الرياح،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_ShuoShuRen_7",
+  "text": "وقد طوّق سيّد الشر طائفة الحرير بجيشه."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_ShuoShuRen_8",
+  "text": "نفدت حيل المعلم سي وويا،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_ShuoShuRen_9",
+  "text": "فجمع تلاميذه ليتدبّروا سبيلًا للمواجهة."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_SiWuYa_10",
+  "text": "العاصفة تقترب، والرياح تنهض."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_SiWuYa_11",
+  "text": "اليوم تنتهي أعوام الثأر."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_SiWuYa_12",
+  "text": "أيها التلاميذ."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_SiWuYa_14",
+  "text": "جاء سيّد الشر برجاله ليصفّي حسابًا قديمًا بيننا. ماذا نفعل؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_SiWuYa_18",
+  "text": "كيف؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_SiWuYa_21",
+  "text": "ما اقتراحك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_SiWuYa_26",
+  "text": "كفى. سنعمل بخطة لنغ تو. أفعى، أحضر الدواء."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_XieZhu_1",
+  "text": "ظلّ هذا الثأر قائمًا عقودًا،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_XieZhu_2",
+  "text": "واليوم حانت ساعة الانتقام."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_XieZhu_3",
+  "text": "إن ظلّ سي وويا حيًّا،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_XieZhu_4",
+  "text": "فلن يبقى لطائفة الحرير أثر."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing1_XieZhu_5",
+  "text": "سي وويا، أيها الوغد! جئت لأثأر!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_DiZiALL_12",
+  "text": "يا معلم!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ShuoShuRen_1",
+  "text": "عرض لنغ تو على معلمه خطةً،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ShuoShuRen_2",
+  "text": "تقوم على خداع الجميع بسمّ السكون."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ShuoShuRen_3",
+  "text": "وامتلأ قلب أفعى بالشك،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ShuoShuRen_4",
+  "text": "آملًا أن يفتح لهم التظاهر بالموت سبيلًا للنجاة."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_SiWuYa_6",
+  "text": "لا سبيل آخر. لا ينهي هذا الثأر إلا الموت!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ZieZhu_5",
+  "text": "سي وويا، هل حسمت أمرك؟ هل تقاتل أم تستسلم؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ZieZhu_7",
+  "text": "عدوي ملقى في التراب،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ZieZhu_8",
+  "text": "وأضحك إذ أرى النصر يلوح."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ZieZhu_9",
+  "text": "دعوني أتبين الآن الحقيقة من الزيف..."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ZieZhu_10",
+  "text": "لقد فارقت روحه جسده، ودُفن حقده أخيرًا!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing2_ZieZhu_11",
+  "text": "انسحبوا!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_DiZiALL_11",
+  "text": "يا معلم!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_DiZiJia_9",
+  "text": "يا معلم... إ-إنه..."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_DiZiJia_9_1",
+  "text": "جسده بارد بالفعل!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_DiZiYi_10",
+  "text": "هل مات حقًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_LengTu_16",
+  "text": "آه!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_LengTu_17",
+  "text": "قلب أفعى من حجر!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_LengTu_18",
+  "text": "بدّل الدواء ليستولي على الطائفة!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_LengTu_19",
+  "text": "لقد استبدل سمّ السكون بسمّ الصمت!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_LengTu_20",
+  "text": "خان معلمه ونبذ طائفته. ليس بتلميذٍ وفيّ!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_LengTu_21",
+  "text": "لا تدعوا هذا الخائن يهرب!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_5",
+  "text": "ارتفع القمر في الهزيع الثالث من الليل،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_6",
+  "text": "فلمَ لم يفتح معلمي عينيه بعد؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_7",
+  "text": "لقد زال أثر سمّ السكون منذ زمن،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_8",
+  "text": "لكن قلبي لا يهدأ حتى يطلع الصباح."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_12",
+  "text": "أذهلت كلماته الجميع،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_13",
+  "text": "هل يمكن أن يكون معلمي قد مات حقًا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_14",
+  "text": "أنا أعددت الدواء، وأنا أحضرته إلى هنا،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_15",
+  "text": "ومع ذلك لن يبرّئني حتى النهر الأصفر من هذه التهمة."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_15_1",
+  "text": "يا معلم!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_QiQiaoLangJun_22",
+  "text": "أنا بريء!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_ShuoShuRen_1",
+  "text": "تناول سي وويا سمّ السكون ليتظاهر بالموت،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_ShuoShuRen_2",
+  "text": "فخدع السمّ سيّد الشر."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_ShuoShuRen_3",
+  "text": "لكن أحدهم بدّل الدواء خفيةً،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing3_ShuoShuRen_4",
+  "text": "وتبددت خطة الهرب كأنها حلم."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_Regina_5",
+  "text": "لا أحد ينجو من عذاب هذا العالم."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_Regina_6",
+  "text": "لا ترى الحقيقة لأنك عالق فيها."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_Regina_7",
+  "text": "إن أردت عبور بحر العذاب هذا،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_Regina_8",
+  "text": "فلن أخرجك منه إلا أنا."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_Regina_9",
+  "text": "يا أفعى السموم السبعة، هل تتبعني؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_1",
+  "text": "فقد سي وويا حياته،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_2",
+  "text": "وعانى أفعى العقاب والمحن."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_3",
+  "text": "أوهنت تسعمئة يومٍ عظامه وروحه،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_4",
+  "text": "ولا يدري متى يأتي يوم حريته."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_4_1",
+  "text": "عالقًا في عالم الأطياف، تاه فكره،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_4_2",
+  "text": "وأوشكت أرواحه الثلاث على التمزق، فيقاوم ليبقى."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_4_3",
+  "text": "تتجمد أرواحه السبع من شدة الألم،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing4_ShuoShuRen_4_4",
+  "text": "فمتى ينقضي هذا العذاب الذي لا ينتهي؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_1",
+  "text": "الأخ الأكبر."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_3",
+  "text": "جئت لأزهق روحك!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_4",
+  "text": "ها! لقد خدعتك تمامًا."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_5",
+  "text": "هذه هي المكيدة التي دبّرتها منذ البداية."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_6",
+  "text": "بدّلت السمّ سرًا قبل أن أعطيه لمعلمي."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_7",
+  "text": "وفي خضم الفوضى، كنت أنا من أزهق روحه."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_8",
+  "text": "حرّضتهم على القبض عليك،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_9",
+  "text": "ثم ألقيت عليك التهمة."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_10",
+  "text": "سأخبرك اليوم بكل شيء."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_11",
+  "text": "لا تلمني على قسوتي."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_LengTu_12",
+  "text": "يا أخي الأكبر، سامحني!"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_QiQiaoLangJun_2",
+  "text": "أخي الأصغر، هل أتيت لتطلق سراحي؟"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_Regina_13",
+  "text": "حين يرتفع الألم كالموج، فاجعل قلبك سفينتك."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_Regina_14",
+  "text": "ردّد معي «تعويذة التطهير»."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_Regina_15",
+  "text": "ذات يوم، حين تتحطم هذه القيود،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_Regina_16",
+  "text": "ستتمكن من وضع حدّ للثارات القديمة وإنقاذ العالم."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_ShuoShuRen_1",
+  "text": "تعصف رياح التغيير بالوولين."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_ShuoShuRen_2",
+  "text": "وتوشك طائفة الحرير على الانهيار."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_ShuoShuRen_3",
+  "text": "ثلاثة أعوامٍ قضاها خلف جدران السجن،"
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing5_ShuoShuRen_4",
+  "text": "لا يعلم شيئًا عمّا يدور في الخارج."
+ },
+ {
+  "key": "Dlg_XiMeng_PiYing6_QiQiaoLangJu_5",
+  "text": "منذ اليوم، حياتي لمنغ هوا، سيدة الحجاب."
+ }
+]

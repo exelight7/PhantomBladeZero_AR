@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_SkillWidget_07",
+  "text": "اندفاع هوائي"
+ },
+ {
+  "key": "UI_SkillWidget_08",
+  "text": "عقدة قصوى"
+ },
+ {
+  "key": "UI_SkillWidget_09",
+  "text": "عنصر نائب لعقدة كبرى"
+ },
+ {
+  "key": "UI_SkillWidget_10",
+  "text": "<red>لا يمكن الفتح</>"
+ },
+ {
+  "key": "UI_SkillWidget_11",
+  "text": "تدريب القدرات"
+ },
+ {
+  "key": "UI_SkillWidget_12",
+  "text": "مفتوح"
+ },
+ {
+  "key": "UI_SkillWidget_13",
+  "text": "غبار الوعي"
+ },
+ {
+  "key": "UI_SkillWidget_14",
+  "text": "تدريب المهارات"
+ },
+ {
+  "key": "UI_SkillWidget_15",
+  "text": "لم يُفتح بعد"
+ },
+ {
+  "key": "UI_SkillWidget_16",
+  "text": "لا يمكن إعادة تعيين هذه القدرة؛ فهي لازمة لقدرة أخرى مفتوحة."
+ },
+ {
+  "key": "UI_SkillWidget_17",
+  "text": "لا يمكن إعادة تعيين هذه المهارة؛ فهي لازمة لمهارة أخرى مفتوحة."
+ },
+ {
+  "key": "UI_SkillWidget_18",
+  "text": "لا يمكن إعادة تعيين هذه القدرة؛ فهي لازمة لمهارة مفتوحة."
+ },
+ {
+  "key": "UI_SkillWidget_19",
+  "text": "المستوى المطلوب لتدريب القدرات"
+ },
+ {
+  "key": "UI_SkillWidget_20",
+  "text": "إعادة تعيين المهارات"
+ },
+ {
+  "key": "UI_SkillWidget_21",
+  "text": "إعادة ضبط الكل"
+ },
+ {
+  "key": "UI_StartMenu_01",
+  "text": "لعبة جديدة"
+ },
+ {
+  "key": "UI_StartMenu_02",
+  "text": "متابعة"
+ },
+ {
+  "key": "UI_StartMenu_03",
+  "text": "الخروج من اللعبة"
+ },
+ {
+  "key": "UI_StartMenu_04",
+  "text": "اللغات"
+ },
+ {
+  "key": "UI_StartMenu_05",
+  "text": "الضغط على أي زر للمتابعة"
+ },
+ {
+  "key": "UI_StartMenu_06",
+  "text": "هذا العمل قيد التطوير، ولا يمثّل بالضرورة الإصدار النهائي."
+ },
+ {
+  "key": "UI_StartMenu_07",
+  "text": "©2026 Phantom World Limited. جميع الحقوق محفوظة."
+ },
+ {
+  "key": "UI_StartMenu_09",
+  "text": "تحميل لعبة"
+ },
+ {
+  "key": "UI_StartMenu_10",
+  "text": "لا يمكن فتح مستوى الصعوبة هذا إلا أثناء اللعب، بعد الموت عددًا معينًا من المرات."
+ },
+ {
+  "key": "UI_StartMenu_11",
+  "text": "يتاح مستوى صعوبة سائر الجحيم في لعبة جديدة+ بعد إكمال اللعبة مرة واحدة على مستوى الرحّالة أو كاسر الدروب، باستثناء نهاية الموت الفوري."
+ },
+ {
+  "key": "UI_StartMenu_12",
+  "text": "لا يمكن تغيير مستوى الصعوبة هذا بعد اختياره طوال ما تبقّى من اللعبة."
+ },
+ {
+  "key": "UI_StartMenu_13",
+  "text": "لا يمكن تغيير مستوى الصعوبة هذا بعد بدء اللعبة. لا يمكن اختيار سائر الجحيم إلا عند بدء لعبة جديدة."
+ },
+ {
+  "key": "UI_StartMenu_14",
+  "text": "اختيار مستوى الصعوبة"
+ },
+ {
+  "key": "UI_StartMenu_15",
+  "text": "إشعار الصحة والسلامة"
+ },
+ {
+  "key": "UI_StartMenu_16",
+  "text": "هذه اللعبة مخصصة للاعبين بعمر 18 عامًا فأكثر."
+ },
+ {
+  "key": "UI_Symbol_01",
+  "text": "("
+ },
+ {
+  "key": "UI_Symbol_02",
+  "text": ")"
+ },
+ {
+  "key": "UI_Symbol_03",
+  "text": ":"
+ },
+ {
+  "key": "UI_SystemWidget_01",
+  "text": "الخريطة"
+ },
+ {
+  "key": "UI_SystemWidget_02",
+  "text": "الشخصية"
+ },
+ {
+  "key": "UI_SystemWidget_03",
+  "text": "المخزون"
+ },
+ {
+  "key": "UI_SystemWidget_04",
+  "text": "الأرشيف"
+ },
+ {
+  "key": "UI_SystemWidget_05",
+  "text": "النظام"
+ },
+ {
+  "key": "UI_TakePhoto_01",
+  "text": "مجال الرؤية"
+ },
+ {
+  "key": "UI_TakePhoto_02",
+  "text": "عمق المجال"
+ },
+ {
+  "key": "UI_TakePhoto_03",
+  "text": "المسافة"
+ },
+ {
+  "key": "UI_TakePhoto_04",
+  "text": "الشدة"
+ },
+ {
+  "key": "UI_TakePhoto_05",
+  "text": "السطوع"
+ },
+ {
+  "key": "UI_TakePhoto_06",
+  "text": "المعالجة اللاحقة"
+ },
+ {
+  "key": "UI_TakePhoto_07",
+  "text": "إعادة ضبط جميع الإعدادات"
+ },
+ {
+  "key": "UI_TakePhoto_08",
+  "text": "إعادة ضبط الكاميرا"
+ },
+ {
+  "key": "UI_TakePhoto_09",
+  "text": "إظهار/إخفاء القائمة"
+ },
+ {
+  "key": "UI_TakePhoto_10",
+  "text": "إظهار/إخفاء الشبكة"
+ },
+ {
+  "key": "UI_Tip_ShaChiWeapon_01",
+  "text": "يلزم وجود 【{0}】 في المخزون."
+ },
+ {
+  "key": "UI_Tip_ShaChiWeapon_02",
+  "text": "لم يتم الحصول على 【{0}】."
+ },
+ {
+  "key": "UI_Tutorial_02",
+  "text": "الضغط على <UIRowName id=\"RightShoulder\" height=\"32\" RightPadding=\"10\" LeftPadding=\"10\"/> للتبديل بين المهامّ والأغراض والملاحظات."
+ },
+ {
+  "key": "UI_Tutorial_03",
+  "text": "يمكن تجهيز سلاحين كحد أقصى. الضغط على <InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للتبديل بين السلاحين."
+ },
+ {
+  "key": "UI_Tutorial_04",
+  "text": "يستعيد تبديل السلاح جزءًا من شا-تشي، لكن له فترة انتظار قصيرة."
+ },
+ {
+  "key": "UI_Tutotrial_01",
+  "text": "+"
+ },
+ {
+  "key": "UI_Upgrade_01",
+  "text": "عملات"
+ },
+ {
+  "key": "UI_Upgrade_02",
+  "text": "الضغط مطوّلًا للترقية"
+ },
+ {
+  "key": "UI_Upgrade_03",
+  "text": "<grey>مفتوح</>"
+ },
+ {
+  "key": "UI_Upgrade_04",
+  "text": "<red>الترقية في عالم السراب</>"
+ },
+ {
+  "key": "UI_Upgrade_05",
+  "text": "<red>الموارد غير كافية</>"
+ },
+ {
+  "key": "UI_Upgrade_06",
+  "text": "<red>فتح المستوى السابق أولًا</>"
+ },
+ {
+  "key": "UI_Upgrade_07",
+  "text": "تم بلوغ المستوى الأقصى"
+ },
+ {
+  "key": "UI_Upgrade_08",
+  "text": "عنصر نائب لوصف صقل الروح"
+ },
+ {
+  "key": "UI_Upgrade_09",
+  "text": "<CharacterButton_Red>متطلبات صقل الروح غير مستوفاة.</>"
+ },
+ {
+  "key": "UI_Upgrade_10",
+  "text": "<CharacterButton_Red>متطلبات الترقية غير مستوفاة.</>"
+ },
+ {
+  "key": "UI_Upgrade_11",
+  "text": "<CharacterButton_Red>متطلبات الصقل غير مستوفاة.</>"
+ },
+ {
+  "key": "UI_Upgrade_12",
+  "text": "استهلاك الأغراض أعلاه للترقية؟"
+ },
+ {
+  "key": "UI_Upgrade_13",
+  "text": "استهلاك الأغراض أعلاه لصقل الروح؟"
+ },
+ {
+  "key": "UI_Upgrade_15",
+  "text": "<CharacterButton_Yellow>تم بلوغ المستوى الأقصى</>"
+ },
+ {
+  "key": "UI_Upgrade_16",
+  "text": "<CharacterButton_Purple>اكتمل صقل الروح</>"
+ },
+ {
+  "key": "UI_Upgrade_17",
+  "text": "<CharacterButton_Yellow>تم بلوغ الحد الأقصى للصقل</>"
+ },
+ {
+  "key": "UI_Upgrade_18",
+  "text": "<img id=\"JHSY_Y\" width=\"40\"/> <CharacterButton_Yellow>متاح فقط بعد دخول عالم السراب</>"
+ },
+ {
+  "key": "UI_Upgrade_19",
+  "text": "نصّ مؤقت لوصف ترقية سلاح"
+ },
+ {
+  "key": "UI_Upgrade_20",
+  "text": "فرن الغبار"
+ },
+ {
+  "key": "UI_Upgrade_21",
+  "text": "اختيار الموادّ لإعادة تدويرها."
+ },
+ {
+  "key": "UI_Upgrade_22",
+  "text": "إعادة تدوير الأغراض المحددة؟"
+ },
+ {
+  "key": "UI_Upgrade_23",
+  "text": "متجر"
+ },
+ {
+  "key": "UI_Upgrade_24",
+  "text": "اختيار غرض للشراء."
+ },
+ {
+  "key": "UI_Upgrade_25",
+  "text": "اختيار غرض للشراء."
+ },
+ {
+  "key": "UI_Upgrade_26",
+  "text": "موادّ غير كافية"
+ },
+ {
+  "key": "UI_Upgrade_27",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للترقية <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_28",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> لصقل الروح <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_29",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للصقل <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_30",
+  "text": "المملوك"
+ },
+ {
+  "key": "UI_Upgrade_31",
+  "text": "الكلفة"
+ },
+ {
+  "key": "UI_Upgrade_32",
+  "text": "<img id=\"JHSY_P\" width=\"40\"/> <CharacterButton_Purple>متاح فقط في عالم السراب</>"
+ },
+ {
+  "key": "UI_Upgrade_33",
+  "text": "عرض المعاينة"
+ },
+ {
+  "key": "UI_Upgrade_34",
+  "text": "إغلاق المعاينة"
+ },
+ {
+  "key": "UI_Upgrade_35",
+  "text": "<img id=\"Dust_Red\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Red>{0}</> غير كافٍ"
+ },
+ {
+  "key": "UI_Upgrade_36",
+  "text": "ترقية <img id=\"Dust_Grey\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Grey>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_37",
+  "text": "صقل <img id=\"Dust_Grey\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Grey>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_38",
+  "text": "صقل الروح <img id=\"Dust_Grey\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Grey>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_39",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للتراجع عن <img id=\"Return_Main_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}/{1}</>"
+ },
+ {
+  "key": "UI_Upgrade_40",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للتراجع عن <img id=\"Return_ShaChi_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}/{1}</>"
+ },
+ {
+  "key": "UI_Upgrade_41",
+  "text": "<img id=\"Return_Main_Red\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Red>{0}/{1}</> غير كافٍ"
+ },
+ {
+  "key": "UI_Upgrade_42",
+  "text": "<img id=\"Return_ShaChi_Red\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Red>{0}/{1}</> غير كافٍ"
+ },
+ {
+  "key": "UI_Upgrade_43",
+  "text": "إعادة المستوى إلى مستواه الابتدائي، واسترداد جميع المواد المستخدمة."
+ },
+ {
+  "key": "UI_Upgrade_44",
+  "text": "الاحتفاظ بمهارات صقل الروح."
+ },
+ {
+  "key": "UI_Upgrade_45",
+  "text": "تراجع"
+ },
+ {
+  "key": "UI_Upgrade_46",
+  "text": "استرداد"
+ },
+ {
+  "key": "UI_Upgrade_48",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للتراجع"
+ }
+]
