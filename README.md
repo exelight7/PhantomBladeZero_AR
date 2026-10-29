@@ -1,3 +1,4 @@
+<img width="648" height="646" alt="cat nigga" src="https://github.com/user-attachments/assets/636f220f-b08c-4a2a-9ca3-e4b50758fc87" />
 # PhantomBladeZero_AR
 
 أدوات وتصحيحات لتحسين تعريب Phantom Blade Zero (مودّ 3BADIOH).
