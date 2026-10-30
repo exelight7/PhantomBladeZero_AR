@@ -8,9 +8,16 @@ import sys
 import zipfile
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from pbzlib import MOD_NAME, OUT_PAK, SRC_PAK  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[1]
 MODS = Path("ProjectPBZ/Content/Paks/~mods")
-NAMES = ("3BADIOH_P.pak", "3BADIOH_P.utoc", "3BADIOH_P.ucas", "ZZZ_3BADIOH_Fix_P.pak")
+NAMES = (f"{MOD_NAME}.pak", f"{MOD_NAME}.utoc", f"{MOD_NAME}.ucas")
+# المصدر: الحزمة المبنية للملف الأول، وحاويتا الواجهة والخطوط من المرجع دون تعديل بايت واحد.
+SOURCES = {NAMES[0]: OUT_PAK, NAMES[1]: SRC_PAK.with_suffix(".utoc"), NAMES[2]: SRC_PAK.with_suffix(".ucas")}
+# أسماء الإصدارات السابقة؛ تُذكر هنا لتعليمات حذفها عند الترقية فقط.
+RETIRED = ("3BADIOH_P.pak", "3BADIOH_P.utoc", "3BADIOH_P.ucas", "ZZZ_3BADIOH_Fix_P.pak")
 
 
 def digest(path):
@@ -37,7 +44,7 @@ def main():
     payload.mkdir(exist_ok=True)
     manifest = {"version": version, "files": []}
     for name in NAMES:
-        source = ROOT / ("release" if name.startswith("ZZZ") else "original_mod") / MODS / name
+        source = SOURCES[name]
         target = payload / name
         shutil.copyfile(source, target)
         manifest["files"].append({"name": name, "size": target.stat().st_size, "sha256": digest(target)})
@@ -45,16 +52,17 @@ def main():
     instructions = f"""Phantom Blade Zero — التعريب العربي {version}
 تحسينات exelight7
 
-التثبيت اليدوي (يشمل التعريب الأساسي والتصحيحات):
+التثبيت اليدوي (حزمة واحدة كاملة من ثلاثة ملفات):
 1. أغلق اللعبة، ثم فك ضغط هذه الحزمة.
 2. من Steam: اضغط على اللعبة بالزر الأيمن > إدارة > تصفّح الملفات المحلية.
-3. إذا كان لديك تعريب سابق، احتفظ بنسخة احتياطية من ملفاته الأربعة قبل الاستبدال.
+3. احذف أي تعريب عربي سابق من ProjectPBZ/Content/Paks/~mods (احتفظ بنسخة احتياطية إن شئت)، فلا يجتمع تعريبان معًا. الأسماء القديمة لهذا المشروع:
+{chr(10).join(RETIRED)}
 4. انسخ مجلد ProjectPBZ من هذه الحزمة إلى مجلد اللعبة ووافق على دمج المجلدات.
 5. شغّل اللعبة. من شاشة البداية: Settings > Text Language > Français.
    الفرنسية هي خانة التعريب العربي. يظهر «تعريب exelight7» بجانب الإعدادات.
 
 إزالة التثبيت اليدوي:
-من ProjectPBZ/Content/Paks/~mods احذف الملفات الأربعة التالية فقط، أو استعد نسختك الاحتياطية:
+من ProjectPBZ/Content/Paks/~mods احذف الملفات الثلاثة التالية فقط، أو استعد نسختك الاحتياطية:
 {chr(10).join(NAMES)}
 لا تحذف مجلد ~mods أو ملفات أي مود آخر.
 

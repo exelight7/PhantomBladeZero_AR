@@ -1,11 +1,11 @@
 # دليل الملفات — من أين أبدأ؟
 
-مستودع لتحسين تعريب **Phantom Blade Zero** (مودّ 3BADIOH): تصحيح الإملاء والصياغة والاتساق في 11,135 نصًا.
+مستودع لتحسين تعريب **Phantom Blade Zero** وإصداره باسم exelight7: تصحيح الإملاء والصياغة والاتساق في 11,135 نصًا.
 
 ## أنا ... ماذا أفعل؟
 | أنا | افعل |
 |---|---|
-| **لاعب** أريد التعريب فقط | ثبّت المودّ الأصلي من `original_mod/` (تعليمات صاحبه في `original_mod/README_3BADIOH.txt`)، ثم انسخ `release/ProjectPBZ/Content/Paks/~mods/ZZZ_3BADIOH_Fix_P.pak` إلى المجلد نفسه في اللعبة. للتراجع احذفه. |
+| **لاعب** أريد التعريب فقط | حمّل `manual.zip` من صفحة الإصدارات وانسخ مجلد `ProjectPBZ` إلى مجلد اللعبة (ثلاثة ملفات: `exelight7_P.pak` و`.utoc` و`.ucas`). احذف قبلها أي تعريب سابق. للتراجع احذف الملفات الثلاثة. |
 | **مراجع** أريد المساهمة بالمراجعة | اقرأ `tasks/COMMON_RULES.md` ثم ملف مهمتك في `tasks/`. اعمل داخل `work/<اسمك>/` فقط. |
 | **مطوّر** أريد إعادة البناء | `python tools/apply_patches.py` يدمج كل التصحيحات ويبني الـ pak في `release/`. |
 
@@ -18,9 +18,9 @@ PhantomBladeZero_AR/
 ├── GUIDE.md                هذا الدليل
 ├── LICENSE                 MIT
 │
-├── original_mod/           المودّ الأصلي كما نُزّل (للمقارنة والتراجع). لا يُعدَّل
+├── original_mod/           المودّ الأساسي كما نُزّل (مرجع البناء والمقارنة). لا يُعدَّل
 │   ├── ProjectPBZ/Content/Paks/~mods/3BADIOH_P.{pak,ucas,utoc}
-│   └── README_3BADIOH.txt  تعليمات صاحب التعريب وروابطه
+│   └── README_3BADIOH.txt  تعليمات صاحب التعريب الأساسي وروابطه
 │
 ├── data/                   مستخرجات للقراءة (لا تُعدَّل)
 │   ├── Game_locres_ar.json     كل النصوص: ns/key/hash/text (11,135)
@@ -48,9 +48,9 @@ PhantomBladeZero_AR/
 │   └── opencode/ batches/ · out/ · STATE.md …
 │
 ├── tools/                  السكربتات
-│   ├── pbzlib.py           المكتبة: قراءة locres، تطبيق تعديلات، كتابة pak
+│   ├── pbzlib.py           المكتبة: قراءة locres، تطبيق تعديلات، كتابة الحزمة الكاملة exelight7_P.pak
 │   ├── pak.py              قراءة حزم PAK v11 وكتابتها والتحقق من تجزئاتها
-│   ├── branding.py         تغيير اسم التعريب في ملف القائمة إلى exelight7
+│   ├── branding.py         استبدال اسم التعريب في ملف القائمة الرئيسية بـ exelight7
 │   ├── split_tasks.py      يولّد work/*/batches من النص الحالي + patches
 │   ├── apply_patches.py    يتحقق من التصحيحات ويدمجها ويبني الـ pak
 │   ├── utoc.py, dirs.py    فك حاوية .utoc/.ucas (فحص فقط)
@@ -58,14 +58,14 @@ PhantomBladeZero_AR/
 │   └── build.py            أول أداة بناء (استُبدلت بـ apply_patches)
 │
 └── release/                المخرجات المبنية
-    ├── ProjectPBZ/Content/Paks/~mods/ZZZ_3BADIOH_Fix_P.pak
+    ├── ProjectPBZ/Content/Paks/~mods/exelight7_P.pak
     └── apply_report.txt    تقرير آخر دمج (المقبول/المرفوض/التحذيرات)
 ```
 
 ## كيف يعمل المودّ (باختصار)
-- النصوص في `Game.locres` داخل `3BADIOH_P.pak` (مسار اللغة الفرنسية؛ لذلك تُختار Français من إعدادات اللعبة).
-- `.ucas/.utoc` فيهما 177 ملف واجهة وخط، ولا نصوص. لا تشفير في أي ملف.
-- `ZZZ_3BADIOH_Fix_P.pak` يحمل `Game.locres` المعدَّل وملف `StartMenu.js` الذي يعرض «تعريب exelight7» بجانب زر الإعدادات عند اختيار الفرنسية. يُحمَّل بعد الأصلي (الاسم يبدأ بـ ZZZ) فيتغلب عليه دون المساس بملفات المودّ.
+- النصوص في `Game.locres` داخل `exelight7_P.pak` (مسار اللغة الفرنسية؛ لذلك تُختار Français من إعدادات اللعبة).
+- `exelight7_P.pak` حزمة واحدة كاملة: `Game.locres` المعدَّل، وملف `StartMenu.js` الذي يعرض «تعريب exelight7» بجانب زر الإعدادات عند اختيار الفرنسية، وخطوط الواجهة. لا تعتمد على حزمة أخرى ولا على ترتيب تحميل الحزم.
+- `exelight7_P.ucas/.utoc` فيهما 177 ملف واجهة، ولا نصوص. هما نسخة بايتًا ببايت من حاويتَي المودّ الأساسي بالاسم الجديد. لا تشفير في أي ملف.
 
 ## سير العمل الكامل
 ```
@@ -74,7 +74,7 @@ data/ + patches/  ──split_tasks.py──►  work/*/batches/   (مدخلات
                                             ▼
                                        work/*/out/*.json   { key: نص محسَّن }
                                             │
-patches/*.json + work/*/out/*.json ──apply_patches.py──► release/…/ZZZ_3BADIOH_Fix_P.pak
+patches/*.json + work/*/out/*.json ──apply_patches.py──► release/…/exelight7_P.pak
 ```
 1. **تحقق دون بناء** (أي وقت): `python tools/apply_patches.py --dry [--only claude|opencode]`
 2. **بناء**: `python tools/apply_patches.py` ← `release/apply_report.txt` يعدّد المقبول والمرفوض والتحذيرات.
@@ -83,7 +83,7 @@ patches/*.json + work/*/out/*.json ──apply_patches.py──► release/…/Z
    ⚠️ إن أُعيد التوليد بعد بدء العمل تغيّرت أرقام الدفعات؛ لا تفعل ذلك أثناء المراجعة.
 
 ## ما الذي لم يُجرَّب
-- الـ pak المبني **لم يُختبر داخل اللعبة بعد** (التحقق آلي بنيويًا فقط: تجزئات الفهرس، تطابق النصوص، تطابق باقي المدخلات بايت ببايت). جرّبه ببطء وأبلغ بأي مشكلة.
+- الـ pak المبني **لم يُختبر داخل اللعبة بعد** (التحقق آلي بنيويًا فقط: تجزئات الفهرس، تطابق النصوص، تطابق كل ملفات المرجع الأخرى بايت ببايت). جرّبه ببطء وأبلغ بأي مشكلة.
 
 ## حقوق
-التعريب الأصلي لـ **3BADIOH** (روابطه في `original_mod/README_3BADIOH.txt`). هذا المستودع تصحيحات وأدوات فقط.
+التعريب الأساسي لـ **3BADIOH** (روابطه في `original_mod/README_3BADIOH.txt`). هذا المستودع تحسينات النصوص وأدوات البناء والتثبيت فقط.

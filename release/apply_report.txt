@@ -1,2 +1,2 @@
-ملفات: 12 | تعديلات مقبولة: 95 | مرفوضة: 0 | تحذيرات: 0 | pak: release/ProjectPBZ/Content/Paks/~mods/ZZZ_3BADIOH_Fix_P.pak
+ملفات: 12 | تعديلات مقبولة: 95 | مرفوضة: 0 | تحذيرات: 0 | pak: release/ProjectPBZ/Content/Paks/~mods/exelight7_P.pak
 واجهة الإعدادات: تعريب exelight7

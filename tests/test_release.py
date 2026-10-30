@@ -1,4 +1,4 @@
-"""Regression checks for the translation and two-file PAK overlay."""
+"""Regression checks for the translation and the standalone exelight7 PAK."""
 import json
 import struct
 import sys
@@ -12,9 +12,10 @@ sys.path.insert(0, str(ROOT / "tools"))
 import branding
 import pak
 import pbzlib
+import prepare_release
 from locres import parse
 
-LOCRES_PATH = "ProjectPBZ/Content/Localization/Game/fr/Game.locres"
+LOCRES_PATH = pbzlib.LOCRES_PATH
 
 
 class ReleaseTests(unittest.TestCase):
@@ -97,12 +98,33 @@ class ReleaseTests(unittest.TestCase):
         menu = branding.menu_override()
         pbzlib.write_pak(original.apply(expected), self.out, extra_files=menu)
         files = pak.read_pak(self.out)
-        self.assertEqual(set(files), {LOCRES_PATH, branding.MENU_PATH})
+        base = pak.read_pak(pbzlib.SRC_PAK)
+        # حزمة واحدة كاملة: كل ملفات المرجع موجودة، وملفان فقط تغيّرا.
+        self.assertEqual(list(files), list(base))
+        self.assertEqual({p for p in files if files[p] != base[p]}, {LOCRES_PATH, branding.MENU_PATH})
         self.assertEqual(files[branding.MENU_PATH], menu[branding.MENU_PATH])
         entries, strings, consumed = parse(files[LOCRES_PATH])
         self.assertEqual(consumed, len(files[LOCRES_PATH]))
         self.assertEqual({e[1]: strings[e[3]] for e in entries}, expected)
         self.assertEqual([e[:3] for e in entries], [e[:3] for e in original.entries])
+        # لا أثر لاسم المودّ المرجعي داخل أي ملف من الحزمة المبنية.
+        for name, content in files.items():
+            for needle in ("عباديوه".encode(), b"3BADIOH", b"3badioh"):
+                self.assertNotIn(needle, content, name)
+
+    def test_extra_files_must_already_exist_in_base_package(self):
+        with self.assertRaisesRegex(ValueError, "not part of the base package"):
+            pbzlib.write_pak(b"locres", self.out, extra_files={"new/file.js": b"x"}, base_files={LOCRES_PATH: b"old"})
+        with self.assertRaisesRegex(ValueError, "must not replace"):
+            pbzlib.write_pak(b"locres", self.out, extra_files={LOCRES_PATH: b"x"}, base_files={LOCRES_PATH: b"old"})
+
+    def test_release_files_use_the_exelight7_name(self):
+        self.assertEqual(pbzlib.OUT_PAK.name, "exelight7_P.pak")
+        self.assertEqual(prepare_release.NAMES, ("exelight7_P.pak", "exelight7_P.utoc", "exelight7_P.ucas"))
+        self.assertEqual({p.suffix for p in prepare_release.SOURCES.values()}, {".pak", ".utoc", ".ucas"})
+        for name, source in prepare_release.SOURCES.items():
+            if name != prepare_release.NAMES[0]:
+                self.assertTrue(source.is_file(), source)
 
 
 if __name__ == "__main__":

@@ -5,8 +5,10 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")  # كونسول ويندوز الافتراضي لا يطبع العربية
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC_PAK = ROOT / "original_mod/ProjectPBZ/Content/Paks/~mods/3BADIOH_P.pak"
-OUT_PAK = ROOT / "release/ProjectPBZ/Content/Paks/~mods/ZZZ_3BADIOH_Fix_P.pak"
+SRC_PAK = ROOT / "original_mod/ProjectPBZ/Content/Paks/~mods/3BADIOH_P.pak"  # الحزمة المرجعية المدخلة للبناء؛ لا تُنسخ كما هي
+MOD_NAME = "exelight7_P"  # اسم الملفات الثلاثة المثبّتة: .pak و.utoc و.ucas
+OUT_PAK = ROOT / f"release/ProjectPBZ/Content/Paks/~mods/{MOD_NAME}.pak"
+LOCRES_PATH = "ProjectPBZ/Content/Localization/Game/fr/Game.locres"
 LOC_OFFSET = 4077146  # بداية Game.locres داخل الـ pak (بعد ترويسة 53 بايت)
 MAGIC = bytes.fromhex("0e14747567" "4a03fc4a15909dc3377f1b")
 TAG = re.compile(r"<[^>]*>")
@@ -95,12 +97,20 @@ def validate(old, new):
     return err, warn
 
 
-def write_pak(locres_bytes, out=OUT_PAK, extra_files=None):
-    from pak import write_pak as write_archive
-    path = "ProjectPBZ/Content/Localization/Game/fr/Game.locres"
-    files = {path: locres_bytes}
-    if extra_files:
-        if path in extra_files:
+def write_pak(locres_bytes, out=OUT_PAK, extra_files=None, base_files=None):
+    """يبني حزمة واحدة كاملة: كل ملفات الحزمة المرجعية، مع Game.locres الجديد وبدائل extra_files.
+
+    لا طبقة تغطية فوق حزمة أخرى، فلا يتوقف أثر الملفات المعدَّلة على ترتيب تحميل الحزم.
+    """
+    from pak import read_pak, write_pak as write_archive
+    files = dict(read_pak(SRC_PAK) if base_files is None else base_files)
+    if LOCRES_PATH not in files:
+        raise ValueError("Game.locres is missing from the base package")
+    files[LOCRES_PATH] = locres_bytes
+    for path, content in (extra_files or {}).items():
+        if path == LOCRES_PATH:
             raise ValueError("Extra files must not replace Game.locres")
-        files.update(extra_files)
+        if path not in files:
+            raise ValueError(f"{path} is not part of the base package")
+        files[path] = content
     return write_archive(files, out)

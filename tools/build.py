@@ -1,5 +1,6 @@
 import struct,re,hashlib,json,sys
-SRC=r"C:\Users\npxf1\Downloads\New folder\ProjectPBZ\Content\Paks\~mods\3BADIOH_P.pak"
+from pbzlib import SRC_PAK
+SRC=str(SRC_PAK)
 OUT=sys.argv[1]
 f=open(SRC,"rb").read()
 LOC=4077146

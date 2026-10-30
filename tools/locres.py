@@ -25,7 +25,8 @@ def parse(b,start=0):
         s,q=fs(q); q+=4; strs.append(s)
     return ents,strs,q-start
 if __name__=="__main__":
-    f=open(r"C:\Users\npxf1\Downloads\New folder\ProjectPBZ\Content\Paks\~mods\3BADIOH_P.pak","rb").read()
+    from pbzlib import SRC_PAK
+    f=open(SRC_PAK,"rb").read()
     ents,strs,length=parse(f,4077146)
     print(len(ents),len(strs),length)
     out=[{"ns":e[0],"key":e[1],"hash":e[2],"text":strs[e[3]]} for e in ents]

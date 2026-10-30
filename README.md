@@ -8,7 +8,7 @@
 
 تحسينات التعريب بإشراف **exelight7**
 
-[تحميل حزمة التصحيح](release/ProjectPBZ/Content/Paks/~mods/ZZZ_3BADIOH_Fix_P.pak?raw=true) · [دليل المشروع](GUIDE.md) · [سجل التحسينات](fixes/exelight7.md)
+[صفحة الإصدارات](https://github.com/exelight7/PhantomBladeZero_AR/releases) · [دليل المشروع](GUIDE.md) · [سجل التحسينات](fixes/exelight7.md)
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/اللغة-العربية-168B67)
@@ -23,7 +23,8 @@
 - تحسين صياغة القوائم ورسائل الحفظ وشروحات إعدادات الرسوميات والصوت.
 - تصحيح أخطاء نحوية في أوصاف الأغراض، مع الحفاظ على المعنى.
 - إظهار **«تعريب exelight7»** بجانب زر الإعدادات عند استخدام التعريب العربي.
-- حزمة تصحيح قابلة لإعادة البناء، مع فحص النصوص وسلامة ملفات الحزمة.
+- حزمة واحدة كاملة باسم `exelight7_P` (ثلاثة ملفات: `.pak` و`.utoc` و`.ucas`)، تحمل النصوص المحدّثة وملف القائمة معًا، فلا تحتاج حزمة تصحيح فوق مود آخر ولا يتوقف أثرها على ترتيب تحميل الحزم.
+- قابلة لإعادة البناء، مع فحص النصوص وسلامة ملفات الحزمة.
 
 تضم هذه المراجعة **30 تصحيحًا نصيًا جديدًا** إلى جانب التصحيحات السابقة. التفاصيل قبل التعديل وبعده في [سجل التحسينات](fixes/exelight7.md).
 
@@ -37,7 +38,9 @@
 | Linux / Steam Deck | `PhantomBladeZero-AR-1.0.0-linux-x86_64.AppImage` |
 | تثبيت يدوي كامل | `PhantomBladeZero-AR-1.0.0-manual.zip` |
 
-للتثبيت اليدوي السهل: فك ZIP وانسخ مجلد `ProjectPBZ` إلى مجلد اللعبة. الحزمة تشمل المود الأساسي والتصحيحات معًا.
+للتثبيت اليدوي السهل: فك ZIP وانسخ مجلد `ProjectPBZ` إلى مجلد اللعبة. الحزمة تشمل كل ما يلزم في ثلاثة ملفات.
+
+> ملفات الإصدار 1.0.0 المنشورة بُنيت بالتسمية القديمة (`3BADIOH_P.*` و`ZZZ_3BADIOH_Fix_P.pak`). الأسماء الجديدة `exelight7_P.*` تظهر في الإصدار التالي؛ لبنائها الآن: `python3 tools/prepare_release.py`.
 
 أو افتح التطبيق واختر مجلد اللعبة ثم «تثبيت التعريب». يعمل دون إنترنت ويحتفظ بنسخة احتياطية للملفات المستبدلة. [تعليمات التطبيق والاستعادة](installer/README.md).
 
@@ -46,20 +49,19 @@
 ## 🎮 التركيب
 
 1. من Steam، افتح **إدارة ← تصفّح الملفات المحلية** للعبة.
-2. انسخ مجلد `ProjectPBZ` من [original_mod](original_mod/) إلى مجلد اللعبة لتثبيت المود الأساسي.
-3. انسخ [حزمة التصحيح](release/ProjectPBZ/Content/Paks/~mods/ZZZ_3BADIOH_Fix_P.pak?raw=true) إلى المجلد نفسه بجانب ملفات المود:
+2. **احذف أي تعريب عربي سابق** من `ProjectPBZ/Content/Paks/~mods`؛ فلا يجتمع تعريبان معًا. الأسماء القديمة لهذا المشروع: `3BADIOH_P.pak` و`3BADIOH_P.utoc` و`3BADIOH_P.ucas` و`ZZZ_3BADIOH_Fix_P.pak`.
+3. انسخ مجلد `ProjectPBZ` من ملف `manual.zip` إلى مجلد اللعبة، فتصبح الملفات هكذا:
 
    ```text
    ProjectPBZ/Content/Paks/~mods/
-   ├── 3BADIOH_P.pak
-   ├── 3BADIOH_P.utoc
-   ├── 3BADIOH_P.ucas
-   └── ZZZ_3BADIOH_Fix_P.pak
+   ├── exelight7_P.pak
+   ├── exelight7_P.utoc
+   └── exelight7_P.ucas
    ```
 
-4. من **شاشة البداية**، افتح **Settings → Text Language** واختر **Français**. التعريب يستخدم خانة اللغة الفرنسية.
+4. من **شاشة البداية**، افتح **Settings → Text Language** واختر **Français**. التعريب يستخدم خانة اللغة الفرنسية، ويظهر «تعريب exelight7» بجانب زر الإعدادات.
 
-**للتراجع عن التصحيحات:** احذف `ZZZ_3BADIOH_Fix_P.pak` فقط. ولإزالة التعريب كاملًا، احذف الملفات الأربعة الموضحة أعلاه.
+**للإزالة:** احذف الملفات الثلاثة أعلاه فقط.
 
 > الحزمة اجتازت الفحص البنيوي والآلي. ظهورها وسلوكها داخل اللعبة يحتاجان تجربة فعلية.
 
@@ -78,9 +80,9 @@ python3 -m unittest discover -s tests -v
 python3 tools/apply_patches.py
 ```
 
-تظهر الحزمة في `release/ProjectPBZ/Content/Paks/~mods/`، ويُحفظ تقرير البناء في [release/apply_report.txt](release/apply_report.txt).
+تظهر الحزمة `exelight7_P.pak` في `release/ProjectPBZ/Content/Paks/~mods/`، ويُحفظ تقرير البناء في [release/apply_report.txt](release/apply_report.txt). لتجهيز الملفات الثلاثة وحزمة ZIP والمثبّت: `python3 tools/prepare_release.py`.
 
-يحتوي ملف التصحيح على النصوص العربية المحدّثة وملف القائمة الذي يعرض اسم **exelight7**. وتبقى ملفات المود الأساسي محفوظة لإعادة البناء والمقارنة.
+الحزمة المبنية كاملة: خطوط الواجهة والنصوص العربية المحدّثة وملف القائمة الذي يعرض اسم **exelight7**، وكلها في ملف واحد. أما `.utoc` و`.ucas` فنسختان بايتًا ببايت من حاويتَي الواجهة في `original_mod/` تُنسخان بالاسم الجديد. وتبقى ملفات المود الأساسي في `original_mod/` مرجعًا للبناء والمقارنة ولا تُعدَّل.
 
 ## 🗺️ أين أجد الحوارات والقوائم؟
 
@@ -97,8 +99,8 @@ python3 tools/apply_patches.py
 | [tools/](tools/) | أدوات فحص النصوص وبناء الحزمة وتخصيص اسم القائمة |
 | [tests/](tests/) | اختبارات سلامة الحزمة والتعديلات |
 | [data/](data/) | النصوص الأصلية المستخرجة وتقارير الفحص |
-| [release/](release/) | حزمة التصحيح الجاهزة للتركيب |
-| [original_mod/](original_mod/) | ملفات المود الأساسي |
+| [release/](release/) | حزمة `exelight7_P.pak` المبنية وتقرير البناء |
+| [original_mod/](original_mod/) | ملفات المود الأساسي (مرجع البناء) |
 
 ## 🤝 المساهمة
 
