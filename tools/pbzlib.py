@@ -1,5 +1,5 @@
 """مكتبة مشتركة: قراءة Game.locres من الـ pak الأصلي، تطبيق تعديلات، وكتابة pak جديد."""
-import struct, hashlib, re, sys
+import struct, re, sys
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")  # كونسول ويندوز الافتراضي لا يطبع العربية
@@ -95,29 +95,12 @@ def validate(old, new):
     return err, warn
 
 
-def write_pak(locres_bytes, out=OUT_PAK):
+def write_pak(locres_bytes, out=OUT_PAK, extra_files=None):
+    from pak import write_pak as write_archive
     path = "ProjectPBZ/Content/Localization/Game/fr/Game.locres"
-    sha = lambda b: hashlib.sha1(b).digest()
-    new = locres_bytes
-    data = struct.pack("<QQQI", 0, len(new), len(new), 0) + sha(new) + b"\0" + struct.pack("<I", 0) + new
-    FS = lambda s: struct.pack("<i", len(s) + 1) + s.encode() + b"\0"
-    enc = struct.pack("<III", 0xe0000000, 0, len(new))
-    dirs = ["/", "ProjectPBZ/", "ProjectPBZ/Content/", "ProjectPBZ/Content/Localization/",
-            "ProjectPBZ/Content/Localization/Game/", "ProjectPBZ/Content/Localization/Game/fr/"]
-    fd = struct.pack("<I", len(dirs))
-    for d in dirs:
-        fd += FS(d)
-        fd += (struct.pack("<I", 1) + FS("Game.locres") + struct.pack("<i", 0)) if d == dirs[-1] else struct.pack("<I", 0)
-    M = (1 << 64) - 1; x = 0xcbf29ce484222325
-    for c in path.lower().encode("utf-16-le"):
-        x = ((x ^ c) * 0x100000001b3) & M
-    ph = struct.pack("<I", 1) + struct.pack("<Qi", x, 0) + struct.pack("<I", 0)
-    base = len(data); mount = FS("../../../")
-    psize = len(mount) + 4 + 8 + 4 + 36 + 4 + 36 + 4 + len(enc) + 4
-    ph_off = base + psize; fd_off = ph_off + len(ph)
-    pri = (mount + struct.pack("<IQ", 1, 0) + struct.pack("<IQQ", 1, ph_off, len(ph)) + sha(ph)
-           + struct.pack("<IQQ", 1, fd_off, len(fd)) + sha(fd) + struct.pack("<I", len(enc)) + enc + struct.pack("<I", 0))
-    foot = b"\0" * 17 + struct.pack("<II", 0x5A6F12E1, 11) + struct.pack("<QQ", base, len(pri)) + sha(pri) + b"\0" * 160
-    out = Path(out); out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_bytes(data + pri + ph + fd + foot)
-    return out
+    files = {path: locres_bytes}
+    if extra_files:
+        if path in extra_files:
+            raise ValueError("Extra files must not replace Game.locres")
+        files.update(extra_files)
+    return write_archive(files, out)

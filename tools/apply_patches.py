@@ -4,6 +4,7 @@ import json, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import pbzlib
+from branding import DISPLAY_NAME, menu_override
 
 
 def main():
@@ -35,15 +36,17 @@ def main():
     assert not bad, bad[:5]
     changed = sum(1 for k in patch if patch[k] != orig[k])
     nrej = sum(r.startswith("REJECT") for r in rep); nwarn = sum(r.startswith("WARN") for r in rep)
+    extra_files = menu_override()
     if dry:
         print(f"[dry] ملفات: {len(files)} | مقبولة: {changed} | مرفوضة: {nrej} | تحذيرات: {nwarn}")
         print("\n".join(r for r in rep if not r.startswith("WARN")) or "لا رفض ولا تعارض")
         if nwarn:
             print("\n".join([r for r in rep if r.startswith("WARN")][:15]))
+        print(f"واجهة الإعدادات: تعريب {DISPLAY_NAME} (تم التحقق من ملف القائمة)")
         return
-    out = pbzlib.write_pak(data)
-    head = f"ملفات: {len(files)} | تعديلات مقبولة: {changed} | مرفوضة: {nrej} | تحذيرات: {nwarn} | pak: {out}"
-    (root / "release/apply_report.txt").write_text("\n".join([head] + rep) + "\n", encoding="utf8")
+    out = pbzlib.write_pak(data, extra_files=extra_files)
+    head = f"ملفات: {len(files)} | تعديلات مقبولة: {changed} | مرفوضة: {nrej} | تحذيرات: {nwarn} | pak: {out.relative_to(root).as_posix()}"
+    (root / "release/apply_report.txt").write_text("\n".join([head, f"واجهة الإعدادات: تعريب {DISPLAY_NAME}"] + rep) + "\n", encoding="utf8")
     print(head)
     print("\n".join([r for r in rep if r.startswith(("REJECT", "CONFLICT"))][:20]))
     print("تفاصيل: release/apply_report.txt")

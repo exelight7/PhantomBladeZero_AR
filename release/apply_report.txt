@@ -1,1 +1,2 @@
-ملفات: 11 | تعديلات مقبولة: 65 | مرفوضة: 0 | تحذيرات: 0 | pak: C:\Users\npxf1\Downloads\New folder\Phantom Blade Zeroar\upstream_PhantomBladeZero_AR\release\ProjectPBZ\Content\Paks\~mods\ZZZ_3BADIOH_Fix_P.pak
+ملفات: 12 | تعديلات مقبولة: 95 | مرفوضة: 0 | تحذيرات: 0 | pak: release/ProjectPBZ/Content/Paks/~mods/ZZZ_3BADIOH_Fix_P.pak
+واجهة الإعدادات: تعريب exelight7
