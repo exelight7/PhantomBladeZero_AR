@@ -1,34 +1,37 @@
 {
- "updated": "2026-10-30 02:47",
+ "updated": "2026-10-30 15:36",
  "sessions": [
   {
    "who": "claude",
    "batches": 64,
-   "done": 10,
+   "done": 64,
    "entries": 5950,
    "chars": 345159,
-   "entries_done": 1000,
-   "chars_done": 44886,
-   "changed": 35,
-   "accepted": 35,
+   "entries_done": 5950,
+   "chars_done": 345159,
+   "changed": 69,
+   "accepted": 69,
    "rejected": 0,
    "warned": 0,
    "size": {
-    "طفيف (تنوين/إملاء/ترقيم)": 30,
+    "طفيف (تنوين/إملاء/ترقيم)": 64,
     "متوسط (كلمات)": 3,
     "إعادة صياغة": 2
    },
    "fam": {
-    "Dlg": 35
+    "Dlg": 54,
+    "Loading": 1,
+    "ReadingDes": 13,
+    "Reading": 1
    },
-   "pending_next": "batch_0011.json",
-   "last_done": "batch_0010.json",
+   "pending_next": null,
+   "last_done": "batch_0064.json",
    "extras": {
     "glossary_proposals.md": 11,
-    "questions.md": 3,
+    "questions.md": 4,
     "skipped.md": 1
    },
-   "state_mtime": "2026-10-30 02:47"
+   "state_mtime": "2026-10-30 15:34"
   },
   {
    "who": "opencode",

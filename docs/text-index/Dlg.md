@@ -1211,12 +1211,12 @@
 | `Dlg_FJZL_MEM_Inanis4_Inanis_9` | صعدتَ إلى مقدّمة اللوتس المذهّب من دون أن تنطلي عليك أوهامه. | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_11` | أنا مو تيانمياو. جئت لأدعوكِ إلى الانضمام إلى التنظيم والجلوس بين مندوبي الظلال. | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_14` | هه... أقدّم لكِ ما لا تستطيعين رفضه. | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_FJZL_MEM_Inanis4_MuTianMiao_16` | أعلم أنكِ تدرسين لفافة نقل الروح ليل نهار، محاولةً إنقاذ ابنتك. | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_FJZL_MEM_Inanis4_MuTianMiao_16` | أعلم أنكِ تدرسين لفافة نقل الروح ليل نهار، محاولةً إنقاذ ابنتكِ. | [الدفعة](../../work/claude/batches/batch_0011.json) | [التصحيح](../../work/claude/out/batch_0011.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_18` | حتى طائفة ربط الخيوط لا تملك اللفافة كاملة. | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_19` | مهما طال انكبابكِ على تلك النصوص، فلن تجدي فيها ما تبحثين عنه. | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_21` | قبل سنوات، خضعت طائفة ربط الخيوط لعشيرة لونغ. ومنذ ذلك الحين، واللفافة الكاملة في حوزتهم. | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_22` | لكن هل تعرفين من قضى على عشيرة لونغ؟ | [الدفعة](../../work/claude/batches/batch_0011.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_FJZL_MEM_Inanis4_MuTianMiao_24` | انضمي إلى التنظيم، وستكون اللفافة لكِ. وقد تُبعث ابنتك من جديد بعد. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_FJZL_MEM_Inanis4_MuTianMiao_24` | انضمي إلى التنظيم، وستكون اللفافة لكِ. وقد تُبعث ابنتكِ من جديد بعد. | [الدفعة](../../work/claude/batches/batch_0012.json) | [التصحيح](../../work/claude/out/batch_0012.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_26` | ليس إلا مسألة وقت قبل أن يدخل التنظيم في صدام مع الأحد عشر. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_29` | صدقيني، سيصبح أمرهم يعنيكِ. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_Inanis4_MuTianMiao_30` | فالإمبراطورة الشريرة منغ هوا واحدة منهم. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -1283,7 +1283,7 @@
 | `Dlg_FJZL_MEM_QuanChi2_KuangTie_8` | أنت لا تستحق تعاليمه! | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_QuanChi2_KuangTie_9` | لن ترحل إلا بعد أن تهزمني! هياااه! | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_QuanChi2_TieGui_11` | لم أنسَ قط تعاليم المعلم. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_FJZL_MEM_QuanChi2_TieGui_12` | وانتَقمت له بيديّ. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_FJZL_MEM_QuanChi2_TieGui_12` | وانتقمتُ له بيديّ. | [الدفعة](../../work/claude/batches/batch_0012.json) | [التصحيح](../../work/claude/out/batch_0012.json) |
 | `Dlg_FJZL_MEM_QuanChi2_TieGui_13` | لكنّه بدا رجلًا آخر في أيامه الأخيرة. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_QuanChi2_TieGui_14` | لا أعرف ما الذي غيّره، لكن أمرًا مشؤومًا ينتشر في الوولين. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_FJZL_MEM_QuanChi2_TieGui_17` | اهزمني أولًا، ثم نتحدث. | [الدفعة](../../work/claude/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -1903,7 +1903,7 @@
 | `Dlg_JHSY_IMPMEM3_ZuoShang_7` | مصدر قوة الأحد عشر... شظايا العالم الخفي تلك... هل دفعتها إلى الاندماج بالآفة؟ | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_JHSY_Inanis1_Hun_1` | يا سيدة إنانيس، لم يخفت بهاؤكِ. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_JHSY_Inanis1_Hun_5` | أنا ممتن لكِ. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_JHSY_Inanis1_Hun_7` | كان عزف ابنتك على البيبا هو ما أرشدني إلى هنا. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_JHSY_Inanis1_Hun_7` | كان عزف ابنتكِ على البيبا هو ما أرشدني إلى هنا. | [الدفعة](../../work/claude/batches/batch_0018.json) | [التصحيح](../../work/claude/out/batch_0018.json) |
 | `Dlg_JHSY_Inanis1_Inanis_2` | إن لم أستطع العودة أبدًا إلى عالم اليقظة، فما نفع هذا القالب؟ | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_JHSY_Inanis1_Inanis_3` | هذا المكان ثمرة عمرٍ كامل من تهذيب النفس، وهو ملاذ خفي بين العالمين. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_JHSY_Inanis1_Inanis_4` | لا يستطيع أحد العثور على هذا المكان. لا يمرّ الزمن هنا. اطمئن يا معلّم سول. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -1932,7 +1932,7 @@
 | `Dlg_JHSY_XianZhe_Inanis_18` | وكل ما يفعله بعد ذلك ليس إلا ردود أفعال مستمدة من ذكرياته الأصلية. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_JHSY_XianZhe_Inanis_19` | لا يستطيع تكوين مشاعر جديدة ولا ذكريات جديدة... ومهما بلغت دقة الصنعة، فلن يتغير ذلك. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_JHSY_XianZhe_Inanis_2` | ابنتي... أخيرًا تنعم بالسلام. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_JHSY_XianZhe_Inanis_20` | تذكّر هذا: لا شيء يعوّض جسدًا حيًا! | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_JHSY_XianZhe_Inanis_20` | تذكّر هذا: لا شيء يعوّض جسدًا حيًّا! | [الدفعة](../../work/claude/batches/batch_0018.json) | [التصحيح](../../work/claude/out/batch_0018.json) |
 | `Dlg_JHSY_XianZhe_Inanis_7` | ماتت ابنتي منذ زمن بعيد. أنا من عجزت عن التخلي عنها. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_JHSY_XianZhe_Inanis_9` | هناك زهرة نادرة تُسمى زنبقة اللحم، تستطيع أن تعيد الوعي من دمية إلى الجسد. | [الدفعة](../../work/claude/batches/batch_0018.json) | [الأصل](../../data/Game_locres_ar.json) |
 
@@ -2143,7 +2143,7 @@
 | `Dlg_LJC_HuOu_CunMin5_1` | إنها تراقب... وترى كل شيء... | [الدفعة](../../work/claude/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_LJC_HuOu_CunMin6_1` | ستضمك السيدة إليها... ستضمك... | [الدفعة](../../work/claude/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_LJC_HuOu_CunMin7_1` | لا أحد يغادر... لا أحد يبرح مكانه... | [الدفعة](../../work/claude/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_LJC_HuOu_FeiZei1_1` | العم لو مدين لي. حيًا كان أم ميتًا، سأسترد حقي! | [الدفعة](../../work/claude/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_LJC_HuOu_FeiZei1_1` | العم لو مدين لي. حيًّا كان أم ميتًا، سأسترد حقي! | [الدفعة](../../work/claude/batches/batch_0020.json) | [التصحيح](../../work/claude/out/batch_0020.json) |
 | `Dlg_LJC_HuOu_FeiZei2_1` | هذه أشيائي! لماذا أسمح لك بأخذها؟ | [الدفعة](../../work/claude/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_LJC_HuOu_FeiZei3_1` | يا لهذه المسوخ الخشبية... هل تجرؤون على الوقوف في طريقي؟ | [الدفعة](../../work/claude/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_LJC_HuOu_FeiZei4_1` | انظروا ما فعلته بكم السيدة... انظروا إلى حالكم! | [الدفعة](../../work/claude/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -2770,7 +2770,7 @@
 | `Dlg_Meiguhu_MEM_XLFX3_ShiWei_2` | قاتل! | [الدفعة](../../work/claude/batches/batch_0026.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_Meiguhu_MEM_XLFX3_YanEr_3` | أرسل المعلّم مينغ هذا الرجل... ليقتلني؟ | [الدفعة](../../work/claude/batches/batch_0026.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_Meiguhu_MEM_XLFX3_YanEr_4` | يا لقسوته! | [الدفعة](../../work/claude/batches/batch_0026.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_Meiguhu_MEM_XLFX3_YanEr_5` | شينيانغ... أرجوكِ، اعتني بنفسك! | [الدفعة](../../work/claude/batches/batch_0026.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_Meiguhu_MEM_XLFX3_YanEr_5` | شينيانغ... أرجوكِ، اعتني بنفسكِ! | [الدفعة](../../work/claude/batches/batch_0026.json) | [التصحيح](../../work/claude/out/batch_0026.json) |
 | `Dlg_Meiguhu_MEM_XLFX4_YanEr_2` | من أنت؟ طفلي... أين طفلي؟ | [الدفعة](../../work/claude/batches/batch_0026.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_Meiguhu_MEM_XLFX4_YanEr_5` | أين... أين أنا... | [الدفعة](../../work/claude/batches/batch_0026.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_Meiguhu_MEM_XLFX4_YanEr_8` | طفلي... | [الدفعة](../../work/claude/batches/batch_0026.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -3037,7 +3037,7 @@
 | `Dlg_PZ_DuiLian_ZuZhiJiuGuan1_2` | ويغنّي ثملًا وحيدًا بين أشباحٍ ساكنين | [الدفعة](../../work/claude/batches/batch_0029.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_EBian_WuShi1_1` | قاعة الأسد اليقظ | [الدفعة](../../work/claude/batches/batch_0029.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_HG01_HG_2` | تجاملني يا معلم سول. أنا لا أفعل سوى مساعدة سلاحك على استعادة «ذاكرته». | [الدفعة](../../work/claude/batches/batch_0029.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_PZ_HG01_HG_4` | السلاح... ليس مجرد أداة. ففي يد صاحبه يكاد يصير كائنًا حيًا... بل قد يغدو أحيانًا أقرب أصدقائه... | [الدفعة](../../work/claude/batches/batch_0029.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_PZ_HG01_HG_4` | السلاح... ليس مجرد أداة. ففي يد صاحبه يكاد يصير كائنًا حيًّا... بل قد يغدو أحيانًا أقرب أصدقائه... | [الدفعة](../../work/claude/batches/batch_0029.json) | [التصحيح](../../work/claude/out/batch_0029.json) |
 | `Dlg_PZ_HG01_HG_5` | آه، انسَ الأمر... لن تفهم. اعتبره مجرد هذيان صانعة. | [الدفعة](../../work/claude/batches/batch_0029.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_HG01_Hun_1` | أختاكِ شديدتا الاعتداد بنفسيهما، لكن حتى هما لا تنكران مهارتك. | [الدفعة](../../work/claude/batches/batch_0029.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_HG01_Hun_3` | الأسلحة ليست بشرًا. كيف لها أن تملك ذكريات؟ | [الدفعة](../../work/claude/batches/batch_0029.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -3171,7 +3171,7 @@
 | `Dlg_PZ_JieDao_QiangBing_QiangBing_2` | أن تبلغ هذا الحد وحدك... لا بد أنك رجل غير عادي. | [الدفعة](../../work/claude/batches/batch_0030.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JieDao_QiangBing_QiangBing_3` | ظننا... أن الارتقاء سيتيح لنا أن نصنع لأنفسنا مستقبلًا... | [الدفعة](../../work/claude/batches/batch_0030.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JieDao_QiangBing_QiangBing_4` | اسودّت وجوهنا بالدخان... حتى لم يبقَ منا... سوى قشرة خاوية... | [الدفعة](../../work/claude/batches/batch_0030.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_PZ_JieDao_QiangBing_QiangBing_5` | لن يخرج أحد من هذه البلدة حيًا...! | [الدفعة](../../work/claude/batches/batch_0030.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_PZ_JieDao_QiangBing_QiangBing_5` | لن يخرج أحد من هذه البلدة حيًّا...! | [الدفعة](../../work/claude/batches/batch_0030.json) | [التصحيح](../../work/claude/out/batch_0030.json) |
 | `Dlg_PZ_JieDao_QiangBing_QiangBing_7` | لا تقترب من البحيرة! | [الدفعة](../../work/claude/batches/batch_0030.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JieDao_QiangBing_QiangBing_8` | فاضت البحيرة بشا-تشي... و... دفعتنا إلى قتل بعضنا بعضًا من أجل القوارب... | [الدفعة](../../work/claude/batches/batch_0030.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JieDao_QiangBing_QiangBing_9` | لكن كل ذلك كان عبثًا...! رأيت ذلك بعيني... ابتلعت البحيرة قاربًا كاملًا بمن فيه... | [الدفعة](../../work/claude/batches/batch_0031.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -3294,7 +3294,7 @@
 | `Dlg_PZ_JiuGuan_NiuZhangGui_NiuZhangGui_1` | هوانغ... لن تطأ قدماي بيتك مجددًا! | [الدفعة](../../work/claude/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JiuGuan_NiuZhangGui_NiuZhangGui_2` | يا هوانغ العجوز... اطمئن واسترح الآن... أرجوك. | [الدفعة](../../work/claude/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JiuGuan_NvTan_NvTan_1` | الأخت الكبرى صارت متهورة أكثر من اللازم... | [الدفعة](../../work/claude/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_PZ_JiuGuan_NvTan_NvTan_2` | نادراً ما تسنح لنا فرصة للراحة هكذا... لعلّي أنقع جسدي في الماء قليلًا أنا أيضًا... | [الدفعة](../../work/claude/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_PZ_JiuGuan_NvTan_NvTan_2` | نادرًا ما تسنح لنا فرصة للراحة هكذا... لعلّي أنقع جسدي في الماء قليلًا أنا أيضًا... | [الدفعة](../../work/claude/batches/batch_0032.json) | [التصحيح](../../work/claude/out/batch_0032.json) |
 | `Dlg_PZ_JiuGuan_QiangBingB_QiangBingA_1` | سمعت أن قاتلًا فتاكًا هناك على ذلك الجبل الثلجي... | [الدفعة](../../work/claude/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JiuGuan_QiangBingB_QiangBingA_2` | همف. مضى وقت طويل منذ خضت نزالًا حقيقيًا! | [الدفعة](../../work/claude/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_JiuGuan_QiangBingB_QiangBingB_1` | لا يهم أيّ مسخ كان... لن يخرج من هنا سليمًا! | [الدفعة](../../work/claude/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -3436,12 +3436,12 @@
 | `Dlg_PZ_MEM_LieYan5_LieYan_4` | سأصعد لأرى بنفسي. | [الدفعة](../../work/claude/batches/batch_0033.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_MEM_LieYan5_LieYan_7` | مو! | [الدفعة](../../work/claude/batches/batch_0033.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_MEM_LieYan5_YuDongJia_6` | أيها المعلّم الأكبر لهيب! أنقذنا... أرجوك... | [الدفعة](../../work/claude/batches/batch_0033.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_PZ_MEM_LieYan6_LengTu_1` | هاهاها... قوة ذلك الجرس مبهرة. حين أطلق لهيب العنان لقوته، كان المشهد مهيبا حقًا. هاهاها... | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../patches/00_auto_fixes.json) |
+| `Dlg_PZ_MEM_LieYan6_LengTu_1` | هاهاها... قوة ذلك الجرس مبهرة. حين أطلق لهيب العنان لقوته، كان المشهد مهيبًا حقًا. هاهاها... | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../work/claude/out/batch_0033.json) |
 | `Dlg_PZ_MEM_LieYan6_LengTu_4` | فن رقصة الأسد... ههه، إنه مبهر حقًا. | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../patches/00_auto_fixes.json) |
 | `Dlg_PZ_MEM_LieYan6_LengTu_5` | كأنهم... صاروا جزءًا من الأسد. | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../patches/00_auto_fixes.json) |
 | `Dlg_PZ_MEM_LieYan6_LengTu_7` | حين أعود بذاكرتي... مضى أكثر من عامين على لقائي بك، يا حاكم الظلال تسو. وما تلا ذلك... تِس، تِس... أمر مدهش حقًا. | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../patches/00_auto_fixes.json) |
 | `Dlg_PZ_MEM_LieYan6_LengTu_8` | اكتمل الوعاء المقدّس في ضيعة السراب في بانغتشن. أدعوك بصدق، يا حاكم الظلال تسو، إلى المجيء ورؤيته. | [الدفعة](../../work/claude/batches/batch_0033.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_PZ_MEM_LieYan6_ZuoShang_2` | أحرق جميع تلاميذه حتى صاروا رمادا... | [الدفعة](../../work/claude/batches/batch_0033.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_PZ_MEM_LieYan6_ZuoShang_2` | أحرق جميع تلاميذه حتى صاروا رمادًا... | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../work/claude/out/batch_0033.json) |
 | `Dlg_PZ_MEM_LieYan6_ZuoShang_3` | حتى لو أبقاهم الارتقاء الكامل أحياء، فسيظلون مختومين تحت جلد الأسد، نائمين إلى الأبد. | [الدفعة](../../work/claude/batches/batch_0033.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZ_MEM_LieYan6_ZuoShang_6` | إنه أشبه بنقل الروح، لكن الروح لا تغادر الجسد أبدًا. | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../patches/00_auto_fixes.json) |
 | `Dlg_PZ_MEM_LieYan6_ZuoShang_9` | أهنئك على نجاحك الكبير، أيها المبعوث. إنه إنجاز عظيم حقًا... | [الدفعة](../../work/claude/batches/batch_0033.json) | [التصحيح](../../patches/00_auto_fixes.json) |
@@ -3647,7 +3647,7 @@
 | `Dlg_PZXSDnan_LuJieYuan1C2_LJY_6` | لكنني سمعت أن السائرين المقنّعين اجتاحوه... إن ذهب إلى هناك، فاحتمال نجاته ضئيل... | [الدفعة](../../work/claude/batches/batch_0028.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZXSDnan_LuJieYuan1C2_LJY_7` | أبي... تسوي... | [الدفعة](../../work/claude/batches/batch_0028.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZXSDnan_LuJieYuan1a_Hun_1` | تسوي... هل تقصد الفتاة من قرية لو؟ | [الدفعة](../../work/claude/batches/batch_0028.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_PZXSDnan_LuJieYuan1a_Hun_11` | ما دمت حيًا، فالأمل باقٍ. | [الدفعة](../../work/claude/batches/batch_0028.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_PZXSDnan_LuJieYuan1a_Hun_11` | ما دمت حيًّا، فالأمل باقٍ. | [الدفعة](../../work/claude/batches/batch_0028.json) | [التصحيح](../../work/claude/out/batch_0028.json) |
 | `Dlg_PZXSDnan_LuJieYuan1a_Hun_3` | شيّعتُ تسوي وأباك لو سانتشيان إلى مثواهما الأخير. | [الدفعة](../../work/claude/batches/batch_0028.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZXSDnan_LuJieYuan1a_Hun_5` | ما كانوا ليريدوا منك أن تستسلم. | [الدفعة](../../work/claude/batches/batch_0028.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_PZXSDnan_LuJieYuan1a_Hun_6` | دعني أساعدك. سأواري زوجتك الثرى... وأدفن معها مقتنيات تسوي والشيخ لو... | [الدفعة](../../work/claude/batches/batch_0028.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -4701,7 +4701,7 @@
 | `Dlg_XSSL_ShaQiTa_Hun_Weapon_1` | لم أجهّز السلاح المناسب. | [الدفعة](../../work/claude/batches/batch_0043.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_10` | كل ما تركه شيفو لكِ سيؤول إلى رماد. | [الدفعة](../../work/claude/batches/batch_0043.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_11` | غادري هذا المكان الذي تمزقه الصراعات. اجمعي الموالين لشيفو، وقوّي صفوفكِ، وأقيمي تنظيمًا جديدًا. | [الدفعة](../../work/claude/batches/batch_0043.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_12` | لو كان حيًا، لأرادكِ أن تفعلي هذا. | [الدفعة](../../work/claude/batches/batch_0043.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_12` | لو كان حيًّا، لأرادكِ أن تفعلي هذا. | [الدفعة](../../work/claude/batches/batch_0043.json) | [التصحيح](../../work/claude/out/batch_0043.json) |
 | `Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_14` | لا تقلقي. | [الدفعة](../../work/claude/batches/batch_0043.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_15` | قبل أن تنتهي حياتي، سأقضي على تسو شانغ والمبعوث. | [الدفعة](../../work/claude/batches/batch_0043.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_16` | إن كان للوولين أن يشهد أيامًا أفضل، فالبداية بإعادة بناء التنظيم على يديكِ. | [الدفعة](../../work/claude/batches/batch_0043.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -4882,7 +4882,7 @@
 | `Dlg_XiMeng_LeiDang1_LeiDang1_5` | مهمة التنظيم... فشلت... | [الدفعة](../../work/claude/batches/batch_0045.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_LeiDang2_Battle_1` | يا لها من متعة! | [الدفعة](../../work/claude/batches/batch_0045.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_LeiDang2_Battle_2` | لن تفلت من هذه الحركة! | [الدفعة](../../work/claude/batches/batch_0045.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_XiMeng_LeiDang2_Hun_2` | تناولت سمّ السكون وتظاهرت بأنه سمّ الصمت لتجعلني أرخِي حذري. | [الدفعة](../../work/claude/batches/batch_0045.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_XiMeng_LeiDang2_Hun_2` | تناولت سمّ السكون وتظاهرت بأنه سمّ الصمت لتجعلني أرخي حذري. | [الدفعة](../../work/claude/batches/batch_0045.json) | [التصحيح](../../work/claude/out/batch_0045.json) |
 | `Dlg_XiMeng_LeiDang2_Hun_3` | ثم يقيّدني لنغ تو بخيوطه... بالقدر الذي يكفي لتقتلني. | [الدفعة](../../work/claude/batches/batch_0045.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_LeiDang2_Hun_4` | إذًا كانت تلك خطة تسو شانغ ولنغ تو... فلماذا... | [الدفعة](../../work/claude/batches/batch_0045.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_LeiDang2_LeiDang_1` | تلك الطلقة... كانت موجّهة إليك. | [الدفعة](../../work/claude/batches/batch_0045.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -4999,7 +4999,7 @@
 | `Dlg_XiMeng_MEM_YuEr1_MengChai_2` | يا له من إزعاج... مهما استخدمت من مسحوق نقل الروح، لا يؤثر إلا في العامة غير المدرّبين... ولا يترك لي سوى دمى رديئة. | [الدفعة](../../work/claude/batches/batch_0046.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_MEM_YuEr1_MengChai_4` | هه هه... دفعة جديدة من الألعاب. والآن... في أي نوع من الدمى أضعكم جميعًا؟ | [الدفعة](../../work/claude/batches/batch_0046.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_MEM_YuEr1_MengChai_6` | ههه. لا تخافي... لن يؤلمك الأمر إلا قليلًا... وسرعان ما لن يبقى منكِ سوى الرغبة في القتل... | [الدفعة](../../work/claude/batches/batch_0046.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_XiMeng_MEM_YuEr1_MengChai_8` | لكن احذري المعلم سول... ذلك الخائن من التنظيم. لن يُبقي منكم أحدًا حيًا... | [الدفعة](../../work/claude/batches/batch_0046.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_XiMeng_MEM_YuEr1_MengChai_8` | لكن احذري المعلم سول... ذلك الخائن من التنظيم. لن يُبقي منكم أحدًا حيًّا... | [الدفعة](../../work/claude/batches/batch_0046.json) | [التصحيح](../../work/claude/out/batch_0046.json) |
 | `Dlg_XiMeng_MEM_YuEr1_YuEr_1` | البرد قارس... جسدي... لا أستطيع الحراك... | [الدفعة](../../work/claude/batches/batch_0046.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_MEM_YuEr1_YuEr_3` | من... من يتحكم... بجسدي...؟ | [الدفعة](../../work/claude/batches/batch_0046.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_XiMeng_MEM_YuEr1_YuEr_5` | ل-لا! لستُ أنا! لا أريد إيذاء أحد! | [الدفعة](../../work/claude/batches/batch_0046.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -5288,11 +5288,11 @@
 | `Dlg_ZDDY_Investigate_TuDiMiao_Hun_4` | حتى موجي لم يلتقِ بهذا «المعلّم باي» قط... لا عجب أن ما كُتب عنه قليل جدًا. | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_Investigate_TuDiMiao_Hun_5` | تشير الخريطة إلى الجبال الشمالية... والنحيب يأتي من هناك أيضًا. تُرى، هل بينهما صلة؟ | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_JianKeFuZi_JianKeFuZi_2` | هاه! | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_ZDDY_JianKeFuZi_LanYiJIanKe_1` | ههه... لِنَعُد أبا وابنا في الحياة القادمة! | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_ZDDY_JianKeFuZi_LanYiJIanKe_1` | ههه... لِنَعُد أبًا وابنًا في الحياة القادمة! | [الدفعة](../../work/claude/batches/batch_0049.json) | [التصحيح](../../work/claude/out/batch_0049.json) |
 | `Dlg_ZDDY_JianZhen_HongYiNvJianKe_1` | لا شيء يفرقنا. حتى الموت... | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_KLSJ_JCWJK_0` | آه... أَرغ... آآه! | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_KLSJ_JCWJK_1` | المعلّم هوانغشينغ... أمرني بحراسة البوابة! | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_ZDDY_KLSJ_JCWJK_2` | لن يمرّ أحد حيًا! | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_ZDDY_KLSJ_JCWJK_2` | لن يمرّ أحد حيًّا! | [الدفعة](../../work/claude/batches/batch_0049.json) | [التصحيح](../../work/claude/out/batch_0049.json) |
 | `Dlg_ZDDY_KLSJ_JCWJK_3` | ميدان التدريب... في عمق المعسكر... | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_KLSJ_JCWJK_3_0` | آه... | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_KLSJ_JCWJK_4` | كانوا يأخذون الجنود إلى هناك... ثم... | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -5313,7 +5313,7 @@
 | `Dlg_ZDDY_MEM_Gate_WeiSanChuan_5` | لديّ خطة، لكنها محفوفة بالمخاطر... ائتمنني المعلم موجي على المفتاح الاحتياطي للبوابات الخارجية للمعسكر. | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_MEM_Gate_WeiSanChuan_6` | إن استطعنا بلوغ البوابة وإغلاقها من الخارج، فقد نتمكن من إبقاء تلك المسوخ بعيدًا! | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_MEM_Gate_WeiSanChuan_9` | إن خرجنا حقًا... فامضوا أنتم من دوني. | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Dlg_ZDDY_MEM_Gate_ZhaoDi_8` | فلنصمد إذن! إن نجونا، فقد يبقى أمل الميثاق حيًا! | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Dlg_ZDDY_MEM_Gate_ZhaoDi_8` | فلنصمد إذن! إن نجونا، فقد يبقى أمل الميثاق حيًّا! | [الدفعة](../../work/claude/batches/batch_0049.json) | [التصحيح](../../work/claude/out/batch_0049.json) |
 | `Dlg_ZDDY_MEM_Gate_ZhengDao_1` | قبل أن يرحل المعلم موجي، علّمنا... ما دام الأمل باقيًا في قلوبنا، فلن يسقط الميثاق أبدًا. | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_MEM_Gate_ZhengDao_2` | لكن أي أمل بقي للميثاق... أو حتى للوولين...؟ | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Dlg_ZDDY_MEM_Gate_ZhengDao_3` | ضلّ كثير من إخوتنا الطريق... فمنهم من اعتنق ذلك الارتقاء المشوّه... ومنهم من فعل ما هو أسوأ... | [الدفعة](../../work/claude/batches/batch_0049.json) | [الأصل](../../data/Game_locres_ar.json) |
