@@ -34,7 +34,7 @@ test('existing translation files are restored byte for byte', async t => {
   const f = await fixture(t);
   for (const name of engine.NAMES) await fs.writeFile(path.join(f.mods, name), `previous ${name}`);
   const result = await engine.install(path.join(f.game, 'ProjectPBZ'), f.payload);
-  assert.ok(result.backup.startsWith(f.mods));
+  assert.equal(path.dirname(path.dirname(result.backup)), await fs.realpath(f.mods));
   assert.equal((await engine.uninstall(f.game)).restored, 4);
   for (const name of engine.NAMES) assert.equal(await fs.readFile(path.join(f.mods, name), 'utf8'), `previous ${name}`);
 });

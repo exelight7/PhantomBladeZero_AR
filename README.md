@@ -29,7 +29,7 @@
 
 ## 📦 الإصدار 1.0.0
 
-[صفحة الإصدار والتنزيلات](https://github.com/exelight7/PhantomBladeZero_AR/releases/tag/v1.0.0)
+[صفحة الإصدار والتنزيلات](https://github.com/exelight7/PhantomBladeZero_AR/releases/tag/1.0.0)
 
 | طريقتك | الملف |
 | --- | --- |
