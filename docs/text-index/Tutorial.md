@@ -237,7 +237,7 @@
 | `Tutorial_Quest_Attack_0` | الهجوم | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Attack_1` | استخدام &lt;Tutorial_Title_Yellow&gt;سلاسل الضربات الأساسية&lt;/&gt; لإصابة الأعداء! | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Attack_10` | تفعيل &lt;Tutorial_Body_Yellow&gt;سلاح طيفي&lt;/&gt; (سلاح ثانوي). | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Tutorial_Quest_Attack_11` | أثناء استخدام الفأس الهمجي العملاق، الضغط مطوّلًا على &lt;InputAction id=&quot;ShaChiAttack&quot; height=&quot;26&quot;/&gt; لشحنه مرتين. | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Tutorial_Quest_Attack_11` | أثناء استخدام الفأس المروّع، الضغط مطوّلًا على &lt;InputAction id=&quot;ShaChiAttack&quot; height=&quot;26&quot;/&gt; لشحنه مرتين. | [الدفعة](../../work/opencode/batches/batch_0039.json) | [التصحيح](../../work/opencode/out/batch_0039.json) |
 | `Tutorial_Quest_Attack_12` | ذخيرة السلاح الطيفي | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Attack_13` | ضرب العدو باستخدام &lt;Tutorial_Title_Yellow&gt;القوس&lt;/&gt;! | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Attack_13_01` | تفعيل &lt;Tutorial_Body_Yellow&gt;سلاح طيفي&lt;/&gt; (سلاح ثانوي). | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
@@ -251,7 +251,7 @@
 | `Tutorial_Quest_Attack_6` | التبديل إلى &lt;Tutorial_Title_Yellow&gt;التوأم القاني&lt;/&gt; وضرب العدو بأي سلسلتي ضربات! | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Attack_7` | تبديل الأسلحة | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Attack_8` | التبديل بين الأسلحة يعيد ملء شا-تشي بالكامل. | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Tutorial_Quest_Attack_9` | التبديل إلى &lt;Tutorial_Title_Yellow&gt;الفأس الهمجي العملاق&lt;/&gt; وضرب العدو بهجومين مشحونين! | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Tutorial_Quest_Attack_9` | التبديل إلى &lt;Tutorial_Title_Yellow&gt;الفأس المروّع&lt;/&gt; وضرب العدو بهجومين مشحونين! | [الدفعة](../../work/opencode/batches/batch_0039.json) | [التصحيح](../../work/opencode/out/batch_0039.json) |
 | `Tutorial_Quest_Defend_0` | الصدّ والمراوغة | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Defend_1` | الدخول في وضعية الدفاع والتحرّك لمسافة قصيرة | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Tutorial_Quest_Defend_10` | مراوغة هجمات الأعداء! | [الدفعة](../../work/opencode/batches/batch_0039.json) | [الأصل](../../data/Game_locres_ar.json) |

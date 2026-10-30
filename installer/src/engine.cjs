@@ -26,7 +26,7 @@ async function location(selected) {
 }
 async function verifiedPayload(payload) {
   const manifest = JSON.parse(await fs.readFile(path.join(payload, 'manifest.json'), 'utf8'));
-  if (manifest.version !== '1.0.0' || manifest.files?.length !== NAMES.length || new Set(manifest.files.map(f => f.name)).size !== NAMES.length) throw new Error('بيانات حزمة التثبيت غير صالحة.');
+  if (manifest.version !== '1.0.1' || manifest.files?.length !== NAMES.length || new Set(manifest.files.map(f => f.name)).size !== NAMES.length) throw new Error('بيانات حزمة التثبيت غير صالحة.');
   for (const f of manifest.files) {
     if (!NAMES.includes(f.name) || !/^[a-f0-9]{64}$/.test(f.sha256)) throw new Error('اسم ملف غير صالح في حزمة التثبيت.');
     const data = await fs.readFile(path.join(payload, f.name));

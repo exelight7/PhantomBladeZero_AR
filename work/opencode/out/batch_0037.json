@@ -1,0 +1,5 @@
+{
+ "PhantomEdges_Function_017_5": "إمكان <Character_Yellow_Decorator2>شحن كل هجوم لفترة وجيزة</> بالضغط المطوّل على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"0\"/>، لتمكين ذلك الهجوم ومنح <Character_Yellow_Decorator2>تركيز قبضة</> إضافي. عند اكتمال الشحن، تومض القفازات الحديدية. الإفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بتوقيت دقيق لتنفيذ شحنة مثالية، وتفعيل <Character_Yellow_Decorator2>ضربة القبضة المتقنة</>. يمنح ذلك الهجوم قوةً أكبر بكثير و<Character_Yellow_Decorator2>تركيز قبضة</> إضافيًا.",
+ "PhantomEdges_Function_018_15": "كلما زاد الضرر الذي <Character_Yellow_Decorator2> تُلحقه [العجلة </><Character_Yellow_Decorator2>المشعة] </>أثناء نشاطها، زاد الضرر واستنزاف شا-تشي للضربة الثالثة التي تُنفّذ بالضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>",
+ "PhantomEdges_Function_023_15": "الأعداء داخل الحقل يستهلكون شا-تشي أكثر عند صدّ الهجمات."
+}

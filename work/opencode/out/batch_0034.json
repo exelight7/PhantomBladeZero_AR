@@ -1,0 +1,5 @@
+{
+ "PhantomEdges_FunctionDes_005_Base": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتأرجح فك الذئب نحو الأعداء، مع <Character_Yellow_Decorator2>استنزاف حياتهم لاستعادة الصحة</>. لا تأثير له على الدمى أو الأجساد الذهبية أو الأجساد الطيفية. يستهلك <dtv id=\"X311\"/> <img id=\"SpiritShadow\" width=\"40\"/>",
+ "PhantomEdges_FunctionDes_006_Terrian": "بعد الحصول عليه، يتيح مدفع النمر تحطيم الجدران الحجرية الواهنة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزه</>.",
+ "PhantomEdges_FunctionDes_018_Re": "أثناء نشاط <Character_Yellow_Decorator2>[العجلة المشعة]</>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> مجددًا لإطلاق عجلة أخرى. لا يمكن لـ<Character_Yellow_Decorator2> [العجلة المشعة] </>الإضافية تفعيل<Character_Yellow_Decorator2> [عجلتان مشعتان]</> مجددًا.\nإذا كان كل من <Character_Yellow_Decorator2>[الإشراق الأخير]</> و<Character_Yellow_Decorator2> [عجلتان مشعتان] </>مفتوحًا، تكون الأولوية لـ<Character_Yellow_Decorator2> [عجلتان مشعتان]</>."
+}

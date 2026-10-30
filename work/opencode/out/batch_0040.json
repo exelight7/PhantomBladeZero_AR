@@ -1,0 +1,4 @@
+{
+ "UI_AbilityNode_4": "<InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> خفض فترة انتظار تبديل السلاح بمقدار <WeaponDes_Num_Green>ثانيتين</>.",
+ "UI_AbilityNode_26": "بعد الركض لمدة <WeaponDes_Num_Green>ثانيتين</>، بدء الركض فائق السرعة."
+}

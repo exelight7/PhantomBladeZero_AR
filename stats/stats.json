@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30 15:36",
+ "updated": "2026-10-30 16:09",
  "sessions": [
   {
    "who": "claude",
@@ -31,30 +31,44 @@
     "questions.md": 4,
     "skipped.md": 1
    },
-   "state_mtime": "2026-10-30 15:34"
+   "state_mtime": "2026-10-30 15:37"
   },
   {
    "who": "opencode",
    "batches": 59,
-   "done": 0,
+   "done": 59,
    "entries": 4819,
    "chars": 417674,
-   "entries_done": 0,
-   "chars_done": 0,
-   "changed": 0,
-   "accepted": 0,
+   "entries_done": 4819,
+   "chars_done": 417674,
+   "changed": 106,
+   "accepted": 106,
    "rejected": 0,
    "warned": 0,
-   "size": {},
-   "fam": {},
-   "pending_next": "batch_0001.json",
-   "last_done": null,
+   "size": {
+    "طفيف (تنوين/إملاء/ترقيم)": 99,
+    "متوسط (كلمات)": 7
+   },
+   "fam": {
+    "Appearance": 1,
+    "BossNameDes": 12,
+    "EnemyDesc": 3,
+    "Item": 54,
+    "PhantomEdgesDes": 3,
+    "PhantomEdges": 8,
+    "Tutorial": 2,
+    "UI": 6,
+    "WeaponDes": 3,
+    "Weapon": 14
+   },
+   "pending_next": null,
+   "last_done": "batch_0059.json",
    "extras": {
     "glossary_proposals.md": 0,
     "questions.md": 0,
     "skipped.md": 0
    },
-   "state_mtime": "—"
+   "state_mtime": "2026-10-30 16:09"
   }
  ]
 }

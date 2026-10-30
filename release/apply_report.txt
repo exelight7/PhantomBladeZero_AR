@@ -1,2 +1,2 @@
-ملفات: 66 | تعديلات مقبولة: 128 | مرفوضة: 0 | تحذيرات: 0 | pak: release/ProjectPBZ/Content/Paks/~mods/exelight7_P.pak
+ملفات: 125 | تعديلات مقبولة: 231 | مرفوضة: 0 | تحذيرات: 0 | pak: release/ProjectPBZ/Content/Paks/~mods/exelight7_P.pak
 واجهة الإعدادات: تعريب exelight7

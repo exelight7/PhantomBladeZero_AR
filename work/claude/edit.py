@@ -29,7 +29,7 @@ for line in sys.stdin.read().splitlines():
     cur = manual.get(key, base.get(key))
     if cur is None:
         print("NO KEY:", key); bad += 1; continue
-    old = old.strip(); new = new.strip() if new.strip() else new
+    old = old.strip().replace("\\n", "\n"); new = (new.strip() if new.strip() else new).replace("\\n", "\n")
     if cur.count(old) != 1:
         print(f"OLD x{cur.count(old)}: {key} | {old}"); bad += 1; continue
     upd = cur.replace(old, new.strip())
