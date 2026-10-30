@@ -7,7 +7,7 @@
   "main": "src/main.cjs",
   "scripts": {
     "start": "electron .",
-    "test": "node --test --test-isolation=none test/*.test.cjs",
+    "test": "node scripts/run-tests.cjs",
     "prepare:payload": "python ../tools/prepare_release.py",
     "icons": "node scripts/icons.cjs",
     "build": "npm run icons && electron-builder --linux AppImage --win portable --x64",
