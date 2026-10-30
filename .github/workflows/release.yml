@@ -1,0 +1,72 @@
+name: Build and publish release
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: installer/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - run: python tools/prepare_release.py
+      - run: npm ci
+        working-directory: installer
+      - run: npm test
+        working-directory: installer
+      - name: Linux UI test
+        if: runner.os == 'Linux'
+        run: npx electron --ozone-platform=headless --disable-gpu --no-sandbox scripts/smoke.cjs
+        working-directory: installer
+      - run: npm run build:linux
+        if: runner.os == 'Linux'
+        working-directory: installer
+      - run: npm run build:windows
+        if: runner.os == 'Windows'
+        working-directory: installer
+      - uses: actions/upload-artifact@v4
+        with:
+          name: release-${{ runner.os }}
+          path: |
+            dist/*.exe
+            dist/*.AppImage
+            dist/*-manual.zip
+          if-no-files-found: error
+  publish:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: release-*
+          path: dist
+          merge-multiple: true
+      - run: python tools/prepare_release.py --checksums
+      - name: Publish public release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          test "$VERSION" = "$(python -c 'import json; print(json.load(open("installer/package.json"))["version"])')"
+          gh release create "$GITHUB_REF_NAME" dist/*.exe dist/*.AppImage dist/*-manual.zip dist/SHA256SUMS.txt --verify-tag --title "$VERSION — Phantom Blade Zero بالعربية" --notes-file "release/NOTES-$VERSION.md" --latest

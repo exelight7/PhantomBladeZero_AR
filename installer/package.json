@@ -1,0 +1,67 @@
+{
+  "name": "phantombladezero-ar-installer",
+  "version": "1.0.0",
+  "description": "مثبّت التعريب العربي لـ Phantom Blade Zero — exelight7",
+  "author": "exelight7",
+  "license": "MIT",
+  "main": "src/main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test --test-isolation=none test/*.test.cjs",
+    "prepare:payload": "python ../tools/prepare_release.py",
+    "icons": "node scripts/icons.cjs",
+    "build": "npm run icons && electron-builder --linux AppImage --win portable --x64",
+    "build:linux": "npm run icons && electron-builder --linux AppImage --x64",
+    "build:windows": "npm run icons && electron-builder --win portable --x64",
+    "test:ui": "electron scripts/smoke.cjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "electron": "45.1.0",
+    "electron-builder": "26.18.0"
+  },
+  "build": {
+    "appId": "io.github.exelight7.phantombladezero-ar",
+    "productName": "Phantom Blade Zero Arabic",
+    "asar": true,
+    "directories": {
+      "output": "../dist",
+      "buildResources": "assets"
+    },
+    "files": [
+      "src/**/*",
+      "assets/icon.png",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "payload",
+        "to": "payload",
+        "filter": [
+          "**/*"
+        ]
+      }
+    ],
+    "artifactName": "PhantomBladeZero-AR-${version}-${os}-${arch}.${ext}",
+    "linux": {
+      "target": "AppImage",
+      "category": "Game",
+      "icon": "assets/icon.png",
+      "desktop": {
+        "entry": {
+          "Name": "Phantom Blade Zero — العربية",
+          "Comment": "Arabic localization installer by exelight7"
+        }
+      }
+    },
+    "win": {
+      "target": "portable",
+      "icon": "assets/icon.ico",
+      "signAndEditExecutable": false
+    },
+    "portable": {
+      "requestExecutionLevel": "user"
+    },
+    "publish": null
+  }
+}

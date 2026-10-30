@@ -1,2 +1,8 @@
 raw/
 __pycache__/
+installer/node_modules/
+installer/payload/
+installer/assets/icon.png
+installer/assets/icon.ico
+dist/
+.cache/
