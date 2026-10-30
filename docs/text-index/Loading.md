@@ -110,7 +110,7 @@
 | `Loading_XSSL_1` | يعيش معظم الناس في &lt;Bold&gt;عالم اليقظة&lt;/&gt;، فيما يوجد &lt;Bold&gt;العالم الخفي&lt;/&gt; إلى جواره. | [الدفعة](../../work/claude/batches/batch_0051.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Loading_XSSL_2` | قبل ظهور التنظيم، كانت &lt;Bold&gt;عشيرة لونغ&lt;/&gt; تقود أهل الطريق القويم، فيما التأم الخارجون عنه تحت راية &lt;Bold&gt;حصن مو&lt;/&gt;. | [الدفعة](../../work/claude/batches/batch_0052.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `Loading_XSSL_3` | &lt;Bold&gt;المحطِّم&lt;/&gt; حارس ظلال قوي، يسيطر عليه المنشار. | [الدفعة](../../work/claude/batches/batch_0052.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Loading_XSSL_4` | &lt;Bold&gt;إنانيس&lt;/&gt; خبير فنون الأطياف لدى التنظيم، ولم يعد السير في عالم اليقظة ممكنًا له. | [الدفعة](../../work/claude/batches/batch_0052.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Loading_XSSL_4` | &lt;Bold&gt;إنانيس&lt;/&gt; خبيرة فنون الأطياف لدى التنظيم، ولم يعد السير في عالم اليقظة ممكنًا لها. | [الدفعة](../../work/claude/batches/batch_0052.json) | [التصحيح](../../work/claude/out/batch_0052.json) |
 
 ## Loading_XiMeng
 

@@ -35,7 +35,7 @@ async function poll(window, expression) {
         await window.webContents.executeJavaScript("document.querySelector('#install').click()");
         await poll(window, "!document.querySelector('#success').hidden && !document.querySelector('#uninstall').disabled");
         const record = JSON.parse(await fs.readFile(path.join(mods, '.exelight7-install.json')));
-        assert.equal(record.files.length, 4);
+        assert.equal(record.files.length, 3);
         await window.webContents.executeJavaScript("document.querySelector('#uninstall').click()");
         await poll(window, "!document.querySelector('#install').disabled && document.querySelector('#uninstall').disabled");
         assert.equal(await fs.readFile(path.join(mods, 'untouched.pak'), 'utf8'), 'another mod');

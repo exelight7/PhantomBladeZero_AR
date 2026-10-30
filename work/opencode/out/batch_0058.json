@@ -1,0 +1,3 @@
+{
+ "Weapon_Function_013_5": "الاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لشحن الضربة القاطعة المتهورة. تحويل كل الضرر المتلقى أثناء الشحن إلى <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>. إذا أصابت الضربة عدوًا، استعادة <dtv id=\"X132\"/> من <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> المتراكمة أثناء الشحن. لا تأثير لها على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+}

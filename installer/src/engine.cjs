@@ -1,7 +1,9 @@
 const fs = require('node:fs/promises');
 const path = require('node:path');
 const crypto = require('node:crypto');
-const NAMES = ['3BADIOH_P.pak', '3BADIOH_P.utoc', '3BADIOH_P.ucas', 'ZZZ_3BADIOH_Fix_P.pak'];
+const NAMES = ['exelight7_P.pak', 'exelight7_P.utoc', 'exelight7_P.ucas'];
+// أسماء ملفات الإصدار السابق من المشروع. تعريبان معًا يتعارضان، فتُنقل إلى النسخة الاحتياطية عند التثبيت وتُعاد عند الإزالة.
+const RETIRED = ['3BADIOH_P.pak', '3BADIOH_P.utoc', '3BADIOH_P.ucas', 'ZZZ_3BADIOH_Fix_P.pak'];
 const STATE = '.exelight7-install.json';
 const sha = data => crypto.createHash('sha256').update(data).digest('hex');
 
@@ -24,7 +26,7 @@ async function location(selected) {
 }
 async function verifiedPayload(payload) {
   const manifest = JSON.parse(await fs.readFile(path.join(payload, 'manifest.json'), 'utf8'));
-  if (manifest.version !== '1.0.0' || manifest.files?.length !== NAMES.length || new Set(manifest.files.map(f => f.name)).size !== NAMES.length) throw new Error('بيانات حزمة التثبيت غير صالحة.');
+  if (manifest.version !== '1.0.1' || manifest.files?.length !== NAMES.length || new Set(manifest.files.map(f => f.name)).size !== NAMES.length) throw new Error('بيانات حزمة التثبيت غير صالحة.');
   for (const f of manifest.files) {
     if (!NAMES.includes(f.name) || !/^[a-f0-9]{64}$/.test(f.sha256)) throw new Error('اسم ملف غير صالح في حزمة التثبيت.');
     const data = await fs.readFile(path.join(payload, f.name));
@@ -37,8 +39,12 @@ async function readState(mods) {
   if (!await exists(target)) return null;
   await ordinary(target);
   const s = JSON.parse(await fs.readFile(target, 'utf8'));
-  if (s.schema !== 1 || typeof s.backup !== 'string' || !/^[a-f0-9-]{36}$/.test(s.backup) || !Array.isArray(s.files) || s.files.length !== 4 || new Set(s.files.map(f => f.name)).size !== 4) throw new Error('سجل التثبيت غير صالح؛ لن يتم تغيير الملفات.');
-  for (const f of s.files) if (!NAMES.includes(f.name) || !/^[a-f0-9]{64}$/.test(f.sha256) || (f.previous !== null && !/^[a-f0-9]{64}$/.test(f.previous))) throw new Error('سجل النسخة الاحتياطية غير صالح.');
+  const known = [...NAMES, ...RETIRED]; // سجل الإصدار السابق يسرد أسماءه القديمة فتبقى إزالته ممكنة
+  if (s.schema !== 1 || typeof s.backup !== 'string' || !/^[a-f0-9-]{36}$/.test(s.backup) || !Array.isArray(s.files) || !s.files.length || new Set(s.files.map(f => f.name)).size !== s.files.length) throw new Error('سجل التثبيت غير صالح؛ لن يتم تغيير الملفات.');
+  for (const f of s.files) if (!known.includes(f.name) || !/^[a-f0-9]{64}$/.test(f.sha256) || (f.previous !== null && !/^[a-f0-9]{64}$/.test(f.previous))) throw new Error('سجل النسخة الاحتياطية غير صالح.');
+  s.retired = s.retired ?? [];
+  if (!Array.isArray(s.retired) || new Set(s.retired.map(f => f.name)).size !== s.retired.length) throw new Error('سجل التثبيت غير صالح؛ لن يتم تغيير الملفات.');
+  for (const f of s.retired) if (!RETIRED.includes(f.name) || !/^[a-f0-9]{64}$/.test(f.previous)) throw new Error('سجل النسخة الاحتياطية غير صالح.');
   return s;
 }
 async function status(selected) {
@@ -86,7 +92,9 @@ async function install(selected, payload, progress = () => {}, hooks = {}) {
     await fs.mkdir(backupDir);
     await fs.mkdir(stage);
     const records = [];
+    const retired = [];
     const written = [];
+    const removed = [];
     let committed = false;
     try {
       for (let i = 0; i < manifest.files.length; i++) {
@@ -104,7 +112,16 @@ async function install(selected, payload, progress = () => {}, hooks = {}) {
         if (sha(await fs.readFile(path.join(stage, f.name))) !== f.sha256) throw new Error('تعذّر التحقق من الملف المنسوخ.');
         progress({ percent: (i + 1) * 10, message: 'التحقق من الملفات وحفظ النسخة الاحتياطية…' });
       }
-      const state = { schema: 1, version: manifest.version, backup, files: records };
+      for (const name of RETIRED) {
+        const target = path.join(mods, name);
+        if (!await exists(target)) continue;
+        await ordinary(target);
+        const previous = sha(await fs.readFile(target));
+        await fs.copyFile(target, path.join(backupDir, name));
+        if (sha(await fs.readFile(path.join(backupDir, name))) !== previous) throw new Error('تعذّر التحقق من النسخة الاحتياطية.');
+        retired.push({ name, previous });
+      }
+      const state = { schema: 1, version: manifest.version, backup, files: records, retired };
       await fs.writeFile(path.join(backupDir, 'recovery.json'), JSON.stringify(state, null, 2));
       for (let i = 0; i < records.length; i++) {
         const f = records[i];
@@ -114,13 +131,22 @@ async function install(selected, payload, progress = () => {}, hooks = {}) {
         if (sha(await fs.readFile(path.join(mods, f.name))) !== f.sha256) throw new Error('تعذّر التحقق من ملف اللعبة بعد نسخه.');
         progress({ percent: 50 + (i + 1) * 10, message: 'تثبيت التعريب…' });
       }
+      for (let i = 0; i < retired.length; i++) {
+        if (hooks.beforeRetire) await hooks.beforeRetire(i);
+        removed.push(retired[i]);
+        await fs.unlink(path.join(mods, retired[i].name));
+      }
       await fs.writeFile(path.join(stage, STATE), JSON.stringify(state, null, 2));
       await fs.rename(path.join(stage, STATE), path.join(mods, STATE));
       committed = true;
       progress({ percent: 100, message: 'اكتمل تثبيت التعريب' });
-      return { version: manifest.version, backup: backupDir };
+      return { version: manifest.version, backup: backupDir, retired: retired.map(f => f.name) };
     } catch (error) {
       const failures = [];
+      for (const f of removed.reverse()) {
+        try { await fs.copyFile(path.join(backupDir, f.name), path.join(mods, f.name)); }
+        catch { failures.push(f.name); }
+      }
       for (const f of written.reverse()) {
         try { if (f.previous) await fs.copyFile(path.join(backupDir, f.name), path.join(mods, f.name)); else await fs.rm(path.join(mods, f.name), { force: true }); }
         catch { failures.push(f.name); }
@@ -154,7 +180,13 @@ async function uninstall(selected, progress = () => {}, hooks = {}) {
         if (sha(await fs.readFile(path.join(backup, f.name))) !== f.previous) throw new Error('النسخة الاحتياطية غير سليمة. لن تُحذف ملفات التعريب.');
       }
     }
+    for (const f of state.retired) {
+      await ordinary(path.join(backup, f.name));
+      if (sha(await fs.readFile(path.join(backup, f.name))) !== f.previous) throw new Error('النسخة الاحتياطية غير سليمة. لن تُحذف ملفات التعريب.');
+      if (await exists(path.join(mods, f.name))) throw new Error(`عاد الملف ${f.name} إلى المجلد بعد التثبيت. احذفه أو انقله ثم أعد المحاولة.`);
+    }
     const changed = [];
+    const restored = [];
     try {
       for (let i = 0; i < state.files.length; i++) {
         const f = state.files[i];
@@ -162,15 +194,22 @@ async function uninstall(selected, progress = () => {}, hooks = {}) {
         changed.push(f.name);
         if (f.previous) await fs.copyFile(path.join(backup, f.name), path.join(mods, f.name));
         else await fs.unlink(path.join(mods, f.name));
-        progress({ percent: (i + 1) * 25, message: 'استعادة الملفات السابقة…' });
+        progress({ percent: Math.round(((i + 1) / state.files.length) * 100), message: 'استعادة الملفات السابقة…' });
+      }
+      for (const f of state.retired) {
+        restored.push(f.name);
+        await fs.copyFile(path.join(backup, f.name), path.join(mods, f.name));
       }
       await fs.unlink(path.join(mods, STATE));
     } catch (error) {
-      try { for (const name of changed) await fs.writeFile(path.join(mods, name), current.get(name)); }
+      try {
+        for (const name of restored) await fs.rm(path.join(mods, name), { force: true });
+        for (const name of changed) await fs.writeFile(path.join(mods, name), current.get(name));
+      }
       catch { throw new Error(`تعذّر إكمال الاستعادة. النسخة الاحتياطية في: ${backup}`); }
       throw error;
     }
-    return { restored: state.files.filter(f => f.previous).length, backup };
+    return { restored: state.files.filter(f => f.previous).length + state.retired.length, backup };
   });
 }
-module.exports = { NAMES, location, verifiedPayload, status, install, uninstall, sha };
+module.exports = { NAMES, RETIRED, location, verifiedPayload, status, install, uninstall, sha };

@@ -1,5 +1,6 @@
 import struct,sys,os
-base=r"C:\Users\npxf1\Downloads\New folder\ProjectPBZ\Content\Paks\~mods\3BADIOH_P"
+from pbzlib import SRC_PAK
+base=str(SRC_PAK.with_suffix(""))
 t=open(base+".utoc","rb").read(); u=open(base+".ucas","rb").read()
 (ver,_,_,_,hs,cnt,bc,bs,cmc,cml,cbs,dis,parts)=struct.unpack_from("<B3BIIIIIIIII",t,16) if False else (None,)*13
 ver=t[16]; hs,cnt,bc,bs,cmc,cml,cbs,dis,parts=struct.unpack_from("<9I",t,20)

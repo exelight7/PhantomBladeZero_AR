@@ -13,7 +13,7 @@ async function fixture(t) {
   await fs.mkdir(mods, { recursive: true }); await fs.mkdir(payload);
   const files = [];
   for (const name of engine.NAMES) { const data = Buffer.from(`تعريب ${name}`); await fs.writeFile(path.join(payload, name), data); files.push({ name, sha256: engine.sha(data), size: data.length }); }
-  await fs.writeFile(path.join(payload, 'manifest.json'), JSON.stringify({ version: '1.0.0', files }));
+  await fs.writeFile(path.join(payload, 'manifest.json'), JSON.stringify({ version: '1.0.1', files }));
   await fs.writeFile(path.join(mods, 'another-mod.pak'), 'unrelated mod');
   return { dir, game, mods, payload, files };
 }
@@ -35,7 +35,7 @@ test('existing translation files are restored byte for byte', async t => {
   for (const name of engine.NAMES) await fs.writeFile(path.join(f.mods, name), `previous ${name}`);
   const result = await engine.install(path.join(f.game, 'ProjectPBZ'), f.payload);
   assert.equal(path.dirname(path.dirname(result.backup)), await fs.realpath(f.mods));
-  assert.equal((await engine.uninstall(f.game)).restored, 4);
+  assert.equal((await engine.uninstall(f.game)).restored, 3);
   for (const name of engine.NAMES) assert.equal(await fs.readFile(path.join(f.mods, name), 'utf8'), `previous ${name}`);
 });
 test('corrupt payload is rejected before changing game files', async t => {
@@ -87,7 +87,7 @@ test('symlinked mod files cannot write outside the game', { skip: process.platfo
   assert.equal(await fs.readFile(external, 'utf8'), 'keep');
 });
 test('manifest traversal and duplicate filenames are rejected', async t => {
-  const f = await fixture(t); const manifest = { version: '1.0.0', files: f.files };
+  const f = await fixture(t); const manifest = { version: '1.0.1', files: f.files };
   manifest.files[0].name = '../outside';
   await fs.writeFile(path.join(f.payload, 'manifest.json'), JSON.stringify(manifest));
   await assert.rejects(engine.install(f.game, f.payload), /اسم ملف/);
@@ -104,4 +104,49 @@ test('unmanaged manual installations are not removed', async t => {
   const f = await fixture(t); await fs.writeFile(path.join(f.mods, engine.NAMES[0]), 'manual');
   await assert.rejects(engine.uninstall(f.game), /لا يوجد تثبيت/);
   assert.equal(await fs.readFile(path.join(f.mods, engine.NAMES[0]), 'utf8'), 'manual');
+});
+test('previous project filenames are moved aside on install and restored on removal', async t => {
+  const f = await fixture(t);
+  for (const name of engine.RETIRED) await fs.writeFile(path.join(f.mods, name), `old ${name}`);
+  const result = await engine.install(f.game, f.payload);
+  assert.deepEqual(result.retired, engine.RETIRED);
+  for (const name of engine.RETIRED) await assert.rejects(fs.stat(path.join(f.mods, name)), { code: 'ENOENT' });
+  for (const file of f.files) assert.equal(engine.sha(await fs.readFile(path.join(f.mods, file.name))), file.sha256);
+  assert.equal(await fs.readFile(path.join(f.mods, 'another-mod.pak'), 'utf8'), 'unrelated mod');
+  assert.equal((await engine.status(f.game)).installed, true);
+  assert.equal((await engine.uninstall(f.game)).restored, engine.RETIRED.length);
+  for (const name of engine.RETIRED) assert.equal(await fs.readFile(path.join(f.mods, name), 'utf8'), `old ${name}`);
+  for (const name of engine.NAMES) await assert.rejects(fs.stat(path.join(f.mods, name)), { code: 'ENOENT' });
+});
+test('failure while retiring previous files restores them and removes the new ones', async t => {
+  const f = await fixture(t);
+  for (const name of engine.RETIRED) await fs.writeFile(path.join(f.mods, name), `old ${name}`);
+  await assert.rejects(engine.install(f.game, f.payload, () => {}, { beforeRetire: i => { if (i === 2) throw new Error('simulated retire failure'); } }), /simulated retire failure/);
+  for (const name of engine.RETIRED) assert.equal(await fs.readFile(path.join(f.mods, name), 'utf8'), `old ${name}`);
+  for (const name of engine.NAMES) await assert.rejects(fs.stat(path.join(f.mods, name)), { code: 'ENOENT' });
+  assert.equal((await engine.status(f.game)).installed, false);
+});
+test('removal stops if a retired filename reappeared after installation', async t => {
+  const f = await fixture(t);
+  await fs.writeFile(path.join(f.mods, engine.RETIRED[0]), 'old'); await engine.install(f.game, f.payload);
+  await fs.writeFile(path.join(f.mods, engine.RETIRED[0]), 'another copy');
+  await assert.rejects(engine.uninstall(f.game), /عاد الملف/);
+  assert.equal((await engine.status(f.game)).changed, false);
+  assert.equal(await fs.readFile(path.join(f.mods, engine.RETIRED[0]), 'utf8'), 'another copy');
+});
+test('records written by the previous four-file release can still be removed', async t => {
+  const f = await fixture(t);
+  const backup = '11111111-1111-4111-8111-111111111111';
+  const files = [];
+  await fs.mkdir(path.join(f.mods, '.exelight7-backups', backup), { recursive: true });
+  for (const name of engine.RETIRED) {
+    const data = Buffer.from(`installed ${name}`); await fs.writeFile(path.join(f.mods, name), data);
+    files.push({ name, sha256: engine.sha(data), size: data.length, previous: null });
+  }
+  await fs.writeFile(path.join(f.mods, '.exelight7-install.json'), JSON.stringify({ schema: 1, version: '1.0.0', backup, files }));
+  assert.equal((await engine.status(f.game)).installed, true);
+  await assert.rejects(engine.install(f.game, f.payload), /أزل النسخة/);
+  await engine.uninstall(f.game);
+  for (const name of engine.RETIRED) await assert.rejects(fs.stat(path.join(f.mods, name)), { code: 'ENOENT' });
+  assert.equal((await engine.status(f.game)).installed, false);
 });
