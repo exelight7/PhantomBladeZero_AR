@@ -1,5 +1,5 @@
 ﻿تعريب Phantom Blade Zero
-تعريب عباديوه · المودّ الكامل: نصوص اللعبة كلّها بالعربية
+تعريب exelight7 · المودّ الكامل: نصوص اللعبة كلّها بالعربية
 
 اللعبة على ستيم.
 
@@ -11,23 +11,12 @@
 
 ملاحظات:
 - لا يحتاج التعريب إلى أي برنامج أو خطوة أخرى.
-- يُركَّب مودّ واحد فقط من مودَّي التعريب في الوقت نفسه، فملفاتهما بالاسم نفسه.
+- يُركَّب مودّ تعريب واحد فقط في الوقت نفسه، فملفاتهما تتعارض.
 - إذا تحدّثت اللعبة وتعطّل التعريب، احذف ملفات التعريب وانتظر تحديثه.
 
 إزالة التعريب:
-احذف الملفات الثلاثة 3BADIOH_P.pak و3BADIOH_P.utoc و3BADIOH_P.ucas من المجلد:
+احذف الملفات الثلاثة exelight7_P.pak و exelight7_P.utoc و exelight7_P.ucas من المجلد:
 PBZ\ProjectPBZ\Content\Paks\~mods
 
-
-اكس : https://x.com/i3badioh
-
-الدعم : https://tip.dokan.sa/3badioh
-
-
-تويتش : https://twitch.tv/3badioh
-
-
 الديسكورد : https://discord.com/invite/P2SgjFXM2Z
-
-
-تيك توك : https://tiktok.com/@3badioh
+المستودع : https://github.com/exelight7/PhantomBladeZero_AR

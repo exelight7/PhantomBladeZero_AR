@@ -19,8 +19,8 @@ PhantomBladeZero_AR/
 ├── LICENSE                 MIT
 │
 ├── original_mod/           المودّ الأساسي كما نُزّل (مرجع البناء والمقارنة). لا يُعدَّل
-│   ├── ProjectPBZ/Content/Paks/~mods/3BADIOH_P.{pak,ucas,utoc}
-│   └── README_3BADIOH.txt  تعليمات صاحب التعريب الأساسي وروابطه
+│   ├── ProjectPBZ/Content/Paks/~mods/base_P.{pak,ucas,utoc}
+│   └── README.txt         تعليمات التركيب الأصلية
 │
 ├── data/                   مستخرجات للقراءة (لا تُعدَّل)
 │   ├── Game_locres_ar.json     كل النصوص: ns/key/hash/text (11,135)
@@ -86,4 +86,4 @@ patches/*.json + work/*/out/*.json ──apply_patches.py──► release/…/e
 - الـ pak المبني **لم يُختبر داخل اللعبة بعد** (التحقق آلي بنيويًا فقط: تجزئات الفهرس، تطابق النصوص، تطابق كل ملفات المرجع الأخرى بايت ببايت). جرّبه ببطء وأبلغ بأي مشكلة.
 
 ## حقوق
-التعريب الأساسي لـ **3BADIOH** (روابطه في `original_mod/README_3BADIOH.txt`). هذا المستودع تحسينات النصوص وأدوات البناء والتثبيت فقط.
+تعريب وتطوير **exelight7**. ملفات المود الأساسي المرجعية في `original_mod/`.

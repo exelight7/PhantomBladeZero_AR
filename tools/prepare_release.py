@@ -78,11 +78,11 @@ Linux / Steam Deck: امنح AppImage صلاحية التشغيل، ثم افت�
 التحقق: SHA256SUMS.txt يحتوي تجزئات الملفات داخل الحزمة.
 اجتازت ملفات التعريب الفحوص الآلية؛ لم تُجرَّب هذه النسخة داخل اللعبة.
 
-التعريب الأساسي: 3BADIOH. التحسينات وأداة التثبيت: exelight7.
+تعريب وتحسينات وأداة تثبيت: exelight7.
 https://github.com/exelight7/PhantomBladeZero_AR
 """
-    notice = (ROOT / "original_mod/README_3BADIOH.txt").read_text(encoding="utf-8-sig")
-    (payload / "NOTICE.txt").write_text("التعريب الأساسي: 3BADIOH. التحسينات: exelight7.\n\n" + notice, encoding="utf-8")
+    notice = (ROOT / "original_mod/README.txt").read_text(encoding="utf-8-sig")
+    (payload / "NOTICE.txt").write_text("تعريب وتحسينات: exelight7.\n\n" + notice, encoding="utf-8")
     archive = dist / f"PhantomBladeZero-AR-{version}-manual.zip"
     with zipfile.ZipFile(archive, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         for item in manifest["files"]:

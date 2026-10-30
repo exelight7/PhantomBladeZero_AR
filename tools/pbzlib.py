@@ -5,7 +5,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")  # كونسول ويندوز الافتراضي لا يطبع العربية
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC_PAK = ROOT / "original_mod/ProjectPBZ/Content/Paks/~mods/3BADIOH_P.pak"  # الحزمة المرجعية المدخلة للبناء؛ لا تُنسخ كما هي
+SRC_PAK = ROOT / "original_mod/ProjectPBZ/Content/Paks/~mods/base_P.pak"  # الحزمة المرجعية المدخلة للبناء؛ لا تُنسخ كما هي
 MOD_NAME = "exelight7_P"  # اسم الملفات الثلاثة المثبّتة: .pak و.utoc و.ucas
 OUT_PAK = ROOT / f"release/ProjectPBZ/Content/Paks/~mods/{MOD_NAME}.pak"
 LOCRES_PATH = "ProjectPBZ/Content/Localization/Game/fr/Game.locres"

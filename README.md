@@ -108,4 +108,4 @@ python3 tools/apply_patches.py
 
 ## المصدر
 
-تطوير هذه النسخة وتحسيناتها: **exelight7**. التعريب الأساسي من **3BADIOH**؛ تفاصيله في [ملف المود الأصلي](original_mod/README_3BADIOH.txt). ترخيص أدوات المستودع في [LICENSE](LICENSE).
+تطوير هذه النسخة وتحسيناتها: **exelight7**. التعريب الأساسي أيضًا من **exelight7**؛ تعليمات الإصدار الأول في [ملف المود الأصلي](original_mod/README.txt). ترخيص أدوات المستودع في [LICENSE](LICENSE).
