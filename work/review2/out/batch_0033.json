@@ -1,0 +1,3 @@
+{
+ "Weapon_Function_018_5": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للاندفاع <Character_Yellow_Decorator2>إلى الأمام</>. استهلاك شا-تشي باستمرار أثناء الاندفاع وانتهاؤه عند نفاده."
+}

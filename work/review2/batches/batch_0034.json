@@ -1,0 +1,402 @@
+[
+ {
+  "key": "PhantomEdges_FunctionName_008_15",
+  "text": "خطوة بندقية الفتيل · للأمام"
+ },
+ {
+  "key": "PhantomEdges_Function_008_15",
+  "text": "بعد الاندفاع إلى الأمام باستخدام <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق النار بسرعة أثناء الحركة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_25",
+  "text": "خطوة بندقية الفتيل · للخلف"
+ },
+ {
+  "key": "PhantomEdges_Function_008_25",
+  "text": "بعد التراجع باستخدام <InputAction id=\"Move\" dir=\"Back\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق النار بسرعة أثناء الحركة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_008_Re",
+  "text": "هجوم المراوغة المضاد"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_008_Re",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بتوقيت دقيق قبيل إصابة هجوم العدو لتنفيذ <Character_Yellow_Decorator2>هجوم مضاد لمراوغة مثالية</> مع <WeaponDes_Main_Green>زيادة الضرر كثيرًا</>."
+ },
+ {
+  "key": "PhantomEdges_019",
+  "text": "رمح الرعد"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_019",
+  "text": "رمح ماضٍ استخدمه تشانغ هونغ قديمًا، تحيط به صواعق متلألئة."
+ },
+ {
+  "key": "PhantomEdgesDes_019",
+  "text": "رمح طويل ذاع صيته إلى جانب تشانغ هونغ، أحد مبعوثي التنظيم. يجذب البرق من كل اتجاه ويسخّره في قوة <Character_Yellow_Decorator2>مدوّية</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_019_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X331\"/> ضربات من <Character_Yellow_Decorator2>[فن رمح الرعد]</>. يستهلك إكمال السلسلة <dtv id=\"X332\"/> <img id=\"SpiritShadow\" width=\"40\"/>. تُلحق الهجمات <Character_Yellow_Decorator2>شللًا</> وتطلق البرق."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_5",
+  "text": "طعنة رمح الرعد"
+ },
+ {
+  "key": "PhantomEdges_Function_019_5",
+  "text": "بعد الاندفاع إلى الأمام بالضغط على <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ طعنة جوية."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_10",
+  "text": "غضب الرعد {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_019_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لضرر البرق ومعدل تراكم الشلل."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_15",
+  "text": "طعنة عكسية"
+ },
+ {
+  "key": "PhantomEdges_Function_019_15",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ <Character_Yellow_Decorator2>[طعنة عكسية]</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_25",
+  "text": "هبوط الرعد"
+ },
+ {
+  "key": "PhantomEdges_Function_019_25",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> عند نهاية سلسلة الضربات للقفز في الهواء، ثم الهبوط أرضًا بالرمح والجسد كأنهما شيء واحد، وإطلاق موجة صدمة هائلة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_019_Re",
+  "text": "الرعد المتسلسل"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_019_Re",
+  "text": "عند إصابة رمح الرعد عدوًا، يتسلسل البرق إلى عدوّين قريبين كحد أقصى."
+ },
+ {
+  "key": "PhantomEdges_012",
+  "text": "اللِّبدة المشتعلة"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_012",
+  "text": "سلاح برأس أسد ينفث اللهب، المعلّم الأكبر لرقصة الأسد."
+ },
+ {
+  "key": "PhantomEdgesDes_012",
+  "text": "السلاح المميز للمعلّم الأكبر لرقصة الأسد، وهو سلاح برأس أسد قادر على نفث <Character_Yellow_Decorator2>لهيب هادر</> يزرع الخوف في نفوس الأعداء."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_012_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق تيار من اللهب يسبب ضررًا و<Character_Yellow_Decorator2>يضرم النار في الأعداء</>. الاستهلاك المستمر لـ <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_Terrian",
+  "text": "مسار الاحتراق"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_012_Terrian",
+  "text": "حرق الشجيرات الشائكة الرطبة، <Character_Yellow_Decorator2>حتى حين لا يكون مجهزًا</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_5",
+  "text": "انفجار كرة النار"
+ },
+ {
+  "key": "PhantomEdges_Function_012_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق كرة نارية بسرعة إلى الأمام. انفجارها عند الإصابة. استهلاك <dtv id=\"X341\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_10",
+  "text": "اللهب الخالد {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_012_10",
+  "text": "{<WeaponDes_Main_Green>زيادة ضرر</>|<WeaponDes_Main_Green>زيادة ضرر</>|<WeaponDes_Main_Green>زيادة ضرر</>} <Character_Yellow_Decorator2>الاحتراق</> بعد إشعال الأعداء."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_15",
+  "text": "اندفاعة رأس الأسد"
+ },
+ {
+  "key": "PhantomEdges_Function_012_15",
+  "text": "بعد الاندفاع إلى الأمام باستخدام <InputAction id=\"Move\" dir=\"Forward\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط فورًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للدوران إلى الأمام بسرعة فائقة، ثم القفز والدوس على الأرض لإحداث موجة صدمة نارية تصيب الأعداء في مساحة واسعة وتشعلهم. استهلاك <dtv id=\"X342\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_25",
+  "text": "كرتا النار"
+ },
+ {
+  "key": "PhantomEdges_Function_012_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <dtv id=\"X343\"/> كرات نارية بسرعة إلى الأمام. انفجارها عند الاصطدام. استهلاك <dtv id=\"X344\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_012_Re",
+  "text": "اللهب الفوضوي"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_012_Re",
+  "text": "تحويل <Character_Yellow_Decorator2>نفث اللهب</> إلى <Character_Yellow_Decorator2>اللهب الفوضوي</>. استمرار استنزاف صحة الأعداء المشتعلين وشا-تشي لديهم."
+ },
+ {
+  "key": "Weapon_009",
+  "text": "سيف الأفعى اللين"
+ },
+ {
+  "key": "WeaponDes_UI_009",
+  "text": "سيف لين ومرن كان يحمله وو لنغشوانغ."
+ },
+ {
+  "key": "WeaponDes_009",
+  "text": "نصل مرن يتحرك برشاقة الأفعى. يمكنه <Character_Yellow_Decorator2>صدّ</> هجمات الأعداء، ومنح حاملِه رشاقة انسيابية كالأفعى."
+ },
+ {
+  "key": "Weapon_FunctionName_009_EX",
+  "text": "ارتداد الأفعى"
+ },
+ {
+  "key": "Weapon_FunctionDes_009_EX",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبيل إصابة هجوم العدو لتنفيذ حركة استعراضية بالسيف تصرف الهجوم وتعيد توجيه قوته نحو العدو."
+ },
+ {
+  "key": "Weapon_FunctionName_009_EX_2",
+  "text": "الانسياب الأفعواني"
+ },
+ {
+  "key": "Weapon_FunctionDes_009_EX_2",
+  "text": "عدم استهلاك شا-تشي في وضعية الدفاع. استبدال المراوغات بخطوات جانبية رشيقة أثناء وضعية الدفاع. إتاحة المراوغات المتتالية عند تنفيذ مراوغة مثالية."
+ },
+ {
+  "key": "Weapon_FunctionName_009_Skill",
+  "text": "رقصة الثعبان الجامح"
+ },
+ {
+  "key": "Weapon_FunctionDes_009_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لأداء رقصة سيوف منسابة. عند أدائها في التوقيت الدقيق <Character_Yellow_Decorator2>قبل لحظة إصابة هجوم العدو</>، تزداد قوة رقصة السيوف. هذا الهجوم لا يمكن صدّه."
+ },
+ {
+  "key": "Weapon_FunctionName_009_5",
+  "text": "السكون الداخلي"
+ },
+ {
+  "key": "Weapon_Function_009_5",
+  "text": "الضغط باستمرار على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للحفاظ على وضعية الدفاع من دون استهلاك شا-تشي."
+ },
+ {
+  "key": "Weapon_FunctionName_009_10",
+  "text": "القوة المعاد توجيهها {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_009_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمقدار استنزاف شا-تشي الذي تسببه الهجمات المضادة المنفذة باستخدام <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>."
+ },
+ {
+  "key": "Weapon_FunctionName_009_15",
+  "text": "درع تفتّح السيف"
+ },
+ {
+  "key": "Weapon_Function_009_15",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ تفتّح بالسيف يصدّ الهجمات الخفيفة ويبني <Character_Yellow_Decorator2>الزخم</> مع استهلاك شا-تشي باستمرار. عند اكتمال <Character_Yellow_Decorator2>الزخم</>، إطلاق هجوم مضاد بالسيف مبهر تلقائيًا."
+ },
+ {
+  "key": "Weapon_FunctionName_009_25",
+  "text": "دقة أفعوانية"
+ },
+ {
+  "key": "Weapon_Function_009_25",
+  "text": "استمرار الهجمات في إلحاق ضرر <dtv id=\"X351\"/> حتى عند صدّها بالكامل من الأعداء."
+ },
+ {
+  "key": "Weapon_FunctionName_009_Re",
+  "text": "الرهان الأخير"
+ },
+ {
+  "key": "Weapon_FunctionDes_009_Re",
+  "text": "الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك شا-تشي بالكامل وإطلاق سلسلة متدفقة من ضربات السيف السريعة. زيادة قوة الهجوم كلما زادت كمية شا-تشي المستهلكة."
+ },
+ {
+  "key": "Weapon_010",
+  "text": "سيوف عاصفة بايشان"
+ },
+ {
+  "key": "WeaponDes_UI_010",
+  "text": "زوج من السيوف كانت تستخدمها بي تاوتاو، معلمة طائفة بايشان."
+ },
+ {
+  "key": "WeaponDes_010",
+  "text": "كنز طائفة بايشان المقدّس، قادر على تسخير <Character_Yellow_Decorator2>قوة الرياح والرعد</>. وعندما تتلاقى القوتان..."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nتملأ إصابة الأعداء <Character_Yellow_Decorator2>مقياس الرياح</>. وعند امتلائه، يتكوّن <Character_Yellow_Decorator2>[سيف الرياح]</>، ما يزيد استنزاف شا-تشي الناجم عن <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> الهجمات."
+ },
+ {
+  "key": "Weapon_FunctionDes_010_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن تنفيذها بعد أي ضربة أثناء سلسلة الضربات الأساسية. ومع توافر شا-تشي كافٍ، تتحول إلى هجوم معزز يسبب ضررًا أكبر وكسرًا للدفاع. تملأ إصابة الأعداء <Character_Yellow_Decorator2>مقياس الرعد</>. وعند امتلائه، يتكوّن <Character_Yellow_Decorator2>[سيف الرعد]</>، ما يتيح <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للهجمات إحداث تراكم للبرق والتسبب بـ<Character_Yellow_Decorator2>شلل</>."
+ },
+ {
+  "key": "Weapon_FunctionName_010_EX",
+  "text": "بركة بايشان"
+ },
+ {
+  "key": "Weapon_FunctionDes_010_EX",
+  "text": "عند تفعيل كلٍّ من<Character_Yellow_Decorator2> [سيف الرياح]</> و<Character_Yellow_Decorator2> [سيف الرعد] </>، الدخول في حالة <Character_Yellow_Decorator2>[بركة بايشان]</> لمدة <dtv id=\"X361\"/> ثانية. أثناء التفعيل، زيادة الهجوم. عند انتهاء الحالة، اختفاء كلٍّ من <Character_Yellow_Decorator2>[سيف الرياح]</> و<Character_Yellow_Decorator2> [سيف الرعد]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_010_EX_2",
+  "text": "عاصفة البرق"
+ },
+ {
+  "key": "Weapon_FunctionDes_010_EX_2",
+  "text": "أثناء تفعيل <Character_Yellow_Decorator2> [بركة بايشان] </>، الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <Character_Yellow_Decorator2>[عاصفة البرق]</> قوية وإنهاء <Character_Yellow_Decorator2>[سيف الرياح]</> و<Character_Yellow_Decorator2> [سيف الرعد]</> قبل أوانهما."
+ },
+ {
+  "key": "Weapon_FunctionName_010_Skill",
+  "text": "ضربة بايشان القاطعة بالريح والرعد"
+ },
+ {
+  "key": "Weapon_FunctionDes_010_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق سلسلة شرسة من الضربات القاطعة التي توجهها الرياح ويحدّها الرعد. هذا الهجوم لا يمكن صده."
+ },
+ {
+  "key": "Weapon_FunctionName_010_5",
+  "text": "النَّفَس المتمركز"
+ },
+ {
+  "key": "Weapon_Function_010_5",
+  "text": "الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتحويل شا-تشي إلى <Character_Yellow_Decorator2>تعبئة مقياس الرعد</>."
+ },
+ {
+  "key": "Weapon_FunctionName_010_10",
+  "text": "تلاقي العناصر {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_010_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمعدلات تراكم<Character_Yellow_Decorator2> مقياس الرياح </> و<Character_Yellow_Decorator2>مقياس الرعد.</>"
+ },
+ {
+  "key": "Weapon_FunctionName_010_15",
+  "text": "إمداد الرياح"
+ },
+ {
+  "key": "Weapon_Function_010_15",
+  "text": "ملء <Character_Yellow_Decorator2>مقياس الرياح</> عند تنفيذ صدّ مثالي."
+ },
+ {
+  "key": "Weapon_FunctionName_010_25",
+  "text": "البركة الإلهية لبايشان"
+ },
+ {
+  "key": "Weapon_Function_010_25",
+  "text": "زيادة مدة <Character_Yellow_Decorator2>[بركة بايشان]</> إلى <dtv id=\"X362\"/> ثانية."
+ },
+ {
+  "key": "Weapon_FunctionName_010_Re",
+  "text": "عاصفة لا تنتهي"
+ },
+ {
+  "key": "Weapon_FunctionDes_010_Re",
+  "text": "<Character_Yellow_Decorator2>[عاصفة البرق] </>تجذب الأعداء وتعبّئ <Character_Yellow_Decorator2>مقياس الرياح </>و<Character_Yellow_Decorator2>مقياس الرعد </>مع كل عدو تصيبه."
+ },
+ {
+  "key": "PhantomEdges_002",
+  "text": "عمود السحق"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_002",
+  "text": "مطرقة ثقيلة ذات مقبض طويل، كان يستخدمها وان جيون، الملقب بمطرقة النحاس."
+ },
+ {
+  "key": "PhantomEdgesDes_002",
+  "text": "رأس مطرقة على هيئة شمامة، قادر على تحطيم الحجر وشق الأرض وسحق الأعداء بقوة تزلزل الأرض. يمنح <Character_Yellow_Decorator2>زيادة كبيرة في فعالية كسر الدروع</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_002_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتدوير عمود السحق في هجمات كاسحة واسعة. وإفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لـ<Character_Yellow_Decorator2> إنهاء الحركة </> بضربة ساحقة تهز الأرض. يستهلك <dtv id=\"X371\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_Terrian",
+  "text": "حطّام الأرض"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_002_Terrian",
+  "text": "بعد الحصول عليه، يمكن لعمود السحق تكسير الألواح الخشبية التي تغطي الأرض المختومة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزه.</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_5",
+  "text": "ضربة السقوط السماوي"
+ },
+ {
+  "key": "PhantomEdges_Function_002_5",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> <Character_Yellow_Decorator2>أثناء الوجود في الهواء</> لضرب الأرض بعمود السحق وهز المنطقة المحيطة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_10",
+  "text": "إعاقة قاهرة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_002_10",
+  "text": "{<WeaponDes_Main_Green>زيادة كبيرة</> لقدرة <Character_Yellow_Decorator2>الضربة الختامية</> و<Character_Yellow_Decorator2>[ضربة السقوط السماوي]</> على إعاقة الأعداء.|<WeaponDes_Main_Green>زيادة كبيرة</> لقدرة <Character_Yellow_Decorator2>جميع ضربات عمود السحق</> على <Character_Yellow_Decorator2>إعاقة</> الأعداء.|<WeaponDes_Main_Green>زيادة كبيرة</> لقدرة <Character_Yellow_Decorator2>جميع ضربات عمود السحق</> على <Character_Yellow_Decorator2>إعاقة</> الأعداء، وزيادة <Character_Yellow_Decorator2>كسر الدفاع</> لديهم.}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_15",
+  "text": "ضربة زلزالية"
+ },
+ {
+  "key": "PhantomEdges_Function_002_15",
+  "text": "تُحدث ضربات عمود السحق على الأرض <Character_Yellow_Decorator2>موجة صدمة</> تنتشر إلى الخارج."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_25",
+  "text": "متابعة الضربة"
+ },
+ {
+  "key": "PhantomEdges_Function_002_25",
+  "text": "عند انتهاء هجوم بعمود السحق، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لمتابعته بضربة أرضية أخرى <Character_Yellow_Decorator2></> من دون استهلاك <img id=\"SpiritShadow\" width=\"40\"/>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_002_Re",
+  "text": "تقدّم دوّار"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_002_Re",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للإمساك بعمود السحق والتقدم أثناء <Character_Yellow_Decorator2>الدوران</>."
+ },
+ {
+  "key": "PhantomEdges_026",
+  "text": "نداء المبارز"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_026",
+  "text": "شارة استخدمها كبير تلاميذ النجوم السبعة قديمًا لقيادة أبطال الوولين."
+ },
+ {
+  "key": "PhantomEdgesDes_026",
+  "text": "لم تخبُ قط روح الشيا لدى تلاميذ الميثاق القويم. وما إن تقع أعينهم على هذه الشارة حتى يلبّوا النداء وسيوفهم في أيديهم."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_026_Base",
+  "text": "في المناطق التي يكثر فيها شا-تشي (عندما يصدر الرمز وهجًا خاصًا)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستدعاء <dtv id=\"X381\"/><Character_Yellow_Decorator2> قائد المبارزين </> و<dtv id=\"X382\"/><Character_Yellow_Decorator2> تلميذ مبارز</>. يقاتلون لمدة تصل إلى <dtv id=\"X383\"/> ثانية ويختفون مبكرًا عند هزيمتهم. لا يمكن تكديس الاستدعاءات. يؤدي الاستدعاء مجددًا إلى استبدال أي استدعاءات قائمة. استهلاك <dtv id=\"X384\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_026_5",
+  "text": "موجة السيف"
+ },
+ {
+  "key": "PhantomEdges_Function_026_5",
+  "text": "قدرة قائد المبارزين على إطلاق <Character_Yellow_Decorator2>موجات نصلية</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_026_15",
+  "text": "تشكيل السيوف الأصغر"
+ },
+ {
+  "key": "PhantomEdges_Function_026_15",
+  "text": "عند وجود <dtv id=\"X385\"/> من المبارزين في الميدان، تنفيذ أسلوب تشكيل."
+ }
+]

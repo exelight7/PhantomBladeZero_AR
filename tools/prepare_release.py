@@ -27,17 +27,21 @@ def digest(path):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--checksums", action="store_true", help="Hash final release assets after building both apps")
+    parser.add_argument("--pak-assets", action="store_true", help="Release only the three pak files and the manual ZIP (no EXE/AppImage)")
     args = parser.parse_args()
     version = json.loads((ROOT / "installer/package.json").read_text())["version"]
     dist = ROOT / "dist"
     dist.mkdir(exist_ok=True)
     if args.checksums:
-        names = [f"PhantomBladeZero-AR-{version}-manual.zip", f"PhantomBladeZero-AR-{version}-linux-x86_64.AppImage", f"PhantomBladeZero-AR-{version}-win-x64.exe"]
+        if args.pak_assets:
+            names = [*NAMES, f"PhantomBladeZero-AR-{version}-manual.zip"]
+        else:
+            names = [f"PhantomBladeZero-AR-{version}-manual.zip", f"PhantomBladeZero-AR-{version}-linux-x86_64.AppImage", f"PhantomBladeZero-AR-{version}-win-x64.exe"]
         for name in names:
             if not (dist / name).is_file():
                 raise FileNotFoundError(f"Missing release asset: {name}")
         (dist / "SHA256SUMS.txt").write_text("".join(f"{digest(dist / name)}  {name}\n" for name in names), encoding="utf-8")
-        print("Checksums verified for all three release assets")
+        print(f"Checksums verified for all {len(names)} release assets")
         return
     subprocess.run([sys.executable, "tools/apply_patches.py"], cwd=ROOT, check=True)
     payload = ROOT / "installer/payload"
@@ -66,14 +70,8 @@ def main():
 {chr(10).join(NAMES)}
 لا تحذف مجلد ~mods أو ملفات أي مود آخر.
 
-التطبيق الاختياري:
-Windows x64: افتح ملف EXE، اختر مجلد اللعبة، ثم اضغط «تثبيت التعريب».
-Linux / Steam Deck: امنح AppImage صلاحية التشغيل، ثم افتحه واختر مجلد اللعبة.
-من الطرفية: chmod +x PhantomBladeZero-AR-{version}-linux-x86_64.AppImage
-إذا لم تتوفر FUSE: شغّل الملف مع --appimage-extract-and-run.
-يحتفظ التطبيق بنسخة احتياطية من الملفات التي يستبدلها، ويمكنه استعادتها عند إزالة تثبيته.
-التطبيق لا يحتاج اتصالًا بالإنترنت، ولا يأتي مع اللعبة.
-نسخة Linux تثبّت التعريب على ملفات نسخة Windows من اللعبة المستخدمة عبر Proton.
+هذا الإصدار ({version}) ملفات pak فقط. تطبيق التثبيت (EXE لـ Windows وAppImage لـ Linux / Steam Deck) متاح في الإصدار 1.0.1:
+https://github.com/exelight7/PhantomBladeZero_AR/releases/tag/1.0.1
 
 التحقق: SHA256SUMS.txt يحتوي تجزئات الملفات داخل الحزمة.
 اجتازت ملفات التعريب الفحوص الآلية؛ لم تُجرَّب هذه النسخة داخل اللعبة.
@@ -83,6 +81,9 @@ https://github.com/exelight7/PhantomBladeZero_AR
 """
     notice = (ROOT / "original_mod/README.txt").read_text(encoding="utf-8-sig")
     (payload / "NOTICE.txt").write_text("تعريب وتحسينات: exelight7.\n\n" + notice, encoding="utf-8")
+    if args.pak_assets:
+        for name in NAMES:
+            shutil.copyfile(payload / name, dist / name)
     archive = dist / f"PhantomBladeZero-AR-{version}-manual.zip"
     with zipfile.ZipFile(archive, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         for item in manifest["files"]:

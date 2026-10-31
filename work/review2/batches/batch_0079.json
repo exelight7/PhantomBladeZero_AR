@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_Pangzhen_Investigate_YEXRH2_3",
+  "text": "عليّ أن أحقق أمنيتها الأخيرة... قد تنقذ هذه الزهرة حياة أبيها."
+ },
+ {
+  "key": "Dlg_Pangzhen_Investigate_YEXRH2_4",
+  "text": "أبوها خمّار البلدة. لعلهم يسكنون في <Bold>الأزقة الخلفية</>."
+ },
+ {
+  "key": "Dlg_PZ_JingBian_NvXingRenOu_1",
+  "text": "لا... لا... هذه ليست أنا الحقيقية... لقد... انتزعوا جسدي مني..."
+ },
+ {
+  "key": "Dlg_PZ_JingBian_NvXingRenOu2_1",
+  "text": "أين... أين هو... جسدي... جسدي الأصلي؟"
+ },
+ {
+  "key": "Dlg_PZ_TaiJIe_NanXingRenOu_1",
+  "text": "أمي... عثرت على جسدي... ستعرفينني الآن..."
+ },
+ {
+  "key": "Dlg_PZ_XiaoDian_Investigate_ZDST_Hun_1",
+  "text": "انتحر حارس الميثاق هذا... بتناول السم."
+ },
+ {
+  "key": "Dlg_PZ_XiaoDian_Investigate_ZDST_Hun_2",
+  "text": "لا بد أنه فعل ذلك لئلا يتحول إلى واحد من تلك الكائنات."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_1",
+  "text": "لست مرتقيًا... ولا تنتمي إلى طائفة ربط الخيوط أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_2",
+  "text": "أن تبلغ هذا الحد وحدك... لا بد أنك رجل غير عادي."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_3",
+  "text": "ظننا... أن الارتقاء سيتيح لنا أن نصنع لأنفسنا مستقبلًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_4",
+  "text": "اسودّت وجوهنا بالدخان... حتى لم يبقَ منا... سوى قشرة خاوية..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_5",
+  "text": "لن يخرج أحد من هذه البلدة حيًّا...!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_Hun_6",
+  "text": "وماذا عن رصيف البحيرة؟ هل ما زال بإمكاني الرحيل بالقارب؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_7",
+  "text": "لا تقترب من البحيرة!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_8",
+  "text": "فاضت البحيرة بشا-تشي... و... دفعتنا إلى قتل بعضنا بعضًا من أجل القوارب..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_9",
+  "text": "لكن كل ذلك كان عبثًا...! رأيت ذلك بعيني... ابتلعت البحيرة قاربًا كاملًا بمن فيه..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_Hun_10",
+  "text": "كيف أصل إلى البحيرة؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_11",
+  "text": "ما زلت... تريد الذهاب؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_12",
+  "text": "<Bold>اتبع الدرج الحجري... واصعد المنحدر</>... وستصل إلى بحيرة ميغو."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_13",
+  "text": "اعتنِ بنفسك... وإن نجوت من هذا... فتذكّر أنني كنت إنسانًا يومًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_QiangBing_QiangBing_Re_1",
+  "text": "اعتنِ بنفسك... وإن نجوت من هذا... فتذكّر أنني كنت إنسانًا يومًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_1",
+  "text": "هل طرقت باب دار لان في الجهة المقابلة من الشارع؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_2",
+  "text": "أخبرني... ماذا حلّ بالأطفال في الداخل؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_3",
+  "text": "هل كانت هناك طفلة صغيرة تبكي وتنادي أمها؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_4",
+  "text": "آه! لا، لا... لا تخبرني!"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_5",
+  "text": "هذا الوجه الذي يلفّه الدخان... لن يزيدها إلا خوفًا..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_6",
+  "text": "وعدني السيد الشاب لان بأن يُخرج ابنتي من البلدة..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_NvDiZi_NvDiZi_7",
+  "text": "كنت أعلم... إنه كاذب... كاذب!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD1_LSD_1",
+  "text": "تحمّلوا قليلًا بعد. سيُخرجكم العم لان من هنا مع أول الصباح!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD1_LSD_2",
+  "text": "بين، شيونغ، أنتما الأكبر سنًا. أريدكما أن تعتنيا بالصغار."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD1_LSD_3",
+  "text": "سنخرج من هذا المكان الملعون معًا!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD2_LSD_1",
+  "text": "هه! جئت في الوقت المناسب! لا تقلق، ستنال مكافأتك."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD2_LSD_2",
+  "text": "لقد رتبت الأمر مع رجال المبعوث. سننقل الأطفال بالقارب غدًا صباحًا إلى المكان الذي اختاره."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD2_Hun_3",
+  "text": "هل الأطفال بخير؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD2_LSD_4",
+  "text": "إنهم بخير تمامًا! سيسرّ المبعوث كثيرًا!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD3_Hun_1",
+  "text": "هم؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD3_LSD_2",
+  "text": "ههه... ما إن أنتهي من هذه المهمة حتى أتحرر أخيرًا!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD3_LSD_3",
+  "text": "ما يصيب أولئك الصغار لا يعنيني."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD3_LSD_4",
+  "text": "لا أحد يختار مصيره في الوولين!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDshiti_Hun_1",
+  "text": "جسده... ما زال دافئًا... لقد تأخرت."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_Hun_1",
+  "text": "ما الذي حدث...؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_2",
+  "text": "هه... كنت أعلم أنني لم أُخطئ في تقديرك..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_3",
+  "text": "ما دام المفتاح معك... فلن يستطيع أحد انتزاعه!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_Hun_4",
+  "text": "لم تكن تبيع الأطفال حقًا؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_5",
+  "text": "هه... لم ألتزم بالقواعد يومًا... لكن حتى أنا لي حدود."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_6",
+  "text": "حين سقطت البلدة... آويت أكثر من اثني عشر طفلًا..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_7",
+  "text": "أردت حمايتهم... وإيجاد سبيل لإخراجهم من البلدة..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_Hun_8",
+  "text": "إذًا، كانت صفقتك مع المبعوث خدعة... استدرجت الأطفال لتجاربه، ثم كنت تنوي إخراجهم من البلدة؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_9",
+  "text": "وإلا... لما أمكنني التنقل في هذه البلدة ومعي كل هذا العدد من الأطفال."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_10",
+  "text": "أمرني المبعوث... أن أنقل الأطفال بالقارب إلى مكان في قلب البحيرة..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_11",
+  "text": "فجاريته واستأجرت رجالًا أشداء... كنا سنُغرق القارب ونُخرج الأطفال!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_Hun_12",
+  "text": "لا بد أن المبعوث ارتاب في الأمر."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_13",
+  "text": "هه... كشف خطتنا! لكن لا يهم! فقد التقيت بك!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_14",
+  "text": "أحضرتك إلى هنا... وأعطيتك المفتاح..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_15",
+  "text": "والآن... مهما فعلوا... لن يستطيعوا إيذاء الأطفال."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_Hun_16",
+  "text": "ماذا عليّ أن أفعل الآن؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_17",
+  "text": "يظن المبعوث أن القتلة الذين أرسلهم قد قبضوا على الأطفال بالفعل... لذا لن يرسل أحدًا آخر لبعض الوقت."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_18",
+  "text": "استخدم المفتاح... وافتح البوابة... وخذ الأطفال إلى الرصيف. سيقابلك هناك أحدهم..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_LSD_19",
+  "text": "هه... يبدو أننا أنجزنا هذه المهمة معًا!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_Hun_21",
+  "text": "في أزمنة الفوضى... تنكشف حقيقة المرء..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD4_Hun_22",
+  "text": "ارقد الآن، يا أخي لان..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD5_JHRS_1",
+  "text": "نُقل جميع الأطفال إلى مكان آمن، أيها البطل. لا داعي للقلق!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD5_JHRS_2",
+  "text": "آه... يا للأسف على السيد الشاب لان... بدا طليق البال، لكنه كان رجلًا بحق."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSD5_JHRS_3",
+  "text": "لقد ساعدت السيد الشاب لان على إنقاذ الأطفال. هذا شيء يسير... تفضّل به."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_Investigate_LSDshiti2_1",
+  "text": "شاب بدا مستهترًا وغير مسؤول... لكنه ظل وفيًا للحق في درب الوولين."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDb_HaiZi1_1",
+  "text": "من هناك...؟ هل أنت العم لان؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDb_HaiZi2_2",
+  "text": "هل عاد العم لان...؟"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDb_HaiZi3_3",
+  "text": "لقد تركنا العم لان!"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDb_HaiZi4_4",
+  "text": "أشعر بجوع شديد..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDb_HaiZi5_5",
+  "text": "أمي... أريد أمي..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDb_HaiZi6_6",
+  "text": "العم لان... العم لان..."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_LSDb_HaiZi6_7",
+  "text": "*بكاء الأطفال ونحيبهم وعويلهم*"
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_Investigate_Door_1",
+  "text": "بوابة دار لان موصدة بإحكام، ويخيّم حولها صمت مطبق."
+ },
+ {
+  "key": "Dlg_PangZhen_LJGZ_Investigate_Door_2",
+  "text": "لم يعد يُسمع بكاء أو نشيج من خلف الباب. لقد نُقل الأطفال إلى مكان آمن."
+ },
+ {
+  "key": "Dlg_PZ_JingYangXuan_Hun_1",
+  "text": "لا يزال في الداخل أثر شا-تشي قوي ومألوف.\nليس من الحكمة التسرع في الدخول."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_AiHaoShuiJing_1",
+  "text": "بئر عميقة سحيقة لا قرار لها. يبدو أن يأسًا لا ينتهي يتجمع في قاعها ويصارع ليتحرر."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JiuGuan_Hun_1",
+  "text": "هل ما زال نُزل التنظيم قائمًا؟"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_MaTou_Hun_1",
+  "text": "أذكر أن هذا الطريق يؤدي إلى الرصيف..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY1_DiZiJia_1",
+  "text": "اليوم سنعرف إلى أين كانوا يأخذون أولئك الناس!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY1_DiZiBing_2",
+  "text": "صحيح! أحياءً كانوا أم أمواتًا، نحتاج إلى إجابات. لا يمكن أن يختفي كل هؤلاء الناس هكذا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY1_DiZiYi_4",
+  "text": "هس... احذروا تلك الكائنات عديمة الوجوه!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY1_DiZiBing_3",
+  "text": "تس... انتظر... ثمة خطب ما... أليس هذا الطريق إلى ضيعة السراب—"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY1_DiZiJia_5",
+  "text": "اللعنة! لقد عثروا علينا! يا أخي الأصغر، اهرب!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY1_DiZiJia_6",
+  "text": "أغ!... آغ!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY1_DiZiJia_10",
+  "text": "سأ... سأموت وأنا أقاتل...!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiYi_1",
+  "text": "لم أتخيل قط أن طائفة ربط الخيوط ستخفي مقرها في مكان كهذا..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiYi_2",
+  "text": "هذه... هل يمكن أن تكون الأجهزة التي يستخدمونها في فن نحت القلب...؟"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiJia_3",
+  "text": "همف. أراهن أن لديهم هنا آلات للارتقاء أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiYi_4",
+  "text": "انتظر! هناك ممر خفي!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiYi_5",
+  "text": "ها هو... انفتح! انتظر... هذا الاتجاه... يؤدي إلى ضيعة السراب..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiJia_6",
+  "text": "هذا سيئ! هناك شيء قادم! وليس بمفرده!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiJia_7",
+  "text": "اذهب! سأصدّهم!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY2_DiZiJia_8",
+  "text": "اذهب...! يجب أن يعرف الآخرون بوجود هذا الممر...!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY3_DiZiYi_1",
+  "text": "ربط الخيوط... وعديمو الوجوه... ممرهم الخفي... لا بد أنه... من هنا..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY3_DiZiYi_2",
+  "text": "كيف... كيف حدث هذا؟... اختفى... ليس هنا..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY3_DiZiYi_3",
+  "text": "آه... يا أخي الأكبر... يا أخي الأصغر... لم... لم أعثر عليه بعد..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_SZSY3_DiZiYi_4",
+  "text": "أنا آتٍ... لألحق بكما..."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_MengChai_1",
+  "text": "سيصل لي دانغ من التنظيم قريبًا. علينا أن نحسن استقباله."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_MengChai_2",
+  "text": "وعاء السيدة المقدس ليس بالأمر الهين. حتى المعلّم لي عليه أن يتناول الدواء قبل الدخول."
+ },
+ {
+  "key": "Dlg_PZ_XiMengShanZhuang_Hun_1",
+  "text": "لا بد أنه المبعوث. يبدو أن هذا القصر هو مقره."
+ }
+]

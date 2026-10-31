@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_6",
+  "text": "هيه... لا يظهر المبعوث هذه الأيام إلا عبر الدمى. ترى كيف يبدو حقًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_7",
+  "text": "أيها الأخ الأكبر، لم تجبني بعد! هل أصبت أم لا؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QiuMingZhe_8",
+  "text": "هيه... يكره المبعوث من يتطفلون على أسراره. لو أخبرتك الحقيقة، لكان الموت أهون ما نخشاه."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi3_QMXinDiZi_9",
+  "text": "ل-لماذا تحاول إخافتي؟ نحن من الطائفة نفسها... لن يبلغ به الأمر ذلك الحد، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_1",
+  "text": "ممتاز... الآن وقد رحلت الفتاة الدمية..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_2",
+  "text": "هذا القناع لطائفة ربط الخيوط... وهذا المخطوط عن فنّ الأطياف... إنه فعلًا من طائفة الحرير..."
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_3",
+  "text": "آه... أجل! هذا هو! لا بد أن هذا هو!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_4",
+  "text": "المبعوث هو لنغ تو! لنغ تو هو المبعوث!"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_QMXinDiZi_5",
+  "text": "هيه... لقد فهمت الآن! كل شيء أصبح واضحًا! هاهاها—"
+ },
+ {
+  "key": "Dlg_XiMeng_MEM_QiuMingDiZi4_MengChai_6",
+  "text": "أوه؟ يا أخي الأكبر... وما الذي تظن أنك فهمته؟"
+ },
+ {
+  "key": "Dlg_XiMeng_LingTang_Investigate_Wall_1",
+  "text": "يُسمع من خلف الجدار صوت هبوب ريح خافتة."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_FenShen_1",
+  "text": "لقد وصل ضيفنا المبجّل."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_Hun_2",
+  "text": "لي دانغ!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_FenShen_3",
+  "text": "حتى بعد أن تناول سمّ الصمت الذي أعددته، تمكّن المعلّم لي من قتل هذا العدد الكبير من رجالي... مثير للإعجاب."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_LeiDang1_4",
+  "text": "سول..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_LeiDang1_5",
+  "text": "مهمة التنظيم... فشلت..."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_1",
+  "text": "لولا أن المعلّم لي تناول سمّ الصمت طوعًا، فكيف كنت سأهزم التنظيم؟"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_2",
+  "text": "كان حاكم الظلال تسو أذكى مما ينبغي. والآن ستطوي صفحات التاريخ تنظيمه العزيز!"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_3",
+  "text": "لم أعد جزءًا من التنظيم. ومصيره لا يعنيني."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_4",
+  "text": "يا معلّم سول، لا أحد يضاهي مهارتك... لكن لم يبقَ من عمرك إلا القليل."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_5",
+  "text": "ومع ذلك، بما أنك قطعت صلتك بالتنظيم، فهذا يجعلنا حليفين لا عدوين."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_6",
+  "text": "إن سخّرت لك كامل دعمي، فلن يكون قتل تسو شانغ، ولا حتى جعلك حاكم الظلال التالي، سوى أمر يسير."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_7",
+  "text": "إن كنت تشك في كلامي، فدعني أقدّم لك هدية سخية تضمن لك أن تعيش طويلًا جدًا. هيه."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_8",
+  "text": "أوه؟"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_9",
+  "text": "لقد رأيتَ الكثير من دماي حتى الآن... بل إنك حطّمت بعضًا من أفضل ما صنعت. هيه هيه."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_10",
+  "text": "في نقل الروح، كلما اشتدت الإرادة وازدادت المهارة القتالية، بقي من العقل قدر أكبر سليمًا بعد النقل."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_11",
+  "text": "يتحول القرويون والمقاتلون العاديون إلى أجساد خاوية لا أكثر... أما أنت يا معلّم سول..."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_12",
+  "text": "يمكنني استخدام التقنية المخصّصة للسيدة وحدها... ونقل روحك إلى وعاء كامل الإتقان."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_13",
+  "text": "وعندها لن تنجو فحسب... بل سيبقى عقلك سليمًا، وستبلغ قوتك مئة ضعف ما هي عليه."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_14",
+  "text": "لماذا تتمسك بهذا الجسد المحطّم الذي يحتضر؟ تقبّل هذه الهدية، وصر شيئًا أسمى."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_15",
+  "text": "همم. عرض مغرٍ."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_16",
+  "text": "لكن جسد الدمية الذي سأحلّ فيه لن يطيع إلا إياك، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_17",
+  "text": "وماذا في ذلك؟ لقد قضيت نصف عمرك تحت إمرة التنظيم..."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_18",
+  "text": "ولهذا تحديدًا لن أعود أبدًا."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_19",
+  "text": "حتى لو لم يبقَ لي سوى 66 يومًا... فأنا أفضل أن أعيش كإنسان وأموت كإنسان."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_20",
+  "text": "والارتهان لخيوطك... أسوأ بكثير من خدمة التنظيم."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_21",
+  "text": "همم... يبدو أنك حسمت أمرك يا معلّم سول. إذًا لنحلّ الأمر بالقوة."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_22",
+  "text": "ظننتَ أنك أحكمت السيطرة على لي دانغ. هل لهذا لم تنقل القلب؟"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_23",
+  "text": "تلك الدمية التي خلفك..."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_24",
+  "text": "المجد لسيدة الحجاب، منقذة المكروبين، وأرفع الجميع مقامًا!"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_25",
+  "text": "ذلك هو الوعاء الذي أعددته لها..."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_FenShen_26",
+  "text": "أن تراه بعينيك... وأن تشعر بلمسة شا-تشي فيه... امتياز نادر يا معلّم سول."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_27",
+  "text": "إن أردت أن أعيش، فلا أحتاج إلا إلى ذلك القلب."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen1_Hun_28",
+  "text": "لا أحتاج إلى مساعدتك."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen2_FenShen_1",
+  "text": "هاهاهاها!"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen2_FenShen_2",
+  "text": "حاول المعلّم لي أيضًا الاستيلاء على القلب، فانظر إلى حاله الآن."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen2_FenShen_3",
+  "text": "في هذا الحيّز... كل شيء ينحني لإرادتي."
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen2_FenShen_4",
+  "text": "يا معلّم سول... مهما بلغت مهارتك، فلن تفلت من قبضتي!"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen2_FenShen_6",
+  "text": "يا معلّم لي، ما الذي تنتظره؟"
+ },
+ {
+  "key": "Dlg_XiMeng_FenShen2_FenShen_7",
+  "text": "أنت!!!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_LeiDang_1",
+  "text": "تلك الطلقة... كانت موجّهة إليك."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Hun_2",
+  "text": "تناولت سمّ السكون وتظاهرت بأنه سمّ الصمت لتجعلني أرخي حذري."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Hun_3",
+  "text": "ثم يقيّدني لنغ تو بخيوطه... بالقدر الذي يكفي لتقتلني."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Hun_4",
+  "text": "إذًا كانت تلك خطة تسو شانغ ولنغ تو... فلماذا..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_LeiDang_1",
+  "text": "حاكم الظلال تسو يريد القلب أكثر مما يريد حياتك."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_LeiDang_2",
+  "text": "لكن رغم ذلك... لا أستطيع أن أدعك تذهب أبعد من هذا."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_LeiDang_3",
+  "text": "تعال!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_Battle_1",
+  "text": "جئت في الوقت المناسب!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang1_Battle_2",
+  "text": "هات ما عندك!"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiB_BOSSLeiDang_LeiDang_1",
+  "text": "أحسنت! لم تخيّب ظني!"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiB_BOSSLeiDang_Hun_2",
+  "text": "إذًا ستتخلى عن مدفع النمر لتقاتل بيد واحدة؟"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiB_BOSSLeiDang_LeiDang_3",
+  "text": "هذا نزالنا الأخير. فلنجعله نزالًا لا يُنسى."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Battle_1",
+  "text": "يا لها من متعة!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang2_Battle_2",
+  "text": "لن تفلت من هذه الحركة!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang3_Battle_1",
+  "text": "همف. يا لها من خيبة!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Battle_1",
+  "text": "كل شيءٍ يعود إلى التراب!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Hun_1",
+  "text": "أنت... أنت تناولت سمّ الصمت حقًا؟!"
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_LeiDang_2",
+  "text": "هه... كنت أعلم... أنه لن يضيّع... فرصة كهذه."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Hun_3",
+  "text": "أراد لنغ تو أن تقتلني قبل أن يقضي عليك السمّ، حتى لا يحصل تسو شانغ على القلب المشعّ أبدًا."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_Hun_4",
+  "text": "وعندها لن يقف التنظيم في طريقه مجددًا..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_LeiDang_5",
+  "text": "من أجل المخطط العظيم لحاكم الظلال... تقبّلت الموت منذ زمن بعيد..."
+ },
+ {
+  "key": "Dlg_XiMeng_LeiDang4_LeiDang_6",
+  "text": "أن أموت على يدك... لا ندم عندي!"
+ },
+ {
+  "key": "Dlg_XiMeng_ChaKanYuEr_Hun_1",
+  "text": "يوأر... إنها ما زالت تتنفس!"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_YuEr_1",
+  "text": "يا سيد سول... لقد أتيت حقًا... لتنقذنا..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_YuEr_2",
+  "text": "أبي... هل هو بخير؟"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_Hun_3",
+  "text": "إنه... بخير جدًا."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_YuEr_4",
+  "text": "شكرًا..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_YuEr_5",
+  "text": "لنغ تو... إنه ذاهب إلى <Bold>جرف تمزيق الأرواح</>..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_YuEr_6",
+  "text": "السيد سول... أشعر ببرد شديد..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_YuEr_7",
+  "text": "أنا آسفة... في هذا الوولين... أمثالنا..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShiA_YuEr_YuEr_8",
+  "text": "لا نملك... إلا أن نذرف الدموع..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_Leave_1",
+  "text": "ينبغي تفحّص هذه المنطقة بعناية..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_3",
+  "text": "وراء السيدة شيء يفوق هذا العالم... إنما نوجد بفضلها وحده."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_4",
+  "text": "أتاح لنا تدبيرك المحكم الحصول على القلب المشعّ ووعاء الين المثالي. وهذا أعظم إنجازاتك."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_LengTu_5",
+  "text": "هذا من لطفك يا شيخنا الأكبر. لولاك ولولا الشيوخ الستة الذين فتحوا <Bold>الصدع</>، فكيف كان بوسع السيدة أن تعبر بين العالم الخفي وعالم اليقظة؟"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_6",
+  "text": "يفيض جرف تمزيق الأرواح بشا-تشي. إنه موطن الأحد عشر، ويقع قرب ساحات تدريبنا."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_7",
+  "text": "يمكننا فتح الصدع هناك، وإدخال السيدة في وعاء الين المثالي، ثم إعادتها إلى عالم اليقظة. ما قولك أيها المبعوث؟"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_LengTu_8",
+  "text": "اختيار موفق. قبل سنوات، ذبح أبطال الوولين بعضهم بعضًا فوق هذه الجروف؛ سالت الدماء كالأنهار، ولا يزال شا-تشي عالقًا بها حتى اليوم."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_LengTu_9",
+  "text": "ما إن تحلّ السيدة حتى تلتهم ما تشاء حتى تشبع. هاهاهاها!"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_LengTu_10",
+  "text": "تبقى مسألة واحدة... لا بد أن تبقى أجسادك وأجساد سائر المعلمين في <Bold>قلب البحيرة</> للحفاظ على خلودكم. فكيف ستصلون إلى جرف تمزيق الأرواح لفتح الصدع؟"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_11",
+  "text": "وهل يقلقك أمر تافه كهذا أيها المبعوث؟"
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_12",
+  "text": "لا تقيدنا حدود البشر. يمكن لوعينا الانتقال بحرية بين الدمى والأجساد."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_13",
+  "text": "سننقل وعينا إلى دماك، ونقيم الطقس في جرف تمزيق الأرواح."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_LengTu_14",
+  "text": "سأتكلم بصراحة يا شيخنا الأكبر. في الحقيقة، لديّ بالفعل ممر إلى جبل تمزيق الأرواح، عبر <Bold>قاعة الحداد</> التي بنيتها لشخص عرفته منذ زمن بعيد."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_LengTu_15",
+  "text": "وقد سُدّ بالطوب والحجارة كيلا تقع عليه أعين المتطفلين."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_16",
+  "text": "يا له من تدبير للقدر... بل هو تدبير القدر بعينه."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_IMPTMEM5_ZhiGaoZhe_17",
+  "text": "يجب ألا يُكشف أبدًا عن موقع <Bold>قلب البحيرة</>..."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_Investigate_IMPTMEM5_Hun_1",
+  "text": "القلب المشعّ... الوعاء المثالي... الصدع ذاته... لا ينبغي لشيء من هذا أن يوجد في عالمنا."
+ },
+ {
+  "key": "Dlg_QSD_RongQiMiShi_Investigate_IMPTMEM5_Hun_3",
+  "text": "الجدار قرب <Bold>قاعة الحداد</>...؟"
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_Temp_1",
+  "text": "[استقصاء سرّ السلالة]"
+ }
+]

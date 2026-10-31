@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_AbilityWidget_02",
+  "text": "استكشاف لجمع المزيد من {0}"
+ },
+ {
+  "key": "UI_AbilityWidget_01",
+  "text": "زهرة الذكرى الكاملة"
+ },
+ {
+  "key": "UI_AbilityWidget_08",
+  "text": "شظية تزيد شا-تشي {0} بصفة دائمة"
+ },
+ {
+  "key": "UI_AbilityWidget_09",
+  "text": "شظية تزيد الهجوم وكسر الدفاع {0} بصفة دائمة"
+ },
+ {
+  "key": "UI_AbilityWidget_10",
+  "text": "زهرة تزيد الصحة {0} بصفة دائمة"
+ },
+ {
+  "key": "UI_AbilityWidget_03",
+  "text": "اكتملت المجموعة"
+ },
+ {
+  "key": "UI_AbilityWidget_19",
+  "text": "إعادة ضبط"
+ },
+ {
+  "key": "UI_AbilityWidget_25",
+  "text": "جمع المزيد من زهور الذكرى الكبيرة"
+ },
+ {
+  "key": "UI_AbilityWidget_26",
+  "text": "جمع المزيد من الحجر الأسود"
+ },
+ {
+  "key": "UI_AbilityWidget_27",
+  "text": "جمع المزيد من كهرمان شا-تشي"
+ },
+ {
+  "key": "UI_AbilityWidget_28",
+  "text": "الدورات المطلوبة: {0}"
+ },
+ {
+  "key": "UI_AbilityWidget_17",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للتدريب <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_AbilityWidget_14",
+  "text": "اشتراط مهارة مسبقة"
+ },
+ {
+  "key": "UI_AbilityWidget_15",
+  "text": "يتطلب {0} {2}"
+ },
+ {
+  "key": "UI_AbilityWidget_16",
+  "text": "يتطلب {0} {2}"
+ },
+ {
+  "key": "UI_AbilityWidget_11",
+  "text": "عدم استيفاء متطلبات التدريب"
+ },
+ {
+  "key": "UI_AbilityWidget_13",
+  "text": "اكتمل التدريب"
+ },
+ {
+  "key": "UI_AbilityWidget_22",
+  "text": "تم بلوغ الحد الأقصى للتدريب"
+ },
+ {
+  "key": "UI_AbilityWidget_12",
+  "text": "موارد التدريب غير كافية"
+ },
+ {
+  "key": "UI_AddAttributeTips_01",
+  "text": "زادت الصحة القصوى!"
+ },
+ {
+  "key": "UI_AddAttributeTips_02",
+  "text": "زاد شا-تشي الأقصى!"
+ },
+ {
+  "key": "UI_AddAttributeTips_03",
+  "text": "زاد الهجوم وكسر الدفاع!"
+ },
+ {
+  "key": "UI_AbilityWidget_24",
+  "text": "التدريب مقابل <img id=\"Dust_Grey\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Grey>{0}</>"
+ },
+ {
+  "key": "UI_AbilityName_1_1",
+  "text": "هيئة انسيابية"
+ },
+ {
+  "key": "UI_AbilityNode_1_1",
+  "text": "بعد المراوغة المثالية لهجوم الوميض الأحمر، أو الصدّ المثالي لهجوم الوميض الأزرق، أو كسر دفاع عدو أو هزيمته، الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> أو <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> خلال مدة قصيرة لتنفيذ <Ability_Yellow_Decorator2>مطاردة سريعة</> على عدو بعيد."
+ },
+ {
+  "key": "UI_AbilityName_1_2",
+  "text": "سكون الذهن"
+ },
+ {
+  "key": "UI_AbilityNode_1_2",
+  "text": "منح حصانة وجيزة أثناء اندفاع القوّة."
+ },
+ {
+  "key": "UI_AbilityName_2_1",
+  "text": "سعة بلا حدود · مستوى 1"
+ },
+ {
+  "key": "UI_AbilityName_2_2",
+  "text": "سعة بلا حدود · مستوى 2"
+ },
+ {
+  "key": "UI_AbilityName_2_3",
+  "text": "سعة بلا حدود · مستوى 3"
+ },
+ {
+  "key": "UI_AbilityName_2_4",
+  "text": "سعة بلا حدود · مستوى 4"
+ },
+ {
+  "key": "UI_AbilityNode_2_1",
+  "text": "إضافة <WeaponDes_Num_Green>1</> خانة حُلية."
+ },
+ {
+  "key": "UI_AbilityName_3_1",
+  "text": "تجدّد لا ينتهي · مستوى 1"
+ },
+ {
+  "key": "UI_AbilityNode_3_1",
+  "text": "<InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استعادة <Ability_Yellow_Decorator2>الصحة</> و<Ability_Yellow_Decorator2>شا-تشي</> عند الاغتيال والإجهاز."
+ },
+ {
+  "key": "UI_AbilityName_3_2",
+  "text": "تجدّد لا ينتهي · مستوى 2"
+ },
+ {
+  "key": "UI_AbilityNode_3_2",
+  "text": "<InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> احتمال استعادة <img id=\"SpiritShadow\" width=\"40\"/> الشرارة المظلمة عند الإجهاز."
+ },
+ {
+  "key": "UI_AbilityName_4_1",
+  "text": "انسياب متقن · مستوى 1"
+ },
+ {
+  "key": "UI_AbilityName_4_2",
+  "text": "انسياب متقن · مستوى 2"
+ },
+ {
+  "key": "UI_AbilityNode_4",
+  "text": "<InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> خفض فترة انتظار تبديل السلاح بمقدار <WeaponDes_Num_Green>ثانيتين</>."
+ },
+ {
+  "key": "UI_AbilityName_5",
+  "text": "إعادة توجيه القوة"
+ },
+ {
+  "key": "UI_AbilityNode_5",
+  "text": "استعادة شا-تشي عند المراوغة باستخدام <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> أو الصدّ المثالي لهجوم عدو باستخدام <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>."
+ },
+ {
+  "key": "UI_AbilityName_6",
+  "text": "الكل أو لا شيء"
+ },
+ {
+  "key": "UI_AbilityNode_6",
+  "text": "عند عدم كفاية شا-تشي، يستهلك الهجوم باستخدام <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> ما تبقّى من شا-تشي لتنفيذ هجوم معزّز."
+ },
+ {
+  "key": "UI_AbilityName_7",
+  "text": "الشفرة الحادة"
+ },
+ {
+  "key": "UI_AbilityNode_7",
+  "text": "<WeaponDes_Num_Green>30</> مستوى إجمالًا. يزيد كل مستوى <Ability_Yellow_Decorator2>الهجوم</> و<Ability_Yellow_Decorator2>كسر الدفاع</> بمقدار <WeaponDes_Main_Green>{0}</>. إجمالي الزيادة:"
+ },
+ {
+  "key": "UI_AbilityName_8",
+  "text": "رباطة جأش راسخة"
+ },
+ {
+  "key": "UI_AbilityNode_8",
+  "text": "بعد <Ability_Yellow_Decorator2>المراوغة</> أو <Ability_Yellow_Decorator2>الصدّ المثالي</> لهجوم عدو، يزداد احتمال أن تقاطع الحركة <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> التالية حركة العدو."
+ },
+ {
+  "key": "UI_AbilityName_10_1",
+  "text": "سكينة الأعماق · مستوى 1"
+ },
+ {
+  "key": "UI_AbilityName_10_2",
+  "text": "سكينة الأعماق · مستوى 2"
+ },
+ {
+  "key": "UI_AbilityNode_10_1",
+  "text": "زيادة الحد الأقصى للشرارة المظلمة بمقدار <WeaponDes_Num_Green>1</>."
+ },
+ {
+  "key": "UI_AbilityName_11",
+  "text": "تدفق التشي"
+ },
+ {
+  "key": "UI_AbilityNode_11",
+  "text": "عندما يستخدم عدو عادي هجومًا بعيد المدى بهجوم الوميض الأحمر، أو يكون مكسور الدفاع وصحته أقل من 50%، يمكن استخدام أسلحة طيفية محددة في اللحظة المناسبة لشنّ <Ability_Yellow_Decorator2>هجوم مضاد</> أو تنفيذ <Ability_Yellow_Decorator2>هجوم لاحق</> من دون استهلاك الشرارة المظلمة."
+ },
+ {
+  "key": "UI_AbilityName_12",
+  "text": "هيئة بلا ظل"
+ },
+ {
+  "key": "UI_AbilityNode_12",
+  "text": "احتمال <WeaponDes_Num_Green>15%</> ألّا يستهلك استخدام سلاح طيفي <img id=\"SpiritShadow\" width=\"40\"/> الشرارة المظلمة."
+ },
+ {
+  "key": "UI_AbilityName_13",
+  "text": "الذهن المركّز"
+ },
+ {
+  "key": "UI_AbilityNode_13",
+  "text": "<WeaponDes_Num_Green>30</> مستوى إجمالًا. يزيد كل مستوى <Ability_Yellow_Decorator2>شا-تشي الأقصى</> بمقدار <WeaponDes_Main_Green>{0}</>. إجمالي الزيادة:"
+ },
+ {
+  "key": "UI_AbilityName_14",
+  "text": "فن العلاج"
+ },
+ {
+  "key": "UI_AbilityNode_14",
+  "text": "زيادة عدد استخدامات الدواء بمقدار <WeaponDes_Num_Green>1</>."
+ },
+ {
+  "key": "UI_AbilityName_15_1",
+  "text": "الارتقاء · مستوى 1"
+ },
+ {
+  "key": "UI_AbilityName_15_2",
+  "text": "الارتقاء · مستوى 2"
+ },
+ {
+  "key": "UI_AbilityNode_15_1",
+  "text": "زيادة الحد الأقصى <Niagara id=\"Fire\"/> لجوهر شا-تشي بمقدار <WeaponDes_Num_Green>1</>."
+ },
+ {
+  "key": "UI_AbilityName_16",
+  "text": "ترياق الدم"
+ },
+ {
+  "key": "UI_AbilityNode_16",
+  "text": "احتمال استعادة <Ability_Yellow_Decorator2>الأدوية</> عند هزيمة الأعداء."
+ },
+ {
+  "key": "UI_AbilityName_17",
+  "text": "إرادة لا تلين"
+ },
+ {
+  "key": "UI_AbilityNode_17",
+  "text": "الاحتفاظ <Niagara id=\"Fire\"/> بجوهر شا-تشي عند الموت."
+ },
+ {
+  "key": "UI_AbilityName_18",
+  "text": "رغم كل الصعاب"
+ },
+ {
+  "key": "UI_AbilityNode_18",
+  "text": "مرة واحدة في كل معركة، <Ability_Yellow_Decorator2>منع هجوم</> كان سيخفض الصحة إلى أقل من <WeaponDes_Num_Green>10%</>."
+ },
+ {
+  "key": "UI_AbilityName_19",
+  "text": "جسد محصّن"
+ },
+ {
+  "key": "UI_AbilityNode_19",
+  "text": "<WeaponDes_Num_Green>30</> مستوى إجمالًا. يزيد كل مستوى <Ability_Yellow_Decorator2>الصحة القصوى</> بمقدار <WeaponDes_Main_Green>{0}</>. إجمالي الزيادة:"
+ },
+ {
+  "key": "UI_AbilityName_21",
+  "text": "الضربة الافتتاحية"
+ },
+ {
+  "key": "UI_AbilityNode_21",
+  "text": "<InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استبدال الحركة التي يؤديها تبديل الأسلحة بحركة خاصة."
+ },
+ {
+  "key": "UI_AbilityName_22",
+  "text": "الانسياب كالماء"
+ },
+ {
+  "key": "UI_AbilityNode_22",
+  "text": "لا يقطع الصدّ والمراوغة سلسلة الضربات الحالية."
+ },
+ {
+  "key": "UI_AbilityName_23",
+  "text": "خطوة خاطفة"
+ },
+ {
+  "key": "UI_AbilityNode_23",
+  "text": "<InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> استهلاك كمية قليلة من شا-تشي لتنفيذ مراوغة خاصة فورًا."
+ },
+ {
+  "key": "UI_AbilityName_24",
+  "text": "ترياق سريع"
+ },
+ {
+  "key": "UI_AbilityNode_24",
+  "text": "إلغاء الترنّح عند استخدام الدواء أثناء التعرّض لهجوم."
+ },
+ {
+  "key": "UI_AbilityName_25",
+  "text": "فرار الزيز"
+ },
+ {
+  "key": "UI_AbilityNode_25",
+  "text": "عند كسر الدفاع، <Ability_Yellow_Decorator2>تراجع</> تلقائي ومناعة من الهجمات."
+ },
+ {
+  "key": "UI_AbilityName_26",
+  "text": "خطوة الألف ميل"
+ },
+ {
+  "key": "UI_AbilityNode_26",
+  "text": "بعد الركض لمدة <WeaponDes_Num_Green>ثانيتين</>، بدء الركض فائق السرعة."
+ },
+ {
+  "key": "UI_Complete_04",
+  "text": "تخطٍّ"
+ },
+ {
+  "key": "UI_OpenDoor_05",
+  "text": "تم استخدام {0}"
+ },
+ {
+  "key": "UI_Quest_01",
+  "text": "مكتمل"
+ },
+ {
+  "key": "UI_Achievement_1",
+  "text": "مواصلة اللعب لفتح هذا الإنجاز."
+ },
+ {
+  "key": "UI_SaveGame_07",
+  "text": "حفظ"
+ },
+ {
+  "key": "UI_SaveGame_04",
+  "text": "بيانات لعبة جديدة"
+ },
+ {
+  "key": "UI_SaveGame_10",
+  "text": "حفظ بيانات لعبة جديدة"
+ },
+ {
+  "key": "UI_LoadGame_02",
+  "text": "الدورة: {0}"
+ },
+ {
+  "key": "UI_LoadGame_03",
+  "text": "الصعوبة: {0}"
+ },
+ {
+  "key": "UI_LoadGame_01",
+  "text": "تحميل اللعبة"
+ },
+ {
+  "key": "UI_LoadGame_04",
+  "text": "الأيام المتبقية: {0}"
+ },
+ {
+  "key": "UI_LoadGame_08",
+  "text": "المقدمة"
+ },
+ {
+  "key": "UI_SaveGame_08",
+  "text": "استبدال ملف الحفظ هذا؟"
+ },
+ {
+  "key": "UI_SaveGame_09",
+  "text": "لا يمكن استبدال ملفات الحفظ التلقائي."
+ },
+ {
+  "key": "UI_SaveGame_12",
+  "text": "لا يمكن استبدال بيانات الحفظ هذه"
+ },
+ {
+  "key": "UI_SaveGame_13",
+  "text": "اختيار بيانات حفظ من نمط 66 يومًا لاستبدالها"
+ },
+ {
+  "key": "UI_SaveGame_15",
+  "text": "جارٍ الحفظ..."
+ },
+ {
+  "key": "UI_SaveGame_16",
+  "text": "حذف ملف الحفظ"
+ },
+ {
+  "key": "UI_SaveGame_17",
+  "text": "لا يمكن حذف ملف الحفظ هذا."
+ }
+]

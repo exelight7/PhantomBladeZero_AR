@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_LJC_MEM_CunMin3_LaoTou_5",
+  "text": "لكنني لم أحلم بالسيدة من قبل قط. ربما تنظر إلى رجل بلا أولاد مثلي، فتراه لا يستحق أن تأخذه..."
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin3_LaoTou_6",
+  "text": "إن كان مصيري أن أصير مثل تلك الأشياء البشعة... فالأجدر أن تدعني أنهي حياتي بنفسي!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin3_LaoTou_7",
+  "text": "سألقي بنفسي في هذه البئر وأنهي الأمر إلى الأبد!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin3_QingNian_8",
+  "text": "لا—أخي! توقف!!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Son_2",
+  "text": "م-ما أنت؟ ابتعد!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Father_3",
+  "text": "آه... دهشون... أنا... أبوك..."
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Son_4",
+  "text": "اللعنة عليك! أيها المسخ الخشبي، أطلق كاحلي!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Son_5",
+  "text": "أبي أنت؟ هذا ما تتمناه! سأحطمك إربًا!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Father_6",
+  "text": "آآه— آآه، ده... شون... آآآه—"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Son_7",
+  "text": "همف... كفّ عن ألاعيبك! أنا لست خائفًا منك! هل تظن أن التشبّه بأبي سيخدعني؟ تبًّا!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Son_8",
+  "text": "أبي... اسمع. كنت في الحقول... ورأيت شيئًا خشبيًا—"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Son_9",
+  "text": "أبي؟... أبي، لا تفزعني! أبي! أبي—!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_CunMin4_Son_10",
+  "text": "هه... هاهاها... لا... ليس هذا أبي! صدقني! عليك أن تصدقني! لم يكن أبي... لا..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei1_1",
+  "text": "العم لو مدين لي. حيًّا كان أم ميتًا، سأسترد حقي!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei2_1",
+  "text": "هذه أشيائي! لماذا أسمح لك بأخذها؟"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei3_1",
+  "text": "يا لهذه المسوخ الخشبية... هل تجرؤون على الوقوف في طريقي؟"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei4_1",
+  "text": "انظروا ما فعلته بكم السيدة... انظروا إلى حالكم!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_FeiZei5_1",
+  "text": "تبًا... هذه القرية ملعونة!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin1_1",
+  "text": "قرابين... للسيدة..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin2_1",
+  "text": "كل شيء ملك للسيدة!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin3_1",
+  "text": "كل هذا للسيدة! لا تأخذوا شيئًا!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin4_1",
+  "text": "تحدّوا السيدة وسنسلخكم أحياء!"
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin5_1",
+  "text": "إنها تراقب... وترى كل شيء..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin6_1",
+  "text": "ستضمك السيدة إليها... ستضمك..."
+ },
+ {
+  "key": "Dlg_LJC_HuOu_CunMin7_1",
+  "text": "لا أحد يغادر... لا أحد يبرح مكانه..."
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai0_LQG_1",
+  "text": "صناديق من ذهب، وصناديق من فضة..."
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai0_LQG_2",
+  "text": "مآلك قبر تكسوه الحشائش، ورجل خشبي يستمتع بالشمس!"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_1",
+  "text": "مهلًا! يا فتى! سمعت كل شيء!"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_2",
+  "text": "العمّ لو... يتنقّل فوق السطوح والعوارض... ويجري مع اللصوص في تدابيرهم!"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_3",
+  "text": "ذهب وفضة، أكوامًا فوق أكوام... مطمورة عميقًا تحت جرار الخمر!"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_6",
+  "text": "ها! مفتاح من حديد في يد لصّ! هل تريد الذهب؟ فاسلك درب اللصّ إن استطعت! هاهاها!"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_Re_4",
+  "text": "يبدو أن العمّ لو خبّأ كنزًا في قبو النبيذ... وأن لصًّا حصل على المفتاح بالفعل."
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_7",
+  "text": "من أنت؟ وكيف عرفت كل هذا؟"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_8",
+  "text": "هاهاها! اهتمّ بشأنك يا فتى... ودع ماضيّ وشأنه!"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_9",
+  "text": "أنا كالعشب اليابس تدحرجه الريح، جوّال لا يستقر. لا أحد، وقد أكون أيّ أحد!"
+ },
+ {
+  "key": "Dlg_LJC_LaoQiGai1_LQG_Re_1",
+  "text": "ها! مفتاح من حديد في يد لصّ! هل تريد الذهب؟ فاسلك درب اللصّ إن استطعت! هاهاها!"
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HunShuiCunMin_1",
+  "text": "هذا هو المرض الذي ذكره العجوز غن ويوأر من قبل."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_MiaoKan_1",
+  "text": "كانت باي تشيليان أيضًا خاضعة لسيطرة من تُسمّى «السيدة»."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_MenNei_CunMin1_2",
+  "text": "إنه البطل! لقد قضى على تلك الأشياء الخشبية! لقد نجونا!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_MenNei_ZhengDao2_3",
+  "text": "اخفض صوتك. تأمل جيدًا؛ فقد يكون واحدًا من أولئك المقنّعين!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_Investigate_YuanMen_CunMin1_1",
+  "text": "مَن... مَن هناك؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_Investigate_YuanMen_Hun_2",
+  "text": "عابر سبيل لا اسم له... أبحث عن نفق المهرّب المؤدي إلى بانغتشن."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_Investigate_YuanMen_ZhengDao1_4",
+  "text": "أسرع، ادخل!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao1_ZhengDao1_2",
+  "text": "في الحقيقة، جئنا نحن أيضًا بحثًا عن ذلك النفق."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao1_ZhengDao1_3",
+  "text": "لكننا لم نجد سوى دمى محطمة. إما أكوامًا من الخشب الميت... أو دمى تهجم عليك ما إن تراك."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_ZhengDao1_ZhengDao1_4",
+  "text": "عثرنا على بضعة قرويين ما زالوا بكامل قواهم العقلية... وبالكاد استطعنا الصمود في هذا المكان."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin1_CunMin1_2",
+  "text": "ابقَ معنا. نعين بعضنا بعضًا!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin1_CunMin1_3",
+  "text": "قال الراهب الشاب من معبد كويه إن هذا المرض انتشر لأن الناس آمنوا بالسيدة."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin1_CunMin1_4",
+  "text": "ما دمنا لا نؤمن بها، فسنكون بخير. لن يصيبنا مكروه!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_1",
+  "text": "أقسم! أ-أنا لم أؤمن بالسيدة قط!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_2",
+  "text": "أنا... لم أحلم إلا بأمي..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_3",
+  "text": "كان وجهها... مغطى بزهرة حمراء كبيرة... لكنني عرفت أنها أمي..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_NvCunMin_NvCunMin_6",
+  "text": "السيدة... هل هي التي ترسل المبعوث ليأخذني...؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_1",
+  "text": "هل هذا معقول؟ هذا المرض يُغرق الناس في النوم، ولا يستيقظون أبدًا."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_2",
+  "text": "لا أطباء ولا أدوية. فهل يكفي أن تغطي وجهك بزهرة حمراء لتُشفى، بطريقة ما؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_3",
+  "text": "أعرف أن طبيبًا عاديًا لن يستطيع علاج هذا. لكن العالم واسع، ولا بد أن فيه من يستطيع."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_CunMin2_CunMin2_4",
+  "text": "والآن يقضون النهار كله في صنع التماثيل، بل حوّلوا المزار إلى مكان لعبادة السيدة. لقد جنّوا!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_BaiShanNv_BaiShanNv_1",
+  "text": "اتفقنا جميعًا... على ألا يعبد أحد السيدة."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_BaiShanNv_BaiShanNv_2",
+  "text": "لكن... لم يجرؤ أحد على نزع الزهرة الحمراء عن وجه التمثال..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_Option_1",
+  "text": "التصديق"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_Option_2",
+  "text": "عدم التصديق"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_Option_3",
+  "text": "آثار هويجيويه"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_ZDGS_1",
+  "text": "لم أظن قط... أن غرباء سيأتون إلى هذه القرية بعد..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou_ZDGS_2",
+  "text": "هل... تؤمن بسيدة الحجاب...؟"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou1_ZDGS_1",
+  "text": "كما خشيت... لم يعد لهذا العالم من خلاص..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou1_Investigate_ZDGSshiti_1",
+  "text": "تجمّد اليأس على وجهه. ونقش الموت خراب العالم في عينيه الخافتتين الخاليتين من الحياة."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_1",
+  "text": "هاها... إذن... لم يأخذوا الجميع... بعد..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_1_1",
+  "text": "أخي الأصغر في الطائفة، هويجيويه... ما زال ينتظر في خان الوادي... خبرًا مني..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_1_2",
+  "text": "هذا المكان خطر... أرجوك أن تخبره... أن يغادر فورًا... وألا يعرّض نفسه للخطر هنا..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_Hun_2",
+  "text": "سيدة الحجاب... ما حقيقتها؟"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_3",
+  "text": "<Bold>الرحيمة... مخلّصة المعذّبين... سيدة الحجاب المزهرة...</>"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_4",
+  "text": "قبل نحو... سنتين أو ثلاث... بدأ ينتشر في هذه المنطقة..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_5",
+  "text": "ههه... لا تؤمن بها... حسنًا..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_6",
+  "text": "من أجل هذه الأرواح المسكينة..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_ZDGS_7",
+  "text": "اقتلها!"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_Hun_1",
+  "text": "ألقِ نظرة على هذا، من فضلك."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_5",
+  "text": "ما كان ليترك هذا وراءه... لا بدّ أن لذلك سببًا... لا..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_6",
+  "text": "أنت... لا تؤمن بذلك الشيء الدنيء... في هذا العالم الفاسد... قلّما نجد مثل هذا الصفاء الذهني..."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_7",
+  "text": "أستودعك هذه المسبحة... ستكون خير عون لك."
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_8",
+  "text": "أهل هذه القرية... كانوا طيبي القلوب... السيدة هي من أضلّتهم!"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou3a_ZDGS_11",
+  "text": "أنقذ... من لا يزال بالإمكان إنقاذهم!"
+ },
+ {
+  "key": "Dlg_LJC_ZhengDaoGaoShou2_Investigate_ZDGSshiti_1",
+  "text": "حتى بعد موته، ظلّت ملامحه حازمة لا تلين."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Reading1_Hun_1",
+  "text": "فن التحكم بالدمى بالخيوط... لا يُعرف بممارسته إلا طائفة ربط الخيوط."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_1",
+  "text": "هذا العالم الفاني تلتهمه النيران. ينهض السائرون المقنّعون، ويغرق البشر في اليأس."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_2",
+  "text": "لا نهاية للحرب. سقط العدل. طال الليل، وبحر المعاناة لا ساحل له."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_3",
+  "text": "السيدة الرحيمة، منقذة الخلق من كل عذاب. تجوب النار والطوفان، وتغمر البشر برحمتها."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_4",
+  "text": "يجمعنا عهد الزهور، وتُرى طاعتنا. وإن حُجب الصنم القديم، فإرادتها المقدسة باقية."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_NianJing_CunMinAll_5",
+  "text": "صلّوا، تستجب لكم. تضرّعوا، تجدوا السلام. يا عظيمة الرحمة... يا منقذة الخلق من كل عذاب."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai1_XiaoHaiNv_1",
+  "text": "أين ذهبت تلك الأخت الكبرى؟ كان من المفترض أن تعلّمني التعاويذ!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou1_LaoTou_1",
+  "text": "أحتاج إلى الوصول إلى التلال الخلفية... لماذا لا أستطيع المرور؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou1_LaoTou_2",
+  "text": "ما هذا الضباب...؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai1_1",
+  "text": "أقبلت السيدة، والمبعوث هنا. سيكون الجميع بأمان، فلا تخافوا."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai2_2",
+  "text": "ينهض الأبطال الثلاثة، ويندحر الشر. لن يطول مقام السائرين المقنّعين."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai1_3",
+  "text": "أيتها الدمية الخشبية الصغيرة، انتظري وامكثي. سيبدد الغسق ألمك."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHai2_4",
+  "text": "زال المرض، واستقام العقل. وامتلأ كل بيت بالبهجة."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai2_XiaoHaiALL_5",
+  "text": "امتلأ كل بيت بالبهجة!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMin1_CunMin1_1",
+  "text": "لم أفقد هذا الذراع..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMin1_CunMin1_2",
+  "text": "أخذه المعلم الغسق... ليصنع دواءً."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMin1_CunMin1_5",
+  "text": "حالما يجهز الترياق... سأستعيد ذراعي. وعندها سينجو الجميع!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMinNv1_NvCunMinNv1_1",
+  "text": "سيعودون..."
+ }
+]

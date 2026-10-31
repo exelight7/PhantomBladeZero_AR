@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_5",
+  "text": "ذلك المبعوث اللعين! جئنا لنصفّي حسابنا معه إلى الأبد!"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_6",
+  "text": "لكن لم يبقَ هنا من رجال الميثاق بكامل عقولهم إلا قليل... وربما كنا آخرهم."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_7",
+  "text": "والأسوأ من ذلك أن وحشين ما زالا يتربصان هنا."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_8",
+  "text": "الصغير راكب على ظهر الكبير وينشره بلا توقف..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_9",
+  "text": "كلما اشتد ألمه... ازداد شراسة..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_10",
+  "text": "فقدنا إخوةً كثيرين في الطريق إلى هنا... هل هذه نهاية الميثاق؟"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_Re_1",
+  "text": "هل هذه نهاية الميثاق؟"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_Back_Hun_1",
+  "text": "فتك الاثنان بتلك المجموعة من الناجين من الميثاق..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_Back_Hun_2",
+  "text": "هل أعود لأخبرهم أن الوحشين قد ماتا؟"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian_Option_1",
+  "text": "المساعدة في البحث عن رفات المعلم"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian_Option_2",
+  "text": "التزام الصمت"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_1",
+  "text": "هل لديك وسيلة لاختراق الجليد؟"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_Hun_2",
+  "text": "مدفع النمر هذا... قد ينفع."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_3",
+  "text": "في مأساة جرف تمزيق الأرواح... ذهب أحد شيوخنا للتحقيق ولم يعد..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_4",
+  "text": "خشي أن يؤذي الآخرين، فقطع أصابعه وذهب وحده إلى وادٍ موحش..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_5",
+  "text": "كان الخاتم الذي ارتداه أثرًا نفيسًا لطائفتنا، وقد فُقد منذ ذلك الحين..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_6",
+  "text": "والآن عثرت على ذلك الوادي... لكن الجليد الصلب يغلقه. لا يستطيع أحد اختراقه بالقوة."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1_ShuangHenJian_7",
+  "text": "لا أبغي الأثر... أريد فقط أن أعيد رفاته... وأواريه الثرى."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1a_ShuangHenJian_1",
+  "text": "توشك معركة كبرى أن تبدأ... لا ينبغي أن أسمح لهذا بأن يشتتني."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1b_Hun_1",
+  "text": "أين يقع هذا الوادي المتجمد؟ سأذهب للتحري."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian1b_ShuangHenJian_2",
+  "text": "شكرًا لك! سأضع علامة على كهف الجليد في خريطتك. أعتمد عليك!"
+ },
+ {
+  "key": "Dlg_FXSD_Investigate_ShiBi_1",
+  "text": "جدار حجري تغطيه طبقة سميكة من الجليد. يُصدر الاصطدام به صوتًا مكتومًا أجوف."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_Hun_1",
+  "text": "هذه رفات شيفو... أعدتها إليك."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_2",
+  "text": "آه... هذه الأصابع المقطوعة... كأنني أرى شيفو من جديد!"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_3",
+  "text": "حين دقّ الجرس يومها... ملأ شا-تشي السماء... وأدرك الجميع أن مكروهًا قد وقع..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_4",
+  "text": "لكن شا-تشي الذي اجتاح ذلك الجرف كان طاغيًا... ففرّ الناس مذعورين، لا يريدون إلا الابتعاد..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_5",
+  "text": "قال شيفو إنه، بصفته مقاتلًا، لا يستطيع الوقوف مكتوف اليدين فيما تُزهق الأرواح..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_6",
+  "text": "لذا توجّه إلى الجرف ليوقف سفك الدماء ويساعد من بقي..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_7",
+  "text": "لكن... حين وصل... لم يجد إلا الجثث..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_8",
+  "text": "وفي النهاية... ابتلعه شا-تشي هو أيضًا... وفي اللحظة الأخيرة، قطع أصابعه بيده."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_9",
+  "text": "يقول بعضهم إن ما بقي من خير في الوولين مات في تلك المذبحة..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_10",
+  "text": "لكن هذه الأصابع... دليل على أن ذرةً من المروءة بقيت!"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian2_ShuangHenJian_11",
+  "text": "وأنت رجل من طينته!"
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian3_ShuangHenJian_1",
+  "text": "بسرعة... ساعدوا القائد..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_1",
+  "text": "حين كنت شابًا... حلمت أن أجوب الوولين بسيف... وأن أسافر في أرجاء العالم كما فعل شيفو..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_2",
+  "text": "لكن... طريقي... ينتهي هنا..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_3",
+  "text": "احتفظ بهذا الخاتم..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_4",
+  "text": "جُب العالم... عني... وعن شيفو..."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_5",
+  "text": "لن ينتهي الوولين... ولا كل ما يمثّله... عند ذلك الجرف."
+ },
+ {
+  "key": "Dlg_FXSD_ShuangHenJian4_ShuangHenJian_6",
+  "text": "عليك أن تعيش لترى ذلك بعينيك... من أجلنا..."
+ },
+ {
+  "key": "Dlg_FXSD_YingMei_YingMei_1",
+  "text": "أنت... جئت متأخرًا..."
+ },
+ {
+  "key": "Dlg_FXSD_YingMei_YingMei_2",
+  "text": "هناك دائمًا... وعاء احتياطي..."
+ },
+ {
+  "key": "Dlg_FXSD_YingMei_YingMei_3",
+  "text": "المبعوث... كان قد... توقّع هذا..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_QiBing2_3",
+  "text": "من يندفع بلا تفكير لن ينجو من أن يُشقّ نصفين!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_QiBing2_4",
+  "text": "ذلك الوحش قوي بشكل مرعب... لكن إحدى ساقيه ضعيفة!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_QiBing2_5",
+  "text": "اضرب تلك الساق؛ إن أصبتها اختل توازنه وأبطأت ذلك اللعين!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_QiBing1_6",
+  "text": "حسنًا! لنفعلها!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_QiBing1_11",
+  "text": "مهلًا! أيها الأخ الرابع! احذر الصغير—"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_JuZhe_12",
+  "text": "هه هه هه... كا كا كا كا..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian1_1",
+  "text": "أختي الصغرى، هل رأيتِ ذلك؟"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian1_2",
+  "text": "الكبير لا يعتمد إلا على قوته، لكنه بليد... أما الصغير فضعيف لكنه شرس... إنهما مخلوقان، لا مخلوق واحد!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian1_3",
+  "text": "ما إن يبطؤ الكبير حتى يغرس الصغير منشارَه فيه بلا تردد!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian2_4",
+  "text": "صحيح! أيها الأخ الأكبر، انظر كيف سأجعلهما يقتتلان!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian2_5",
+  "text": "يا كتلة اللحم الخالية من العقل! انظر إلى ذلك البرغوث الذي يدبّ فوقك!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian2_6",
+  "text": "إنه يراك خنزيرًا ضخمًا غبيًا لا يحسن تسديد ضربة واحدة!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian1_7",
+  "text": "هه، وأنت! أيها القزم الصغير! يا لك من شجاع وأنت تختبئ خلف ذلك الوحش الضخم، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian1_8",
+  "text": "ماذا عساك أن تفعل من دون ذلك الضخم؟"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_JuZhe_9",
+  "text": "هه هه... كا كا كا... كان عليّ إنجاز مهمة... بل فكرت في أن أترككم أحياء..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_JuZhe_10",
+  "text": "لكن تلك المرأة... أريد أن أضم رأسها إلى مجموعتي!!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_LiZhe_11",
+  "text": "الرأس... الرأس..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ShuangJian1_12",
+  "text": "أختي الصغرى! انتبهي!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_SanShiXiong_1",
+  "text": "يا أختي الصغرى، اختبئي! بسرعة!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_DaShiXiong_3",
+  "text": "لا داعي للقلق. سنقضي على ذلك الوحش!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_ErShiXiong_4",
+  "text": "هناك خطب ما! كيف يتوقع هجماتنا؟!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_XiaoShiMei_9",
+  "text": "أيها الإخوة الكبار... أرى... لقد فهمت الآن..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_XiaoShiMei_7",
+  "text": "إنه الصغير... يوجّه الكبير ليتفادى هجماتكم..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_XiaoShiMei_8",
+  "text": "وذلك المنشار الذي يحمله... يغرسه في الكبير، فيزداد الكبير شراسة..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_LiZheJuZhe1_XiaoShiMei_10",
+  "text": "أيها الإخوة الكبار... أرجوكم... لا تموتوا... عودوا... لا تتركوني هنا وحدي..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan_LJY_1",
+  "text": "تسوي... تسوي..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1e_Hun_1",
+  "text": "مأساة أخرى... من مآسي الوولين التي لا تُحصى..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1e_Hun_2",
+  "text": "ليس من حقي التدخل."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuanD_Hun_1",
+  "text": "تسوي... هل تقصد الفتاة من قرية لو؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuanD_LJY_2",
+  "text": "آه... كيف تعرف ابنتي؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1d_Hun_1",
+  "text": "أنا... كنت إلى جوارها في لحظاتها الأخيرة."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1d_Hun_2",
+  "text": "أعطتني تسوي هذا الشريط الأحمر لأوصله إلى جدها... لكنني لم أعثر عليه."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1d_LJY_3",
+  "text": "أبي... لعل هذا خير... فعدم ورود خبرٍ خيرٌ من سماع خبرٍ سيئ."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1d_LJY_4",
+  "text": "أيها البطل، تفضّل وأكمل طريقك. أودّ البقاء مع زوجتي وابنتي قليلًا بعد..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_Investigate_LuJieYuan1dc_1",
+  "text": "يضم زوجته بذراعين متصلبتين، وعيناه زائغتان محتقنتان بالدم. أطبق عليه الحزن حتى مات."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1C2_Hun_1",
+  "text": "تسوي... هل هي ابنتك؟ وهل أبوك لو سانتشيان شيخ قرية لو؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1C2_LJY_2",
+  "text": "آه... أجل، هذا صحيح. هل تعرف أبي وابنتي؟ كيف حالهما؟..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1C2_Hun_3",
+  "text": "أنا... كنت إلى جوارها في لحظاتها الأخيرة."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1C2_Hun_4",
+  "text": "التقيت بأبيك في جبل السجن."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1C2_LJY_5",
+  "text": "الجبل... جبل السجن... لا بد أنه ذهب إلى هناك من أجل المزار عند القمة..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1C2_LJY_6",
+  "text": "لكنني سمعت أن السائرين المقنّعين اجتاحوه... إن ذهب إلى هناك، فاحتمال نجاته ضئيل..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1C2_LJY_7",
+  "text": "أبي... تسوي..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1cb_Hun_1",
+  "text": "تسوي... هل هي ابنتك؟ وهل أبوك لو سانتشيان شيخ قرية لو؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1cb_LJY_2",
+  "text": "آه... أجل، هذا صحيح. هل تعرف أبي وابنتي؟ كيف حالهما؟..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1cb_Hun_3",
+  "text": "التقيت بأبيك في جبل السجن. أخبرني عن تسوي."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1cb_LJY_4",
+  "text": "الجبل... جبل السجن... لا بد أنه ذهب إلى هناك من أجل المزار عند القمة..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1cb_LJY_6",
+  "text": "لكنني سمعت أن السائرين المقنّعين اجتاحوه... إن ذهب إلى هناك، فاحتمال نجاته ضئيل..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1c_LJY_1",
+  "text": "أبي... تسوي..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1c_LJY_2",
+  "text": "أنا بعيد جدًا عن داري... وليس معي حتى شيء واحد يذكّرني بهم..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1B_Hun_1",
+  "text": "تسوي... هل هي ابنتك؟ وهل أبوك لو سانتشيان شيخ قرية لو؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1B_LJY_2",
+  "text": "آه... أجل، هذا صحيح. هل تعرف أبي وابنتي؟ كيف حالهما؟..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1B_Hun_3",
+  "text": "التقيت بأبيك في جبل السجن. حدّثني عن تسوي."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1B_LJY_4",
+  "text": "الجبل... جبل السجن... لا بد أنه ذهب إلى هناك من أجل المزار عند القمة..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1B_LJY_5",
+  "text": "لكنني سمعت أن السائرين المقنّعين اجتاحوه... إن ذهب إلى هناك، فاحتمال نجاته ضئيل..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1B_Hun_6",
+  "text": "أنا... كنت إلى جانبه حين مات. وترك لك هذه الرسالة."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1b_LJY_7",
+  "text": "أبي... أبي... لقد خذلتك. لم أكن إلى جوارك لأرعاك، وفشلت في حماية زوجتي وابنتي..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1b_LJY_3",
+  "text": "شكرًا... لأنك أحضرت إليّ رسالة أبي..."
+ }
+]

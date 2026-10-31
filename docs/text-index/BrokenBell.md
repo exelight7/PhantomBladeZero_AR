@@ -10,4 +10,4 @@
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `BrokenBell_HSSYJ_01` | أطلال ساحر الأوهام الطيفي | [الدفعة](../../work/opencode/batches/batch_0010.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `BrokenBell_HSSYJ_01` | أطلال ساحر الأوهام الطيفي | [الدفعة](../../work/review2/batches/batch_0015.json) | [الأصل](../../data/Game_locres_ar.json) |

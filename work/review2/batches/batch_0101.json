@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_ZuZi_Conference3_Date_1",
+  "text": "قبل ثلاثة أشهر"
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_1",
+  "text": "انزوى شيفو... في مكان لا يعرفه سواه."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_2",
+  "text": "يسعى إلى إحراز اختراق أخير في فن السيف."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_Hun_3",
+  "text": "سواء أبلغ غايته أم لا، فلا أحد في هذا العالم يضاهيه."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_4",
+  "text": "تعرف طبعه؛ لن يهدأ حتى يتقن تلك المرحلة الأخيرة."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_Hun_5",
+  "text": "يا للأسف... من يدري متى أراه مجددًا."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_6",
+  "text": "بالمناسبة، ترك شيفو خريطة قبل أن ينزوي. تُبيّن موقعًا، وقد طلب مني أن أسلّمها إليك."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_Hun_7",
+  "text": "هذا..."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_8",
+  "text": "قال إنها مرتبطة بسلالتك."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_9",
+  "text": "تلك الحالة التي يثور فيها شا-تشي خارج السيطرة... هل عادت؟"
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_Hun_10",
+  "text": "أحيانًا أحلم أنني أقف وسط بحر من النيران. أستيقظ وجسدي يكاد يحترق، وشا-تشي يثور بلا زمام..."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_Hun_11",
+  "text": "أتذكر تحذير شيفو: احذر الجرس على قمة جرف تمزيق الأرواح..."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_12",
+  "text": "مع أننا هزمنا الأحد عشر، لا يزال مكان الجرس مجهولًا..."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_13",
+  "text": "اتبع الخريطة، وستجد حتمًا إجابات."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_ZuoShang_14",
+  "text": "لعلّك تجد سبيلًا لمعالجة شا-تشي لديك... بل وتكشف حقيقة والديك."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference3_Hun_15",
+  "text": "إن صحّ ذلك..."
+ },
+ {
+  "key": "Dlg_XiMeng_DaMo_Date_1",
+  "text": "قبل شهر"
+ },
+ {
+  "key": "Dlg_XiMeng_DaMo_Hun_1",
+  "text": "الهواء مثقل بشا-تشي... لا بد أن هذا هو المكان الذي حدّثني عنه شيفو."
+ },
+ {
+  "key": "Dlg_XiMeng_DaMo_Hun_2",
+  "text": "من هناك؟!"
+ },
+ {
+  "key": "Dlg_FXSD_Investigate_DaWu_1",
+  "text": "سدّت الرياح والثلوج الطريق إلى هنا."
+ },
+ {
+  "key": "Dlg_DHSD_Investigate_GuiChaiShiTi_1",
+  "text": "لم تكتفِ طائفة ربط الخيوط بالانتصار في المواجهة، بل حوّلتها إلى مجزرة..."
+ },
+ {
+  "key": "Dlg_DHSD_XueShan_Hun_1",
+  "text": "كان جبل تمزيق الأرواح دافئًا رطبًا ذات يوم. أما الآن فقد غمره الثلج والرياح... وبردٌ ينفذ إلى العظم..."
+ },
+ {
+  "key": "Dlg_DHSD_XueShan_Hun_2",
+  "text": "هذا الطقس ليس طبيعيًا... لا بد أنه من فعل فنون الأطياف."
+ },
+ {
+  "key": "Dlg_DHSD_QiuMingZuZi_Hun_1",
+  "text": "أن تدفع طائفة ربط الخيوط التنظيم إلى هذا الحد..."
+ },
+ {
+  "key": "Dlg_XSSL_LiZheGuiChai_Hun_1",
+  "text": "يبدو أن المحطِّم أعمل الخراب هنا."
+ },
+ {
+  "key": "Dlg_XSSL_XSQ_Option_1",
+  "text": "لا تزال هناك أمور عالقة؛ العودة لاحقًا."
+ },
+ {
+  "key": "Dlg_XSSL_XSQ_Option_2",
+  "text": "لا رجعة الآن. المضيّ قدمًا!"
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWeiWan_Inanis_1",
+  "text": "ما زال أمامك أمر بالغ الأهمية عليك إتمامه..."
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWeiWan_Inanis_2",
+  "text": "التسرع في المضي قدمًا... <Bold>قد لا يؤدي إلا إلى كارثة</>."
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWeiWan_Inanis_3",
+  "text": "هل تريد حقًا أن تتابع؟"
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWanCheng_Inanis_1",
+  "text": "أعرف أنك قادر على إيقاف السيدة وإنقاذ الوولين."
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWanCheng_Inanis_2",
+  "text": "لكن ماذا عن <Bold>شؤونك الخاصة</>... هل حُسمت كلها؟"
+ },
+ {
+  "key": "Dlg_DHSD_HuXinWanCheng_Inanis_3",
+  "text": "لا أريدك أن تظل مثقلًا بالندم!"
+ },
+ {
+  "key": "Dlg_DHSD_XueMaiWanCheng_Inanis_1",
+  "text": "أعلم أنك مستعد تمامًا الآن! لم يبقَ ما أستطيع أن أعلّمك إياه..."
+ },
+ {
+  "key": "Dlg_DHSD_XueMaiWanCheng_Inanis_2",
+  "text": "اتبع ما يمليه عليك قلبك!"
+ },
+ {
+  "key": "Dlg_FXSD_ShanShenMiao_Leave_Hun_1",
+  "text": "عليّ الاستعداد للمعركة الأخيرة... سأستريح أولًا في معبد الجبل."
+ },
+ {
+  "key": "Dlg_FXSD_ShanShenMiao_Hun_1",
+  "text": "لقد... أوشك الوقت أن يحين..."
+ },
+ {
+  "key": "Dlg_DHSD_ZhongSheng_MuTianMiao_Hun_1",
+  "text": "آ-آآآآآآآآه!!!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_MuTianMiao_1",
+  "text": "سول..."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_2",
+  "text": "شيفو... شيفو!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_3",
+  "text": "ماذا... ماذا فعلتُ؟"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_4",
+  "text": "شيفو! شيفو!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_MuTianMiao_Hun_5",
+  "text": "تسو شانغ؟ العم تشونغ؟"
+ },
+ {
+  "key": "Dlg_DHSD_BiGuan_ZuoShang_ZuoShang_1",
+  "text": "بالمناسبة... قبل أن يدخل شيفو في خلوته، ترك خريطة تحدد موقعًا. وأوصاني بأن أسلّمها إليك."
+ },
+ {
+  "key": "Dlg_DHSD_BiGuan_ZuoShang_ZuoShang_2",
+  "text": "قال إن لهذا الموقع صلة بنسبك."
+ },
+ {
+  "key": "Dlg_DHSD_BiGuan_ZuoShang_ZuoShang_3",
+  "text": "لعلّك تجد طريقة لمعالجة شا-تشي لديك... وتكتشف حتى حقيقة والديك."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_1",
+  "text": "إنه الشيء بعينه الذي أصاب كل من كان في جرف تمزيق الأرواح بالجنون وجعلهم ينقلبون بعضهم على بعض."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_2",
+  "text": "دمك يحمل شا-تشي غامضًا منذ زمن... ولو أيقظه هذا الشيء..."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_3",
+  "text": "ألم يحذرك شيفو من هذا الشيء؟"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_Hun_4",
+  "text": "تسو شانغ... أنت..."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_5",
+  "text": "ظننت أن شيفو سيقتلك، وأن شا-تشي الهائج فيك سيصيبه بجروح خطيرة."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_6",
+  "text": "ثم أوجّه أنا الضربة القاضية. وكان كل شيء سيجري كما خططت."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_Hun_7",
+  "text": "أنت... أنت!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_Hun_8",
+  "text": "كان كل هذا... من تدبيرك!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_9",
+  "text": "ارتدى شيفو القناع ليكبح شا-تشي لديه. ولم يواجهك إلا بنحو 70 بالمئة من قوته الكاملة."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_10",
+  "text": "ومع ذلك... فقتَ توقعاتي."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_11",
+  "text": "لم يبقَ لك شيء... سوى ذلك النصل في يدك."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_12",
+  "text": "كنا أخوين منذ سنوات يا سول. قلّما تكون رابطة بين شخصين بعمق رابطتنا."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_13",
+  "text": "أمنحك فرصة أخيرة: اليوم الثامن عشر من الشهر الخامس، في ميدان التدريب القديم."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZuoShang_ZuoShang_14",
+  "text": "لننهِ هذا حيث بدأ كل شيء!"
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZhongShu_ZhongShu_1",
+  "text": "لماذا تدعه يذهب؟ مهارتكما متقاربة. لو خضتما نزالًا عادلًا..."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZhongShu_ZuoShang_2",
+  "text": "لقد قتل شيفو... أريد أن أعرف: أيهما أقوى، لونغ أم مو."
+ },
+ {
+  "key": "Dlg_DHSD_ShiFu_ZhongShu_ZuoShang_3",
+  "text": "إن قتلته الآن، فلن أعرف الجواب أبدًا."
+ },
+ {
+  "key": "Dlg_FXSD_ShanShenMiao2_Hun_1",
+  "text": "قبل أن تنتهي حياتي، سأحسم الأمر نهائيًا!"
+ },
+ {
+  "key": "Dlg_DHSD_ChaoFeng_YingMei1_1",
+  "text": "آه... يا معلم سول!"
+ },
+ {
+  "key": "Dlg_DHSD_ChaoFeng_YingMei2_2",
+  "text": "إذًا أنت من دمّر الوعاء المثالي... كل هذا بلا جدوى!"
+ },
+ {
+  "key": "Dlg_DHSD_ChaoFeng_YingMei1_3",
+  "text": "ستموت هنا! ستموت هنا!"
+ },
+ {
+  "key": "Dlg_YBZL_GuiChai_GuiChai_1",
+  "text": "المعلم لي... مات..."
+ },
+ {
+  "key": "Dlg_YBZL_GuiChai_GuiChai_2",
+  "text": "حاكم الظلال تسو... مفقود..."
+ },
+ {
+  "key": "Dlg_YBZL_GuiChai_GuiChai_3",
+  "text": "قوات التنظيم هنا... توشك طائفة ربط الخيوط على اجتياحها..."
+ },
+ {
+  "key": "Dlg_DHSD_YuanTiao_GuiFengKe_1",
+  "text": "هاها! يا لها من نشوة!"
+ },
+ {
+  "key": "Dlg_DHSD_YuanTiao_GuiFengKe_2",
+  "text": "هذا هو مذاق الحياة!"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_Hun_0",
+  "text": "نصل!"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_1",
+  "text": "يا معلّم سول... ها أنت ذا!"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_Hun_2",
+  "text": "أخي نصل... دعني أوقف نزيفك."
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_3",
+  "text": "هاها... لا داعي..."
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_4",
+  "text": "لا توجد أبراج شا-تشي قريبة. وما إن ينفد مفعول آخر حجر بدائي حتى أعود إلى... واحد من تلك الكائنات."
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_5",
+  "text": "كل ما قلته لك... عن مقاومة سيطرة ختم العقل، وعن كبح البرد لها... كان كذبًا. هاها!"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_Hun_6",
+  "text": "هل حقًا لا توجد طريقة أخرى؟"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_7",
+  "text": "لا... لكن انظر إلى دمي... ما أشد احمراره!"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_8",
+  "text": "لم أظن يومًا أن دمي سيبدو أحمر بهذا القدر..."
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_9",
+  "text": "ومع خفوت أثر الحجر البدائي، أشعر بختم العقل يتسلل إليّ من جديد..."
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_10",
+  "text": "بعد أن تذوقت الحرية... من ذا الذي يريد العودة إلى ما كان عليه؟"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_Hun_11",
+  "text": "أخي نصل، أنت الوحيد الذي نجح في التحرر من ختم العقل!"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_Hun_12",
+  "text": "أنت بطل حقيقي."
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_13",
+  "text": "ههه..."
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_14",
+  "text": "دعني أقضي على بضعة أعداء آخرين من أجلك!"
+ },
+ {
+  "key": "Dlg_YBZL_GJXZ5_GuiChai_15",
+  "text": "للمرة الأولى... أستطيع أن أختار بنفسي..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingA_QiangBingA_1",
+  "text": "هذا المكان اللعين متجمد وخطر... ولا نهاية له..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingA_QiangBingA_2",
+  "text": "بهذا المعدل... سنموت هنا قبل أن نرى المبعوث..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingB_QiangBingB_1",
+  "text": "ذلك الوحش يفوق قدرتنا..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QiangBingB_QiangBingB_2",
+  "text": "إخوتي... فريقي بأكمله... راحوا في لحظة..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeA_JianKeA_1",
+  "text": "كان من المفترض أن نستولي على قمة الجرف..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeA_JianKeA_2",
+  "text": "لكننا لم نستطع حتى تجاوز كهف الجليد الذي يكمن فيه ذلك الوحش..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeB_JianKeB_1",
+  "text": "يقولون إن الارتقاء الكامل يسلبك عقلك..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_JianKeB_JianKeB_2",
+  "text": "إن كان هذا ما يلزم... فليكن. سأجرّ المبعوث معي إلى الهلاك!"
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_1",
+  "text": "أمامنا جرف تمزيق الأرواح، حيث لقي حتفهم عدد لا يُحصى من الشيوخ."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_2",
+  "text": "في ذلك الوقت، حين دقّ ذلك الجرس الملعون... فقد كثير من أعظم أبطال الوولين عقولهم، وانقلب بعضهم على بعض..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_QingLong_3",
+  "text": "ما زلت أشعر بشا-تشيهم... ما زال عالقًا هنا حتى اليوم..."
+ },
+ {
+  "key": "Dlg_FXSD_YingDi_QingLong_Hun_4",
+  "text": "لماذا خاطرت بالمجيء إلى هنا؟"
+ }
+]

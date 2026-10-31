@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_4",
+  "text": "أوه! سيكون ذلك عونًا كبيرًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_5",
+  "text": "في كل منطقة بضعة كنوز أريد استعادتها. فاجمعها كلها وأعدها إليّ."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_6",
+  "text": "وسيمنحك موكّلي مكافأة ذات قيمة حقيقية، شيئًا يمكنك الانتفاع به فعلًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_7",
+  "text": "هذه قائمة ما في هذه المنطقة. راقب ما حولك!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_Hun_8",
+  "text": "حسنًا."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_1",
+  "text": "هاهاهاها! مذهل، مذهل! لقد عثرت على كل قطعة، حتى الأخيرة! يا معلّم سول، أنت حقًا شخص استثنائي!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_2",
+  "text": "واو... دقة الصنع، والجودة... يا للروعة، ويا للإتقان! من الواضح أنها قطع غير عادية."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_Hun_3",
+  "text": "ما المميز فيها؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_4",
+  "text": "ههه، بعض الحكايات يحسن أن تبقى طي الكتمان يا صديقي."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_5",
+  "text": "لكن إن أردت رأيي..."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_6",
+  "text": "عجيب أمر أولئك الذين يسمّون أنفسهم أبطال الميثاق؛ يتفاخرون بالشرف والاستقامة، ثم يتفرقون كالأرانب ما إن تحلّ الشدائد حقًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_7",
+  "text": "حتى وهم يفرّون بأرواحهم، تشبثوا بكنوزهم الغالية، فأهلكتهم. والحقيقة أن بعض الأشياء ليست مما يقدر كل أحد على حمله."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_8",
+  "text": "على أي حال، كفى حديثًا عنهم! هذا لك يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ4_MSXZ_9",
+  "text": "أعدّ موكّلي هذا عربون شكر لك! وأنا واثق أنك ستحسن الانتفاع به."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_0",
+  "text": "هل أنت حقًا تشانغ سريع اليد؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_1",
+  "text": "أوه؟ ما الذي دعاك إلى السؤال؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_2",
+  "text": "أذكر أسطورة قديمة... عن الشيخ تشانغ سريع اليد، سيّد التنكر، الذي كان له أشباه لا يُحصون. لم يكن أحد يعرف أيهم الحقيقي."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_3",
+  "text": "تلقب نفسك بتشانغ سريع اليد. ما صلتك به؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_4",
+  "text": "ههه، لا يفوتك شيء يا معلّم سول... اعتزل عمي منذ سنوات، وما زال أمامي طريق طويل لأبلغ منزلته."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_5",
+  "text": "كنت تعرف حقيقتي منذ البداية، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_6",
+  "text": "حتى لو لم أحررك، فأنا واثق أنك كنت ستجد سبيلًا آخر للخروج."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_7",
+  "text": "من ذا الذي لا يريد صديقًا آخر في الوولين؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_8",
+  "text": "التنظيم بأسره يطاردك، ومع ذلك خاطرت بحياتك لإنقاذي. كيف لا أرغب في صديق مثلك؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_9",
+  "text": "ترى... كم صديقًا سأكوّن؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_10",
+  "text": "ليسوا كثيرين. <Bold>خمسة</>."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_10_1",
+  "text": "لديّ <Bold>أربعة أشباه لي</> مختبئون في أنحاء البلاد. اعثر عليهم، وسيبيعونك مزيدًا من البضائع، وبأسعار أفضل أيضًا!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_Hun_11",
+  "text": "إذًا، هل أنت شخص واحد... أم خمسة؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_12",
+  "text": "قد أكون واحدًا، وقد أكون خمسة. من يدري؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_12_1",
+  "text": "كل كلمة تقولها يسمعها الخمسة منا، وكل كلمة أقولها تصدر عن خمسة عقول مجتمعة..."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_13",
+  "text": "لكن الأسرار الأعمق في نهجنا... ليست للغرباء."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ5_MSXZ_14",
+  "text": "أعظم شرف لي أن أعدّك صديقًا، يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao1_ZhengDao1_1",
+  "text": "ذلك الوحش... بلا رأس... بلا رأس!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao1_ZhengDao1_2",
+  "text": "لكنه يعرف الطرق! ويعرف الناس!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao1_ZhengDao1_3",
+  "text": "مهما فررنا... لن نفلت... لن ينجو أحد منا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao2_ZhengDao2_1",
+  "text": "حين يتألم ذلك الوحش، يفقد صوابه..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao2_ZhengDao2_2",
+  "text": "حاول أخي الأصغر في الطائفة أن يهاجمه من الجانب، لكن الوحش لوّح بذراعه..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_ShouShangZhengDao2_ZhengDao2_3",
+  "text": "فسحقه... كأنما سُحقت بطيخة..."
+ },
+ {
+  "key": "Dlg_FJZL_SSZD_1",
+  "text": "ذلك الوحش... يجمّد الدم في عروقك!"
+ },
+ {
+  "key": "Dlg_FJZL_SSZD_2",
+  "text": "وحش بحجم جبل... بشع لا توصف بشاعته!"
+ },
+ {
+  "key": "Dlg_FJZL_SSZD_3",
+  "text": "وكان على ظهره وحش آخر ينشر لحمه!"
+ },
+ {
+  "key": "Dlg_01-DDSD_SXW_Hun_1",
+  "text": "إذن، أرسل التنظيم <Bold>المحطِّم</> و<Bold>المنشار</> أيضًا..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YE_Option1",
+  "text": "الجرحى في الغابة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr0_YuEr_1",
+  "text": "آه... يا سيد سول..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_1",
+  "text": "كنت... كنت سأنتظرك في الوادي..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_2",
+  "text": "لكن حين سمعت أن في الغابة جرحى ما زالوا هناك، لم أستطع البقاء مكتوفة اليدين..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_3",
+  "text": "ل-لكن لا تقلق! كنت حذرة!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_4",
+  "text": "ظللت مختبئة طوال الطريق، وحرصت على ألا تراني تلك الوحوش..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_Hun_5",
+  "text": "هذا المكان أخطر بكثير من الوادي. لا تتجولي بعيدًا مرة أخرى."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_Hun_6",
+  "text": "ما إن أصل إلى بانغتشن حتى أعود لأجلكِ."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr1_YuEr_7",
+  "text": "ح-حسنًا... فهمت..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_Hun_1",
+  "text": "هل عثرتِ على الجرحى الذين جئتِ لمساعدتهم؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_2",
+  "text": "آنسة يوأر! بفضل دوائك، توقف نزيف الإخوة أخيرًا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_3",
+  "text": "هل يمكنك أن تسدينا معروفًا آخر...؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_5",
+  "text": "ما زال بعض إخوتنا مختبئين في الغابة..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_Hun_7",
+  "text": "إن كنت تعرف أماكنهم، فاكتبها لي، وسأتولى إيصال الدواء إليهم."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_8",
+  "text": "آه، نعم! كل شيء مدوّن هنا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_FeiZeiXiaoWang_9",
+  "text": "أشكركما نيابةً عن إخوتي!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2_YuEr_19",
+  "text": "يا سيد سول... أرجوك توخَّ الحذر!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2Re_YuEr_1",
+  "text": "بحسب السجل الذي خلّفه اللص وانغ، يفترض أن نعثر على إخوته الجرحى هناك..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr2Re_YuEr_2",
+  "text": "يا سيد سول... أرجوك توخَّ الحذر!"
+ },
+ {
+  "key": "Dlg_XG_YE7_Re_YE_1",
+  "text": "سأعتني جيدًا بزنبقة اللحم التي أعطيتني إياها."
+ },
+ {
+  "key": "Dlg_XG_YE7_Re_YE_2",
+  "text": "لا تنسَ أن تعود لأجلي حين تصل إلى بانغتشن!"
+ },
+ {
+  "key": "Dlg_FJZL_Investigate_ZhongShangFeiZei_1",
+  "text": "اللص مصاب بجروح بالغة. أنفاسه واهنة، ونظراته شاردة، وذهنه تائه."
+ },
+ {
+  "key": "Dlg_FJZL_Investigate_ZhongShangFeiZei_2",
+  "text": "يبدو أن إنقاذه بات مستحيلًا."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LaoZhou_1",
+  "text": "ابتلع تشو «القرد النحيل» حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LaoZhou_4",
+  "text": "توقف النزيف. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LaoZhou_Re_1",
+  "text": "توقف النزيف. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LiHaoZi_1",
+  "text": "ابتلع لي «الجرذ الطائر» حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LiHaoZi_4",
+  "text": "انتظم تنفّسه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_LiHaoZi_Re_1",
+  "text": "انتظم تنفّسه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AGui_1",
+  "text": "ابتلع غوي «غراب الليل» حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AGui_6",
+  "text": "تحسنت حاله كثيرًا. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AGui_Re_1",
+  "text": "عاد اللون إلى وجهه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AZhen_1",
+  "text": "ابتلع تشن، ثعبان البحر المراوغ، حبة يوأر المنقذة للحياة."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AZhen_4",
+  "text": "بدأ يستعيد وعيه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_ZhongShangFeiZei_AZhen_Re_1",
+  "text": "بدأ يستعيد وعيه. يبدو أنه يتعافى."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YE_Option2",
+  "text": "الجرحى في الغابة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr3_YuEr_1",
+  "text": "السيد سول! لقد عدت!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_Hun_1",
+  "text": "عثرت على كل اللصوص الجرحى في القائمة. هل عادوا؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_LaoZhou_2",
+  "text": "يا بطلنا العظيم! يا آنسة يوأر! لقد أنقذتمونا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_LiHaoZi_3",
+  "text": "أقول لك يا أخي، ينبغي أن تعلّم هذه الفتاة بعض أصول القتال!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_LiHaoZi_4",
+  "text": "بروحٍ مثل روحها، ستغدو يومًا بطلة مشهورة في الوولين!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_AGui_5",
+  "text": "أستطيع تعليمها أنا أيضًا، لتغدو سريعة كالريح."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_AZhen_6",
+  "text": "هاهاها! يا غوي، يا أحمق ثقيل الرأس!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_AZhen_7",
+  "text": "لا يمكن أن تكبر لتصير جرذًا يتسلل فوق السطوح مثلك!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_FeiZeiXiaoWang_8",
+  "text": "يا أخي تشن، أنت دائمًا تفضح ما ينبغي أن يبقى سرًا! فلنسمّها «بطولات القفز فوق السطوح»!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_FeiZeiALL_8",
+  "text": "هاهاهاهاها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_9",
+  "text": "السيد سول، أعطاني اللص وانغ هذه القارورة الصغيرة للدواء."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_10",
+  "text": "قال إنها هدية شكر لأنني أنقذت حياة إخوته."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_11",
+  "text": "وقال أيضًا... ما زال في الوولين أناس طيبون، لذا يريد أن يحاول كسب رزقه بعمل شريف."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_12",
+  "text": "طلب مني أن أخبرك بأنه مدين لك بهدية شكر تليق بك، وسيأتي يومًا ليقدمها لك بنفسه."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_13",
+  "text": "لم أجد للقارورة الصغيرة فائدة تُذكر... فملأتها بأعشاب مهدئة."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_14",
+  "text": "تفوح منها رائحة تبعث السكينة... وتساعد على صفاء الذهن."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_15",
+  "text": "السيد سول، تواجه الخطر كل يوم. أنت أحوج إلى هذا مني!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr4_YuEr_16",
+  "text": "خذه أرجوك! اعتبره هدية بسيطة شكرًا لإنقاذ الجميع."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_YuEr5_FeiZei_1",
+  "text": "تلك الفتاة... أسرع... أنقذها..."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_1",
+  "text": "كنتَ عماد الميثاق طوال هذه السنين، يا معلم هوانغشينغ. وأُعجب بقدرتك على صدّ السائرين المقنّعين."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_2",
+  "text": "لكن... هل ترى قادة الميثاق يقدّرون جهودك حقًا؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_3",
+  "text": "يُشاع أن هذه المنطقة تُركت بالفعل، وأن الميثاق لن يرسل أي تعزيزات."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_4",
+  "text": "المعلمة يوين تعرف ذلك بالفعل؛ فهي من نخبة الميثاق."
+ }
+]

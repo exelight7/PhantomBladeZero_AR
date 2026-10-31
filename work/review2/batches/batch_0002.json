@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_SkillWidget_15",
+  "text": "لم يُفتح بعد"
+ },
+ {
+  "key": "UI_Character_92",
+  "text": "لا يمكن تغيير مستوى الصعوبة أثناء القتال"
+ },
+ {
+  "key": "UI_Character_93",
+  "text": "لا يمكن استخدام الأسلحة الطيفية من نوع الاستدعاء هنا"
+ },
+ {
+  "key": "UI_Character_97",
+  "text": "لا يمكن استخدام عربة الحرب هنا."
+ },
+ {
+  "key": "UI_OpenDoor_03",
+  "text": "لا يمكن الفتح من هذا الجانب"
+ },
+ {
+  "key": "UI_Map_15",
+  "text": "لا يُفتح من هذا الجانب"
+ },
+ {
+  "key": "UI_Map_40",
+  "text": "لم يُحصل عليه بعد: \n{0}"
+ },
+ {
+  "key": "UI_Map_41",
+  "text": "لم يُحصل على السلاح الطيفي بعد: \n{0}"
+ },
+ {
+  "key": "UI_Map_51",
+  "text": "ينقص:\nسلاح طيفي بعيد المدى"
+ },
+ {
+  "key": "UI_Map_52",
+  "text": "يمكن الاستخدام:\nسلاح طيفي بعيد المدى"
+ },
+ {
+  "key": "UI_Map_45",
+  "text": "السلاح الطيفي القابل للاستخدام: \n{0}"
+ },
+ {
+  "key": "UI_Map_46",
+  "text": "الغرض القابل للاستخدام: \n{0}"
+ },
+ {
+  "key": "UI_OpenDoor_01",
+  "text": "غرض رئيسي مفقود"
+ },
+ {
+  "key": "UI_SystemWidget_01",
+  "text": "الخريطة"
+ },
+ {
+  "key": "UI_Quest_06",
+  "text": "المهام"
+ },
+ {
+  "key": "UI_Character_13",
+  "text": "الشخصية"
+ },
+ {
+  "key": "UI_SystemWidget_02",
+  "text": "الشخصية"
+ },
+ {
+  "key": "UI_Inventory_07",
+  "text": "الأغراض"
+ },
+ {
+  "key": "UI_Character_48",
+  "text": "الأرشيف"
+ },
+ {
+  "key": "UI_SystemWidget_05",
+  "text": "النظام"
+ },
+ {
+  "key": "UI_Map_07",
+  "text": "إكمال الخريطة"
+ },
+ {
+  "key": "UI_Inventory_11",
+  "text": "عرض المقتنيات"
+ },
+ {
+  "key": "UI_Map_26",
+  "text": "الأجراس"
+ },
+ {
+  "key": "UI_Map_27",
+  "text": "الأسلحة و\nالأسلحة الطيفية"
+ },
+ {
+  "key": "UI_Map_28",
+  "text": "الحُلي\nوالأدوية"
+ },
+ {
+  "key": "UI_Map_29",
+  "text": "مواقع\nالتحديات"
+ },
+ {
+  "key": "UI_Map_01",
+  "text": "شظية من كهرمان شا-تشي\n"
+ },
+ {
+  "key": "UI_Map_02",
+  "text": "شظية من الحجر الأسود\n"
+ },
+ {
+  "key": "UI_BellMenu_07",
+  "text": "رجوع"
+ },
+ {
+  "key": "UI_BellMenu_01",
+  "text": "انتقال"
+ },
+ {
+  "key": "UI_BellMenu_04",
+  "text": "تحريك"
+ },
+ {
+  "key": "UI_BellMenu_05",
+  "text": "تكبير"
+ },
+ {
+  "key": "UI_Map_10",
+  "text": "الخرائط"
+ },
+ {
+  "key": "UI_Map_05",
+  "text": "إعادة ضبط العرض"
+ },
+ {
+  "key": "UI_BellMenu_16",
+  "text": "أنت هنا بالفعل."
+ },
+ {
+  "key": "UI_Map_09",
+  "text": "الاقتراب من جرس للانتقال"
+ },
+ {
+  "key": "UI_Quest_02",
+  "text": "القصة"
+ },
+ {
+  "key": "UI_Quest_04",
+  "text": "الحكايات"
+ },
+ {
+  "key": "UI_Quest_05",
+  "text": "المقتنيات"
+ },
+ {
+  "key": "UI_Character_40",
+  "text": "اختيار"
+ },
+ {
+  "key": "UI_Map_43",
+  "text": "تتبّع"
+ },
+ {
+  "key": "UI_Map_44",
+  "text": "إيقاف التتبّع"
+ },
+ {
+  "key": "UI_Map_47",
+  "text": "خريطة المنطقة"
+ },
+ {
+  "key": "UI_Map_49",
+  "text": "خريطة العالم"
+ },
+ {
+  "key": "UI_Quest_13",
+  "text": "منطقة مجهولة"
+ },
+ {
+  "key": "UI_Quest_14",
+  "text": "لم تُكتسب خريطة المنطقة بعد"
+ },
+ {
+  "key": "UI_Quest_08",
+  "text": "(فاشلة)"
+ },
+ {
+  "key": "UI_Quest_16",
+  "text": "(مكتملة)"
+ },
+ {
+  "key": "UI_Quest_15",
+  "text": "تتبّع المهام غير متاح بعد. مواصلة الاستكشاف في الوقت الحالي."
+ },
+ {
+  "key": "UI_Character_71",
+  "text": "العتاد"
+ },
+ {
+  "key": "UI_Appearance_1",
+  "text": "المظهر"
+ },
+ {
+  "key": "UI_Appearance_7",
+  "text": "المظهر"
+ },
+ {
+  "key": "UI_Pickup_Appearance_01",
+  "text": "تم الحصول على مظهر جديد!"
+ },
+ {
+  "key": "UI_Pickup_Appearance_02",
+  "text": "الضغط على <InputAction id=\"option\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لفتح قائمة الشخصية، ثم الضغط على <UIRowName id=\"RightTrigger\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للدخول إلى المظهر وتجهيزه."
+ },
+ {
+  "key": "UI_Character_01",
+  "text": "الأسلحة الرئيسية"
+ },
+ {
+  "key": "UI_Character_02",
+  "text": "الأسلحة الطيفية"
+ },
+ {
+  "key": "UI_Character_04",
+  "text": "الأدوية"
+ },
+ {
+  "key": "UI_Character_03",
+  "text": "الحُلي"
+ },
+ {
+  "key": "UI_Character_73",
+  "text": "تجهيز سلاح"
+ },
+ {
+  "key": "UI_Character_56",
+  "text": "السلاح الحادّ ضروري في الوولين. لكل نصل هيئة خاصة، ولكل هيئة تقنيات لا حصر لها."
+ },
+ {
+  "key": "UI_Character_74",
+  "text": "تجهيز سلاح طيفي"
+ },
+ {
+  "key": "UI_Character_53",
+  "text": "أسلحة طيفية تشكّلت من شا-تشي داخل العالم الخفي. استخدامها للتكيّف مع الأعداء وتوسيع القدرات."
+ },
+ {
+  "key": "UI_Character_75",
+  "text": "تجهيز دواء"
+ },
+ {
+  "key": "UI_Character_55",
+  "text": "إبقاء الجرعات في المتناول لمعالجة الجروح واستعادة الحيوية وتعزيز البراعة القتالية."
+ },
+ {
+  "key": "UI_Character_76",
+  "text": "تجهيز حُلية"
+ },
+ {
+  "key": "UI_Character_54",
+  "text": "تجهيز حُلي نادرة لتقوية الجسد أو تعزيز التقنيات القتالية."
+ },
+ {
+  "key": "UI_Character_57",
+  "text": "مقفل"
+ },
+ {
+  "key": "UI_Character_58",
+  "text": "يُفتح بإكمال المهمة المطلوبة أو اكتساب القدرة المناسبة."
+ },
+ {
+  "key": "UI_Character_51",
+  "text": "لم تُفتح هذه الخانة بعد."
+ },
+ {
+  "key": "UI_Character_94",
+  "text": "لم يُفتح هذا الزي بعد."
+ },
+ {
+  "key": "UI_Character_95",
+  "text": "الفتح عند بلوغ أي نهاية"
+ },
+ {
+  "key": "UI_Character_96",
+  "text": "الفتح عند بلوغ نهاية محددة"
+ },
+ {
+  "key": "UI_Pickup_23",
+  "text": "تجهيز"
+ },
+ {
+  "key": "UI_Character_11",
+  "text": "إزالة التجهيز"
+ },
+ {
+  "key": "UI_Character_39",
+  "text": "تبديل"
+ },
+ {
+  "key": "UI_Inventory_08",
+  "text": "الكل"
+ },
+ {
+  "key": "UI_Character_06",
+  "text": "بيد واحدة"
+ },
+ {
+  "key": "UI_Character_07",
+  "text": "مزدوج"
+ },
+ {
+  "key": "UI_Character_08",
+  "text": "بكلتا اليدين"
+ },
+ {
+  "key": "UI_Character_15",
+  "text": "تدميري"
+ },
+ {
+  "key": "UI_Character_16",
+  "text": "بعيد المدى"
+ },
+ {
+  "key": "UI_Character_17",
+  "text": "قتالي"
+ },
+ {
+  "key": "UI_Character_19",
+  "text": "استدعاء"
+ },
+ {
+  "key": "UI_Character_18",
+  "text": "حيلة"
+ },
+ {
+  "key": "UI_Character_20",
+  "text": "علاج"
+ },
+ {
+  "key": "UI_Character_21",
+  "text": "دواء"
+ },
+ {
+  "key": "UI_Character_62",
+  "text": "هجومي"
+ },
+ {
+  "key": "UI_Character_63",
+  "text": "دفاعي"
+ },
+ {
+  "key": "UI_Character_64",
+  "text": "دعم"
+ },
+ {
+  "key": "UI_WeaponSkill_1",
+  "text": "الضرر"
+ },
+ {
+  "key": "UI_WeaponSkill_2",
+  "text": "كسر الدفاع"
+ },
+ {
+  "key": "UI_WeaponSkill_3",
+  "text": "الضرر العنصري"
+ },
+ {
+  "key": "UI_WeaponSkill_4",
+  "text": "تراكم التأثير العنصري"
+ },
+ {
+  "key": "UI_WeaponSkill_5",
+  "text": "ضرر الاستدعاء"
+ },
+ {
+  "key": "UI_WeaponSkill_6",
+  "text": "صحة الاستدعاء"
+ },
+ {
+  "key": "UI_WeaponSkill_7",
+  "text": "تأثيرات الحالة"
+ },
+ {
+  "key": "UI_WeaponSkill_8",
+  "text": "استعادة الصحة"
+ },
+ {
+  "key": "UI_WeaponSkill_9",
+  "text": "استعادة شا-تشي"
+ },
+ {
+  "key": "UI_Character_69",
+  "text": "أساسي"
+ },
+ {
+  "key": "UI_Character_70",
+  "text": "متقدم"
+ }
+]

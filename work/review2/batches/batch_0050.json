@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Item_Memo_PZHJ_SZSY_003",
+  "text": "III. الممر المختفي"
+ },
+ {
+  "key": "Item_Memo_LieYanALL_001",
+  "text": "زهرة ذكرى المعلم الأكبر لرقصة الأسد"
+ },
+ {
+  "key": "Item_MemoDes_LieYanALL_001",
+  "text": "يرتفع رأس الأسد، جامعًا قوة روحية لطرد الشر وإحلال السلام في السماء والأرض.\n\nلكن الشر اليوم يرتدي جلد البشر. فبدلًا من الفرار من القاعة، جلس إلى مائدة الوليمة."
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_001",
+  "text": "I. تهاني العام الجديد"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_002",
+  "text": "II. التعريف"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_003",
+  "text": "III. الحقيقة والوهم"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_004",
+  "text": "IV. فن بديع"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_005",
+  "text": "V. المنعطف غير المتوقع"
+ },
+ {
+  "key": "Item_Memo_Subhead_LieYan_006",
+  "text": "VI. الرجل الخشبي"
+ },
+ {
+  "key": "Item_Memo_TouLingALL_001",
+  "text": "زهرة ذكرى قادة الميثاق"
+ },
+ {
+  "key": "Item_MemoDes_TouLingALL_001",
+  "text": "في اليوم الذي اجتاحت فيه الفنون الشريرة المعسكر كالوباء، باغتت الأحداث الجميع.\n\nلم يكن ثمة وقت للاستعداد أو الفرار، ولا حتى لاستيعاب الصدمة: فالأسلحة المصوّبة إليهم كانت في أيدي أقاربهم ورفاقهم في الطائفة."
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiShuangJianA_001",
+  "text": "I. الوداع"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiShuangJianB_001",
+  "text": "II. وسائل استثنائية"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiDaoWeiA_001",
+  "text": "III. التضحية بالنفس"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZiYiDaoWeiB_001",
+  "text": "IV. مأزق يائس"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiShanHuFaA_001",
+  "text": "V. طريق مسدود"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiShanHuFaB_001",
+  "text": "VI. الأيام الذهبية"
+ },
+ {
+  "key": "Item_Memo_QXJZAll_001",
+  "text": "زهرة ذكرى النجوم السبعة"
+ },
+ {
+  "key": "Item_MemoDes_QXJZAll_001",
+  "text": "شهدوا كيف فرّق قادة الميثاق بين حبيبين ودمّروا إنسانًا.\n\nومنذ تلك اللحظة، انتشر الحقد، وأصبح «الارتقاء» وقودًا لانتقامهم..."
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_002",
+  "text": "I. سم أم دواء؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_003",
+  "text": "II. قشرة خاوية"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_004",
+  "text": "III. من سيهتم؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_005",
+  "text": "IV. بعيد المنال"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_006",
+  "text": "V. مكسب بلا خسارة"
+ },
+ {
+  "key": "Item_Memo_Subhead_QXJZ_007",
+  "text": "VI. «المعلّم باي»"
+ },
+ {
+  "key": "Item_Memo_ShuangXiaALL_001",
+  "text": "زهرة ذكرى البطلين التوأمين"
+ },
+ {
+  "key": "Item_MemoDes_ShuangXiaALL_001",
+  "text": "يقولون إن هذا من أجل «العدل». أيّ عدل هذا؟ وعدل مَن؟\n\nإن كان ثمة طريق عادل حقًا، فعليهم أن يسلكوا طريقًا من اختيارهم."
+ },
+ {
+  "key": "Item_Memo_Subhead_HYNJK_001",
+  "text": "I. قرار الميثاق"
+ },
+ {
+  "key": "Item_Memo_Subhead_DaShiXiong_001",
+  "text": "II. قرار من المرء نفسه"
+ },
+ {
+  "key": "Item_Memo_QianQianALL_001",
+  "text": "زهرة ذكرى تشيانتشيان"
+ },
+ {
+  "key": "Item_MemoDes_QianQianALL_001",
+  "text": "كانت تشعر أحيانًا أن المعلّم وحيد حقًا. فعلى الرغم من كثرة رفاقه في الطائفة وأصدقائه القدامى في كل مكان، وعلى الرغم من أن تلاميذه لا يُحصَون، كم من شخص فهمه حقًا، أو فهم الوولين الذي سعى إليه، في زمن كهذا من الفوضى؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_QianQian_001",
+  "text": "I. الماضي"
+ },
+ {
+  "key": "Item_Memo_Subhead_QianQian_002",
+  "text": "II. القناع"
+ },
+ {
+  "key": "Item_Memo_Subhead_QianQian_003",
+  "text": "III. المعلّم"
+ },
+ {
+  "key": "Item_Memo_FanKangZheALL_001",
+  "text": "زهرة ذكرى مقاومي الارتقاء"
+ },
+ {
+  "key": "Item_MemoDes_FanKangZheALL_001",
+  "text": "أين موجي؟ شيئًا فشيئًا، لم يعد أحد في المعسكر يسأل، ولا أحد يجرؤ على الإجابة.\n\nومع ذلك، لا يزال بعضهم ينتظر، مترقبًا أن يقلب الموازين؛ فيما يواصل آخرون الفرار، متجهين إلى ذلك الأمل الخافت."
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuiSha_001",
+  "text": "I. المطاردة"
+ },
+ {
+  "key": "Item_Memo_Subhead_MoJiZiDiZi_001",
+  "text": "II. افتراق الطرق"
+ },
+ {
+  "key": "Item_Memo_ShiYanALL_001",
+  "text": "زهرة الذكرى لضحية التجربة"
+ },
+ {
+  "key": "Item_MemoDes_ShiYanALL_001",
+  "text": "أشدّ من الألم عذابٌ لا نهاية له.\n\nيتسلل ذلك إلى الذهن مع فنون الأطياف الخاصة بنقل الروح. وما دام هناك نَفَس واحد، يتداخل الألم الحارق والبرد القارس والذهن المشوش ويتفاقم بعضها ببعض، فيعذّب الضحية بلا نهاية."
+ },
+ {
+  "key": "Item_Memo_Subhead_ZDDYCunFu_001",
+  "text": "I. لينقذني أحد... أرجوكم..."
+ },
+ {
+  "key": "Item_Memo_Subhead_ZDDYJianKe_002",
+  "text": "II. اقتل... اقتل!"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZDDYZhangMen_003",
+  "text": "III. أأعيش أم أموت؟"
+ },
+ {
+  "key": "Item_Memo_HuangXingZiALL_001",
+  "text": "زهرة الذكرى عن هوانغشينغ"
+ },
+ {
+  "key": "Item_MemoDes_HuangXingZiALL_001",
+  "text": "يا لها من نهاية لمن كان عمادًا للميثاق، وأفنى أعداء لا يُحصَون، ونال شهرة في أرجاء الوولين... في النهاية، لم يكن سوى بيدق في صراعات من هم فوقه.\n\nإن لم يكن سوى ذلك، فلمَ لا يسلّم جسده وعقله للقوة القادرة على قلب كل شيء؟ من في هذا العالم ليس بيدقًا؟ وأين فيه لا تُدار لعبة؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_001",
+  "text": "I. الدفاع. الدفاع. الدفاع."
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_002",
+  "text": "II. الركيزة الأخيرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_003",
+  "text": "III. مسارات متباينة"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_004",
+  "text": "IV. كيف يمكن هزيمتهم؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_005",
+  "text": "V. تشو شيه"
+ },
+ {
+  "key": "Item_Memo_Subhead_HuangXingZi_006",
+  "text": "VI. طريق جديد للمضي قدمًا"
+ },
+ {
+  "key": "Item_Memo_YQSALL_001",
+  "text": "زهرة ذكرى يانأر"
+ },
+ {
+  "key": "Item_MemoDes_YQSALL_001",
+  "text": "في ذلك الحين، تناقل الناس في أرجاء الوولين همسًا أن رئيس طائفة سيف مينغ قد تورط مع امرأة في دار غناء، وأن عازفة آلة القانون هناك تحمل طفله."
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_001",
+  "text": "I. سحر الغرور"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_002",
+  "text": "II. النسب"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_003",
+  "text": "III. إلى البحيرة"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_004",
+  "text": "IV. يان تشيانسوي"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_005",
+  "text": "V. القربان"
+ },
+ {
+  "key": "Item_Memo_Subhead_YQS_006",
+  "text": "VI. تغيّر كل شيء"
+ },
+ {
+  "key": "Item_Memo_BaiHeBangALL_001",
+  "text": "زهرة ذكرى عصابة المياه السوداء"
+ },
+ {
+  "key": "Item_MemoDes_BaiHeBangALL_001",
+  "text": "شمال غربي بحيرة ميغو، تحدد ثلاث جزر مصطفّة على هيئة مثلث نطاق عصابة المياه السوداء.\n\nفي سالف الأيام، كان بوسع من يكسبون عيشهم وسط الرياح والأمواج أن يجدوا هنا ملاذًا."
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_001",
+  "text": "I. صيد السمك"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_002",
+  "text": "II. يو لونغ، قائد الطاقم"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_003",
+  "text": "III. الارتقاء الطوعي"
+ },
+ {
+  "key": "Item_Memo_Subhead_BaiHeBang_004",
+  "text": "IV. صيد السمك على اليابسة"
+ },
+ {
+  "key": "Item_Memo_QiuMingALL_001",
+  "text": "زهرة الذكرى لتلميذ فنّ ربط الخيوط"
+ },
+ {
+  "key": "Item_MemoDes_QiuMingALL_001",
+  "text": "أليس الاسم قناعًا أيضًا؟ خلع القناع القديم، وارتداء قناع جديد، وتغيير الهوية، والتحول إلى شخص آخر.\n\nتبقى الذات الحقيقية مختبئة في أعماقها؛ فمن يدري، لعل المرء ينسى وجهه الأصلي بعد مرور وقت طويل."
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_001",
+  "text": "I. الشذوذ"
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_002",
+  "text": "II. اختفى بلا أثر"
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_003",
+  "text": "III. الهيئة الحقيقية للمبعوث...؟"
+ },
+ {
+  "key": "Item_Memo_Subhead_QiuMingDiZi_004",
+  "text": "IV. الهيئة الحقيقية للمبعوث!"
+ },
+ {
+  "key": "Item_Memo_YuErALL_001",
+  "text": "زهرة ذكرى يوأر"
+ },
+ {
+  "key": "Item_MemoDes_YuErALL_001",
+  "text": "عدم ذرف الدموع أمامهم؛ فالدموع تكشف العجز، وتغذي حقدهم، وتطمس كل ما شهدته، حتى آخر ما تبقى لها من آمال وتوقعات.\n\nفتحت عينيها المتعبتين على اتساعهما لتكفكف دموعها، متظاهرة بأنها لم تعرف الخوف قط، ولم تختبر الحزن يومًا."
+ },
+ {
+  "key": "Item_Memo_Subhead_YuEr_001",
+  "text": "I. الصراع"
+ },
+ {
+  "key": "Item_Memo_Subhead_YuEr_002",
+  "text": "II. تجربة القلب المشعّ"
+ },
+ {
+  "key": "Item_Memo_Subhead_YuEr_003",
+  "text": "III. الوعاء المثالي"
+ },
+ {
+  "key": "Item_Memo_GaoYuanWaiALL_001",
+  "text": "زهرة ذكرى الوجيه غاو"
+ },
+ {
+  "key": "Item_MemoDes_GaoYuanWaiALL_001",
+  "text": "لمح أدقّ باب في السماء والأرض. وخلفه كمنت علل الأشياء ومعلولاتها، ومظاهر الخلق التي لا تُحصى؛ كل أسرار هذا العالم التي يعجز اللسان عن وصفها، المعلوم منها والمجهول.\n\nومع أن النور الخالص في ذلك الباب التهم جسده وروحه، انحنى إجلالًا، وما زال يشعر أن ذلك لم يكن كافيًا."
+ },
+ {
+  "key": "Item_Memo_Subhead_GaoYuanWai_001",
+  "text": "I. طائفة ربط الخيوط"
+ },
+ {
+  "key": "Item_Memo_Subhead_GaoYuanWai_002",
+  "text": "II. الانتقاد"
+ },
+ {
+  "key": "Item_Memo_Subhead_GaoYuanWai_003",
+  "text": "III. الاستحواذ"
+ },
+ {
+  "key": "Item_Memo_YuCongALL_001",
+  "text": "زهرة ذكرى الدمية ثلاثية الوجوه الشاذة"
+ },
+ {
+  "key": "Item_MemoDes_YuCongALL_001",
+  "text": "«ثلاثة أرواح في روح واحدة». كيف يمكن أن يبدو ذلك حقًا؟ شردت في التفكير، فلم تنتبه إلى أن الدمية بين يديها بدأت تتخذ شكلًا مختلفًا. لكن إضافة رأسين آخرين جعلتها تبدو مناسبة تمامًا.\n\nمثلهم تمامًا. جمعهم أستاذ واحد ونشأوا من أصل واحد، لكن كلًّا منهم سلك طريقًا مختلفًا في فنون القتال."
+ },
+ {
+  "key": "Item_Memo_Subhead_WuLi_001",
+  "text": "I. المعالج المتجول"
+ },
+ {
+  "key": "Item_Memo_Subhead_HanBing_001",
+  "text": "II. الصقيع والفوضى"
+ },
+ {
+  "key": "Item_Memo_Subhead_HunDun_001",
+  "text": "III. ثلاث أرواح كروح واحدة"
+ },
+ {
+  "key": "Item_Memo_ShouHaiZheALL_001",
+  "text": "زهرة ذكرى الوحش"
+ },
+ {
+  "key": "Item_MemoDes_ShouHaiZheALL_001",
+  "text": "لم تستطع العيون الكثيرة إلا تتبّع الكرة الحديدية وهي تهوي مصدرةً صفيرًا، فلم تلحظ الوحش الصغير الماكر الجاثم على كتفها."
+ },
+ {
+  "key": "Item_Memo_Subhead_ShouHaiZhe_001",
+  "text": "I. ساق هزيلة"
+ },
+ {
+  "key": "Item_Memo_Subhead_ShouHaiZhe_002",
+  "text": "II. صراعات داخلية"
+ },
+ {
+  "key": "Item_Memo_Subhead_ShouHaiZhe_003",
+  "text": "III. العقل المدبر"
+ },
+ {
+  "key": "Item_Memo_ChuangRuZheALL_001",
+  "text": "زهرة ذكرى المتسلل"
+ },
+ {
+  "key": "Item_MemoDes_ChuangRuZheALL_001",
+  "text": "حين تسدّ الرياح والثلوج الطرق، وتثقل الأقفال كاهل الأراضي المحرّمة، يشهر نصلَه ليشقّ طريقه إلى الأمام."
+ },
+ {
+  "key": "Item_Memo_Subhead_ChuangRuZhe_001",
+  "text": "I. اختراق"
+ },
+ {
+  "key": "Item_Memo_Subhead_ChuangRuZhe_002",
+  "text": "II. البحث"
+ },
+ {
+  "key": "Item_Memo_ZhuoJingALL_001",
+  "text": "زهرة ذكرى سِفر الآفة المحرّم"
+ },
+ {
+  "key": "Item_MemoDes_ZhuoJingALL_001",
+  "text": "في البداية، لم تكن تلك الأفكار سوى أوهام عابرة. لكن مع مرور الوقت، تعمّقت جذورها، فظهرت في الأحلام وهمست في الأذن."
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuoJing_001",
+  "text": "I. اليوم الذي بدأ فيه كل شيء"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuoJing_002",
+  "text": "II. القوة المطلقة"
+ },
+ {
+  "key": "Item_Memo_Subhead_ZhuoJing_003",
+  "text": "III. دمار شامل"
+ }
+]

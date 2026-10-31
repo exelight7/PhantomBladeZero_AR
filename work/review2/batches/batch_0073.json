@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_LJC_LGT2_LGT_12",
+  "text": "لا، لا! لا أستطيع البقاء جالسًا هنا. سأذهب إلى البلدة بنفسي!"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu_Hun_1",
+  "text": "ذلك الشريط..."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu1_MXK_1",
+  "text": "سأجوب الوولين معك يومًا ما، وأصير بطلة!"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu1_Hun_Hun_1",
+  "text": "هل هذا... يخص مو شياوكوي؟"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu1_Hun_Hun_2",
+  "text": "...آه."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu1_Hun_Hun_3",
+  "text": "في نظرها... أنا الرجل الذي قتل أباها."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_MXK_1",
+  "text": "هل أرسلك أبي لتلاحقيني طوال اليوم؟"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_YuYao_2",
+  "text": "لا أستطيع مغادرة موقعي، بأمر من حاكم الظلال."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_MXK_3",
+  "text": "حسنًا. لكن لا تتصرفي كأنكِ إحدى تابعاتي."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_MXK_4",
+  "text": "سمعتُ أنكِ كنتِ يتيمة."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_MXK_5",
+  "text": "هل تصبحين أختي الكبرى؟ عندها ستكون لكِ عائلة!"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_YuYao_6",
+  "text": "الآنسة..."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_MXK_7",
+  "text": "يا أخت يشم! علّميني فنون القتال حقًا! سئمتُ المبارزة بالسيف كل يوم!"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu2_Hun_Hun_4",
+  "text": "فيها شيء مميز... شيء قادر على توحيد التنظيم."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_MXK_1",
+  "text": "لقد أتقنتُ بالفعل فنون القتال بالرجلين لدى الأخت يشم."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_MXK_2",
+  "text": "يا شيطان الحديد، يقول أبي إن فنون قبضتيك لا تُبارى. هل تعلّمني إياها أنا أيضًا؟"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_TieGui_3",
+  "text": "قُبضتاي للقتل. ومع ذلك... ما زلتِ تريدين التعلّم؟"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_MXK_4",
+  "text": "العبرة ليست بالقبضة، بل بمن يستخدمها."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_MXK_5",
+  "text": "سمعتُ أنك غادرت طائفتك قبل سنوات لأنك رفضت أن تشارك رفاقك في قتل الأبرياء."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_MXK_6",
+  "text": "إذن، حتى هذه القبضات الفتاكة لم تجعلك تحيد عن جادة الصواب."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_TieGui_7",
+  "text": "لا أضرب بقبضتي إلا الأقوياء، ولا أمدّها إلى العاجزين."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_TieGui_8",
+  "text": "بعد سقوط ألدّ أعداء طائفتي، لم يعد من بقي منهم يستحق أن أضيّع وقتي عليه."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_TieGui_9",
+  "text": "منذ يوم انضممت إلى التنظيم، كفّت قبضتاي عن القتل... وصارتا درعًا لكِ."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_MXK_10",
+  "text": "معكما إلى جانبي، لا بد أنني أسلم فتاة في العالم!"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_Hun_11",
+  "text": "شيطان الحديد... هل هو الأخ الأكبر لحمى الحديد في الطائفة؟"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_Hun_12",
+  "text": "هو وراقصة اليشم من أعظم مقاتلي الوولين... ومع ذلك يتبعان شياوكوي بإخلاص مطلق."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu3_Hun_13",
+  "text": "أوامر شيفو ليست سوى جزء من الأمر... والأهم أنها جديرة بالحماية."
+ },
+ {
+  "key": "Dlg_2DAnimation3_Hun_0",
+  "text": "كانت حياتي في التنظيم قاسية وموحشة... ولم يكن لي فيها نور سوى شياوكوي."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_1",
+  "text": "سأجوب الوولين معك يومًا ما، وأصير بطلة!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MTM_1_1",
+  "text": "لا تتظاهر بالبطولة."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MTM_1_2",
+  "text": "ينبغي ألا ننحاز أبدًا إلى طرف في شؤون الوولين."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MTM_1_3",
+  "text": "بل علينا تحريك الخيوط من وراء الستار."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MTM_1_4",
+  "text": "تحلّوا بضبط النفس، وأظهروا قوة لا تحتاج إلى كلام."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MTM_1_5",
+  "text": "لنعلم الجميع بوجودنا، من دون أن يعرف أحد أين."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MTM_1_6",
+  "text": "الغموض وحده ما يكسبنا إجلال الوولين."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_4",
+  "text": "حسنًا، حسنًا! لقد قلت هذا مئة مرة!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MTM_5",
+  "text": "هاها! شياوكوي، اذهبي وتدرّبي على المبارزة بالسيف مع سول."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_5_1",
+  "text": "حسنًا!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_5_2",
+  "text": "هيا!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_6",
+  "text": "فزتُ اليوم!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_ZuoShang_7",
+  "text": "هه، لم يُخرج سول كل ما عنده. ما زال أمامكِ شوط طويل!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_Hun_8",
+  "text": "هيا، لنعد الكرة. هذه المرة لن أتهاون."
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_8_1",
+  "text": "هل تعدني؟!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_Hun_9",
+  "text": "أعدكِ. لن أتهاون بعد اليوم حين نتبارز، اتفقنا؟"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_10",
+  "text": "اتفقنا!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_MXK_10_1",
+  "text": "خذي هذه!"
+ },
+ {
+  "key": "Dlg_2DAnimation3_Hun_11",
+  "text": "لقد تفوقتِ عليّ هذه المرة... لن أسمح لنفسي بالتخلف عنكِ."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu5_MXK_1",
+  "text": "إن وقعتُ في خطر يومًا... هل ستأتي لإنقاذي؟"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu5_Hun_2",
+  "text": "بالطبع، فأنتِ الآنسة."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu5_MXK_3",
+  "text": "ولو لم أكن... هل كنت ستفعل؟"
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu5_Hun_4",
+  "text": "مهما يكن... سأخاطر بحياتي لإنقاذكِ."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu5_Hun_Hun_1",
+  "text": "استولى تسو شانغ على التنظيم... ولن يرحم شياوكوي."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu5_Hun_Hun_2",
+  "text": "لكن راقصة اليشم وشيطان الحديد معها، ولن يسهل على تسو شانغ إيذاؤها."
+ },
+ {
+  "key": "Dlg_LJC_MXKXinWu_XinWu5_Hun_Hun_3",
+  "text": "إن حسمت أمري معه أخيرًا... فستكون في مأمن."
+ },
+ {
+  "key": "Dlg_JMKD_Investigate_RenOuZhangMen_ROZM_1",
+  "text": "يبدو أن أحد قادة الميثاق عالق في الداخل، لكنه فقد وعيه بالفعل."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_1",
+  "text": "إن أردت الدخول... فاعثر... على أجسادنا الحقيقية..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_Hun_2",
+  "text": "ها؟ هل أنتم أساتذة الميثاق الذين نُقلت أرواحهم؟"
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_3",
+  "text": "أنا... بي يوان من طائفة تيانشيوان. وهذان... المعلم بيهاي من معبد كويه... والمعلم خه من مدرسة شنجي..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_4",
+  "text": "سعى <Bold>المبعوث</> إلى نقل أرواحنا... لكننا قاومناه. فشلت الطقوس!"
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_Hun_5",
+  "text": "أنتم ثلاثة من كبار أساتذة الوولين. وصمودكم أمام نقل الروح على هذا النحو... يستحق احترامي."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_6",
+  "text": "فشلت محاولة نقل الروح... ومع ذلك لا نستطيع الموت... أفكارنا وإرادتنا... نُسجت في هذه الخيوط الحمراء..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_7",
+  "text": "يستخدمها المبعوث... لختم هذا المكان..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_Hun_9",
+  "text": "خيوط منسوجة من أفكار البشر... لم أسمع قط بمثل هذا."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_10",
+  "text": "اعثر على أجسادنا... في القرية..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_11",
+  "text": "ثم... أرحنا بالموت!"
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_Hun_12",
+  "text": "هل توجد طريقة أخرى لإعادة وعيكم إلى أجسادكم؟"
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_13",
+  "text": "ها... هاها... لا سبيل آخر!"
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_14",
+  "text": "اقتل أجسادنا... وما بقي منا... سيتلاشى..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_15",
+  "text": "وعندها... ستنفك هذه الخيوط..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_Re_1",
+  "text": "اقتل أجسادنا... وما بقي منا... سيتلاشى..."
+ },
+ {
+  "key": "Dlg_JMKD_RenOuZhangMen3_RO_Re_2",
+  "text": "وعندها... ستنفك هذه الخيوط..."
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_SRZM_1",
+  "text": "ما جسدي إلا قشرة بالية. انقطعت كل صلاتي بالدنيا... فلا داعي لأن تلوم نفسك. اقتلني!"
+ },
+ {
+  "key": "Tutorial_Temp_AttackZhangMen",
+  "text": "مهاجمة الجسد المتبقي لزعيم الطائفة"
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_Battle_1",
+  "text": "البركات، البركات."
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_Battle_2",
+  "text": "أميتابها."
+ },
+ {
+  "key": "Dlg_LJC_SengRenZhangMen_Battle_3",
+  "text": "انهضوا، يا تشكيل الرجال البرونزيين! يا أصحاب الأجساد الذهبية، أخضعوا الشر!"
+ },
+ {
+  "key": "Dlg_LJC_ZhangMen_Kill_1",
+  "text": "اختفت الخيوط التي كانت تختم البئر عند مدخل القرية."
+ },
+ {
+  "key": "Dlg_LJC_DaoRenZhangMen_SRZM_1",
+  "text": "الحياة والموت ليسا إلا مدًّا وجزرًا عابرين. والرحيل على هذا النحو... فيه سكينة."
+ },
+ {
+  "key": "Dlg_LJC_BiYuan1_Battle_1",
+  "text": "لتتشكل باغوا... ختم!"
+ },
+ {
+  "key": "Dlg_LJC_BiYuan2_Battle_1",
+  "text": "قوة السماء!"
+ },
+ {
+  "key": "Dlg_LJC_BiYuan2_Battle_2",
+  "text": "ألف نصل!"
+ },
+ {
+  "key": "Dlg_LJC_BiYuan3_Battle_1",
+  "text": "بالسماء والأرض... اضربوا!"
+ },
+ {
+  "key": "Dlg_LJC_JiGuanZhangMen_SRZM_1",
+  "text": "لن تسمح مدرسة شنجي أبدًا ببقاء مثل هذه الفظائع في هذا العالم!"
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_ShiTai_1",
+  "text": "كنت أظن أنك فهمت هذا الآن. «الخير والشر» ليسا إلا اسمين يتمسك بهما الناس."
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_ShiTai_2",
+  "text": "هذا التعلّق بالتمييز بين الحق والباطل هو ما أغرق الوولين في صراع لا ينتهي."
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_BiYuan_3",
+  "text": "يا أختي الصغرى... لقد مكثتِ في الجبال طويلًا جدًا. لم تعودي ترين مدى انحدار العالم."
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_BiYuan_4",
+  "text": "في أسفاري، وجدت أن مجالس الشاي لم تعد تحتفي بالأبطال... بل تمجّد قطّاع الطرق وحدهم."
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_BiYuan_5",
+  "text": "كان الناس ينصتون إلى كل حكاية مأخوذين بها... فيما كان الأطفال ينشدون للأبطال وهم يسرقون الجيوب."
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_BiYuan_6",
+  "text": "حتى أمهر حدّاد في البلدة أُجبر على أن يصنع ما يخدم الشر... بعدما أخذوا أبناءه."
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_BiYuan_7",
+  "text": "أضعنا فرصة إصلاح الأمور منذ زمن بعيد. فكيف نظل مكتوفي الأيدي؟"
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_ShiTai_8",
+  "text": "يا أخي الأكبر... هل وجدت حلًا بالفعل؟"
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_BiYuan_9",
+  "text": "مقابلة العنف بالعنف لا تحلّ المشكلة. لكن إن تتبعنا جذوره... فربما بان لنا سبيل نمضي فيه."
+ },
+ {
+  "key": "Dlg_LJC_MEM_DaoRenZhangMen1_BiYuan_10",
+  "text": "هاها! إن لم أعد، فستعتمد طائفة تيانشيوان عليك يا أختي الصغرى."
+ },
+ {
+  "key": "Dlg_LJC_MEM_SengRenZhangMen_DiZi1_1",
+  "text": "يا معلمي، هل طلب منك الطاوي بي أن تغادر الجبل؟"
+ },
+ {
+  "key": "Dlg_LJC_MEM_SengRenZhangMen_DiZi2_2",
+  "text": "يا معلمي، لقد تجاوزت السبعين. لِمَ تترك هذا المكان الهادئ... لتعود إلى اضطراب الوولين؟"
+ },
+ {
+  "key": "Dlg_LJC_MEM_SengRenZhangMen_BiHai_3",
+  "text": "أخبروني... هل سمعتم بماذا يدعو المؤمنون الآن؟"
+ },
+ {
+  "key": "Dlg_LJC_MEM_SengRenZhangMen_BiHai_4",
+  "text": "كانوا يدعون من قبل بالصحة والسلام، وباعتدال الطقس ووفرة المحاصيل، وبحياة هادئة مستقرة."
+ },
+ {
+  "key": "Dlg_LJC_MEM_SengRenZhangMen_BiHai_5",
+  "text": "لكن العالم غرق الآن في الفوضى."
+ },
+ {
+  "key": "Dlg_LJC_MEM_SengRenZhangMen_BiHai_6",
+  "text": "الناس يغطّون وجه بوذا، ويدعون بثروة تأتي بلا عناء، ورزق من السماء، وسلطة لتقرير الحياة والموت، ومغفرة لم يستحقوها."
+ },
+ {
+  "key": "Dlg_LJC_MEM_SengRenZhangMen_BiHai_7",
+  "text": "في هذا الزمن المضطرب، لم يعد ثمة مكان للسلام."
+ }
+]

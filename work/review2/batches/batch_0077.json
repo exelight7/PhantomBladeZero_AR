@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_8",
+  "text": "...خذ. هذه تميمتي..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_9",
+  "text": "حين كنت أستولي على الكنوز... أنقذتني من سهام كثيرة... ها..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_11",
+  "text": "اذهب... إلى... البئر..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_12",
+  "text": "أنقذ... تلك الصغيرة..."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_Feizei1_1",
+  "text": "يرقد اللص متيبسًا على الأرض، عالقًا خارج الباب."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_Feizei1_2",
+  "text": "في لحظاته الأخيرة، داعب برفق نسخته من «القبضة الخاطفة»."
+ },
+ {
+  "key": "Dlg_LJC_MFZF_YanRu_ZhiGaoZhe_1",
+  "text": "أيتها المريدة... يانرو، أطيعي أمري!"
+ },
+ {
+  "key": "Dlg_LJC_MFZF_YanRu_YanRu_3",
+  "text": "يا سيدي الأسمى والأقدس والأبرّ... يانرو تطيع أمرك!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_Hun_1",
+  "text": "هل أنت... الوتر؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_2",
+  "text": "أنا مجرد وعاء معيب. بالكاد أستحق الذكر."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_3",
+  "text": "الوعاء صفر... هو القالب الذي صُببنا فيه."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_4",
+  "text": "وُجدنا لنكون وعاء المبعوث."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_YSROYZ_YSRO_5",
+  "text": "ولنبيد كل من يعارضه!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_investigate_ROS44_Hun_1",
+  "text": "لا بد أن هذا نفق المهرّب... إنه الطريق الوحيد إلى بانغتشن."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_investigate_ROS44_Hun_2",
+  "text": "عين الدمية مفقودة... إن أعدتها إلى مكانها، فينبغي أن تُفتح البوابة."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_1",
+  "text": "هذا... ليس صحيحًا... لا يبدو صحيحًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_3",
+  "text": "كنت أنسج... وكان نسجي محكمًا ومتينًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_4",
+  "text": "لا أستطيع عزف البيبا... سامحوني... أنا آسفة جدًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu3_RenOu3_Re_1",
+  "text": "أستطيع فعلها... سأعزفها كما ينبغي... أرجوك... امنحني فرصة أخرى..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_1",
+  "text": "أنا أفضل... أستطيع أن أصبح الوعاء صفر... الوعاء صفر... سأعيش..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_2",
+  "text": "أمي... مُزّقت إربًا. تسوي... حُطمت إلى شظايا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_3",
+  "text": "لكن... لماذا لم أصبح الوعاء صفر بعد...؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu4_RenOu4_Re_2",
+  "text": "الشمس والزهور وأمي وتسوي... أريد أن ألعب مع الجميع."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_1",
+  "text": "رأيت ذلك... رأيته حقًا!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_2",
+  "text": "رجال المبعوث أسقطوا تمثال السيدة وحطموه، وأخذوا الدمى التي بداخله..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_3",
+  "text": "لا يريدون إلا الدمى... كل الدمى..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_4",
+  "text": "لا... لا يكترثون بالسيدة إطلاقًا!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_5",
+  "text": "طوال هذا الوقت... كنا نحن الحمقى... ننحني مرة بعد مرة... أمام هيكل فارغ!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu5_RenOu5_6",
+  "text": "هه... هاها... ههههه..."
+ },
+ {
+  "key": "Dlg_LJC_lock_ShengJiangTi_Hun_1",
+  "text": "هل من طريق آخر إلى ضفة البحيرة؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_2",
+  "text": "أنا مريضة... وأعرف أنني لا أستطيع العودة..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_3",
+  "text": "وإلا فسيصير الآخرون من خشب أيضًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_4",
+  "text": "لكنني عدت... وكان هناك كثيرون من الخشب... متكدّسون... في كل مكان..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu1_RenOu1_Re_1",
+  "text": "كل هذا بسببي... كلّه... لم أرد أن يحدث هذا أبدًا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_1",
+  "text": "غُيّر المعبد بعد فوات الأوان... بعد فوات الأوان بكثير!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_2",
+  "text": "أخبرنا العرّاف ياو! كان المزار يخلّ بتوازن فنغ شوي! وكان لا بد أن نغيّره!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_3",
+  "text": "إن لم نغيّره... فسيغفو المزيد ويتحولون إلى دمى!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_4",
+  "text": "حتى المبعوث لم يحتمل الأمر ورحل..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChang_RenOu2_RenOu2_5",
+  "text": "انظر إليّ! صرت من خشب! صرنا جميعًا من خشب!"
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC_XC_1",
+  "text": "تسوي... تشتاق إلى أمّها وأبيها... تسوي... تشتاق إلى جدّها..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_1",
+  "text": "تسوي... تريد ماما وبابا... تسوي تريد جدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_2",
+  "text": "أشتاق... إلى أمي... وأبي... وجدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_3",
+  "text": "أريد... أمي وأبي... أ... أريد جدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_4",
+  "text": "نُقلت روح هذه الفتاة من جسدها... لكنها ما زالت متشبثة بالحياة بخيط واهن."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_5",
+  "text": "يا للمسكينة..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_6",
+  "text": "مخططات المبعوث... لا إنسانية فيها حقًا."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_7",
+  "text": "أمي... أبي... انضمّا... إلى الميثاق..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_8",
+  "text": "جدي... عمدة القرية... رحل..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_9",
+  "text": "هل أنتِ حفيدة عمدة القرية؟"
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_10",
+  "text": "هل أستطيع مساعدتكِ في شيء؟"
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_11",
+  "text": "أشتاق... إلى جدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_12",
+  "text": "هذا... لجدي..."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_Hun_13",
+  "text": "سأتأكد من إيصالها."
+ },
+ {
+  "key": "Dlg_FZMD_XiaoCui_XC1_XC_14",
+  "text": "شكرًا... لك... يا سيدي..."
+ },
+ {
+  "key": "Dlg_ROZS_Maze_Hun_1",
+  "text": "يبدو أنه كلما فُتح باب، انفتحت معه عين من عيون الدمية."
+ },
+ {
+  "key": "Dlg_ROZS_Maze_Hun_2",
+  "text": "إذا انفتحت العيون الثلاث كلها... فلا بد أن أرى شيئًا مميزًا."
+ },
+ {
+  "key": "Dlg_LJC_MXK_MXK_1",
+  "text": "كنت أعلم يا سول. لن تنهار بهذه السهولة."
+ },
+ {
+  "key": "Dlg_LJC_MXK_MXK_2",
+  "text": "لكن لماذا عدت؟"
+ },
+ {
+  "key": "Dlg_LJC_MXK_Hun_5",
+  "text": "هل عدتِ لأنكِ ما زلتِ تتساءلين كيف مات شيفو؟"
+ },
+ {
+  "key": "Dlg_LJC_MXK_MXK_6",
+  "text": "لا يحق لك أن تناديه بذلك."
+ },
+ {
+  "key": "Dlg_LJC_MXK_MXK_7",
+  "text": "أخبرني! هل أنت وحدك من يعرف كيف مات أبي؟"
+ },
+ {
+  "key": "Dlg_LJC_MXK_Hun_8",
+  "text": "لا، ما كنت لأفعل ذلك."
+ },
+ {
+  "key": "Dlg_LJC_MXK_MXK_9",
+  "text": "حتى لو أعطيتك هذا، فلن تخبرني بالحقيقة؟"
+ },
+ {
+  "key": "Dlg_LJC_MXK_Hun_10",
+  "text": "صحيح."
+ },
+ {
+  "key": "Dlg_LJC_MXK_MXK_11",
+  "text": "هذا ما توقعت. لو استسلمت، لما كنت الرجل الذي أذكره."
+ },
+ {
+  "key": "Dlg_LJC_MXK_MXK_12",
+  "text": "إذن، سأعاملك على أنك قاتل أبي لا غير!"
+ },
+ {
+  "key": "Dlg_LJC_MXK2_Hun_1",
+  "text": "تطورت مهاراتك؛ وأنت تقاتلين الآن بروح أبيك."
+ },
+ {
+  "key": "Dlg_LJC_MXK2_MXK_2",
+  "text": "عليك أن تحذر الآن!"
+ },
+ {
+  "key": "Dlg_LJC_MXK2_Hun_3",
+  "text": "أريني!"
+ },
+ {
+  "key": "Dlg_LJC_MXK2_MXK_4",
+  "text": "إن فزتُ، فستبقى هنا. سأدخل بانغتشن بنفسي!"
+ },
+ {
+  "key": "Dlg_LJC_MXK2_MXK_01",
+  "text": "راقصة اليشم، شيطان الحديد—أصغيا إليّ!"
+ },
+ {
+  "key": "Dlg_LJC_MXK2_MXK_02",
+  "text": "ضربة الحديد واليشم!"
+ },
+ {
+  "key": "Dlg_LJC_MXK3_MXK_1",
+  "text": "لطالما وعدتني... ألا تتساهل معي أبدًا... هه."
+ },
+ {
+  "key": "Dlg_LJC_MXK3_Hun_2",
+  "text": "ستفوقينني مهارةً قبل أن تمضي ثلاثة أعوام."
+ },
+ {
+  "key": "Dlg_LJC_MXK3_MXK_3",
+  "text": "همم... فهمت الآن."
+ },
+ {
+  "key": "Dlg_LJC_MXK3_MXK_4",
+  "text": "أنت من قتل أبي... لكنك... لم تكن أنت."
+ },
+ {
+  "key": "Dlg_LJC_MXK3_MXK_5",
+  "text": "انتظر!"
+ },
+ {
+  "key": "Dlg_LJC_MXK3_MXK_6",
+  "text": "لن أرتكب أخطاء أخرى!"
+ },
+ {
+  "key": "Dlg_LJC_MXK3_Hun_7",
+  "text": "لو عرفتِ الحقيقة... لاندفعتِ إلى الخطر من دون تروٍّ."
+ },
+ {
+  "key": "Dlg_LJC_MXK3_Hun_8",
+  "text": "ولن يُبقي عليكِ «هو» أبدًا."
+ },
+ {
+  "key": "Dlg_LJC_MXK3_Hun_9",
+  "text": "وأنا... لم يبقَ لي حتى ثلاثة أعوام..."
+ },
+ {
+  "key": "Dlg_LJC_HPMT_Hun_1",
+  "text": "يبدو أن رصيف التنظيم السري ما زال هنا... لكن هذه البحيرة الشاسعة تستلزم أن أستعين بأحد «ألعاب» ربّان القارب <Bold></>لعبورها."
+ },
+ {
+  "key": "Dlg_LJC_HPMT_Hun_2",
+  "text": "إذا وصلت إلى بانغتشن... فربما أجد رصيف ربّان القارب.<Bold></>"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_RenOuXiaoHai_1",
+  "text": "حين أكبر... هل سأصبح هكذا أنا أيضًا؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei1_FeiZei1_1",
+  "text": "لن ينفع هذا..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei1_FeiZei1_2",
+  "text": "أحاول منذ أيام... لكن هذا القفل لا يتحرك قيد أنملة..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei1_FeiZei1_3",
+  "text": "ثقب المفتاح على هيئة عظم إصبع... أيّ مفتاح يمكن أن يلائمه؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_1",
+  "text": "لقد تمكنت من فتحها..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_2",
+  "text": "حسنًا... فتحت لي بابًا... وسأردّ لك الجميل..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_3",
+  "text": "هذا المفتاح يفتح قبو النبيذ لدى العمّ لو... وأيّ كنز تجده فيه فهو لك!"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_Hun_5",
+  "text": "هل تعرف الطريق إلى بانغتشن؟"
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_6",
+  "text": "استقل المصعد هناك، وامضِ إلى الأمام، وسيقودك إلى بانغتشن..."
+ },
+ {
+  "key": "Dlg_LJC_ShiYanChangHou_BeiKunFeiZei2_FeiZei1_7",
+  "text": "انطلق... سيكون كلٌّ منا أكثر أمانًا إذا افترقنا."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_Date_1",
+  "text": "قبل ثلاثة أعوام"
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_1",
+  "text": "تقود هذه الخريطة إلى خلوة حاكم الظلال مو، حيث يتدرّب على فنون السيف. سلّمها إلى المعلم سول..."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_2",
+  "text": "هل أُخذ فن السيف من عشيرة لونغ آنذاك؟"
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_3",
+  "text": "يتطلب فن السيف لدى عشيرة لونغ سيطرة استثنائية على شا-تشي."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_4",
+  "text": "لإتقان هذا الفن، كان عليه أن يقرع الجرس الذي ظفر به في جرف تمزيق الأرواح."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_5",
+  "text": "وهذا سيدفع شا-تشي لديه إلى حافة الانفلات، كالتدرّب تحت شلال، لكن بفاعلية مضاعفة."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_6",
+  "text": "الجرس الذي يسوق الرجال إلى الجنون والتعطش للدماء، حتى يفتك بعضهم ببعض؟"
+ }
+]

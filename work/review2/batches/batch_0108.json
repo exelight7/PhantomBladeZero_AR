@@ -1,0 +1,278 @@
+[
+ {
+  "key": "Dlg_Music_ChiHeiDuanLong_21",
+  "text": "تنعم الأمم كلها بالسلام"
+ },
+ {
+  "key": "Dlg_Music_LongTiZuoShang_1",
+  "text": "لقاء موفّق"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_1",
+  "text": "قارب وحيد يعلو ويهبط في رحلته"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_2",
+  "text": "التشبث ببقايا شعلة تحتضر"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_3",
+  "text": "إذا حُبستُ في حلم بعيد من زمن مضى"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_4",
+  "text": "فليمرّ بي إذن وينساب بعيدًا"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_5",
+  "text": "الإصغاء إلى الريح وهي تندفع بمحاذاة الأذنين"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_6",
+  "text": "إطفاء مصباح الذكرى"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_6_1",
+  "text": "حتى الجوهرة التي خبأتها في قلبي تآكلت مع الزمن"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_6_2",
+  "text": "إنه لون السماء الأصلي"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_7",
+  "text": "لا لا لا لا، لا لا لا..."
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_8",
+  "text": "انجراف، انجراف في قلب بحيرة متلألئة"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_8_1",
+  "text": "تغيب الشمس الآفلة في قلب الأرض"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_8_2",
+  "text": "ترك الزهرة الضائعة وراءنا"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_8_3",
+  "text": "تعبر الجبال والأنهار وقد غطاها الثلج"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_8_4",
+  "text": "ونفترق في هذه اللحظة"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_8_5",
+  "text": "أفكّ رباط قلبي"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_9",
+  "text": "ودع الريح تحمل ذلك عبر عالم لا حدود له"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_9_1",
+  "text": "أعدك، على مرّ الفصول، فيما يزهر القصب ثم يذبل"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_9_2",
+  "text": "سنلتقي مجددًا في هذه اللحظة"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_11",
+  "text": "طفوٌ، طفوٌ في مدّ القلب المتلألئ"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_12",
+  "text": "يأبى القمر أن يغيب"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_13",
+  "text": "إلقاء ستر على هذا المكان"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_14",
+  "text": "لا شمس تلوح في الأفق"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_15",
+  "text": "ضللت الطريق"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_16",
+  "text": "كالدخان والسحب الهائمة"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_17",
+  "text": "تمضي مع الريح إلى البعيد"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_18",
+  "text": "هائمًا، عائمًا"
+ },
+ {
+  "key": "Dlg_Music_MuXiaoKui_19",
+  "text": "إلى أن نلتقي من جديد"
+ },
+ {
+  "key": "QuestHint_01-DDSD_001",
+  "text": "يبدو أنني أحتاج إلى مفتاح التشغيل لأشغّل هذا المصعد..."
+ },
+ {
+  "key": "QuestHint_01-DDSD_002",
+  "text": "يلزم <Bold>مفتاح بوابة المعبد</>."
+ },
+ {
+  "key": "QuestHint_01-DDSD_003",
+  "text": "لا يُفتح من هذا الجانب."
+ },
+ {
+  "key": "Other_All_FuncHint_001",
+  "text": "لا يمكن الفتح من هذا الجانب"
+ },
+ {
+  "key": "Other_All_FuncHint_009",
+  "text": "انتقال آني"
+ },
+ {
+  "key": "Other_All_FuncHint_010",
+  "text": "متابعة"
+ },
+ {
+  "key": "Other_All_FuncHint_012",
+  "text": "لعبة جديدة"
+ },
+ {
+  "key": "Other_All_FuncHint_013",
+  "text": "الخروج من اللعبة"
+ },
+ {
+  "key": "Other_All_FuncHint_015",
+  "text": "الضغط على أي زر للمتابعة"
+ },
+ {
+  "key": "Other_All_FuncHint_016",
+  "text": "العودة إلى شاشة البداية"
+ },
+ {
+  "key": "Other_All_FuncHint_018",
+  "text": "تمّ فتح 【{DoorName}】 باستخدام {Items}"
+ },
+ {
+  "key": "UI_Confirmation_Code_Yes",
+  "text": "تأكيد"
+ },
+ {
+  "key": "UI_Confirmation_Code_Ok",
+  "text": "تأكيد"
+ },
+ {
+  "key": "UI_Confirmation_Code_No",
+  "text": "إلغاء"
+ },
+ {
+  "key": "Other_All_Enemy_001",
+  "text": "ضربة القائد القاطعة"
+ },
+ {
+  "key": "Other_All_FuncHint_004Weapon_0",
+  "text": "استلام مهمة:"
+ },
+ {
+  "key": "Other_All_FuncHint_006",
+  "text": "إكمال المهمة:"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_011",
+  "text": "التحدث إلى لو سانتشيان المحتضر"
+ },
+ {
+  "key": "Other_All_FuncHint_011",
+  "text": "متابعة"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_001",
+  "text": "إرث لو"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_002",
+  "text": "القائد"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_003",
+  "text": "البطل الساقط"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_004",
+  "text": "الحياة القادمة"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_005",
+  "text": "القضاء على القائد"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_006",
+  "text": "العودة والتحدث إلى المحارب المستنير"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_007",
+  "text": "فتح البوابة أمام لو سانتشيان"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_008",
+  "text": "البوابة مفتوحة. ماذا سيفعل لو سانتشيان بعد ذلك؟"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_009",
+  "text": "إنقاذ الرجل المحتجز في القفص"
+ },
+ {
+  "key": "Other_01-DDSD_Quest_010",
+  "text": "معرفة سبب مجيء لو سانتشيان إلى هنا"
+ },
+ {
+  "key": "UI_Confirmation_StartMenu_01",
+  "text": "العنوان"
+ },
+ {
+  "key": "UI_SaveGame_03",
+  "text": "تذكير بحفظ اللعبة"
+ },
+ {
+  "key": "Other_All_Item_valuables_007",
+  "text": "مجلد / صفحة منفردة"
+ },
+ {
+  "key": "Other_All_ItemDes_valuables_007",
+  "text": "صفحة منفردة من كتاب على ما يبدو. لا يُفهم من محتواها الكثير، ولعلها تنفع لاحقًا."
+ },
+ {
+  "key": "Other_01-DDSD_FuncHint_001",
+  "text": "يلزم <Bold>مفتاح المعبد</>."
+ },
+ {
+  "key": "Other_All_FuncHint_002",
+  "text": "يبدو أنني أحتاج إلى <Bold>مفتاح التشغيل</> لأشغّل هذا المصعد..."
+ },
+ {
+  "key": "QuestHint_01-DDSD_004",
+  "text": "آلية إنزال القفص تفتقر إلى <Bold>رافعة</>..."
+ },
+ {
+  "key": "Other_All_FuncHint_005",
+  "text": "تحديث المهمة:"
+ },
+ {
+  "key": "UI_StartMenu_04",
+  "text": "اللغات"
+ },
+ {
+  "key": "Dlg_01-DDSD_HXZ_HXZ_7",
+  "text": "الجواب الذي جئت تبحث عنه ضاع إلى الأبد."
+ },
+ {
+  "key": "Other_All_FuncHint_017",
+  "text": "أنت هنا بالفعل"
+ }
+]

@@ -18,52 +18,52 @@
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_DDSD_001` | جبل السجن | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_DDSD_001` | جبل السجن | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## Levelname_LYZ
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_LYZ_001` | جبل تمزيق الأرواح | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_LYZ_001` | جرف تمزيق الأرواح | [الدفعة](../../work/review2/batches/batch_0013.json) | [التصحيح](../../work/review2/out/batch_0013.json) |
 
 ## Levelname_LZSJ
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_LZSJ_001` | الغابة القرمزية | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_LZSJ_001` | الغابة القرمزية | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## Levelname_NLES
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_NLES_001` | وادي الجدول الباكي | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_NLES_001` | وادي الجدول الباكي | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## Levelname_SXC
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_SXC_01` | قرية لو | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_SXC_01` | قرية لو | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## Levelname_SZ
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_SZ_001` | بانغتشن | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_SZ_001` | بانغتشن | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## Levelname_XM
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_XM_001` | ضيعة السراب | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_XM_001` | ضيعة السراب | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## Levelname_YGYW
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_YGYW_001` | بحيرة ميغو | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_YGYW_001` | بحيرة ميغو | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## Levelname_YXZR
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Levelname_YXZR_003` | معسكر الميثاق | [الدفعة](../../work/opencode/batches/batch_0032.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Levelname_YXZR_003` | معسكر الميثاق | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |

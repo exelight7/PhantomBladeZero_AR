@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_Appearance_6",
+  "text": "هذا المظهر مجهّز بالفعل."
+ },
+ {
+  "key": "UI_Appearance_8",
+  "text": "إخفاء غطاء الرأس"
+ },
+ {
+  "key": "UI_Appearance_9",
+  "text": "إظهار غطاء الرأس"
+ },
+ {
+  "key": "UI_Dead_08",
+  "text": "الأيام المتبقية:"
+ },
+ {
+  "key": "UI_Dead_07",
+  "text": "الأيام المتبقية:<DaysLeft_Num>{0}</>"
+ },
+ {
+  "key": "UI_Inventory_24",
+  "text": "مفتاح"
+ },
+ {
+  "key": "UI_Inventory_25",
+  "text": "التقدم"
+ },
+ {
+  "key": "UI_Inventory_26",
+  "text": "كنز"
+ },
+ {
+  "key": "UI_Character_41",
+  "text": "لا شيء"
+ },
+ {
+  "key": "UI_Inventory_29",
+  "text": "غرض قصصي"
+ },
+ {
+  "key": "UI_Inventory_28",
+  "text": "موادّ أساسية للتقدم"
+ },
+ {
+  "key": "UI_Inventory_30",
+  "text": "شظايا الحُلي"
+ },
+ {
+  "key": "UI_Inventory_02",
+  "text": "كنوز تشانغ سريع اليد"
+ },
+ {
+  "key": "UI_Inventory_09",
+  "text": "موادّ ترقية السلاح"
+ },
+ {
+  "key": "UI_Inventory_16",
+  "text": "موادّ ترقية الأسلحة الطيفية"
+ },
+ {
+  "key": "UI_Inventory_17",
+  "text": "موادّ صقل الحُلي"
+ },
+ {
+  "key": "UI_Inventory_18",
+  "text": "موادّ ترقية الدواء"
+ },
+ {
+  "key": "UI_Inventory_19",
+  "text": "موادّ صقل روح السلاح"
+ },
+ {
+  "key": "UI_Inventory_20",
+  "text": "موادّ صقل الروح للسلاح الطيفي"
+ },
+ {
+  "key": "UI_Literature_02",
+  "text": "الكتب"
+ },
+ {
+  "key": "UI_Pickup_14",
+  "text": "الكتب"
+ },
+ {
+  "key": "UI_Literature_26",
+  "text": "معرض الصور"
+ },
+ {
+  "key": "UI_Literature_25",
+  "text": "التفاصيل"
+ },
+ {
+  "key": "UI_Pickup_16",
+  "text": "زهرة الذكرى الكاملة"
+ },
+ {
+  "key": "UI_Pickup_06",
+  "text": "جمع كل بقايا الذكرى لزيادة الصحة"
+ },
+ {
+  "key": "UI_Pickup_07",
+  "text": "اكتملت مجموعة بقايا الذكرى. زادت الصحة."
+ },
+ {
+  "key": "UI_Pickup_08",
+  "text": "الحصول على الذكرى الكاملة. زادت الصحة."
+ },
+ {
+  "key": "UI_Pickup_15",
+  "text": "بتلات زهرة الذكرى"
+ },
+ {
+  "key": "UI_Literature_04",
+  "text": "تشغيل"
+ },
+ {
+  "key": "UI_Literature_05",
+  "text": "إيقاف"
+ },
+ {
+  "key": "UI_Literature_29",
+  "text": "الأعداء"
+ },
+ {
+  "key": "UI_Literature_27",
+  "text": "الجزء العلوي من الجسم"
+ },
+ {
+  "key": "UI_Literature_28",
+  "text": "الجسم كاملًا"
+ },
+ {
+  "key": "UI_Literature_31",
+  "text": "الحيوانات"
+ },
+ {
+  "key": "UI_Literature_32",
+  "text": "السائرون المقنّعون"
+ },
+ {
+  "key": "UI_Literature_33",
+  "text": "أصحاب الارتقاء الكامل"
+ },
+ {
+  "key": "UI_Literature_34",
+  "text": "الأساتذة"
+ },
+ {
+  "key": "UI_Literature_35",
+  "text": "الدمى"
+ },
+ {
+  "key": "UI_Setting_439",
+  "text": "تحميل اللعبة"
+ },
+ {
+  "key": "UI_Setting_442",
+  "text": "فتح قائمة الحفظ لعرض التقدّم المحفوظ سابقًا وتحميله."
+ },
+ {
+  "key": "UI_Pickup_01",
+  "text": "تجهيز السلاح الجديد الآن؟"
+ },
+ {
+  "key": "UI_Pickup_11",
+  "text": "تجهيز السلاح الطيفي الجديد الآن؟"
+ },
+ {
+  "key": "UI_Pickup_18",
+  "text": "فارغ"
+ },
+ {
+  "key": "UI_Pickup_19",
+  "text": "تجهيز سلاح في هذا الموضع"
+ },
+ {
+  "key": "UI_Pickup_20",
+  "text": "تجهيز سلاح طيفي في هذا الموضع"
+ },
+ {
+  "key": "UI_Pickup_24",
+  "text": "اختيار"
+ },
+ {
+  "key": "UI_Pickup_04",
+  "text": "تجهيز الدواء الجديد؟"
+ },
+ {
+  "key": "UI_Pickup_21",
+  "text": "تجهيز دواء في الخانة الفارغة"
+ },
+ {
+  "key": "UI_Pickup_09",
+  "text": "تجهيز الحُلية الجديدة الآن؟"
+ },
+ {
+  "key": "UI_Pickup_22",
+  "text": "تجهيز حُلية في الخانة الفارغة"
+ },
+ {
+  "key": "UI_Pickup_26",
+  "text": "هجومي"
+ },
+ {
+  "key": "UI_Pickup_27",
+  "text": "دعم"
+ },
+ {
+  "key": "UI_Pickup_28",
+  "text": "دفاعي"
+ },
+ {
+  "key": "UI_Character_65",
+  "text": "لا يمكن تجهيز أكثر من ثلاث حُليّ من الفئة نفسها."
+ },
+ {
+  "key": "UI_BellMenu_22",
+  "text": "ترقية المعدات"
+ },
+ {
+  "key": "UI_BellMenu_15",
+  "text": "المتجر"
+ },
+ {
+  "key": "UI_BellMenu_20",
+  "text": "تدريب القدرات"
+ },
+ {
+  "key": "UI_BellMenu_09",
+  "text": "حفظ"
+ },
+ {
+  "key": "UI_BellMenu_02",
+  "text": "مغادرة"
+ },
+ {
+  "key": "UI_BellMenu_23",
+  "text": "العودة إلى عالم اليقظة"
+ },
+ {
+  "key": "UI_BellMenu_24",
+  "text": "الانتقال إلى الجرس السابق"
+ },
+ {
+  "key": "UI_BellMenu_25",
+  "text": "الانتقال إلى الجرس الأول"
+ },
+ {
+  "key": "UI_Upgrade_30",
+  "text": "المملوك"
+ },
+ {
+  "key": "UI_Upgrade_31",
+  "text": "الكلفة"
+ },
+ {
+  "key": "UI_Upgrade_45",
+  "text": "تراجع"
+ },
+ {
+  "key": "UI_Inventory_14",
+  "text": "صقل الروح"
+ },
+ {
+  "key": "UI_Upgrade_52",
+  "text": "ترقية مرة واحدة"
+ },
+ {
+  "key": "UI_Upgrade_53",
+  "text": "ترقية إلى الحد الأقصى"
+ },
+ {
+  "key": "UI_Upgrade_27",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للترقية <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_54",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للترقية إلى الحد الأقصى <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_36",
+  "text": "ترقية <img id=\"Dust_Grey\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Grey>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_35",
+  "text": "<img id=\"Dust_Red\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Red>{0}</> غير كافٍ"
+ },
+ {
+  "key": "UI_Upgrade_15",
+  "text": "<CharacterButton_Yellow>تم بلوغ المستوى الأقصى</>"
+ },
+ {
+  "key": "UI_Upgrade_28",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> لصقل الروح <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_38",
+  "text": "صقل الروح <img id=\"Dust_Grey\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Grey>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_16",
+  "text": "<CharacterButton_Purple>اكتمل صقل الروح</>"
+ },
+ {
+  "key": "UI_Upgrade_43",
+  "text": "إعادة المستوى إلى مستواه الابتدائي، واسترداد جميع المواد المستخدمة."
+ },
+ {
+  "key": "UI_Upgrade_44",
+  "text": "الاحتفاظ بمهارات صقل الروح."
+ },
+ {
+  "key": "UI_Upgrade_46",
+  "text": "استرداد"
+ },
+ {
+  "key": "UI_Upgrade_39",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للتراجع عن <img id=\"Return_Main_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}/{1}</>"
+ },
+ {
+  "key": "UI_Upgrade_40",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للتراجع عن <img id=\"Return_ShaChi_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}/{1}</>"
+ },
+ {
+  "key": "UI_Upgrade_41",
+  "text": "<img id=\"Return_Main_Red\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Red>{0}/{1}</> غير كافٍ"
+ },
+ {
+  "key": "UI_Upgrade_42",
+  "text": "<img id=\"Return_ShaChi_Red\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Red>{0}/{1}</> غير كافٍ"
+ },
+ {
+  "key": "UI_Upgrade_48",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للتراجع"
+ },
+ {
+  "key": "UI_Shop_08",
+  "text": "الاستخدامات"
+ },
+ {
+  "key": "UI_Upgrade_29",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للصقل <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_37",
+  "text": "صقل <img id=\"Dust_Grey\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Grey>{0}</>"
+ },
+ {
+  "key": "UI_Upgrade_17",
+  "text": "<CharacterButton_Yellow>تم بلوغ الحد الأقصى للصقل</>"
+ },
+ {
+  "key": "UI_Shop_11",
+  "text": "شراء"
+ },
+ {
+  "key": "UI_Shop_12",
+  "text": "بيع"
+ },
+ {
+  "key": "UI_Shop_16",
+  "text": "الكمية"
+ },
+ {
+  "key": "UI_Shop_17",
+  "text": "الكمية"
+ },
+ {
+  "key": "UI_Shop_18",
+  "text": "المملوك"
+ },
+ {
+  "key": "UI_Shop_13",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للشراء <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Shop_14",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"UpgradeHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> للبيع <img id=\"Dust_Black\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Black>{0}</>"
+ },
+ {
+  "key": "UI_Shop_15",
+  "text": "<img id=\"Dust_Red\" LeftPadding=\"3\" RightPadding=\"3\"/><Num_PressButton_Red>{0}</> غير كافٍ"
+ },
+ {
+  "key": "UI_AbilityWidget_04",
+  "text": "تم الحصول عليه"
+ },
+ {
+  "key": "UI_AbilityWidget_05",
+  "text": "شا-تشي الأقصى"
+ },
+ {
+  "key": "UI_AbilityWidget_06",
+  "text": "الصحة القصوى"
+ },
+ {
+  "key": "UI_AbilityWidget_07",
+  "text": "قوة الهجوم وكسر الدفاع"
+ }
+]

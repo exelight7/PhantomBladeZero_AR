@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_JHSY_IMPMEM2_HuangXingZi_5",
+  "text": "أنت تلمّح إلى شيء. تكلّم بوضوح."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_6",
+  "text": "قبل أيام، اتفقت أنا والمعلمة يوين على عملية مشتركة بين التنظيم وطائفتك. وأفترض أنهم أبلغوك بها."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_HuangXingZi_7",
+  "text": "لم تأتِ إلى هنا لمجرد قتل بضعة من السائرين المقنّعين، أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_8",
+  "text": "لنفترض... أنني أستطيع، خلال هذه العملية، أن أغيّب المعلمة يوين. هل يهمك ذلك، يا معلم هوانغشينغ؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_HuangXingZi_9",
+  "text": "همم... أنت رجل مثير للاهتمام."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_HuangXingZi_10",
+  "text": "ماذا تريد في المقابل؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_11",
+  "text": "سيرسل التنظيم عازفة بيبا بارعة—<Bold>الوتر</>. دمية لا مثيل لها."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_12",
+  "text": "إن استطعت إخضاعها وتسليمها إلى مكان أختاره..."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_HuangXingZi_13",
+  "text": "ما يحدث ليوين لا علاقة له بي."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2HuangXingZi_14",
+  "text": "وحين أستولي على تلك الدمية، لن يستطيع أحد أن يربط الأمر بك."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_15",
+  "text": "سعيد بالتعامل معك، يا معلم هوانغشينغ!"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_16",
+  "text": "لنطهّر هذا العالم من عفنه وفساده!"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM2_ZuoShang_17",
+  "text": "ونبدأ بالميثاق نفسه."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_KanShou0_KSFeiZei1_1",
+  "text": "انتظر، انتظر... هل ستدخل؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_KanShou_KSFeiZei1_1",
+  "text": "المكان مليء بالفخاخ... وهي خبيثة جدًا. لا تقل إنني لم أحذّرك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_KanShou_KSFeiZei2_1",
+  "text": "إن هلكت هناك... فكل ما معك من غنائم لي..."
+ },
+ {
+  "key": "Dlg_FJZL_WuDing_GuanZhanFeiZei1_1",
+  "text": "تراجعوا فورًا! أولئك المجانين في الأسفل فقدوا عقولهم من شدة سفك الدماء!"
+ },
+ {
+  "key": "Dlg_FJZL_DongKuQian_BaiShanNv_BaiShanNv_2",
+  "text": "أخذوا أخواتي..."
+ },
+ {
+  "key": "Dlg_FJZL_DongKuQian_BaiShanNv_BaiShanNv_3",
+  "text": "إنهم متجهون إلى نُزل الجبل... ليأخذوا مزيدًا من الناس..."
+ },
+ {
+  "key": "Dlg_FJZL_DongKuQian_BaiShanNv_BaiShanNv_4",
+  "text": "اهرب... هذا الوولين... لا أمل في إنقاذه..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu1_RenOu1_1",
+  "text": "القرية... ما زالت هنا..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu1_RenOu1_2",
+  "text": "لكن الطريق إلى البيت... اختفى... اختفى..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu2_RenOu2_2",
+  "text": "رحل الجميع... إلى مكان آمن."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu2_RenOu2_3",
+  "text": "لماذا لم يأخذوني معهم..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_1",
+  "text": "السائرون المقنّعون هنا... اهربوا..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_2",
+  "text": "أخي قادم... يجب الهرب... يجب الهرب..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_3",
+  "text": "لا... لا تجعلوا مني حطبًا..."
+ },
+ {
+  "key": "Dlg_FJZL_TiaoWang_RenOu3_RenOu2_4",
+  "text": "أنا أختك... لست حطبًا..."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_1",
+  "text": "أنقذ... الميثاق... أنقذ... طائفة بايشان..."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_Hun_2",
+  "text": "هل تخدم طائفة بايشان أركان كونلون أيضًا؟"
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_3",
+  "text": "عانت طائفتنا كثيرًا... قادتنا المعلمة <Bold>بي تاوتاو</> إلى الانضمام إلى الميثاق وقتال السائرين المقنّعين..."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_4",
+  "text": "لكن التحالف انهار بعد ذلك بوقت قصير."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_5",
+  "text": "اقتتل الرافضون للارتقاء الكامل... والمؤمنون به... حتى أباد بعضهم بعضًا. كان ذلك أسوأ بكثير من قتال السائرين المقنّعين!"
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_Hun_6",
+  "text": "قابلتُ المعلمة بي تاوتاو خلال قضية يد الخمسة في طائفة بايشان."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_7",
+  "text": "ذهبت المعلمة بي إلى معسكر الميثاق لكشف الحقيقة... ولم تعد قط."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_8",
+  "text": "قادت الأخت الكبرى وو لنغشوانغ الباقيات للبحث عنها. ولم يصلنا منهن خبر أيضًا..."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_Hun_9",
+  "text": "أخشى أن..."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_10",
+  "text": "أُصبت بجروح بالغة... ولن أصمد طويلًا. أخفتني أخواتي هنا هربًا من السائرين المقنّعين."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_11",
+  "text": "آه... لو أتيح لي أن أرى معلمتي مرة أخيرة... لمتُ وأنا مطمئنة..."
+ },
+ {
+  "key": "Dlg_FJZL_BSMW_NDZ_NDZ_Re_1",
+  "text": "لو أتيح لي أن أرى معلمتي مرة أخيرة... لمتُ وأنا مطمئنة..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_1",
+  "text": "يا أخي الأكبر، إلى أين أنت ذاهب؟!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_2",
+  "text": "انتقمت لمعلمنا. لم تعد معارك الوولين شأني."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_3",
+  "text": "ربما انتقمت لمعلمنا، لكن إرثه بات في أيدينا..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_4",
+  "text": "ستهيمن طائفة القبضة الحديدية على الوولين. وعلينا سحق كل طائفة منافسة وضعها معلمنا نصب عينيه."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_5",
+  "text": "عندها فقط يرقد بسلام!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_6",
+  "text": "هل نسيت كيف مات المعلم؟ كثر أعداؤه... ولم يحتج الأمر إلا إلى هزيمة واحدة!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_7",
+  "text": "هذه القبضات خُلقت لحماية الضعفاء، لا لطلب القتال وإبادة الأبرياء!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_8",
+  "text": "أنت لا تستحق تعاليمه!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_9",
+  "text": "لن ترحل إلا بعد أن تهزمني! هياااه!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_10",
+  "text": "آه...! أنت..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_11",
+  "text": "لم أنسَ قط تعاليم المعلم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_12",
+  "text": "وانتقمتُ له بيديّ."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_13",
+  "text": "لكنّه بدا رجلًا آخر في أيامه الأخيرة."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_14",
+  "text": "لا أعرف ما الذي غيّره، لكن أمرًا مشؤومًا ينتشر في الوولين."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_15",
+  "text": "ما عثر عليه المعلم كان أمل طائفة القبضة الحديدية في بسط هيمنتها على الوولين!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_16",
+  "text": "لكن جبنك هو ما قتله..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_17",
+  "text": "اهزمني أولًا، ثم نتحدث."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_18",
+  "text": "لكن حين تأتي لمواجهتي، استخدم أساليب القتال بالقبضة الخاصة بطائفتنا. قاتلني بشرف."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_19",
+  "text": "دمّر كل ما تجده بين متعلّقات المعلم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_TieGui_20",
+  "text": "ما أودى بالمعلم سيودي بك أنت أيضًا!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_21",
+  "text": "يا أخي الأكبر... لم أصغِ إلى كلمة واحدة مما قلته."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_22",
+  "text": "كنت مخطئًا... وكذلك المعلم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_23",
+  "text": "لكن الأوان قد فات."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_QuanChi2_KuangTie_24",
+  "text": "بعض الأخطاء... ما إن تقع حتى يستحيل تداركها..."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_1",
+  "text": "لقد كبحتَ شا-تشي بقوة إرادتك وحدها... فلماذا ترهق نفسك إلى هذا الحد؟"
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_2",
+  "text": "أعرفك... أنت من التنظيم. تقاتلنا مرةً قبل سنوات."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_3",
+  "text": "كنت أشعر آنذاك أنك تكافح لكبح غضبك."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_4",
+  "text": "جرائم التنظيم الآن تفوق بكثير كل ما اقترفناه نحن السائرين المقنّعين..."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_5",
+  "text": "صمدت ما استطعت. لم أعد قادرًا على كبحه... أنهِ الأمر من أجلي!"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi1_Battle_1",
+  "text": "فن القتال بقبضات طائفتنا... لا يمكن أن يخفق!"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi1_Battle_2",
+  "text": "لن تنتصر!"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi2_QuanChi_Battle_1",
+  "text": "لم يعد هناك رجوع!"
+ },
+ {
+  "key": "Dlg_FJZL_QuanChi2_Hun_Battle_2",
+  "text": "هل عجزت عن كبح ظمئك للدماء؟"
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_6",
+  "text": "ها... يا لها من مهارة..."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_7",
+  "text": "كنتَ سيّدًا في القتال بالأيدي. ولولا الارتقاء، لما هويت إلى هذا الدرك."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_8",
+  "text": "قبل سنوات، تهوّرت... وانحرفت عن الطريق... وصرتُ من السائرين المقنّعين. لكن هذا <Bold>الارتقاء الكامل</> الجديد... صُمّم للقتل..."
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Hun_9",
+  "text": "هل للارتقاء الكامل صلة بالتنظيم؟"
+ },
+ {
+  "key": "Dlg_FJZL_Quanchi_Quanchi_10",
+  "text": "إذًا... غادرتَ التنظيم منذ زمن بعيد... ها... ها..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_1",
+  "text": "أمي... هل يمكنني ألّا أتدرّب اليوم؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_2",
+  "text": "أشعر بدوار قليل..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_3",
+  "text": "وأنا أجيد العزف على البيبا فعلًا!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_5",
+  "text": "أوه؟ هل أُصبتِ بالزكام؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_6",
+  "text": "حسنًا... لا بأس. استريحي اليوم."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_7",
+  "text": "لكن تذكّري: إذا فاتكِ التدريب يومًا، خسرتِ يومًا من التقدّم. وقد تنساكِ البيبا."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_8",
+  "text": "مم! أمي، أنا أحب العزف على البيبا!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_9",
+  "text": "لكن... لا طاقة لي اليوم..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_10",
+  "text": "ما دمتِ تستمتعين به، فهذا يكفي."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_11",
+  "text": "حين كنت في مثل عمركِ، كنت أعزف على المسرح بالفعل."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_12",
+  "text": "آنذاك، لم يكن يهم إن كنت مريضة أو أنزف؛ كان عليّ أن أواصل العزف."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_13",
+  "text": "ليتني استطعت أن أراكِ وأنتِ تعزفين!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_14",
+  "text": "بعد ولادتكِ... أقسمت ألا أعزف على المسرح مجددًا."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_15",
+  "text": "لكن بعد كل هذه السنين... ما زلتِ تعانين بسببي."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_16",
+  "text": "لدينا تلك السفينة الضخمة، اللوتس المذهّب، فكيف نعاني؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_17",
+  "text": "لكن... لماذا لا تدعينني أقترب منها أبدًا؟"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_18",
+  "text": "ستفهمين يومًا ما..."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_19",
+  "text": "مهما حدث، لا تعزفي البيبا إلا لنفسك."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_XianZhe_20",
+  "text": "لكنني أريد أن أعزف لكِ أنتِ أيضًا، أمي!"
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_21",
+  "text": "يا حبيبتي، تذكّري أن البيبا التي لدينا ليست آلة عادية."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis1_Inanis_22",
+  "text": "إنها تختزن قوة خارقة... تكفي للتواصل مع عالم آخر."
+ },
+ {
+  "key": "Dlg_FJZL_MEM_Inanis2_XianZhe_1",
+  "text": "ماما... أشعر بتوعّك..."
+ }
+]

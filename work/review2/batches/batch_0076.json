@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMinNv1_NvCunMinNv1_2",
+  "text": "الشفاء يحتاج إلى وقت..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuCunMinNv1_NvCunMinNv1_3",
+  "text": "لم نُترك..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_1",
+  "text": "هل تريد أن تصبح من خشب؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_2",
+  "text": "ما أروع أن تكون من خشب!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_3",
+  "text": "لن تشعر بالمطر ولا بالجوع..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuXiaoHai3_XiaoHai3_4",
+  "text": "ولن تخيفك تلك الأشياء المقنّعة بعد الآن!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou2_LaoTou2_3",
+  "text": "هاها... لقد غُيّر المزار..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou2_LaoTou2_1",
+  "text": "انظر إليّ... هل ما زلت أبدو كأنني من خشب؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_RenOuLaoTou2_LaoTou2_2",
+  "text": "لست كذلك! لم أعد من خشب!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu_Option_1",
+  "text": "أخذ الرسالة"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu_GeNvRenOu_1",
+  "text": "النهر فسيح المجرى... وقلبي يملؤه الفزع..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu_GeNvRenOu_2",
+  "text": "تجوب آلاف الأميال... فمتى تعود إلى الديار؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu1_GeNvRenOu_1",
+  "text": "هل يمكنك إيصال هذه الرسالة إلى بَي نيابةً عني؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu1_GeNvRenOu_2",
+  "text": "قال... إنه سيعود من أجلي..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu1_GeNvRenOu_10",
+  "text": "هل يمكنك إيصال هذه الرسالة إلى بَي نيابةً عني؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu2_GeNvRenOu_1",
+  "text": "شكرًا لك. أنا ممتنة لك من أعماق قلبي."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvRenOu2_GeNvRenOu_Re_1",
+  "text": "هل... وصلت رسالتي إلى بَي؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu_PengLang_1",
+  "text": "يا للسماء... لِمَ انتزعتَ حبيبتي منّي؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu_PengLang_2",
+  "text": "وتركتني وحيدًا في هذا العالم الفسيح؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu_PengLang_3",
+  "text": "تشينغنيانغ... يا تشينغنيانغ..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_1",
+  "text": "يا تشينغنيانغ... بالأمس فقط، تحت الأزهار وضوء القمر، كان قلبانا واحدًا..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_2",
+  "text": "والآن تسلكين وحدك طريق العالم السفلي..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_3",
+  "text": "لم يبقَ سواي... في هذه الحجرة الباردة الخاوية..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_4",
+  "text": "يا تشينغنيانغ... يا تشينغنيانغ... مزّقتنا السماء وفرّقت بيننا الحياة والموت!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_5",
+  "text": "لكن لماذا تزورينني في أحلامي كل ليلة وتنادين اسمي برفق؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_6",
+  "text": "أستيقظ والدموع تغمرني، ولا أجد راحة حتى في نومي!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_Hun_7",
+  "text": "إذن هذا هو بَي... الرجل الذي كانت الدمية المغنية تبحث عنه."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_Hun_8",
+  "text": "طلبت مني امرأة أن أوصل إليك هذه الرسالة."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_9",
+  "text": "هذا... خط تشينغنيانغ..."
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_10",
+  "text": "ل-لا... هذا مستحيل... لقد رحلت... كيف كتبت هذا؟"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1_PengLang_11",
+  "text": "ش-شبح! إنه شبح!!!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1e_PengLang_1",
+  "text": "أبعدوها عنّي! لا تدعوها تلتصق بي!"
+ },
+ {
+  "key": "Dlg_LJC_YuanZi_PengLangRenOu1e_PengLang_2",
+  "text": "لم أتلقَّ شيئًا! ولم أرَ شيئًا!"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_GeNvRenOu_1",
+  "text": "هل تبحث عن أحدٍ يا سيدي؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_PeiLang_2",
+  "text": "لقد... فقدتُ حبيبتي..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_PeiLang_3",
+  "text": "أينما كانت، سأعثر عليها. سنبقى معًا في الحياة والممات..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_PeiLang_4",
+  "text": "آنستي... هل تنتظرين أحدًا هنا؟"
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_Hun_5",
+  "text": "إذن، خضع بَي أيضًا لنقل الروح..."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_Hun_6",
+  "text": "لقد فقدا جسديهما... ونسِيَ كلٌّ منهما الآخر."
+ },
+ {
+  "key": "Dlg_LJC_XiaoWu_GeNvPeiLang_Hun_7",
+  "text": "ومع ذلك، جمعهما القدر من جديد..."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_1",
+  "text": "انتُزع وعي بَي بنقل الروح، ولم يبقَ سوى وعاء فارغ."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_2",
+  "text": "حاجباه معقودان بشدة وقبضتاه مشدودتان، كأنه كان يقاوم شيئًا قبل أن يستسلم للنوم."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_Hun_1",
+  "text": "إذن فقد نُقلت روحه حقًا... لا بد أن تلك الدمية إلى جانبها هي بَي."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLang_Hun_2",
+  "text": "لا بد أن أخبرها بالحقيقة."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLangQingNiang_1",
+  "text": "تلفّ الدمية العالمة ذراعًا حول كتف الدمية المغنية، كأنها تحميها."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLangQingNiang_2",
+  "text": "يستند وجه الدمية المغنية إلى عنقه، وتبدو ملامحها الخشبية هادئةً في سكون."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_PeiLangQingNiang_3",
+  "text": "تشققت أجسادهما عند المفاصل، وكشف الطلاء الباهت عن الخشب الذابل تحته."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HSPZ1_1",
+  "text": "ما أقوى هذا الحاجز!"
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HSPZ2_1",
+  "text": "هل سيزول هذا الحاجز إذا جمعت كل زهور الذكرى التي تركتها يراعة؟"
+ },
+ {
+  "key": "Dlg_LJC_Investigate_HSPZ3_1",
+  "text": "كان الغسق تلميذًا لهذا الذي يُسمّى «الشيخ الأكبر». فما الأسرار التي اكتشفها؟"
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_1",
+  "text": "تتحرّك القبّة في الظلام، والنجوم يحجبها الغبار،"
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_2",
+  "text": "وباب السماء ينفتح، والعوالم تتكشّف كما قُدّر لها المسار،"
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_3",
+  "text": "تخبو أنفاس لونغ، وتفيض الآفة وتجتاح،"
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_4",
+  "text": "يتصادم لونغ والآفة، فيُقضى بهلاكٍ جديد لا يُزاح."
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_5",
+  "text": "يتعفّن العالم القديم، قيدًا يكبّل الأجساد،"
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_6",
+  "text": "وحيث تحلّ الآفة، لا يبقى من الماضي أثرٌ يُستعاد،"
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_7",
+  "text": "اخرق ستار هذا العالم، وابلغ ما وراء الحدود،"
+ },
+ {
+  "key": "Dlg_LJC_CangShenChu_TianWaiZhiYin_8",
+  "text": "بلا نهاية ولا انقطاع، عبر الزمان الممدود."
+ },
+ {
+  "key": "Dlg_LJC_Fisherman1_Fisherman_1",
+  "text": "ما دمت قد وصلت إلى هذا المكان... فلِمَ لا تقفز لترى ما في الأسفل؟"
+ },
+ {
+  "key": "Dlg_LJC_Fisherman2_Fisherman_1",
+  "text": "ها... كثيرًا ما تختبئ الحقيقة في قاع الهاوية..."
+ },
+ {
+  "key": "Dlg_LJC_Fisherman3_Fisherman_1",
+  "text": "لا تتردد... اقفز إلى الداخل!"
+ },
+ {
+  "key": "Dlg_LJC_Danghui_DH_1",
+  "text": "إذن وصلتك رسالتها... هل دمّروها بالفعل، جسدًا وروحًا؟"
+ },
+ {
+  "key": "Dlg_LJC_Danghui_Hun_2",
+  "text": "سمعت أن طائفتكم تمارس فنًا محرّمًا."
+ },
+ {
+  "key": "Dlg_LJC_Danghui_DH_3",
+  "text": "الشيخ الأكبر... تحالف مع المبعوث واستولى على زمام الأمور... آه... لكنني أنا أيضًا..."
+ },
+ {
+  "key": "Dlg_LJC_Danghui_DH_4",
+  "text": "اقتلني! الآن!!!"
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_DH_1",
+  "text": "هل عثرت على رأس البيبا؟"
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_DH_2",
+  "text": "استولى عليه المبعوث قرب الوعاء صفر... وينوي تقديمه إلى الشيخ الأكبر."
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_DH_3",
+  "text": "لكنني أخذته... كنت أعلم أنهم لن يدعوني أعيش!"
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_DH_4",
+  "text": "ولن يرحموا يراعة أيضًا..."
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_Hun_4",
+  "text": "المبعوث والشيخ الأكبر يعملان معًا... ما الذي يسعيان إليه؟"
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_DH_5",
+  "text": "ههههه... انظر بنفسك!"
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_Hun_9",
+  "text": "تلك الرؤيا... هل يمكن أن تكون مصدر الكارثة التي تحدثوا عنها؟"
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_Hun_10",
+  "text": "لا بد أن أوقفها..."
+ },
+ {
+  "key": "Dlg_LJC_Danghui2_Hun_11",
+  "text": "لكن... هل ما زال لديّ وقت؟"
+ },
+ {
+  "key": "Dlg_LJC_MiDao_FeiZei_Option_1",
+  "text": "طلبات أخرى؟"
+ },
+ {
+  "key": "Dlg_LJC_MiDao_FeiZei_Option_2",
+  "text": "آثار اللص"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_1",
+  "text": "لن تتمكن من عبور ذلك الباب..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_2",
+  "text": "عليك أن تمر عبر البئر عند مدخل القرية!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_3",
+  "text": "إذن أنت أيضًا تحاول الوصول إلى بانغتشن من هنا؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_4",
+  "text": "استولى المبعوث على نفق المهرّب بأكمله..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_5",
+  "text": "وجعله مكانًا لصنع تلك الأشياء!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_6",
+  "text": "تلك الدمى... هل وُضعت أرواح أهل القرية فيها؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_7",
+  "text": "لا أدري... لكن أسرع واعثر على مدخل إلى البئر!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_8",
+  "text": "وإلا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_9",
+  "text": "فستموت تلك الفتاة!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_10",
+  "text": "أي فتاة؟ يوأر...؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_11",
+  "text": "أخذوها... من هنا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_12",
+  "text": "حاولت إنقاذها، لكن..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_13",
+  "text": "ها... كان ينبغي ألا أبالغ في تقدير قدراتي..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_14",
+  "text": "تلك الأشياء... لا هي بشر ولا هي أحياء... إنها قوية جدًا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_Hun_15",
+  "text": "انتظر هنا. إن وجدت طريقًا للعبور..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_16",
+  "text": "انسني!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei_FZ_17",
+  "text": "أسرع! الحق بالفتاة!"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_Hun_1",
+  "text": "هل أستطيع أن أفعل لك شيئًا آخر؟"
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_FZ_3",
+  "text": "حين جئنا إلى هنا... بقي بعض رفاقنا في معسكر الغابة..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_FZ_4",
+  "text": "سمعت قبل قليل... الفتاة تتمتم... حدث أمر مريع في المعسكر..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei1_FZ_5",
+  "text": "إن استطعت... أرجوك... اذهب وتفقّد أحوالهم..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_Hun_1",
+  "text": "وجدت هذا..."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_Hun_4",
+  "text": "لم يبقَ في ذلك المعسكر شيءٌ بشري."
+ },
+ {
+  "key": "Dlg_LJC_FZMD_Feizei2_FZ_5",
+  "text": "أفهم... إما ماتوا أو تحولوا إلى وحوش... ها... لم يبقَ أحد..."
+ }
+]

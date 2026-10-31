@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Weapon_023",
+  "text": "مناشير الشيطان"
+ },
+ {
+  "key": "WeaponDes_UI_023",
+  "text": "زوج من الأنصال المنحنية المسننة، صُمّم على غرار نصلي ساقي راقصة اليشم."
+ },
+ {
+  "key": "WeaponDes_023",
+  "text": "زوج من الأنصال الفريدة التي كانت راقصة اليشم تستخدمهما بساقيها. يستخدمهما سول الآن بيديه، لكن <Character_Yellow_Decorator2>هالة الشيطان</> الراسخة فيهما لم تضعف."
+ },
+ {
+  "key": "Weapon_FunctionName_023_EX",
+  "text": "تآكل الهالة الشيطانية"
+ },
+ {
+  "key": "Weapon_FunctionDes_023_EX",
+  "text": "تراكم <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية]</> على العدو مع كل إصابة. عند امتلاء مقياس <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية]</>، تنفجر هالة الشيطان المتراكمة، فتستنزف صحة العدو."
+ },
+ {
+  "key": "Weapon_FunctionName_023_Skill",
+  "text": "هيئة الشيطان"
+ },
+ {
+  "key": "Weapon_FunctionDes_023_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> للدخول في <Character_Yellow_Decorator2>[هيئة الشيطان]</> لمدة <dtv id=\"X182\"/> ثوانٍ. أثناء تفعيلها، يتعذر صد جميع الهجمات، مع زيادة الضرر الملحق بالأعداء مكسوري الدفاع.\nأثناء <Character_Yellow_Decorator2>[هيئة الشيطان]</>، الضغط مجددًا على <InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ <Character_Yellow_Decorator2>[هجوم متابعة قوي]</> دون استهلاك <Niagara id=\"Fire\"/> والخروج من <Character_Yellow_Decorator2>[هيئة الشيطان]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_023_5",
+  "text": "الاندفاع المشحون"
+ },
+ {
+  "key": "Weapon_Function_023_5",
+  "text": "أثناء مجموعة ضربات، الاستمرار في الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للشحن، ثم إطلاق سلسلة سريعة من الضربات المتقاطعة التي تغرس الهالة الشيطانية في الجروح، وتحول <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية] </> لدى العدو إلى <Character_Yellow_Decorator2>[التآكل الأزرق السماوي]</>، الذي يستنزف كمية أكبر من شا-تشي عند انفجاره."
+ },
+ {
+  "key": "Weapon_FunctionName_023_10",
+  "text": "انفجار التآكل {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_023_10",
+  "text": "{<WeaponDes_Main_Green>زيادة الضرر قليلًا</>|<WeaponDes_Main_Green>زيادة الضرر بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة الضرر كثيرًا</>} الذي يُلحقه <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية]</> وتأثيراته المتحوّلة عند انفجارها."
+ },
+ {
+  "key": "Weapon_FunctionName_023_15",
+  "text": "الهياج المشحون"
+ },
+ {
+  "key": "Weapon_Function_023_15",
+  "text": "أثناء سلسلة هجمات، الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للشحن، ثم إطلاق سلسلة سريعة من ضربات شا-تشي الكاسحة الدوارة التي تدفع الهالة الشيطانية عميقًا في العظم، وتحول <Character_Yellow_Decorator2>[تآكل الهالة الشيطانية] </>على العدو إلى <Character_Yellow_Decorator2>[التآكل القرمزي]</>، الذي يسبب ضررًا أكبر عند انفجاره."
+ },
+ {
+  "key": "Weapon_FunctionName_023_25",
+  "text": "القطع التآكلي"
+ },
+ {
+  "key": "Weapon_Function_023_25",
+  "text": "الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإحداث ثوران مبكر لـ<Character_Yellow_Decorator2>[تآكل الهالة الشيطانية] </> أو آثاره المتحوّلة على جميع الأعداء. إذا تسبب الثوران في كسر دفاع عدو، فإنه <WeaponDes_Main_Green>يطيل كثيرًا</> مدة بقائه مكسور الدفاع."
+ },
+ {
+  "key": "Weapon_FunctionName_023_Re",
+  "text": "الهيئة الشيطانية اللانهائية"
+ },
+ {
+  "key": "Weapon_FunctionDes_023_Re",
+  "text": "بعد انفجار تآكل الهالة الشيطانية لدى عدو، تصبح جميع الهجمات الموجهة إليه غير قابلة للصد لمدة <dtv id=\"X183\"/> ثانية."
+ },
+ {
+  "key": "Weapon_003",
+  "text": "سيف الصفارية البرية"
+ },
+ {
+  "key": "WeaponDes_UI_003",
+  "text": "سيف خفيف ونحيل تلقّاه سول من مو شياوكوي."
+ },
+ {
+  "key": "WeaponDes_003",
+  "text": "نصل الآنسة الحاد سريع كالبرق. وعلى خفته في اليد، يملأ الهواء بوابل مبهر من الضربات."
+ },
+ {
+  "key": "Weapon_FunctionName_003_EX",
+  "text": "نشيد الصفارية"
+ },
+ {
+  "key": "Weapon_FunctionDes_003_EX",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك شا-تشي والدخول في حالة <Character_Yellow_Decorator2>[نشيد الصفارية]</> لمدة <dtv id=\"X191\"/> ثانية. أثناء التفعيل، إطلاق موجة نصل تشق الهواء مع كل <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> هجوم، وتكون نافذة كالنداء الصفاري."
+ },
+ {
+  "key": "Weapon_FunctionName_003_Skill",
+  "text": "فن سيف الصفارية البرية"
+ },
+ {
+  "key": "Weapon_FunctionDes_003_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق فن سيف الصفارية البرية ومهاجمة الأعداء الأقوياء بوابل لا ينقطع من ضربات السيف. هذا الهجوم غير قابل للصد."
+ },
+ {
+  "key": "Weapon_FunctionName_003_5",
+  "text": "وسم الصفارية"
+ },
+ {
+  "key": "Weapon_Function_003_5",
+  "text": "أثناء <Character_Yellow_Decorator2>[نشيد الصفارية]</>، تطبيق <Character_Yellow_Decorator2>[وسم الصفارية]</> عند إصابة موجات النصل. يدوم <Character_Yellow_Decorator2>[وسم الصفارية]</> <dtv id=\"X192\"/> ثانية، ويتسبب في تلقي العدو ضررًا أكبر واستنزاف شا-تشي أكبر. لا يمكن وسم العدو نفسه مجددًا ما دام <Character_Yellow_Decorator2>[وسم الصفارية]</> نشطًا أو لمدة <dtv id=\"X193\"/> ثانية بعد انتهائه."
+ },
+ {
+  "key": "Weapon_FunctionName_003_10",
+  "text": "الوسم القوي {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_003_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر واستنزاف شا-تشي الناتجين عن <Character_Yellow_Decorator2>[وسم الصفارية]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_003_15",
+  "text": "وسم انفجاري"
+ },
+ {
+  "key": "Weapon_Function_003_15",
+  "text": "إطلاق دفقة إضافية من طاقة النصل عندما يصبح عدو موسوم بـ<Character_Yellow_Decorator2>[وسم الصفارية]</> مكسور الدفاع."
+ },
+ {
+  "key": "Weapon_FunctionName_003_25",
+  "text": "الوسم الممتد"
+ },
+ {
+  "key": "Weapon_Function_003_25",
+  "text": "تمديد مدة <Character_Yellow_Decorator2>[وسم الصفارية]</> إلى <dtv id=\"X194\"/> ثانية. بعد انتهاء مدته، يمكن وسم العدو نفسه مجددًا بعد <dtv id=\"X195\"/> ثانية."
+ },
+ {
+  "key": "Weapon_FunctionName_003_Re",
+  "text": "تيانمياو · الصفارية البرية"
+ },
+ {
+  "key": "Weapon_FunctionDes_003_Re",
+  "text": "أثناء تنفيذ سلاسل ضربات <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>، استخدام <Character_Yellow_Decorator2>سيف مو تيانمياو</> إلى جانب نصل الصفارية البرية لتنفيذ هجمات بسيفين. أثناء تفعيل <Character_Yellow_Decorator2>[نشيد الصفارية]</>، يطلق سيف تيانمياو موجات نصل أشد قوة."
+ },
+ {
+  "key": "Weapon_103",
+  "text": "تيانمياو · الصفارية البرية"
+ },
+ {
+  "key": "WeaponDes_UI_103",
+  "text": "طقم سيفين، يتألف من سيف مو تيانمياو وسيف الصفارية البرية."
+ },
+ {
+  "key": "WeaponDes_103",
+  "text": "بات نصل الصفارية البرية مقترنًا بسيف مو تيانمياو، ما يتيح <Character_Yellow_Decorator2>هجمات منسقة بالسيفين</>. ورغم أن القوة الكاملة لسيف تيانمياو لم تُطلق بعد، فهي كافية لبث الرعب حتى في أشد الأعداء بأسًا."
+ },
+ {
+  "key": "Weapon_FunctionName_103_Skill",
+  "text": "ظل تيانمياو، نداء الصفارية"
+ },
+ {
+  "key": "Weapon_FunctionDes_103_Skill",
+  "text": "استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لتنفيذ فنّ قتال بالسيفين باستخدام سيف تيانمياو ونصل الصفارية البرية. تبادل التغطية بين الشفرة الطويلة والشفرة القصيرة، والتناوب بين ضربات سريعة وأخرى محسوبة مع تداخل الخدع والضربات الحقيقية. هجوم لا يمكن صدّه."
+ },
+ {
+  "key": "PhantomEdges_004",
+  "text": "الحصن"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_004",
+  "text": "الدرع الضخم الذي استخدمه ذات يوم حارس البوابة، تشو بي."
+ },
+ {
+  "key": "PhantomEdgesDes_004",
+  "text": "درع حارس البوابة تشو بي قادر على <Character_Yellow_Decorator2>صدّ أي هجوم</>، وامتصاص الضرر الوارد وتوجيهه إلى <Character_Yellow_Decorator2>هجوم مضاد</> قوي."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لرفع الحصن وصدّ جميع هجمات الأعداء. وأثناء رفعه، الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لدفع الأعداء أمام الشخصية بعيدًا. يستهلك إبقاء الحصن مرفوعًا شا-تشي باستمرار، ويستهلك صدّ الهجمات كمية إضافية من شا-تشي. عند نفاد شا-تشي، يتحطم الدرع. يستهلك <dtv id=\"X211\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_Advance",
+  "text": "موجة الصدمة الانتقامية"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Advance",
+  "text": "الضغط المطوّل على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لرفع الحصن والاتقاء من الهجمات. تحرير <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبل نفاد شا-تشي لضرب الأرض بالدرع وإطلاق موجة صدمة قوية. كلما زاد الضرر الممتص أثناء الاتقاء، زادت قوة موجة الصدمة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_Terrian",
+  "text": "درع المقذوفات"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Terrian",
+  "text": "صدّ المقذوفات التي تطلقها آليات الأقواس المتكررة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزه</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_5",
+  "text": "اندفاع بالدرع"
+ },
+ {
+  "key": "PhantomEdges_Function_004_5",
+  "text": "بعد المراوغة، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للاندفاع إلى الأمام ودفع الأعداء بعيدًا."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_10",
+  "text": "جدار لا يتزعزع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_004_10",
+  "text": "{<WeaponDes_Main_Green>خفض استهلاك شا-تشي أثناء رفع الدرع بدرجة طفيفة</>|<WeaponDes_Main_Green>خفض استهلاك شا-تشي أثناء رفع الدرع بدرجة متوسطة</>|<WeaponDes_Main_Green>خفض استهلاك شا-تشي أثناء رفع الدرع بدرجة كبيرة</>}."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_15",
+  "text": "انزلاق بالدرع"
+ },
+ {
+  "key": "PhantomEdges_Function_004_15",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لركوب الدرع والتقدم في خط مستقيم، وإلحاق <Character_Yellow_Decorator2>الضرر</> بالأعداء المصابين وخفض شا-تشي لديهم بدرجة كبيرة. يستهلك <dtv id=\"X212\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_25",
+  "text": "إخراج سريع"
+ },
+ {
+  "key": "PhantomEdges_Function_004_25",
+  "text": "يمكن إخراج الحصن ورفعه <Character_Yellow_Decorator2>بسرعة أكبر</>، وإعادته إلى مكانه بسرعة أكبر بعد استخدام <Character_Yellow_Decorator2>[موجة الصدمة الانتقامية]</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_004_Re",
+  "text": "انتقام شرس"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_004_Re",
+  "text": "تُطلق <Character_Yellow_Decorator2>[موجة الصدمة الانتقامية]</> موجة صدمة <Character_Yellow_Decorator2>إضافية</>."
+ },
+ {
+  "key": "PhantomEdges_013",
+  "text": "مسبحة معبد كويه"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_013",
+  "text": "مسبحة قديمة من الخرز كانت ملكًا للمعلم بي هاي من معبد كويه."
+ },
+ {
+  "key": "PhantomEdgesDes_013",
+  "text": "سلسلة خرز قديمة للصلاة تركها المعلم بي هاي من معبد كويه. بسيطة بلا زخارف، لكنها مثقلة بوطأة أعوام لا تُحصى. وعند تفعيلها، تستدعي تلاميذ معبد كويه الذين رحلوا منذ زمن ليقاتلوا إلى جانب حاملها."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_013_Base",
+  "text": "في المناطق الكثيفة بشا-تشي (عندما ينبعث من الأيقونة توهج خاص)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستدعاء <dtv id=\"X221\"/> <Character_Yellow_Decorator2>رجال القبضة البرونزيون</>. يقاتلون لمدة تصل إلى <dtv id=\"X222\"/> ثانية ويختفون قبل ذلك إذا هُزموا. لا يمكن تكديس الاستدعاءات. ويحل الاستدعاء مجددًا محل أي استدعاءات قائمة. يستهلك <dtv id=\"X223\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_5",
+  "text": "الجسد الذهبي"
+ },
+ {
+  "key": "PhantomEdges_Function_013_5",
+  "text": "قدرة الرجال البرونزيين على استخدام تقنية الجسد الذهبي ليصبحوا منيعين."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_10",
+  "text": "الحضور الدائم {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_013_10",
+  "text": "{<WeaponDes_Main_Green>زيادة مدة الاستدعاء قليلًا</>|<WeaponDes_Main_Green>زيادة مدة الاستدعاء بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة مدة الاستدعاء كثيرًا</>}."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_15",
+  "text": "تشكيلة برونزية"
+ },
+ {
+  "key": "PhantomEdges_Function_013_15",
+  "text": "عند وجود <dtv id=\"X224\"/> من الرجال البرونزيين في ساحة المعركة في الوقت نفسه، يتخذون تشكيلة قتالية."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_25",
+  "text": "الارتداد"
+ },
+ {
+  "key": "PhantomEdges_Function_013_25",
+  "text": "خسارة الأعداء شا-تشي عند مهاجمة رجل برونز في حالة الجسد الذهبي."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_013_Re",
+  "text": "التشكيلة الذهبية"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_013_Re",
+  "text": "ترقية <dtv id=\"X225\"/> المستدعين من <Character_Yellow_Decorator2>الرجال البرونزيين</> إلى <Character_Yellow_Decorator2>رجل الذهب ذي القبضة</> و<Character_Yellow_Decorator2>رجل الذهب ذي العصا</> و<Character_Yellow_Decorator2>رجل الذهب ذي النصل</>. احتفاظهم بجميع ترقيات الأسلحة التي سبق تطبيقها على الرجال البرونزيين."
+ },
+ {
+  "key": "PhantomEdges_025",
+  "text": "جرس محرّك الدمى"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_025",
+  "text": "جرس طقوسي قديم خلّفه الغسق، محرّك الدمى."
+ },
+ {
+  "key": "PhantomEdgesDes_025",
+  "text": "يرن جرس محرّك الدمى برنين صافٍ وأثيري. ويتيح كل رنين التحكم بمختلف أنواع الدمى."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_025_Base",
+  "text": "في المناطق الكثيفة بشا-تشي (عندما ينبعث من الأيقونة توهج خاص)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستدعاء <dtv id=\"X231\"/> <Character_Yellow_Decorator2>دمية السيف والدرع</> و<dtv id=\"X232\"/> <Character_Yellow_Decorator2>دمية الرمح والدرع</>. تقاتلان لمدة تصل إلى <dtv id=\"X233\"/> ثانية ويُنهى استدعاؤهما قبل ذلك عند هزيمتهما. لا يمكن تكديس الاستدعاءات. ويحل الاستدعاء مجددًا محل أي استدعاءات قائمة. يستهلك <dtv id=\"X234\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_5",
+  "text": "دروع محصّنة"
+ },
+ {
+  "key": "PhantomEdges_Function_025_5",
+  "text": "زيادة كبيرة لمتانة الدرع لدى <Character_Yellow_Decorator2>دمى السيف والدرع</> و<Character_Yellow_Decorator2>دمى الرمح والدرع</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_15",
+  "text": "صدّ مضاد"
+ },
+ {
+  "key": "PhantomEdges_Function_025_15",
+  "text": "تشنّ <Character_Yellow_Decorator2>دمى السيف والدرع</> و<Character_Yellow_Decorator2>دمى الرمح والدرع</> هجومًا مضادًا بعد صدّ هجمات الأعداء."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_25",
+  "text": "ضربة عمياء"
+ },
+ {
+  "key": "PhantomEdges_Function_025_25",
+  "text": "<WeaponDes_Main_Green>زيادة كبيرة</> لكسر الدفاع الذي تسببه جميع الدمى المستدعاة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_025_Re",
+  "text": "جرس الهاوية"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_025_Re",
+  "text": "تحويله إلى <Character_Yellow_Decorator2>جرس الهاوية</> بصقل الروح، ما يتيح استدعاء دمية قوية إضافية، هي الدمية رقم <dtv id=\"X235\"/>."
+ },
+ {
+  "key": "PhantomEdges_125",
+  "text": "جرس الهاوية"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_125",
+  "text": "جرس طقوسي صُقل بالروح من بقايا خيوط المبعوث."
+ },
+ {
+  "key": "PhantomEdgesDes_125",
+  "text": "مجموعة قوية من الخيوط استخدمها لنغ تو، المبعوث، للتلاعب بالقلوب والعقول في مسعاه للإطاحة بالوولين. ومع أن عامة الناس لا يستطيعون إطلاق كامل قوتها، فإن صقل روح جرس محرّك الدمى بها يكفي للسيطرة على <Character_Yellow_Decorator2>الدمى من النخبة</> واستقدامها إلى ساحة المعركة، وقلب موازين القتال."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_125_Base",
+  "text": "في المناطق الكثيفة بشا-تشي (عندما ينبعث من الأيقونة توهج خاص)، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستدعاء <dtv id=\"X241\"/> <Character_Yellow_Decorator2>دمية السيف والدرع</> و<dtv id=\"X242\"/> <Character_Yellow_Decorator2>دمية الرمح والدرع</>. تقاتلان لمدة تصل إلى <dtv id=\"X243\"/> ثانية ويُنهى استدعاؤهما قبل ذلك عند هزيمتهما. لا يمكن تكديس الاستدعاءات. ويحل الاستدعاء مجددًا محل أي استدعاءات قائمة. يستهلك <dtv id=\"X244\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_125_Advance",
+  "text": "دمية النخبة"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_125_Advance",
+  "text": "بالإضافة إلى استدعاء الدمية <dtv id=\"X245\"/>، المختارة عشوائيًا من بين <Character_Yellow_Decorator2>دمية مدفع السبيكة</>، أو <Character_Yellow_Decorator2>دمية الاغتيال الذهبية</>، أو <Character_Yellow_Decorator2>دمية المظلّة الحديدية</>، بقدراتها القتالية كاملة."
+ },
+ {
+  "key": "PhantomEdges_024",
+  "text": "بيبا مفطّرة القلب"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_024",
+  "text": "بيبا بديعة كانت تعزف عليها يوتسان، الدمية الموسيقية، قديمًا."
+ },
+ {
+  "key": "PhantomEdgesDes_024",
+  "text": "نسخة من البيبا، ذات نغمة صافية شجية تفطر القلب. تستطيع موسيقاها إطلاق <Character_Yellow_Decorator2>أنصال صوتية</> حادة بما يكفي لتقطع أي شيء."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_024_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <dtv id=\"X251\"/> <Character_Yellow_Decorator2>الأنصال الصوتية الزرقاء</> و<dtv id=\"X252\"/> <Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</>. يستهلك إكمال السلسلة <dtv id=\"X253\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_Advance",
+  "text": "النصل الصوتي"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_024_Advance",
+  "text": "<Character_Yellow_Decorator2>الأنصال الصوتية الزرقاء </>تلحق الضرر وتسبب استنزاف شا-تشي. لا يمكن صدها.\n<Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</> تلحق ضررًا أكبر. لا يمكن صدها وتتجاهل كل خفض للضرر."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_5",
+  "text": "نقرة مراوغة"
+ },
+ {
+  "key": "PhantomEdges_Function_024_5",
+  "text": "بعد المراوغة باستخدام <InputAction id=\"Move\" dir=\"Left\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أو <InputAction id=\"Move\" dir=\"Right\" height=\"26\"/>+<InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط فورًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق [الأنصال الصوتية] بسرعة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_10",
+  "text": "رنين الفولاذ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_024_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لاستنزاف شا-تشي الذي تسببه<Character_Yellow_Decorator2> الأنصال الصوتية الزرقاء</>، وللضرر الذي تسببه <Character_Yellow_Decorator2>الأنصال الصوتية الحمراء</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_024_15",
+  "text": "التحول التوافقي"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Appearance_PlaceHold_9",
+  "text": "الزي الافتراضي بلا قبعة"
+ },
+ {
+  "key": "UI_Literature_01",
+  "text": "ملاحظات"
+ },
+ {
+  "key": "UI_Literature_07",
+  "text": "رقم"
+ },
+ {
+  "key": "UI_Literature_08",
+  "text": "صفحة"
+ },
+ {
+  "key": "UI_Literature_09",
+  "text": "تقليب الصفحة"
+ },
+ {
+  "key": "UI_Literature_10",
+  "text": "وصف موجز"
+ },
+ {
+  "key": "UI_Literature_12",
+  "text": "بتلة"
+ },
+ {
+  "key": "UI_Literature_13",
+  "text": "الفصل {0}"
+ },
+ {
+  "key": "UI_Literature_14",
+  "text": "صفر"
+ },
+ {
+  "key": "UI_Literature_15",
+  "text": "واحد"
+ },
+ {
+  "key": "UI_Literature_16",
+  "text": "اثنان"
+ },
+ {
+  "key": "UI_Literature_17",
+  "text": "ثلاثة"
+ },
+ {
+  "key": "UI_Literature_18",
+  "text": "أربعة"
+ },
+ {
+  "key": "UI_Literature_19",
+  "text": "خمسة"
+ },
+ {
+  "key": "UI_Literature_20",
+  "text": "ستة"
+ },
+ {
+  "key": "UI_Literature_21",
+  "text": "سبعة"
+ },
+ {
+  "key": "UI_Literature_22",
+  "text": "ثمانية"
+ },
+ {
+  "key": "UI_Literature_23",
+  "text": "تسعة"
+ },
+ {
+  "key": "UI_Literature_24",
+  "text": "عشرة"
+ },
+ {
+  "key": "UI_SkillWidget_01",
+  "text": "متابعة الإجهاز"
+ },
+ {
+  "key": "UI_SkillWidget_02",
+  "text": "عنصر نائب لعقدة صغرى"
+ },
+ {
+  "key": "UI_SkillWidget_03",
+  "text": "اندفاع مزدوج"
+ },
+ {
+  "key": "UI_SkillWidget_04",
+  "text": "تقنية السحب"
+ },
+ {
+  "key": "UI_SkillWidget_05",
+  "text": "خانة إضافية لسلاح طيفي"
+ },
+ {
+  "key": "UI_SkillWidget_06",
+  "text": "الإجهاز من مسافة قريبة"
+ },
+ {
+  "key": "UI_SkillWidget_07",
+  "text": "اندفاع هوائي"
+ },
+ {
+  "key": "UI_SkillWidget_08",
+  "text": "عقدة قصوى"
+ },
+ {
+  "key": "UI_SkillWidget_09",
+  "text": "عنصر نائب لعقدة كبرى"
+ },
+ {
+  "key": "UI_SkillWidget_10",
+  "text": "<red>لا يمكن الفتح</>"
+ },
+ {
+  "key": "UI_SkillWidget_14",
+  "text": "تدريب المهارات"
+ },
+ {
+  "key": "UI_SkillWidget_16",
+  "text": "لا يمكن إعادة تعيين هذه القدرة؛ فهي لازمة لقدرة أخرى مفتوحة."
+ },
+ {
+  "key": "UI_SkillWidget_17",
+  "text": "لا يمكن إعادة تعيين هذه المهارة؛ فهي لازمة لمهارة أخرى مفتوحة."
+ },
+ {
+  "key": "UI_SkillWidget_18",
+  "text": "لا يمكن إعادة تعيين هذه القدرة؛ فهي لازمة لمهارة مفتوحة."
+ },
+ {
+  "key": "UI_SkillWidget_19",
+  "text": "المستوى المطلوب لتدريب القدرات"
+ },
+ {
+  "key": "UI_SkillWidget_20",
+  "text": "إعادة تعيين المهارات"
+ },
+ {
+  "key": "UI_ServerCheck_02",
+  "text": "اكتمل تجميع المظللات. جارٍ التحميل..."
+ },
+ {
+  "key": "UI_Upgrade_01",
+  "text": "عملات"
+ },
+ {
+  "key": "UI_Upgrade_02",
+  "text": "الضغط مطوّلًا للترقية"
+ },
+ {
+  "key": "UI_Upgrade_03",
+  "text": "<grey>مفتوح</>"
+ },
+ {
+  "key": "UI_Upgrade_04",
+  "text": "<red>الترقية في عالم السراب</>"
+ },
+ {
+  "key": "UI_Upgrade_05",
+  "text": "<red>الموارد غير كافية</>"
+ },
+ {
+  "key": "UI_Upgrade_06",
+  "text": "<red>فتح المستوى السابق أولًا</>"
+ },
+ {
+  "key": "UI_Upgrade_07",
+  "text": "تم بلوغ المستوى الأقصى"
+ },
+ {
+  "key": "UI_Upgrade_08",
+  "text": "عنصر نائب لوصف صقل الروح"
+ },
+ {
+  "key": "UI_Upgrade_09",
+  "text": "<CharacterButton_Red>متطلبات صقل الروح غير مستوفاة.</>"
+ },
+ {
+  "key": "UI_Upgrade_10",
+  "text": "<CharacterButton_Red>متطلبات الترقية غير مستوفاة.</>"
+ },
+ {
+  "key": "UI_Upgrade_11",
+  "text": "<CharacterButton_Red>متطلبات الصقل غير مستوفاة.</>"
+ },
+ {
+  "key": "UI_Upgrade_12",
+  "text": "استهلاك الأغراض أعلاه للترقية؟"
+ },
+ {
+  "key": "UI_Upgrade_13",
+  "text": "استهلاك الأغراض أعلاه لصقل الروح؟"
+ },
+ {
+  "key": "UI_Upgrade_18",
+  "text": "<img id=\"JHSY_Y\" width=\"40\"/> <CharacterButton_Yellow>متاح فقط بعد دخول عالم السراب</>"
+ },
+ {
+  "key": "UI_Upgrade_19",
+  "text": "نصّ مؤقت لوصف ترقية سلاح"
+ },
+ {
+  "key": "UI_Upgrade_20",
+  "text": "فرن الغبار"
+ },
+ {
+  "key": "UI_Upgrade_21",
+  "text": "اختيار الموادّ لإعادة تدويرها."
+ },
+ {
+  "key": "UI_Upgrade_22",
+  "text": "إعادة تدوير الأغراض المحددة؟"
+ },
+ {
+  "key": "UI_Upgrade_23",
+  "text": "متجر"
+ },
+ {
+  "key": "UI_Upgrade_24",
+  "text": "اختيار غرض للشراء."
+ },
+ {
+  "key": "UI_Upgrade_25",
+  "text": "اختيار غرض للشراء."
+ },
+ {
+  "key": "UI_Upgrade_26",
+  "text": "موادّ غير كافية"
+ },
+ {
+  "key": "UI_Upgrade_32",
+  "text": "<img id=\"JHSY_P\" width=\"40\"/> <CharacterButton_Purple>متاح فقط في عالم السراب</>"
+ },
+ {
+  "key": "UI_Upgrade_33",
+  "text": "عرض المعاينة"
+ },
+ {
+  "key": "UI_Upgrade_34",
+  "text": "إغلاق المعاينة"
+ },
+ {
+  "key": "UI_Upgrade_51",
+  "text": "لا يمكن التراجع عن ترقية السلاح بعد إتمامها."
+ },
+ {
+  "key": "UI_Weapon_01",
+  "text": "اكتمال الفصل"
+ },
+ {
+  "key": "UI_Chapter_01",
+  "text": "انتهاء الفصل"
+ },
+ {
+  "key": "UI_Shop_01",
+  "text": "الكلفة"
+ },
+ {
+  "key": "UI_Shop_02",
+  "text": "شراء هذا الغرض؟"
+ },
+ {
+  "key": "UI_Shop_03",
+  "text": "نفد المخزون"
+ },
+ {
+  "key": "UI_Shop_04",
+  "text": "المملوك"
+ },
+ {
+  "key": "UI_Shop_05",
+  "text": "الموارد غير كافية. لا يمكن الشراء."
+ },
+ {
+  "key": "UI_Shop_06",
+  "text": "سعر الغرض الواحد"
+ },
+ {
+  "key": "UI_Shop_07",
+  "text": "نفد هذا الغرض ولا يمكن شراؤه."
+ },
+ {
+  "key": "UI_SaveGame_02",
+  "text": "فشل الحفظ."
+ },
+ {
+  "key": "UI_Shop_09",
+  "text": "متجر اليد السريعة"
+ },
+ {
+  "key": "UI_Shop_10",
+  "text": "الموارد غير كافية. لا يمكن الشراء."
+ },
+ {
+  "key": "AttributeTablePair_01",
+  "text": "هجوم شا-تشي"
+ },
+ {
+  "key": "AttributeTablePair_02",
+  "text": "عدد الطلقات"
+ },
+ {
+  "key": "UI_Attribute_01",
+  "text": "زيادة الصحة القصوى بمقدار {0}."
+ },
+ {
+  "key": "UI_Attribute_02",
+  "text": "زيادة شا-تشي الأقصى بمقدار {0}."
+ },
+ {
+  "key": "UI_Attribute_03",
+  "text": "زيادة الهجوم بمقدار {0}."
+ },
+ {
+  "key": "UI_OpenDoor_02",
+  "text": "استخدام {0} لفتح [{1}]."
+ },
+ {
+  "key": "Other_All_FuncHint_007",
+  "text": "التحدّث"
+ },
+ {
+  "key": "Other_All_FuncHint_008",
+  "text": "التحقيق"
+ },
+ {
+  "key": "DT_Medicine_01",
+  "text": "استعادة 40% من الصحة القصوى مع كل رشفة."
+ },
+ {
+  "key": "DT_Medicine_02",
+  "text": "زيادة الهجوم بنسبة 15% لمدة 40 ثانية مع كل رشفة."
+ },
+ {
+  "key": "UI_Dead_03",
+  "text": "مستوى التعزيز"
+ },
+ {
+  "key": "UI_Dead_04",
+  "text": "نهاية الموت: الخسارة أمام الوولين"
+ },
+ {
+  "key": "UI_Dead_05",
+  "text": "استعادة كل ضرر القلب، مع تقدّم الزمن نهائيًا بمقدار {0} يومًا."
+ },
+ {
+  "key": "UI_DeadBuff_01",
+  "text": "الهجوم +10%"
+ },
+ {
+  "key": "UI_DeadBuff_02",
+  "text": "الهجوم -10%"
+ },
+ {
+  "key": "UI_DeadBuff_03",
+  "text": "كسر الدفاع +10%"
+ },
+ {
+  "key": "UI_DeadBuff_04",
+  "text": "كسر الدفاع -10%"
+ },
+ {
+  "key": "UI_LoadGame_06",
+  "text": "حفظ تلقائي {0}"
+ },
+ {
+  "key": "UI_LoadGame_07",
+  "text": "حفظ يدوي {0}"
+ },
+ {
+  "key": "UI_LoadGame_09",
+  "text": "حفظ نمط 66 يومًا {0}"
+ },
+ {
+  "key": "UI_SaveGame_06",
+  "text": "حفظ التقدم؟\nتلميح: بعد تحميل هذا الحفظ، يمكن السفر إلى عالم السراب."
+ },
+ {
+  "key": "UI_Automation_01",
+  "text": "جارٍ التحميل..."
+ },
+ {
+  "key": "UI_Automation_02",
+  "text": "جارٍ الرجوع إلى شاشة البداية..."
+ },
+ {
+  "key": "UI_Automation_03",
+  "text": "بدء اختبار الأداء؟"
+ },
+ {
+  "key": "UI_Tutorial_02",
+  "text": "الضغط على <UIRowName id=\"RightShoulder\" height=\"32\" RightPadding=\"10\" LeftPadding=\"10\"/> للتبديل بين المهامّ والأغراض والملاحظات."
+ },
+ {
+  "key": "UI_Tutorial_03",
+  "text": "يمكن تجهيز سلاحين كحد أقصى. الضغط على <InputAction id=\"ChangeWeapon\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للتبديل بين السلاحين."
+ }
+]

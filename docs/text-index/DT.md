@@ -10,5 +10,5 @@
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `DT_Medicine_01` | استعادة 40% من الصحة القصوى مع كل رشفة. | [الدفعة](../../work/opencode/batches/batch_0015.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `DT_Medicine_02` | زيادة الهجوم بنسبة 15% لمدة 40 ثانية مع كل رشفة. | [الدفعة](../../work/opencode/batches/batch_0015.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `DT_Medicine_01` | استعادة 40% من الصحة القصوى مع كل رشفة. | [الدفعة](../../work/review2/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `DT_Medicine_02` | زيادة الهجوم بنسبة 15% لمدة 40 ثانية مع كل رشفة. | [الدفعة](../../work/review2/batches/batch_0012.json) | [الأصل](../../data/Game_locres_ar.json) |

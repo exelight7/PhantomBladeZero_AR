@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Weapon_FunctionName_008_15",
+  "text": "الهجوم المضاد الثمل"
+ },
+ {
+  "key": "Weapon_Function_008_15",
+  "text": "أثناء حالة <Character_Yellow_Decorator2>السكران</>، الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قبل لحظة من إصابة هجوم قابل للصد لتفاديه مع تناول <Character_Yellow_Decorator2>[الشرب]</>، ثم تنفيذ هجوم مضاد."
+ },
+ {
+  "key": "Weapon_FunctionName_008_25",
+  "text": "شراب قوي"
+ },
+ {
+  "key": "Weapon_Function_008_25",
+  "text": "<WeaponDes_Main_Green>زيادة الهجوم بدرجة كبيرة</> أثناء حالة <Character_Yellow_Decorator2>الثمل</> أو <Character_Yellow_Decorator2>السكران</>."
+ },
+ {
+  "key": "Weapon_FunctionName_008_Re",
+  "text": "سيف المهووس الثمل"
+ },
+ {
+  "key": "Weapon_FunctionDes_008_Re",
+  "text": "إعادة حدادة نصل هوا تشيانشياو المكسور بالكامل. <Character_Yellow_Decorator2>لم يعد ضرره يتناقص مع المسافة</>."
+ },
+ {
+  "key": "Weapon_030",
+  "text": "سيف المهووس الثمل"
+ },
+ {
+  "key": "WeaponDes_UI_030",
+  "text": "سيف المهووس الثمل، وقد استعاد هيئته الكاملة."
+ },
+ {
+  "key": "WeaponDes_030",
+  "text": "سيف المهووس الثمل، وقد استعاد هيئته الكاملة. <Character_Yellow_Decorator2>يوقظ الشرب </>قوته، فيتيح له الطيران في الهواء وضرب الأعداء <Character_Yellow_Decorator2>البعيدين</>. <Character_Yellow_Decorator2>لم يعد الضرر يتناقص مع المسافة.</>"
+ },
+ {
+  "key": "Weapon_013",
+  "text": "نصل حرب الخارج عن القانون"
+ },
+ {
+  "key": "WeaponDes_UI_013",
+  "text": "نصل حرب استخدمه جينغ يه، الخارج عن القانون، ذات مرة."
+ },
+ {
+  "key": "WeaponDes_013",
+  "text": "نصل حرب لا يرحم، يتغذى على الدم، ذو قدرة عالية على <Character_Yellow_Decorator2>كسر الدروع</>. يمكنه <Character_Yellow_Decorator2>استنزاف دماء الأعداء</> لاستعادة الصحة، أو <Character_Yellow_Decorator2>استهلاك صحته</> للإطاحة بهم."
+ },
+ {
+  "key": "Weapon_FunctionDes_013_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nكل ضربة <Character_Yellow_Decorator2>تستنزف الحياة</> من الأعداء وتستعيد الصحة. عند امتلاك سول <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>، تزداد كمية الصحة المستعادة. لا تأثير لها على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_FunctionDes_013_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن تنفيذها بعد أي ضربة أثناء سلسلة الضربات الأساسية. ومع توافر شا-تشي كافٍ، تتحول إلى هجوم معزز يسبب ضررًا أكبر وكسرًا للدفاع.\nتحوّل هذه الهجمات الصحة إلى <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> وتسبب ضررًا أكبر. ويمكن استعادة الصحة القابلة للاستعادة باستخدام <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> سلاسل الضربات أو تأثيرات الشفاء الأخرى. يؤدي عدم استعادة أي صحة خلال <dtv id=\"X131\"/> ثانية أو التعرّض للضرر إلى فقدان <Character_Yellow_Decorator2>كل الصحة القابلة للاستعادة المتبقية.</>"
+ },
+ {
+  "key": "Weapon_FunctionName_013_EX",
+  "text": "الانسحاب الحاصد"
+ },
+ {
+  "key": "Weapon_FunctionDes_013_EX",
+  "text": "اتباع أي هجوم <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بـ <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ضربة انسحاب تمتص <Character_Yellow_Decorator2>الحياة</> من الأعداء وتستعيد الصحة. إذا بقيت أي كمية من <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>، زادت كمية الصحة المستعادة. لا تأثير لها على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_FunctionName_013_Skill",
+  "text": "هياج التعطّش للدماء"
+ },
+ {
+  "key": "Weapon_FunctionDes_013_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق سلسلة هائجة من الضربات القوية. إذا أصاب هذا الهجوم عدوًا، تثبيته أرضًا و<Character_Yellow_Decorator2>استنزاف دمه</> لاستعادة الصحة. لا تسري آثار استنزاف الحياة على الدمى أو الأجساد الذهبية أو الأجساد الطيفية. هجوم لا يمكن صده."
+ },
+ {
+  "key": "Weapon_FunctionName_013_5",
+  "text": "الضربة القاطعة المتهورة"
+ },
+ {
+  "key": "Weapon_Function_013_5",
+  "text": "الاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لشحن الضربة القاطعة المتهورة. تحويل كل الضرر المتلقى أثناء الشحن إلى <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>. إذا أصابت الضربة عدوًا، استعادة <dtv id=\"X132\"/> من <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> المتراكمة أثناء الشحن. لا تأثير لها على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_FunctionName_013_10",
+  "text": "لا يُقهر {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_013_10",
+  "text": "{<WeaponDes_Main_Green>زيادة معدل الاستعادة قليلًا</>|<WeaponDes_Main_Green>زيادة معدل الاستعادة بدرجة متوسطة</>|<WeaponDes_Main_Green>زيادة معدل الاستعادة كثيرًا</>} لاستعادة <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> من <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> الهجمات."
+ },
+ {
+  "key": "Weapon_FunctionName_013_15",
+  "text": "درع البقاء"
+ },
+ {
+  "key": "Weapon_Function_013_15",
+  "text": "عندما تبلغ <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</> <dtv id=\"X133\"/> من الصحة القصوى، اكتساب طبقة واحدة من <Character_Yellow_Decorator2>[درع الطوارئ] </> لمدة <dtv id=\"X134\"/> ثانية. بعد انتهاء <Character_Yellow_Decorator2>[درع الطوارئ]</>، تعذّر توليده مجددًا لمدة <dtv id=\"X135\"/> ثانية."
+ },
+ {
+  "key": "Weapon_FunctionName_013_25",
+  "text": "السهم الدموي"
+ },
+ {
+  "key": "Weapon_Function_013_25",
+  "text": "أثناء تفعيل <Character_Yellow_Decorator2>[درع الطوارئ]</>، إمكانية تحويل الصحة إلى <Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>. الاستعادة الكاملة للصحة القابلة للاستعادة تولّد <Character_Yellow_Decorator2>سهامًا دموية</> تهاجم الأعداء القريبين. الأعداء الذين تصيبهم <Character_Yellow_Decorator2>السهام الدموية</> يتلقون ضررًا أكبر. انتهاء <Character_Yellow_Decorator2>[درع الطوارئ]</> بعد إطلاق <Character_Yellow_Decorator2>السهام الدموية</>."
+ },
+ {
+  "key": "Weapon_FunctionName_013_Re",
+  "text": "الخارج عن القانون عديم الرحمة"
+ },
+ {
+  "key": "Weapon_FunctionDes_013_Re",
+  "text": "زيادة الضرر الملحق كلما طالت مدة الاحتفاظ بـ<Character_Yellow_Decorator2>الصحة القابلة للاستعادة</>، حتى <dtv id=\"X136\"/>."
+ },
+ {
+  "key": "Weapon_027",
+  "text": "الثعبان الأبيض والأفعى القرمزية"
+ },
+ {
+  "key": "WeaponDes_UI_027",
+  "text": "زوج من النصال الأفعوانية كان يخص باي تشيليان، سيدة الثعبانين التوأمين."
+ },
+ {
+  "key": "WeaponDes_027",
+  "text": "نصل قصير رشيق وأنيق مقترن بنصل طويل ملتوٍ وقوي. معًا <Character_Yellow_Decorator2>يرقصان كالثعبانين التوأمين</>، ويتنقلان بين تنويعات لا حصر لها."
+ },
+ {
+  "key": "Weapon_FunctionDes_027_A",
+  "text": "<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nتنفيذ سلسلة من الضربات السريعة باستخدام <Character_Yellow_Decorator2>الأفعى القرمزية</>."
+ },
+ {
+  "key": "Weapon_FunctionDes_027_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nتنفيذ سلسلة من الضربات القاطعة باستخدام <Character_Yellow_Decorator2>نصل الثعبان الأبيض الطويل</>.\nالتناوب المتكرر بين <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> أو <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ <Character_Yellow_Decorator2>[رقصة الثعبانين]</>، وهي سلسلة ضربات <Character_Yellow_Decorator2>متواصلة بلا نهاية</>. <Character_Yellow_Decorator2>يزداد الضرر باستمرار</> أثناء السلسلة. ويمكن أيضًا إدخال <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> أو <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتغيير الهجمات. الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لرمي نصل الأفعى القرمزية القصير وإنهاء رقصة الثعبانين."
+ },
+ {
+  "key": "Weapon_FunctionName_027_EX",
+  "text": "مدار الأفعى القرمزية"
+ },
+ {
+  "key": "Weapon_FunctionDes_027_EX",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لجعل <Character_Yellow_Decorator2>الأفعى القرمزية </>تدور باستمرار حول سول. أثناء دورانها، يستهلك النصل القصير شا-تشي باستمرار. يُستدعى النصل تلقائيًا عند عدم كفاية شا-تشي. الضغط مجددًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستدعائه."
+ },
+ {
+  "key": "Weapon_FunctionName_027_EX_2",
+  "text": "إجهاز عن بُعد"
+ },
+ {
+  "key": "Weapon_FunctionDes_027_EX_2",
+  "text": "عندما تنخفض صحة عدو بعيد، الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ إجهاز عن بُعد."
+ },
+ {
+  "key": "Weapon_FunctionName_027_Skill",
+  "text": "هياج الثعبانين"
+ },
+ {
+  "key": "Weapon_FunctionDes_027_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق سلسلة متقنة من الضربات المنسقة بالنصلين. هذا الهجوم غير قابل للصد."
+ },
+ {
+  "key": "Weapon_FunctionName_027_5",
+  "text": "وسم الأفعى"
+ },
+ {
+  "key": "Weapon_Function_027_5",
+  "text": "الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لرمي <Character_Yellow_Decorator2>الأفعى القرمزية</> ووسم العدو. زيادة الضرر واستنزاف شا-تشي عند مهاجمة العدو الموسوم. ما دامت الشفرة القصيرة بعيدة عن سول، فإنها تستهلك شا-تشي باستمرار وتعود تلقائيًا عند عدم كفاية شا-تشي. الضغط مجددًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستعادتها."
+ },
+ {
+  "key": "Weapon_FunctionName_027_10",
+  "text": "الثعابين الملتفة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_027_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لسرعة تصاعد الضرر لـ <Character_Yellow_Decorator2>[رقصة الثعبانين]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_027_15",
+  "text": "أفعى أثيرية"
+ },
+ {
+  "key": "Weapon_Function_027_15",
+  "text": "بعد رمي <Character_Yellow_Decorator2>الأفعى القرمزية</> باستخدام <Character_Yellow_Decorator2>[مدار الأفعى القرمزية] </>أو <Character_Yellow_Decorator2>[وسم الأفعى]</>، تتشكل أفعى قرمزية ثانية في اليد، مما يتيح مواصلة استخدام <Character_Yellow_Decorator2>[</><Character_Yellow_Decorator2>رقصة الثعبانين]</> وسلاسل الضربات الأساسية للأفعى القرمزية."
+ },
+ {
+  "key": "Weapon_FunctionName_027_25",
+  "text": "العضة الدؤوبة"
+ },
+ {
+  "key": "Weapon_Function_027_25",
+  "text": "تبقى <Character_Yellow_Decorator2>الأفعى القرمزية</> المرمية باستخدام <Character_Yellow_Decorator2>[مدار الأفعى القرمزية]</> أو<Character_Yellow_Decorator2> </><Character_Yellow_Decorator2>[وسم الأفعى]</> فعالة حتى بعد تبديل الأسلحة."
+ },
+ {
+  "key": "Weapon_FunctionName_027_Re",
+  "text": "أفاعي المئة عقدة"
+ },
+ {
+  "key": "Weapon_FunctionDes_027_Re",
+  "text": "عند استعادة الأفعى القرمزية باستخدام <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، استدعاء <Character_Yellow_Decorator2>[أفاعي المئة عقدة]</> للهجوم. كلما طال بقاء نصل الأفعى القرمزية القصير بعيدًا عن سول، زاد عدد <Character_Yellow_Decorator2>[أفاعي المئة عقدة]</> المستدعاة."
+ },
+ {
+  "key": "PhantomEdges_010",
+  "text": "الخنجر الطائر"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_010",
+  "text": "خنجر رمي بديع على هيئة ورقة صفصاف، حصل عليه من تشانغ سريع اليد."
+ },
+ {
+  "key": "PhantomEdgesDes_010",
+  "text": "يلمع نصله، رقيقًا كجناح الزيز، وينطلق من اليد كهبّة ريح؛ وما إن يرمى حتى يصيب هدفه بلا خطأ."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق ما يصل إلى <dtv id=\"X152\"/> وابلًا من سكاكين الرمي عن بُعد. يستهلك إكمال السلسلة <dtv id=\"X151\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_Advance",
+  "text": "الشفرات المسمومة"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Advance",
+  "text": "إحداث تراكم للسم بالهجمات."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_Terrian",
+  "text": "طلقة بعيدة المدى"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Terrian",
+  "text": "بعد الحصول عليها، تتيح إسقاط بعض الأشياء المعلقة من مسافة متوسطة إلى بعيدة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزها.</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_5",
+  "text": "خطوة اليد السريعة"
+ },
+ {
+  "key": "PhantomEdges_Function_010_5",
+  "text": "أثناء الهجوم بالخنجر الطائر، الضغط على <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ <Character_Yellow_Decorator2>انتقال آني</>، ثم رمي الخنجر على الأعداء. هذه الحركة لا تقطع سلسلة الضربات الحالية."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_10",
+  "text": "رمية لا تخطئ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_010_10",
+  "text": "عندما يكون العدو المثبّت هدفًا ضمن المدى، كما يدل التوهج الخاص على أيقونة التثبيت، {<WeaponDes_Main_Green>يرتفع قليلًا</>|<WeaponDes_Main_Green>يرتفع بدرجة متوسطة</>|<WeaponDes_Main_Green>يرتفع كثيرًا</>} ضرر الخنجر الطائر واستنزاف شا-تشي."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_15",
+  "text": "خطوة بلا ظل"
+ },
+ {
+  "key": "PhantomEdges_Function_010_15",
+  "text": "عند التعرض لهجوم عدو أثناء استخدام الخنجر الطائر، تنفيذ <Character_Yellow_Decorator2>انتقال آني</> لإبطال ضرر ذلك الهجوم، ثم رمي الخنجر على العدو."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_25",
+  "text": "خطوة الريح"
+ },
+ {
+  "key": "PhantomEdges_Function_010_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للدخول في حالة حركة عالية السرعة. ترك <WeaponDes_Num_Green>1</> قرين طيفي بعد كل مسافة محددة مقطوعة، حتى حد أقصى قدره <dtv id=\"X153\"/>. عند انتهاء الحالة، يهاجم سول وجميع القرناء الطيفيون الهدف معًا. استهلاك <dtv id=\"X154\"/><img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_010_Re",
+  "text": "إتقان اليد السريعة"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_010_Re",
+  "text": "زيادة عدد الخناجر المرمية وتقوية تأثير السم."
+ },
+ {
+  "key": "PhantomEdges_017",
+  "text": "القفازات الحديدية"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_017",
+  "text": "قفازات حديدية تم الحصول عليها من حمى الحديد."
+ },
+ {
+  "key": "PhantomEdgesDes_017",
+  "text": "زوج من القفازات الحديدية الثقيلة الخالية من الزخارف. صُقلت أشواكها وصفائحها الضاربة حتى لمعانها عبر معارك لا تُحصى. تتمتع <Character_Yellow_Decorator2>بقوة كبيرة على كسر الدروع</> وتراكم <Character_Yellow_Decorator2>تركيز القبضة</>، ما يجعل كل هجوم أشد قوة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_017_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X166\"/> هجمات بالقبضتين. يستهلك إكمال السلسلة <dtv id=\"X161\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_Advance",
+  "text": "تركيز القبضة"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_017_Advance",
+  "text": "كل هجوم بالقفازات الحديدية يبني <Character_Yellow_Decorator2>تركيز القبضة</>، ما يزيد الضرر الذي يسببه السلاح الرئيسي لمدة <dtv id=\"X162\"/> ثانية."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_5",
+  "text": "ضربة القبضة المتقنة"
+ },
+ {
+  "key": "PhantomEdges_Function_017_5",
+  "text": "إمكان <Character_Yellow_Decorator2>شحن كل هجوم لفترة وجيزة</> بالضغط المطوّل على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"0\" LeftPadding=\"0\"/>، لتمكين ذلك الهجوم ومنح <Character_Yellow_Decorator2>تركيز قبضة</> إضافي. عند اكتمال الشحن، تومض القفازات الحديدية. الإفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بتوقيت دقيق لتنفيذ شحنة مثالية، وتفعيل <Character_Yellow_Decorator2>ضربة القبضة المتقنة</>. يمنح ذلك الهجوم قوةً أكبر بكثير و<Character_Yellow_Decorator2>تركيز قبضة</> إضافيًا."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_10",
+  "text": "تركيز القبضة المتحرر {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_017_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لتأثير <Character_Yellow_Decorator2>[تركيز القبضة]</> ومدته."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_15",
+  "text": "صدّ القبضة"
+ },
+ {
+  "key": "PhantomEdges_Function_017_15",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك <dtv id=\"X164\"/><img id=\"SpiritShadow\" width=\"40\"/> والصدّ بالقفازات الحديدية. <Character_Yellow_Decorator2>الصدّ المثالي</> لهجوم عدوّ قبل إصابته يعيد <dtv id=\"X165\"/><img id=\"SpiritShadow\" width=\"40\"/> ويمنح <Character_Yellow_Decorator2>تركيز القبضة</>. إذا كان <Character_Yellow_Decorator2>تركيز القبضة</> ممتلئًا بالفعل، تمتد مدته <dtv id=\"X167\"/> ثانية."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_25",
+  "text": "الغضب المنطلق"
+ },
+ {
+  "key": "PhantomEdges_Function_017_25",
+  "text": "أثناء حالة <Character_Yellow_Decorator2>امتلاء تركيز القبضة</>، استهلاك الحالة لجعل سلسلة الضربات التالية لا تستهلك <img id=\"SpiritShadow\" width=\"40\"/>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_017_Re",
+  "text": "موجة القبضة"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_017_Re",
+  "text": "إطلاق <Character_Yellow_Decorator2>[موجة القبضة]</> إلى الأمام مع كل <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> هجوم."
+ },
+ {
+  "key": "Weapon_007",
+  "text": "سيف تيانشيوان البرونزي"
+ },
+ {
+  "key": "WeaponDes_UI_007",
+  "text": "سيف برونزي قديم كان يحمله بي يوان، زعيم طائفة تيانشيوان."
+ },
+ {
+  "key": "WeaponDes_007",
+  "text": "سيف برونزي، متقن الصنع في بساطته. <Character_Yellow_Decorator2>زيادة كبيرة لقوة كسر الدروع</> عند الهجوم، ودفاع راسخ عند الصد."
+ },
+ {
+  "key": "Weapon_FunctionName_007_EX",
+  "text": "التنظيم الطبيعي"
+ },
+ {
+  "key": "Weapon_FunctionDes_007_EX",
+  "text": "<Character_Yellow_Decorator2>خفض</> استهلاك شا-تشي عند صد الهجمات، لكن <Character_Yellow_Decorator2>تعطيل الصدّ المثالي</>."
+ },
+ {
+  "key": "Weapon_FunctionName_007_Skill",
+  "text": "العظمة بلا هيئة"
+ },
+ {
+  "key": "Weapon_FunctionDes_007_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</> <Niagara id=\"Fire\"/> لإطلاق سلسلة من ضربات السيف العظيم القوية والمتأنية، القادرة على دفع الأعداء إلى الوراء من مسافة متوسطة إلى بعيدة. هذا الهجوم لا يمكن صدّه."
+ },
+ {
+  "key": "Weapon_FunctionName_007_5",
+  "text": "الخواء الأقصى"
+ },
+ {
+  "key": "Weapon_Function_007_5",
+  "text": "الضغط المطوّل على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق <Character_Yellow_Decorator2>هجوم ثقيل مشحون</>."
+ },
+ {
+  "key": "Weapon_FunctionName_007_10",
+  "text": "صفاء الذهن {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_007_10",
+  "text": "{<WeaponDes_Main_Green>خفض طفيف</>|<WeaponDes_Main_Green>خفض متوسط</>|<WeaponDes_Main_Green>خفض كبير</>} لاستهلاك شا-تشي عند الصدّ."
+ },
+ {
+  "key": "Weapon_FunctionName_007_15",
+  "text": "سكون راسخ"
+ },
+ {
+  "key": "Weapon_Function_007_15",
+  "text": "عقب <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>، استخدام <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لإطلاق موجات نصل إلى الأمام."
+ },
+ {
+  "key": "Weapon_FunctionName_007_25",
+  "text": "التقاء كل الأشياء"
+ },
+ {
+  "key": "Weapon_Function_007_25",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل لحظة إصابة هجوم العدو لتفعيل <Character_Yellow_Decorator2>صدّ خاص</>، ثم اتباعه بالضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتوجيه ضربة قوية."
+ },
+ {
+  "key": "Weapon_FunctionName_007_Re",
+  "text": "فعل بلا عناء"
+ },
+ {
+  "key": "Weapon_FunctionDes_007_Re",
+  "text": "حتى في حالة مكسور الدفاع، يمكن الضغط مطوّلًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للصدّ مقابل خسارة مقدار ضئيل من الصحة."
+ }
+]

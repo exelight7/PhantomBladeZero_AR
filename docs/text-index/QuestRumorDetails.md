@@ -126,7 +126,7 @@
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `QuestRumorDetails_014_01` | ترك تشن تشو، السائر المقنّع الذي كان يبحث عن القائمة، قلادة قديمة بعد هزيمته. يبدو أنها أعادت بعض الوعي إلى الدمية الأنثى التي كانت بجانبه... التحقق من حالها. | [الدفعة](../../work/claude/batches/batch_0054.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `QuestRumorDetails_014_01` | ترك تشن تشو، السائر المقنّع الذي كان يبحث عن القائمة، قلادة قديمة بعد هزيمته. يبدو أنها أعادت بعض الوعي إلى الدمية الأنثى التي كانت بجانبه... التحقق من حالها. | [الدفعة](../../work/review2/batches/batch_0017.json) | [الأصل](../../data/Game_locres_ar.json) |
 | `QuestRumorDetails_014_02` | *(فارغ)* | لا توجد دفعة | [الأصل](../../data/Game_locres_ar.json) |
 | `QuestRumorDetails_014_03` | *(فارغ)* | لا توجد دفعة | [الأصل](../../data/Game_locres_ar.json) |
 
@@ -163,7 +163,7 @@
 | `QuestRumorDetails_018_07_A` | *(فارغ)* | لا توجد دفعة | [الأصل](../../data/Game_locres_ar.json) |
 | `QuestRumorDetails_018_07_B` | *(فارغ)* | لا توجد دفعة | [الأصل](../../data/Game_locres_ar.json) |
 | `QuestRumorDetails_018_08` | *(فارغ)* | لا توجد دفعة | [الأصل](../../data/Game_locres_ar.json) |
-| `QuestRumorDetails_018_S2` | العثور على تسوي، حفيدة لو سانتشيان. | [الدفعة](../../work/claude/batches/batch_0054.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `QuestRumorDetails_018_S2` | العثور على تسوي، حفيدة لو سانتشيان. | [الدفعة](../../work/review2/batches/batch_0017.json) | [الأصل](../../data/Game_locres_ar.json) |
 
 ## QuestRumorDetails_019
 

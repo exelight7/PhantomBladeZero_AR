@@ -1,0 +1,402 @@
+[
+ {
+  "key": "PhantomEdges_FunctionName_026_25",
+  "text": "القوّة الساحقة"
+ },
+ {
+  "key": "PhantomEdges_Function_026_25",
+  "text": "<dtv id=\"X386\"/> من المبارزين: <WeaponDes_Main_Green>زيادة كبيرة جدًا للضرر</> الذي يلحقونه بالأعداء <Character_Yellow_Decorator2>مكسوري الدفاع</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_026_Re",
+  "text": "أسياد المبارزين"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_026_Re",
+  "text": "استبدال <Character_Yellow_Decorator2>قائد المبارزين</> المستدعى بـ<Character_Yellow_Decorator2>مبارز النصلين ذي الرداء الأرجواني</>، واستبدال تلميذي المبارزين المستدعيين بـ<Character_Yellow_Decorator2>حماة سيف بايشان</>. ترث الاستدعاءات الجديدة جميع ترقيات المبارزين."
+ },
+ {
+  "key": "Weapon_019",
+  "text": "الجبّار"
+ },
+ {
+  "key": "WeaponDes_UI_019",
+  "text": "سيف ثقيل كان يستخدمه بي فنغ، قائد السيف العملاق."
+ },
+ {
+  "key": "WeaponDes_019",
+  "text": "نصل شرس اجتاح شوارع البلدة قديمًا. يزيد <Character_Yellow_Decorator2>قدرة كسر الدروع كثيرًا</>، ويجمع <Character_Yellow_Decorator2>[الشفرة الحمراء]</> لإطلاق هجوم قوي."
+ },
+ {
+  "key": "Weapon_FunctionName_019_EX",
+  "text": "شق العجلة القرمزية"
+ },
+ {
+  "key": "Weapon_FunctionDes_019_EX",
+  "text": "يمنح الصدّ المثالي <dtv id=\"X391\"/> تكدسًا من <Character_Yellow_Decorator2>[الشفرة الحمراء]</>. عند بلوغ أقصى عدد من التكدسات، تحمرّ الشفرة. الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك جميع <Character_Yellow_Decorator2> تكدسات [الشفرة الحمراء] </> وإطلاق شقّة قوية."
+ },
+ {
+  "key": "Weapon_FunctionName_019_Skill",
+  "text": "هياج إبادة قطّاع الطرق"
+ },
+ {
+  "key": "Weapon_FunctionDes_019_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق وابل قوي من الشقّات المشبعة بموجات الشفرة، وإضافة <dtv id=\"X392\"/> تكدس من <Character_Yellow_Decorator2>[وسم قاتل قطّاع الطرق]</>. زيادة الضرر واستنزاف شا-تشي لدى الأعداء الموسومين. لا يمكن صد هذا الهجوم."
+ },
+ {
+  "key": "Weapon_FunctionName_019_5",
+  "text": "شفرة تتغذى على الدم"
+ },
+ {
+  "key": "Weapon_Function_019_5",
+  "text": "إذا تلقيت ضربة أثناء تنفيذ <Character_Yellow_Decorator2>[شق العجلة القرمزية]</>، ازداد الهجوم قوة."
+ },
+ {
+  "key": "Weapon_FunctionName_019_10",
+  "text": "شفرة مصبوغة بالغروب {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_019_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الذي تسببه <Character_Yellow_Decorator2>[شق العجلة القرمزية].</>"
+ },
+ {
+  "key": "Weapon_FunctionName_019_15",
+  "text": "موجة لا تهدأ"
+ },
+ {
+  "key": "Weapon_Function_019_15",
+  "text": "الضغط مطولًا على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن. ثم الإفلات لإطلاق <Character_Yellow_Decorator2>موجة شفرة</> تلحق ضررًا وتضيف <dtv id=\"X393\"/> تكدسًا من <Character_Yellow_Decorator2>[وسم قاتل قطّاع الطرق]</> إلى العدو. زيادة الضرر واستنزاف شا-تشي بالهجوم التالي الذي يصيب العدو الموسوم."
+ },
+ {
+  "key": "Weapon_FunctionName_019_25",
+  "text": "شقّ الإبادة"
+ },
+ {
+  "key": "Weapon_Function_019_25",
+  "text": "الضغط مطولًا على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> أثناء تنفيذ <Character_Yellow_Decorator2>[شق العجلة القرمزية] </> لاستهلاك شا-تشي بالكامل واتباعه بشقّ أشد قوة."
+ },
+ {
+  "key": "Weapon_FunctionName_019_Re",
+  "text": "غروب لا يأفل"
+ },
+ {
+  "key": "Weapon_FunctionDes_019_Re",
+  "text": "لم يعد <Character_Yellow_Decorator2>[شق العجلة القرمزية] </> يستهلك <Character_Yellow_Decorator2>[الشفرة الحمراء] </> عند إصابة عدو موسوم بـ<Character_Yellow_Decorator2> [وسم قاتل قطّاع الطرق] </>."
+ },
+ {
+  "key": "Weapon_029",
+  "text": "الموت السلس"
+ },
+ {
+  "key": "WeaponDes_UI_029",
+  "text": "زوج من الأنصال الحلقية الغريبة، كان يستخدمهما ذو الوجه اليشمي."
+ },
+ {
+  "key": "WeaponDes_029",
+  "text": "زوج من الأنصال الحلقية الغريبة، تنساب ضرباتها بسلاسة دون عناء. يمكن <Character_Yellow_Decorator2>قذفها</> لانتزاع الأرواح في لحظة."
+ },
+ {
+  "key": "Weapon_FunctionDes_029_BAB",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>\nيمكن تنفيذها بعد أي ضربة أثناء سلسلة الضربات الأساسية. ومع توافر شا-تشي كافٍ، تتحول إلى هجوم معزز يسبب ضررًا أكبر وكسرًا للدفاع. وأي سلسلة ضربات تنتهي بـ <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/><Character_Yellow_Decorator2> تقذف وابلًا من [حلقات طائرة]</> نحو الأعداء."
+ },
+ {
+  "key": "Weapon_FunctionName_029_Skill",
+  "text": "حلقات حاصدة"
+ },
+ {
+  "key": "Weapon_FunctionDes_029_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> للابتعاد عن العدو وإطلاق وابل من <Character_Yellow_Decorator2>[الحلقات الطائرة]</> التي <Character_Yellow_Decorator2>تلاحق </>العدو المثبّت عليه التصويب. هذا الهجوم غير قابل للصد."
+ },
+ {
+  "key": "Weapon_FunctionName_029_5",
+  "text": "الحلقة الطائرة المشحونة"
+ },
+ {
+  "key": "Weapon_Function_029_5",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن وإلقاء <Character_Yellow_Decorator2>[الحلقات الطائرة]</> الأقوى."
+ },
+ {
+  "key": "Weapon_FunctionName_029_10",
+  "text": "الحلقة الطائرة المعززة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_029_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الذي تلحقه الحلقات الطائرة الملقاة <Character_Yellow_Decorator2>[الحلقات الطائرة]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_029_15",
+  "text": "خطوة طيفية"
+ },
+ {
+  "key": "Weapon_Function_029_15",
+  "text": "تحويل <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> المراوغة إلى <Character_Yellow_Decorator2>انتقال آني</> ذي مسافة انتقال أطول، لتيسير تفادي هجمات العدو."
+ },
+ {
+  "key": "Weapon_FunctionName_029_25",
+  "text": "خدعة الأثر اللاحق"
+ },
+ {
+  "key": "Weapon_Function_029_25",
+  "text": "بعد الانتقال الآني، بقاء <Character_Yellow_Decorator2>أثر لاحق</> عند نقطة البدء. وعند إصابة عدوٍّ الأثرَ اللاحق، انفجاره إلى <Character_Yellow_Decorator2>[الحلقات الطائرة]</> التي <Character_Yellow_Decorator2>تلاحق</> المهاجم."
+ },
+ {
+  "key": "Weapon_FunctionName_029_Re",
+  "text": "عاصفة الحلقات"
+ },
+ {
+  "key": "Weapon_FunctionDes_029_Re",
+  "text": "زيادة عدد <Character_Yellow_Decorator2>[الحلقات الطائرة]</> الملقاة في جميع الحركات."
+ },
+ {
+  "key": "PhantomEdges_018",
+  "text": "شقّ الحبر"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_018",
+  "text": "سيف أسود حالك استخدمه موجي."
+ },
+ {
+  "key": "PhantomEdgesDes_018",
+  "text": "سيف موجي الذي خلّفه بعد موته. يوجّه النصل بتسخير التشي، مطهّرًا العالم من الفساد."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_018_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X411\"/> هجمات بالسيف متوسطة المدى. يستهلك إكمال السلسلة <dtv id=\"X412\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_Advance",
+  "text": "العجلة المشعة"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_018_Advance",
+  "text": "إنهاء سلسلة ضربات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بعد الهجمة <Character_Yellow_Decorator2>الثانية</> يترك نصلًا دوّارًا يُلحق الضرر بالأعداء باستمرار. ينفجر بعد <dtv id=\"X413\"/> ثانية."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_5",
+  "text": "الإشراق الأخير"
+ },
+ {
+  "key": "PhantomEdges_Function_018_5",
+  "text": "أثناء نشاط <Character_Yellow_Decorator2>[</><Character_Yellow_Decorator2>العجلة المشعة]</>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> في أي وقت لتنفيذ الضربة الثالثة وتفجير <Character_Yellow_Decorator2>[ال</><Character_Yellow_Decorator2>عجلة المشعة]</> يدويًا."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_10",
+  "text": "حبر باقٍ {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_018_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمدة <Character_Yellow_Decorator2>[العجلة المشعة]</>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_15",
+  "text": "نصل مصوغ بالحبر"
+ },
+ {
+  "key": "PhantomEdges_Function_018_15",
+  "text": "كلما زاد الضرر الذي <Character_Yellow_Decorator2> تُلحقه [العجلة </><Character_Yellow_Decorator2>المشعة] </>أثناء نشاطها، زاد الضرر واستنزاف شا-تشي للضربة الثالثة التي تُنفّذ بالضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_25",
+  "text": "ثاقب الحبر"
+ },
+ {
+  "key": "PhantomEdges_Function_018_25",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> بتوقيت دقيق عند <Character_Yellow_Decorator2>تفجير [العجلة المشعة] </>تلقائيًا لتنفيذ الضربة الثالثة، <Character_Yellow_Decorator2>وتفعيل انفجار قوي</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_018_Re",
+  "text": "عجلتان مشعتان"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_018_Re",
+  "text": "أثناء نشاط <Character_Yellow_Decorator2>[العجلة المشعة]</>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> مجددًا لإطلاق عجلة أخرى. لا يمكن لـ<Character_Yellow_Decorator2> [العجلة المشعة] </>الإضافية تفعيل<Character_Yellow_Decorator2> [عجلتان مشعتان]</> مجددًا.\nإذا كان كل من <Character_Yellow_Decorator2>[الإشراق الأخير]</> و<Character_Yellow_Decorator2> [عجلتان مشعتان] </>مفتوحًا، تكون الأولوية لـ<Character_Yellow_Decorator2> [عجلتان مشعتان]</>."
+ },
+ {
+  "key": "PhantomEdges_020",
+  "text": "المقصلة الطائرة"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_020",
+  "text": "سلاح متخصص استخدمه هوانغشينغ."
+ },
+ {
+  "key": "PhantomEdgesDes_020",
+  "text": "سلاح هوانغشينغ المتخصص والفتاك، يخفي شفرات في داخله ويُخرج حواف حادة كالموس على طول حافته. يتمتع <Character_Yellow_Decorator2>بقوة كبيرة على كسر الدروع</> ويمكنه قطع رأس العدو في لحظة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Base",
+  "text": "الضغط المتكرر على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ما يصل إلى <dtv id=\"X421\"/> هجمات إجهاز متوسطة المدى. يستهلك إكمال السلسلة <dtv id=\"X422\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_Advance",
+  "text": "الحصاد"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Advance",
+  "text": "عندما يصبح الإجهاز على العدو ممكنًا، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ إجهاز عن بُعد."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_Terrian",
+  "text": "إتقان الآليات"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Terrian",
+  "text": "إتاحة تشغيل المقصلة الطائرة لآليات هوانغشينغ المخصّصة،<Character_Yellow_Decorator2> حتى عند عدم تجهيزها</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_5",
+  "text": "العجلة الدموية"
+ },
+ {
+  "key": "PhantomEdges_Function_020_5",
+  "text": "إلحاق <Character_Yellow_Decorator2>النزيف</> بالعدو عند الهجوم وتعبئة مقياس النزيف لديه. عند امتلاء المقياس، يحدث <Character_Yellow_Decorator2>فقدان الدم</>. لا تأثير له على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_10",
+  "text": "نزيف لا ينقطع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_020_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>}<Character_Yellow_Decorator2> </>لمعدل تراكم مقياس النزيف."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_15",
+  "text": "تحليق عجلة الدم"
+ },
+ {
+  "key": "PhantomEdges_Function_020_15",
+  "text": "عند نهاية سلسلة الضربات، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لقذف المقصلة الطائرة إلى الأمام بسرعة عالية. لا يستهلك <img id=\"SpiritShadow\" width=\"40\"/> إضافيًا."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_25",
+  "text": "الحصاد الخاطف للأرواح"
+ },
+ {
+  "key": "PhantomEdges_Function_020_25",
+  "text": "زيادة الضرر الذي تُلحقه <Character_Yellow_Decorator2>[تحليق عجلة الدم]</>. كما يمكنها الإجهاز على الأعداء الأضعف ممن تقل صحتهم عن <dtv id=\"X423\"/>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_020_Re",
+  "text": "الصيد الساحب للأرواح"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_020_Re",
+  "text": "<InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> استهلاك <dtv id=\"X424\"/><img id=\"SpiritShadow\" width=\"40\"/>. تأرجح عجلة المنشار الدوارة عالية السرعة إلى الأمام لتمزيق الأعداء."
+ },
+ {
+  "key": "PhantomEdges_023",
+  "text": "مروحة إنانيس المتألقة"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_023",
+  "text": "مروحة حرب مزخرفة أهدتها إنانيس في عالم السراب."
+ },
+ {
+  "key": "PhantomEdgesDes_023",
+  "text": "مروحة زهرية عجيبة أهدتها إنانيس، قادرة على إنشاء ملاذ في أي مكان."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_023_Base",
+  "text": "الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإنشاء <Character_Yellow_Decorator2>حقل</> حول الشخصية يستمر <dtv id=\"X431\"/> ثانية. وأثناء الوجود داخل الحقل، تستعيد <Character_Yellow_Decorator2>الصحة</> و<Character_Yellow_Decorator2>شا-تشي</> تدريجيًا. يستهلك <dtv id=\"X432\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_5",
+  "text": "بركة عليا"
+ },
+ {
+  "key": "PhantomEdges_Function_023_5",
+  "text": "أثناء الوجود داخل <Character_Yellow_Decorator2>الحقل</>، زيادة الهجوم وخفض الضرر المتلقى لك ولحلفائك."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_10",
+  "text": "ملاذ دائم {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_023_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لمدة الحقل."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_15",
+  "text": "خبث صامت"
+ },
+ {
+  "key": "PhantomEdges_Function_023_15",
+  "text": "الأعداء داخل الحقل يستهلكون شا-تشي أكثر عند صدّ الهجمات."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_25",
+  "text": "ملاذ بلا حدود"
+ },
+ {
+  "key": "PhantomEdges_Function_023_25",
+  "text": "<WeaponDes_Main_Green>زيادة كبيرة</> لمساحة تأثير الحقل."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_023_Re",
+  "text": "السكينة القصوى"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_023_Re",
+  "text": "الإحياء مرة واحدة واستعادة <dtv id=\"X433\"/> من الصحة عند تلقّي ضرر قاتل داخل الحقل. لا يمكن تفعيل هذا الأثر مجددًا حتى لمس جرس أو إعادة الظهور. إذا توفرت آثار إحياء أخرى في الوقت نفسه، فتُفعّل تلك الآثار أولًا."
+ },
+ {
+  "key": "Weapon_024",
+  "text": "الشفرة عديمة الظل"
+ },
+ {
+  "key": "WeaponDes_UI_024",
+  "text": "صُقلت بالروح من التوأم القاني، وتتيح لسول استحضار قرين."
+ },
+ {
+  "key": "WeaponDes_024",
+  "text": "صُقلت بالروح من التوأم القاني، وتتيح هذه الأنصال لسول استحضار <Character_Yellow_Decorator2>القرين الطيفي</> وإطلاق هجمات لا يمكن توقعها."
+ },
+ {
+  "key": "Weapon_FunctionName_024_EX",
+  "text": "هيئة الظل"
+ },
+ {
+  "key": "Weapon_FunctionDes_024_EX",
+  "text": "<InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> استدعاء <Character_Yellow_Decorator2>القرين الطيفي</> لمدة <dtv id=\"X441\"/> ثوانٍ. يتطابق هجومه وقدرته على كسر الدفاع مع سول. يعطي الأولوية للعدو الذي يهاجمه سول، وإلا اختار هدفًا بنفسه. بعد اختفاء القرين الطيفي، يتعذر استدعاء آخر لمدة <dtv id=\"X442\"/> ثوانٍ."
+ },
+ {
+  "key": "Weapon_FunctionName_024_Skill",
+  "text": "مرثية طيفية"
+ },
+ {
+  "key": "Weapon_FunctionDes_024_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> للتحول إلى <Character_Yellow_Decorator2>غراب أسود</> والاندفاع إلى الأمام. هذا الهجوم غير قابل للصد."
+ },
+ {
+  "key": "Weapon_Function_122_10",
+  "text": "[لجميع الأسلحة المزدوجة] الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> + <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ الشق الطيفي الثلاثي، والاقتراب فورًا من العدو لتوجيه ضربة قوية قد تقتله أو تصيبه بجروح بالغة. لا يمكن استخدامها إلا عندما يكون <Character_Yellow_Decorator2>شا-تشي</> عند {&<dtv id=\"X443\"/>|<dtv id=\"X444\"/>|<dtv id=\"X445\"/>}، و<Character_Yellow_Decorator2>تستهلك كل شا-تشي عند الاستخدام</>. بعد تنفيذ هذه الحركة، لا يمكن تغيير السلاح الرئيسي لمدة <dtv id=\"X446\"/> ثانية. {#0|إذا تسببت الضربة في <Character_Yellow_Decorator2>كسر الدفاع</> لدى العدو، فالضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> قبل انتهاء الحركة لتنفيذ هجوم متابعة. |#1}"
+ },
+ {
+  "key": "Weapon_016",
+  "text": "الظل الأبيض"
+ },
+ {
+  "key": "WeaponDes_UI_016",
+  "text": "نصل طويل حاد بما يكفي لشق الحديد، كان يستخدمه سيد النصل في العاصفة الثلجية ذات يوم."
+ },
+ {
+  "key": "WeaponDes_016",
+  "text": "نصل لا يلقي أي ظل، وله بريق بارد كالثلج."
+ },
+ {
+  "key": "Weapon_FunctionName_016_EX",
+  "text": "التجمّد"
+ },
+ {
+  "key": "Weapon_FunctionDes_016_EX",
+  "text": "إلحاق برودة بالعدو مع كل ضربة وملء <Character_Yellow_Decorator2>مقياس التجمّد</> لديه. عند امتلاء المقياس، يصبح العدو <Character_Yellow_Decorator2>متجمّدًا</>."
+ },
+ {
+  "key": "Weapon_FunctionName_016_Skill",
+  "text": "عواء الصقيع للظل الأبيض"
+ },
+ {
+  "key": "Weapon_FunctionDes_016_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق وابل من ضربات النصل الطويل يملأ الهواء بظلال بيضاء. عند انتهاء الهجوم، <Character_Yellow_Decorator2>ضمان تجمّد الأعداء المصابين</>."
+ }
+]

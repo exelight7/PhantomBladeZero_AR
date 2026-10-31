@@ -10,4 +10,4 @@
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Place_Name_1` | بانغتشن | [الدفعة](../../work/opencode/batches/batch_0038.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Place_Name_1` | بانغتشن | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |

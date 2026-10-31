@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1b_LJY_8",
+  "text": "لا أستطيع أن أموت هنا. عليّ أن أعود إلى قرية لو... أعود إلى تسوي..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1b_LJY_6",
+  "text": "لا بد من طريقة..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1b_LJY_Re_1",
+  "text": "أيها البطل، تفضّل وتابع طريقك... وما إن أدفن زوجتي حتى أغادر هذا المكان أنا أيضًا."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_Hun_1",
+  "text": "تسوي... هل تقصد الفتاة من قرية لو؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_2",
+  "text": "آه... كيف تعرف ابنتي؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_Hun_3",
+  "text": "شيّعتُ تسوي وأباك لو سانتشيان إلى مثواهما الأخير."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_4",
+  "text": "رحلت عائلتي كلها... ولا رغبة لي في مواصلة الحياة."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_Hun_5",
+  "text": "ما كانوا ليريدوا منك أن تستسلم."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_Hun_6",
+  "text": "دعني أساعدك. سأواري زوجتك الثرى... وأدفن معها مقتنيات تسوي والشيخ لو..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_7",
+  "text": "شكرًا... لم يبقَ في هذا العالم كثيرون مثلك..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_8",
+  "text": "كل هذا... بسبب أولئك السائرين المقنّعين... وذلك المبعوث..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_9",
+  "text": "كنت قائد حرس قرية لو. بعد الفوضى التي خلّفها السائرون المقنّعون، انضممت أنا وزوجتي إلى الميثاق تحت راية أركان كونلون لنقاتلهم."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_10",
+  "text": "لكن كل شيء تغيّر فجأة... وفشلت كأب وكابن..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_Hun_11",
+  "text": "ما دمت حيًّا، فالأمل باقٍ."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_12",
+  "text": "أجل... يا بطل، اذهب. أود أن أبقى هنا مع عائلتي قليلًا بعد..."
+ },
+ {
+  "key": "Dlg_PZXSDnan_LuJieYuan1a_LJY_Re_1",
+  "text": "ينبغي أن تذهب. أود أن أبقى هنا مع عائلتي قليلًا بعد..."
+ },
+ {
+  "key": "Dlg_XSSL_LiZheJuZhe6_Hun_1",
+  "text": "إنه يزداد قوة..."
+ },
+ {
+  "key": "Dlg_XSSL_LiZheJuZhe6_Hun_2",
+  "text": "لكن جلده، الذي كان عصيًّا على الاختراق، أصبح هشًّا."
+ },
+ {
+  "key": "Dlg_XiMeng2_LuJieYuan_LJY_1",
+  "text": "هاه... تلك الضربة... لم أجلب العار لعائلتي... أليس كذلك؟..."
+ },
+ {
+  "key": "Dlg_XiMeng2_LuJieYuan_Hun_2",
+  "text": "لولا ضربتك، لربما ما تمكنت من قتله."
+ },
+ {
+  "key": "Dlg_XiMeng2_LuJieYuan_LJY_3",
+  "text": "مع أنني لا أعرف اسمك بعد... لا بد أنك..."
+ },
+ {
+  "key": "Dlg_XiMeng2_LuJieYuan_LJY_4",
+  "text": "تنتزع لأهل هذا المكان... شعاعًا من النور!..."
+ },
+ {
+  "key": "Dlg_XiMeng2_LuJieYuan_Hun_5",
+  "text": "أعدك."
+ },
+ {
+  "key": "Dlg_XiMeng2_LuJieYuan_LJY_6",
+  "text": "تسوي... لا تخافي... أبوك قادم إليك!..."
+ },
+ {
+  "key": "Dlg_XiMeng2_Investigate_LuJieYuan1_1",
+  "text": "لن تخبو أبدًا شعلة الأمل التي أوقدها لهذه الأرض."
+ },
+ {
+  "key": "Dlg_XiMeng2_Investigate_LuJieYuan2_1",
+  "text": "يبدو أن صدى تلك الضربة ما زال يتردد في مهب الريح."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_1",
+  "text": "في الآونة الأخيرة، سقط كثيرون في نوم لا ينتهي... وكلهم يرجون لقاء السيدة في أحلامهم."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_2",
+  "text": "إن استمر هذا، فسيسقط التنظيم لا محالة."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_3",
+  "text": "هذه السيدة... هل لها صلة بالآفة؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_4",
+  "text": "كانت منغ هوا، بين الأحد عشر، أستاذةً في فنّ الأطياف."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_5",
+  "text": "خلال الحرب مع التنظيم، هلكت هي والسيدة إنانيس معًا، وتلاشى وعياهما في العالم الخفي."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_6",
+  "text": "بعد أن تشتت وعي منغ هوا، اندمج بالآفة في العالم الخفي، وصار ما يُعرف بسيدة الحجاب."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_7",
+  "text": "مصدر قوة الأحد عشر... شظايا العالم الخفي تلك... هل دفعتها إلى الاندماج بالآفة؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_8",
+  "text": "نعم. في العالم الخفي، شظايا العالم الخفي أشبه بلحم متعفن... والآفة كالذباب."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_9",
+  "text": "منغ هوا... السيدة... لم تعد بشرًا، بل صارت كيانًا مرعبًا اندمج من جديد بالآفة."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_10",
+  "text": "إذن، بحسب قولك، السيدة ليست سوى إسقاط للآفة... تجلٍّ لها. وهل هي جزء فحسب، وهي الكل في آن؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_11",
+  "text": "بالضبط."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_12",
+  "text": "معرفتي بالكتاب السماوي لا تبلغ مبلغ فهمك. لكن دعني أطرح سؤالًا بسيطًا..."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_13",
+  "text": "ماذا لو اندمجت دمية بالآفة؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_14",
+  "text": "وعي الدمية صورة يصوغها عقل بشري. ولعل الآفة لا تؤثر فيه."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_15",
+  "text": "حتى لو أثّرت فيه، يمكن قطع الصلة بالجسد الأصلي في الوقت المناسب والنجاة."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_16",
+  "text": "إن كانت الآفة حقًا كما تقول... إن كان كل جزء هو الكل، والكل لا يختلف عن كل جزء..."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_17",
+  "text": "فهل يستطيع جزء واعٍ... أن يسيطر على الكل ويوجهه؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_19",
+  "text": "أنا... هذا... لم يخطر لي قط، ولم أسمع بمثل هذا من قبل."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_XuanLi_20",
+  "text": "هل تقصد... أن إرادة واحدة قد تسيطر على الآفة؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_21",
+  "text": "في العصور القديمة، كانت النار غامضة ومخيفة بقدر ما تبدو الآفة لنا اليوم. كانت قوة جامحة لا تجلب سوى الخراب."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM3_ZuoShang_22",
+  "text": "مع مرور الزمن، حتى قوى السماء والأرض لا تعدو أن تكون لهب شمعة في كفّ المرء."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Option1",
+  "text": "لا تزال هناك أمور لم تُحسم. لا يمكن المتابعة بعد."
+ },
+ {
+  "key": "Dlg_FXSD_BingKu_UI_1",
+  "text": "بعد المتابعة، لن يكون الرجوع إلى المنطقة السابقة ممكنًا. هل تريد المتابعة؟"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_1",
+  "text": "ها قد وصلتَ أخيرًا. تأخرتَ مرة أخرى."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_2",
+  "text": "هل كنتِ هنا طوال الوقت؟"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_3",
+  "text": "جئت لأودّعك."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_4",
+  "text": "أنهيت تحرّياتي في بانغتشن. عرفت الحقيقة الآن."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_5",
+  "text": "حقًا؟ مؤسف أنه لم يعد لدينا وقت لنتجادل كما في السابق."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_6",
+  "text": "كان شيفو يقول دائمًا: «المعرفة التي لا تترك سؤالًا بلا جواب وحدها تستحق أن تُسمّى...»"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_7",
+  "text": "«بذرة الحقيقة»."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_8",
+  "text": "إن أتاح لنا القدر أن نلتقي مجددًا، فسأجادلك حينها."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_9",
+  "text": "والآن عليّ أن أنزل من الجبل... إلى مكان لا يطاله تسو شانغ."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_10",
+  "text": "وهناك، سينهض تنظيم جديد من جديد."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_11",
+  "text": "كم واحدًا من أتباع تسو شانغ السابقين استطعتِ استمالته؟"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_12",
+  "text": "أنت... اهتم أولًا بأن تخرج حيًّا."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_13",
+  "text": "لم أتوقع قط... أنك في نهاية المطاف ستكون الوحيد الذي ما زال يبالي إن عاش الناس أو ماتوا..."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_14",
+  "text": "قادة الميثاق لا يكترثون بأمر عامة الناس."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_15",
+  "text": "أما سيدة الحجاب الرحيمة فلا تكترث بهم هي الأخرى."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_16",
+  "text": "لم يعد تنظيم تسو شانغ يلتزم بقواعده، ولا يكترث هو بأهل الوولين."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_17",
+  "text": "الباعة المتجولون، والعمّال، والمسنّون، والأطفال... من بقي ليحميهم؟"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_18",
+  "text": "والعجيب أن... لم يبقَ سواك!"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_19",
+  "text": "وأنت... لم يبقَ لك إلا القليل من الوقت..."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_20",
+  "text": "من الآن فصاعدًا... يعود الأمر إليكِ."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_Hun_21",
+  "text": "أعرف أن كثيرين في التنظيم قد أقسموا لكِ الولاء. وسيساعدونكِ على إتمام الأمر."
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_22",
+  "text": "حسنًا! إن نجوت، فسأرسل من يبحث عنك!"
+ },
+ {
+  "key": "Dlg_FXSD_MuXiaoKui_MXK_23",
+  "text": "أنا... ينبغي أن أذهب الآن."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_MoJiZi_1",
+  "text": "ظننت دومًا أن اضطراب الوولين سيمرّ..."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_MoJiZi_2",
+  "text": "لن يكون مستقبل الوولين محكومًا بالمحن وحدها. فما زال في المستقبل الكثير مما يستحق أن نتطلع إليه."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_MoJiZi_3",
+  "text": "والآن، الأمر بيدك لتحقق ذلك."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_JianChi_1",
+  "text": "يا لها من فرحة! يا لها من فرحة!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_QuanChi_1",
+  "text": "اذهب الآن! لا تضلّ الطريق كما ضللناه!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_BaiChiLian_1",
+  "text": "لماذا ما زلت هنا؟ لا أريد أن..."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_BaiChiLian_3",
+  "text": "حسنًا، خذ بيباك! واحرص على أن تعزف شيئًا يستحق السماع!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_BiTaoTao_1",
+  "text": "لم أستطع حماية طائفة بايشان..."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_BiTaoTao_2",
+  "text": "لكن طريق الحق لا يقتصر على طائفة واحدة."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_WuLengShuang_3",
+  "text": "شكرًا لأنك سمحت لي بالعودة إلى معلمتي تلميذةً لها من جديد."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_LanSahoDi_1",
+  "text": "كل ذلك الترحال، وكل تلك السنين... لعلّها لم تذهب سدى تمامًا."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_LanSahoDi_2",
+  "text": "لكن لا يمكنك التوقف. واصل السير، مهما يكن."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_LaoGenTou_1",
+  "text": "أخيرًا... سأرى زوجتي من جديد."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_LaoGenTou_2",
+  "text": "كان اصطحابك في تلك الرحلة يستحق العناء، بكل لحظة فيها!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_GuiFengKe_1",
+  "text": "ههه... يا معلّم سول، أوشكت على بلوغ القمة!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_GuiFengKe_2",
+  "text": "في حياتي القادمة... أتمنى أن أجوب الوولين، وأن يعرف العالم اسمي..."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_GuiFengKe_3",
+  "text": "أنا النصل الطيفي! هاهاها!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_YuEr_1",
+  "text": "يا سيد سول... مهما يكن ما ينتظرك..."
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_YuEr_2",
+  "text": "أؤمن بك!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_YuEr_3",
+  "text": "أعلم أنك ستهزمهم!"
+ },
+ {
+  "key": "Dlg_YBZL_TouYing_YuEr_4",
+  "text": "أرجوك... لا تدع الوولين يذرف مزيدًا من الدموع!"
+ },
+ {
+  "key": "Dlg_End_F_ZuoShang_ZuoShang_1",
+  "text": "أنت حر الآن... لم تذهب حياتك سدى."
+ },
+ {
+  "key": "Dlg_End_F_ZuoShang_ZuoShang_2",
+  "text": "منذ اليوم... خسرت أعظم خصم لي... وأخًا."
+ },
+ {
+  "key": "Dlg_End_F_ZuoShang_ZuoShang_3",
+  "text": "استرح هنا، واشهد الوولين الجديد الذي سأقيمه!"
+ },
+ {
+  "key": "Dlg_End_F_Subtitle_1",
+  "text": "نهاية مريرة"
+ },
+ {
+  "key": "Dlg_End_CBA_LengTu1_Hun_1",
+  "text": "«المبعوث»؟ لنغ تو؟ أم أسميك أفعى السموم السبعة؟"
+ },
+ {
+  "key": "Dlg_End_CBA_LengTu1_LengTu_2",
+  "text": "ليست سوى ألقاب جوفاء. أما سيدة الحجاب وحدها، فهي حقيقية."
+ },
+ {
+  "key": "Dlg_End_CBA_LengTu1_Hun_3",
+  "text": "كانت طائفة ربط الخيوط راضيةً بحالها في أقاصي البلاد، لكن اضطراب التنظيم أتاح لك فرصتك."
+ }
+]

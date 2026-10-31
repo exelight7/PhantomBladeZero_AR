@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_7",
+  "text": "شيفو... ألا يخشى أن يفقد نفسه؟"
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_8",
+  "text": "ينبغي أن تعرف أيضًا... أنه استولى على القناع الذهبي من حصن مو."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_9",
+  "text": "صيغ هذا القناع على مدى أجيال، وصُنع لإخماد شا-تشي الجامح في سلالتهم."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_10",
+  "text": "يستطيع حاكم الظلال بهذا القناع أن يتجنب الانهيار التام."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_11",
+  "text": "فن عشيرة لونغ، وقناع مو، وجرس الأحد عشر... لقد أحكم استعداداته حقًا."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_12",
+  "text": "لا بد أن أشكرك يا عم تشونغ."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_13",
+  "text": "لا أشكرك على كشف حقيقة هويتي فحسب، بل على إعانتي على بناء الوولين الجديد. سننجح."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_14",
+  "text": "حين أسّس حاكم الظلال مو التنظيم، أراد صون القواعد التي تحفظ توازن الوولين."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_15",
+  "text": "كان يؤمن بأن التزام الجميع بهذه «القواعد» سيتيح للطوائف أن تعيش في سلام."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_16",
+  "text": "لكن في السنوات الأخيرة... الارتقاء عند جرف تمزيق الأرواح، والعالم الخفي، وفن نقل الروح الغامض..."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_17",
+  "text": "واحدًا تلو الآخر، سحقت تلك الأمور «القواعد» وسوّتها بالتراب."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_18",
+  "text": "لو رأى القواعد كما ترونها أنتم يا جيل الشباب، لربما..."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_19",
+  "text": "لم يكن شيفو مخطئًا تمامًا. لكن القواعد ليست جامدة؛ إنها كالجداول والشلالات، لا تكف عن الجريان."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZuoShang_20",
+  "text": "لا أحد يستطيع تغيير طبيعة الماء... لكن بوسع المرء أن يوجّه مجراه."
+ },
+ {
+  "key": "Dlg_ZuZi_Conference2_ZhongShu_21",
+  "text": "يا معلم تسو، رؤيتك تتجاوز الوولين بكثير. حتى حاكم الظلال مو في سالف عهده لم يبلغ مداها. لقد أبهرتني حقًا."
+ },
+ {
+  "key": "Dlg_Carriage_Conversation1_ZhongShu_1",
+  "text": "دخل المعلّم سول بانغتشن. ويبدو أن القلب الملوّث لنحّات اللحم قد أعاد إليه قوته."
+ },
+ {
+  "key": "Dlg_Carriage_Conversation1_ZuoShang_2",
+  "text": "قد لا يكون تغيير مجرى اللعبة سيئًا."
+ },
+ {
+  "key": "Dlg_Carriage_Conversation1_ZuoShang_3",
+  "text": "وأنا في انتظار خطوته التالية."
+ },
+ {
+  "key": "Dlg_PangZhen_Investigate_ShengMuXiang_1",
+  "text": "صورة للسيدة. رُسمت على وجهها زهرة حريرية زاهية الألوان."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiaoXiang_Gate1_1",
+  "text": "لا يجيب أحد من الداخل. وما زالت لافتة «الحظ» الخاصة برأس السنة معلقة على الباب، وقد غطاها الغبار."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiaoXiang_Gate2_1",
+  "text": "يأتي من الداخل صوت احتكاك خشب يتحرك بصعوبة."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiaoXiang_Gate2_2",
+  "text": "تتمايل في الهواء بفتور الشرائط الحمراء المربوطة بالحلقة."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_BaiSheWu_Gate_1",
+  "text": "قفل عتيق مثبت على الباب. تمتد على سطحه أخاديد متعرّجة ترسم شكل اثنين من لونغ متشابكين من الرأس إلى الذيل."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_CanHai_1",
+  "text": "ضربة واحدة شطرت الفارس وفرسه."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_WuShiGuan_1",
+  "text": "قفل على هيئة رأس أسد، متقن الشبه بالحقيقة. فم الأسد فارغ، وكرته المطرزة مفقودة."
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_JiuLou_1",
+  "text": "لِمَ نطلب فردوسًا بعيدًا يريح الصدور"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_JiuLou_2",
+  "text": "وطيب الخمر والزاد يكفي ليبقى الزائر في سرور"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_JiuLou_3",
+  "text": "حتّى آخر قطرة في الكأس."
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu1_1",
+  "text": "ملذّات العيش: شعرٌ وطبيعةٌ وخمرٌ وناي"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu1_2",
+  "text": "وضرورات العيش: قمحٌ وملحٌ وزيتٌ وشاي"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu1_3",
+  "text": "فردوسٌ على الأرض"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu2_1",
+  "text": "نبيذ الربيع والصيف يتلألأ كاليشم ألوانا،"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu2_2",
+  "text": "وخمر الخريف والشتاء يتوهّج بالذهب لمعانا،"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu2_3",
+  "text": "رزقٌ في الفصول الأربعة"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_BaGuaGe_1",
+  "text": "نزن مآثر الأبطال وأمجادهم في الخافقين،"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_BaGuaGe_2",
+  "text": "ونصون الحقّ والعدل، ونعيد الخير إلى الوولين."
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu3_1",
+  "text": "يُزهر الأرجوان إذا اجتمع الإخوة على الوئام."
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_MinJu3_2",
+  "text": "وتُثمر حقول العلم جيلًا بعد جيلٍ على الدوام."
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_ZuZhiJiuGuan1_1",
+  "text": "أحلام الوهم في الكأس تفتن الخالدين"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_ZuZhiJiuGuan1_2",
+  "text": "ويغنّي ثملًا وحيدًا بين أشباحٍ ساكنين"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_WuShi1_1",
+  "text": "زئيرٌ كالرعد يهزّ السماء والأرض، ويطرد كلّ وباء"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_WuShi1_2",
+  "text": "ونظرةٌ كالبرق تجلب قوّة الحقّ والبركات والضياء"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_WuShi1_3",
+  "text": "رقصة الأسد تجلب السلام والرخاء."
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_WuShi2_1",
+  "text": "دويّ الطبول كالرعد يزلزل الأرض والسماء"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_WuShi2_2",
+  "text": "وهيبة الأسد تتلألأ في القديم والحاضر سواء"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_WuShi3_1",
+  "text": "كلّ وثبةٍ ودورة تهزّ ثلاثة آلاف عالمٍ هزًّا،"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_WuShi3_2",
+  "text": "وكلّ صعودٍ وهبوط يرفع الروح في السماوات التسع عزًّا."
+ },
+ {
+  "key": "Dlg_PZ_EBian_WuShi1_1",
+  "text": "قاعة الأسد اليقظ"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong1_1",
+  "text": "نقرّب للسماء وندعو بعامٍ خصيب"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong1_2",
+  "text": "ونكرّم الأجداد ليدوم إرثهم الطيّب"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong2_1",
+  "text": "من الشرق تأتي الطاقة الميمونة، ومن الغرب تأتي البركة"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong2_2",
+  "text": "ومن الجنوب يأتي نور السعد، ومن الشمال تأتي الثروة"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong2_3",
+  "text": "زمانٌ ميسَّر وحظٌّ سعيد"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong3_1",
+  "text": "ندعو ألّا تصيبنا البلايا"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong3_2",
+  "text": "وأن يطول العمر وتكثر العطايا"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong4_1",
+  "text": "يُدفع البلاء وتستقيم الأمور"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong4_2",
+  "text": "ويُطرد الداء ويسلم الجسد وتنشرح الصدور"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_TongYong4_3",
+  "text": "في رعاية سيدة الحجاب"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_YouShen_1_1",
+  "text": "ألف شمعةٍ تتوهّج إجلالًا للقُدس والمقام"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_YouShen_1_2",
+  "text": "وعشرة آلاف مبخرةٍ يتصاعد بخورها دعاءً بالسلام"
+ },
+ {
+  "key": "Dlg_PZ_DuiLian_YouShen_1_3",
+  "text": "بركةٌ تعمّ الخلائق"
+ },
+ {
+  "key": "Dlg_PZ_JieDao_XueXing_Hun_1",
+  "text": "تفوح من الريح رائحة الدم..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_WuRen_Hun_1",
+  "text": "لا أحد في الأفق..."
+ },
+ {
+  "key": "Dlg_PZ_WuZi_DaLiangYiTi_Hun_1",
+  "text": "قلوبهم... مفقودة..."
+ },
+ {
+  "key": "Dlg_PZ_WuDing_XiaYu_Hun_1",
+  "text": "لا يتوقف المطر هنا أبدًا."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JinWei1_Hun_1",
+  "text": "حارس ظلال آخر... لا بد أن تسو شانغ قريب."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JinWei2_Hun_1",
+  "text": "إن كان قد أرسل كل هذا العدد من حرّاس الظلال..."
+ },
+ {
+  "key": "Dlg_PZ_JieDao_JinWei3_Hun_1",
+  "text": "إذن، اقتسم التنظيم وطائفة ربط الخيوط بانغتشن فيما بينهما..."
+ },
+ {
+  "key": "Dlg_PZ_jiuGuan_DengLong_Hun_1",
+  "text": "فانوسان أخضران يضيئان بلا لهب... لا بد أن هذا هو نُزل التنظيم."
+ },
+ {
+  "key": "Dlg_PZ_jiuGuan_JiuJia_Hun_1",
+  "text": "رفّ النبيذ هذا مرتب بإتقان، وفي وسط الفناء تمامًا... ثمة ما يريب."
+ },
+ {
+  "key": "Dlg_PZ_jiuGuan_LiangTing_Hun_1",
+  "text": "يبدو أن الأرض تحت الجناح مجوّفة..."
+ },
+ {
+  "key": "Dlg_PZ_HouJie_XueJianKe_Hun_1",
+  "text": "إنه يطلق شا-تشي... فيدفع مقاتلي الارتقاء الكامل قرب ذلك المبارز ذي الرداء الأحمر <Bold></>إلى الجنون!"
+ },
+ {
+  "key": "Dlg_PZ_RanFang_QinNv1_QinNv1_1",
+  "text": "يحبّ المعلّم بانغ أن يسمع عزفي..."
+ },
+ {
+  "key": "Dlg_PZ_ShangDian_DianZhu_DianZhu_1",
+  "text": "ما متعة الحياة، وما الذي يُخشى في الموت؟"
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing1_YuLing_1",
+  "text": "يجب أن... أنقذ الأخ الأكبر تشو... وأُخرجه من هناك..."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_1",
+  "text": "أردت إنقاذ الأخ الأكبر تشو..."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_2",
+  "text": "لكن... لم أعد أذكره... لا أستطيع العثور عليه."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_3",
+  "text": "شكرًا لك... رسالته... ساعدتني على تذكّره..."
+ },
+ {
+  "key": "Dlg_PZ_WuXiangWang_YuLing2_YuLing_4",
+  "text": "يجب أن أجده... إنه لا يستطيع القتال... عليّ أن أحميه..."
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_YuEr_1",
+  "text": "لم أذرف دمعة واحدة..."
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing1_Battle_1",
+  "text": "من...؟ من يسيطر عليّ؟!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing1_Battle_2",
+  "text": "آآآه...! اقتلوا! اقتلوا!!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing2_Battle_1",
+  "text": "أسرع... أجهز عليه!"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_Hun_1",
+  "text": "هل كان <Bold>هو</> من أمر بهذا؟"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_Hun_2",
+  "text": "ختم العقل يمنعهم من إيذاء العزّل. فلماذا تُكسر أختامهم؟"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ_3",
+  "text": "لم يأمرني حاكم الظلال تسو بفعل هذا!"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ_4",
+  "text": "آآه... ختم العقل... أين هو؟!"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ_5",
+  "text": "ههه... لكنني سأجبرك على ذلك."
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ_6",
+  "text": "فالهدية لمعلّم سول ينبغي أن تنمّ عن شيء من الإخلاص!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing3_HuoLiuXing_Battle_1",
+  "text": "آآآه... أرجوكم! أتوسل إليكم—أطلقوا سراحي!"
+ },
+ {
+  "key": "Dlg_PZ_HuoLiuXing3_LengTu_Battle_2",
+  "text": "لماذا توقفت؟ لم يشعر المعلّم سول بالدفء بعد."
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ2_1",
+  "text": "تسك تسك تسك... يا معلّم سول، إنك حقًا على قدر سمعتك!"
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ2_2",
+  "text": "سآخذ هذا الوعاء."
+ },
+ {
+  "key": "Dlg_PZ_HGCDZ_HGCDZ2_3",
+  "text": "واصل الحفر يا معلّم سول... وستنال المزيد من الهدايا كهذه! هاهاها..."
+ },
+ {
+  "key": "Dlg_Pangzhen_YEXRH_Hun_1",
+  "text": "عليّ أن أتفحّص الزهرة التي تركتها."
+ },
+ {
+  "key": "Dlg_Pangzhen_Investigate_YEXRH1_1",
+  "text": "هذه ليست زنبقة اللحم التي أعطيتها إياها... لقد استُبدلت. ما الذي يدبّرونه؟"
+ },
+ {
+  "key": "Dlg_Pangzhen_Investigate_YEXRH1_2",
+  "text": "عليّ الذهاب إلى منزل يوأر لأعرف ما يجري."
+ },
+ {
+  "key": "Dlg_Pangzhen_Investigate_YEXRH1_3",
+  "text": "أبوها خمّار البلدة. لعلهم يسكنون في <Bold>الأزقة الخلفية</>."
+ },
+ {
+  "key": "Dlg_Pangzhen_Investigate_YEXRH2_1",
+  "text": "هل هذه الزهرة الحمراء... زنبقة اللحم التي حدّثتني عنها يوأر؟"
+ },
+ {
+  "key": "Dlg_Pangzhen_Investigate_YEXRH2_2",
+  "text": "يقولون إن هذه الزهرة تحيي الموتى وتوصل اللحم بالعظم."
+ }
+]

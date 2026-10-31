@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_Hun_2",
+  "text": "لكن الظروف لم تكن في صالحهم..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_Gate_Hun_3",
+  "text": "هل عثر وي سانتشوان على شيء بعد عودته إلى بانغتشن؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuanTiao_Hun_1",
+  "text": "همم... برج آخر من أبراج شا-تشي..."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_1",
+  "text": "...البرد قارس هنا يا معلّم سول..."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_Hun_2",
+  "text": "إذن، وصلت إلى هنا أنت أيضًا."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_3",
+  "text": "هذا المكان خطر. سأرافقك يا معلّم سول. دعني أساعدكَ."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_4",
+  "text": "التنظيم وطائفة ربط الخيوط يمزّق كلٌّ منهما الآخر! كيف أفوّت هذه المتعة؟"
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_Hun_5",
+  "text": "لم تعثر على الحجر البدائي هنا بعد، أليس كذلك؟ انتظر هنا، سأعود."
+ },
+ {
+  "key": "Dlg_DHSD_GJXZ4_GuiChai_Re_1",
+  "text": "كن حذرًا هناك يا معلّم سول!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_1",
+  "text": "آه... شكرًا جزيلًا يا معلّم سول..."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun_2",
+  "text": "ما الذي يشغل بالكَ؟"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_3",
+  "text": "هذا آخر برج شا-تشي في هذه الأنحاء... بحثت في كل مكان. وقد التهمت كل الأحجار البدائية!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun_4",
+  "text": "هل تخشى أن يعود شا-تشي للسيطرة عليكَ إن غاب الحجر البدائي؟"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_5",
+  "text": "إن آل الأمر إلى ذلك، فأنا أفضل الموت!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_6",
+  "text": "لكن... أظن أن حالتي تتحسن."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_7",
+  "text": "صرت أستطيع الصمود مدة أطول بين حجر بدائي وآخر، وأشعر أن ختم العقل أوشك أن يزول نهائيًا!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_8",
+  "text": "ربما يبطئ كل هذا البرد شا-تشي..."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_9",
+  "text": "لو استطعت أن أعيش ما تبقى من عمري كرجل عادي، لما وجدت بأسًا في البقاء في هذه الأرض المتجمدة."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun_10",
+  "text": "إن صحّ ذلك، فسيكون رائعًا حقًا."
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_Hun11",
+  "text": "اعتنِ بنفسك!"
+ },
+ {
+  "key": "Dlg_DHSD2_GJXZ4_GuiChai_12",
+  "text": "تفضّل يا معلّم سول. سأستريح هنا قليلًا ثم أتابع طريقي."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_1",
+  "text": "تسو شانغ... تلاعب بكَ ليجعلك تقتل أبي."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_2",
+  "text": "استخدم شا-تشيكَ ضدك... أليس كذلك؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_3",
+  "text": "بعض الأمور... حتى لو حدثت من دون قصد، فلا سبيل إلى محو عواقبها أبدًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_4",
+  "text": "عليّ أن أثأر لأبي. دعني أقاتل إلى جانبكَ!"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_5",
+  "text": "هذه معركتي وحدي."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_6",
+  "text": "لقد تحالف مع المبعوث، ويقود عددًا لا يُحصى من المحاربين المرتقين إلى الكمال. لا يمكنكَ مواجهته وحدكَ..."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_7",
+  "text": "لديكِ واجبات أهم عليكِ إنجازها!"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_8",
+  "text": "إن هاجمتِ الآن بتهور، قضيتِ على مستقبل التنظيم."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_9",
+  "text": "حتى إن نجوتِ، سيتخلّى عنكِ شيوخ التنظيم المترددون."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_10",
+  "text": "كل ما تركه شيفو لكِ سيؤول إلى رماد."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_11",
+  "text": "غادري هذا المكان الذي تمزقه الصراعات. اجمعي الموالين لشيفو، وقوّي صفوفكِ، وأقيمي تنظيمًا جديدًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_12",
+  "text": "لو كان حيًّا، لأرادكِ أن تفعلي هذا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_13",
+  "text": "إن لم أستطع الثأر لأبي، فما جدوى إعادة بناء التنظيم؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_14",
+  "text": "لا تقلقي."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_15",
+  "text": "قبل أن تنتهي حياتي، سأقضي على تسو شانغ والمبعوث."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_16",
+  "text": "إن كان للوولين أن يشهد أيامًا أفضل، فالبداية بإعادة بناء التنظيم على يديكِ."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_17",
+  "text": "في ثأر دم كهذا، لا تعني السنوات العشر شيئًا..."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_18",
+  "text": "إن غادرت هذا المكان... هل ستأتي معي؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_19",
+  "text": "سأبحث في الوولين عن أمهر المعالجين ليشفوا قلبك... ثم نواجهه معًا!"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_20",
+  "text": "يمكنكِ الانتظار خمس سنوات... بل عشرًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_21",
+  "text": "لكن عامة الناس، وهم لا يُحصَون، لا يملكون هذا الخيار..."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_22",
+  "text": "القرويون الذين انتُزعت أرواحهم من مواضعها، وأتباع الميثاق الذين خضعوا للارتقاء الكامل..."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_23",
+  "text": "لولا تسو شانغ والمبعوث، لما حدث لهم شيء من هذا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_24",
+  "text": "إن لم أوقف تسو شانغ الآن، فسرعان ما سيمتد ما يحدث هنا إلى الوولين كله!"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_25",
+  "text": "همف... هذا الكلام الفارغ لا يشبهك."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_26",
+  "text": "قتلتُ من أجل التنظيم، وخاطرت بحياتي من أجل قضية شيفو طوال هذه السنوات... لينتهي كل شيء في يد تسو شانغ."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_27",
+  "text": "ما الفرق بيني وبين تلك الدمى عديمة الروح؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_28",
+  "text": "سأتبع قلبي وأقاتل من الآن فصاعدًا. حتى وإن كانت أيامي معدودة، فلن يكون كل هذا عبثًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_29",
+  "text": "...هل يوجد في الوولين من يشبهك؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_Hun_30",
+  "text": "مهما يكن، سأحسم هذا الأمر نهائيًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_31",
+  "text": "فهمت... اذهب!"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_32",
+  "text": "إن احتجت إلى المساعدة يومًا، فاستخدم هذه الشارة؛ ستقودك إليّ."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_MuXuaoKui_MuXuaoKui_33",
+  "text": "مستقبل التنظيم... إلى أين سيقوده الطريق؟"
+ },
+ {
+  "key": "Dlg_FJZL_YuYao_Option1",
+  "text": "بدء النزال التدريبي"
+ },
+ {
+  "key": "Dlg_FJZL_YuYao_Option2",
+  "text": "عدم الجاهزية بعد"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao1_YuYao_1",
+  "text": "آنستنا الشابة... تحمل عبئًا ثقيلًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao1_YuYao_2",
+  "text": "لكننا لن نفارقها أبدًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao1_Hun_3",
+  "text": "اعتني بها."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao2_YuYao_4",
+  "text": "كانت مبارزتنا السابقة ممتعة للغاية. هل تودّ جولة أخرى يا معلّم سول؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao2_Hun_5",
+  "text": "بكل سرور."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao2_YuYao_6",
+  "text": "سمعت أنك تحسن استخدام أي سلاح."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao2_YuYao_7",
+  "text": "يا معلّم سول، هل تستطيع هزيمتنا مستخدمًا أسلحتنا وحدها؟"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao2_Hun_8",
+  "text": "سأبذل جهدي."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_Hun_Weapon_1",
+  "text": "لم أجهّز السلاح المناسب."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao3_YuYao_1",
+  "text": "حسنًا. لنبدأ!"
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao4_YuYao_1",
+  "text": "أفلتَّ منها بصعوبة يا معلّم سول."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao5_YuYao_1",
+  "text": "يا معلّم سول، إن مهارتك مبهرة حقًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_YuYao5_YuYao_2",
+  "text": "تفضّل بقبول هذه الهدية المتواضعة عربون احترام."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_TieGui1_TieGui_1",
+  "text": "مع أن الثلوج تغطي هذه الغابة الآن، فما زلت أعرفها جيدًا..."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_TieGui1_TieGui_2",
+  "text": "هنا وُري المعلّم الثرى أخيرًا."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_TieGui2_TieGui_3",
+  "text": "معلّمي... حاد عن الطريق القويم، لكن قلبه لم يتزعزع قط."
+ },
+ {
+  "key": "Dlg_XSSL_ShaQiTa_TieGui2_TieGui_4",
+  "text": "إن صادفت قبره في هذه الغابة... فأوقد بعض البخور نيابة عني."
+ },
+ {
+  "key": "Dlg_XSSL_Investigate_FenMu_1",
+  "text": "قبر معلّم جليل. من الأفضل ألا نمسّه."
+ },
+ {
+  "key": "Dlg_XSSL_FenMu_TianYin_1",
+  "text": "عظامٌ من فولاذ تصقل القبضتين."
+ },
+ {
+  "key": "Dlg_XSSL_FenMu_TianYin_2",
+  "text": "ورياحٌ عاتية تصوغ روحًا قويمة."
+ },
+ {
+  "key": "Dlg_XSSL_FenMu_TianYin_3",
+  "text": "وبعد محنٍ لا تُحصى يصمد القلب الصادق."
+ },
+ {
+  "key": "Dlg_XSSL_FenMu_TianYin_4",
+  "text": "وروح الحقّ تهزّ السماء والأرض بعزيمة."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan1_1",
+  "text": "كان في ما مضى تمثالًا بسيطًا من الطين الملوّن، يحرس سلام هذه الأرض."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan1_2",
+  "text": "أما الآن، فلم يعد بالإمكان رؤية وجهه الوديع."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan2_1",
+  "text": "كان أهل القرية يقيمون هنا مزاراتهم وتماثيلهم."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan3_1",
+  "text": "مبخرة مهملة كاد رمادها يفيض منها. لعل أهل القرية عدّوا ذلك دليلًا على أن السيدة سمعت دعواتهم."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan4_1",
+  "text": "دُفع إلى زاوية وتُرك ليتراكم عليه الغبار، بلا زهور حمراء تزيّنه."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan4_2",
+  "text": "لعلهم رأوه أصغر من أن يستحق أن يكون «وجه» السيدة."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan5_1",
+  "text": "خدوش حديثة على قاعدة التمثال، كأن أحدًا حاول تحريكه."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan5_2",
+  "text": "لكنهم استسلموا في النهاية. لعلهم خافوا، أو عجزوا ببساطة عن تحريكه."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan6_1",
+  "text": "تتناثر على الأرض والمذبح نقود بالية، وأعواد بخور مكسورة، وبتلات يابسة، وقماش أحمر باهت."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan6_2",
+  "text": "تبدو قشور الفاكهة وقطع الورق وقد قرضتها الجرذان."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan7_1",
+  "text": "يمتد السخام على طيّات ثوب التمثال، علامة واضحة على أن البخور كان يُحرق هنا بلا انقطاع."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan8_1",
+  "text": "الألواح مرتبة بإتقان، وتزيّن كلًّا منها زهرة حمراء."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan9_1",
+  "text": "لا تكترث السيدة للمعابد الجديدة؛ فأي تمثال قديم يصلح قناعًا لها."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan10_1",
+  "text": "دُمجت دمى حيّة في هذه التماثيل."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan10_2",
+  "text": "اختصر هذا كثيرًا الوقت اللازم لصنع تماثيل السيدة."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan11_1",
+  "text": "يُسمع من داخل التمثال صوت حركة خافت مكتوم، كأن شيئًا حبيس الطين يتحرك."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan12_1",
+  "text": "تكشف الركبة المتضررة من التمثال عن جزء من عظم أبيض ناصع يبرز بوضوح أمام الطين."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan13_1",
+  "text": "تمثال حديث الصنع، حُبست أمّ العمّ لو في داخله."
+ },
+ {
+  "key": "Dlg_LJC_Investigate_ShenKan13_2",
+  "text": "دخلت العجوز طوعًا، وقالت إنها تريد أن تكون أقرب إلى السيدة."
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai1_1",
+  "text": "رياحٌ مواتية وغيثٌ رحيم، والخير عامًا بعد عامٍ مقيم"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai1_2",
+  "text": "وغلالٌ وافرة ورخاءٌ عميم، يزدهر عامًا بعد عامٍ ويدوم"
+ },
+ {
+  "key": "Dlg_LJC_DuiLian_MinZhai1_3",
+  "text": "تمام الأمور على المراد"
+ }
+]

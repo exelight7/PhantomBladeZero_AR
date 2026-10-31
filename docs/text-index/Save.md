@@ -10,5 +10,5 @@
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `Save_1` | ميدان تدريب التنظيم | [الدفعة](../../work/opencode/batches/batch_0038.json) | [الأصل](../../data/Game_locres_ar.json) |
-| `Save_2` | الطريق الرئيسي | [الدفعة](../../work/opencode/batches/batch_0038.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Save_1` | ميدان تدريب التنظيم | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `Save_2` | الطريق الرئيسي | [الدفعة](../../work/review2/batches/batch_0013.json) | [الأصل](../../data/Game_locres_ar.json) |

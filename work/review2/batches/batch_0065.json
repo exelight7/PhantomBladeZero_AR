@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_FJZL_JingYe1_Battle_1",
+  "text": "ضحية أخرى لنصلي..."
+ },
+ {
+  "key": "Dlg_FJZL_JingYe1_Battle_2",
+  "text": "رأسك... لي..."
+ },
+ {
+  "key": "Dlg_FJZL_JingYe2_Battle_1",
+  "text": "سيفي سيستنزف دمك حتى آخر قطرة..."
+ },
+ {
+  "key": "Dlg_FJZL_JingYe3_Battle_1",
+  "text": "الدم! المزيد من الدم!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangBaiShan_BaiShanJia_1",
+  "text": "لانلان... أنا من وافق على إخفاء الأخت الصغرى منغ..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangBaiShan_BaiShanYi_2",
+  "text": "آه، هل ندمت الآن؟ وفّري عليّ هذا التظاهر بالبراءة، أيتها الأخت الكبرى جيو. من تحاولين خداعه؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_6",
+  "text": "إن لم نحاول تلك الطريقة على الأقل، فلن نستطيع حتى الدفاع عن أنفسنا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_7",
+  "text": "إذًا كيف ننقذ أختنا الصغرى؟ وكيف نُخرج المعلمة ومن معها من معسكر الميثاق؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_Hun_9",
+  "text": "إن سلكتِ ذلك الطريق... فقد لا تعودين قادرة على تقرير مصيرك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_10",
+  "text": "أنا..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanJia1_BaiShanJia_Re_1",
+  "text": "إن سلكت ذلك الطريق... فقد لا أعود صاحبة القرار في مصيري..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_2",
+  "text": "الأخت الكبرى جيو مهووسة بالارتقاء الكامل. لقد فقدت صوابها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_3",
+  "text": "فكّر في الأمر! لماذا حاصر السائرون المقنّعون النزل فور رحيل المعلمة ومن معها؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_7",
+  "text": "عليّ أن أراقبها. لا أستطيع أن أتركها تفعل شيئًا متهورًا. لكن الأخت الصغرى منغ ما زالت في النفق أسفل النزل... والوقت يداهمها..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_8",
+  "text": "أيها البطل، إن مررت بنزل الجبل، فأرجوك أنقذها! ستظل طائفة بايشان مدينة لك إلى الأبد!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanYi1_BaiShanYi_9",
+  "text": "إن لم يفت الأوان..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu_Option1",
+  "text": "أنتِ من قتلها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu_Option2",
+  "text": "الموتى لا يعودون. رثاؤهم وتركهم يمضون."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_1",
+  "text": "هه... لانلان، كنتِ ساذجة حقًا..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_2",
+  "text": "بعد كل ما حدث... أقدمت فعلًا على الانتحار..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_3",
+  "text": "آه... أختي الصغرى... يا لغبائك..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2_XiaoJu_4",
+  "text": "كانت تملك ما يمكّنها من القتال... لكن لم تكن لديها إرادة للحياة..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2a_Hun_1",
+  "text": "أنتِ من قتلها!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2a_XiaoJu_2",
+  "text": "لقد جنّبتها المعاناة!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2b_Hun_1",
+  "text": "الموتى لا يعودون. احزني عليها ودعيها ترحل."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2b_XiaoJu_2",
+  "text": "آه... أختي الصغرى... يا لغبائك..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_BaiShanXiaoJu2b_XiaoJu_3",
+  "text": "لو أنني علمت... لأمسكت بها... وأجبرتها على الارتقاء أيضًا... هيه هيه."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_1",
+  "text": "آه... أ-أنت!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_2",
+  "text": "قطاع الطرق والغزاة... هل أنت من يطاردونه؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_3",
+  "text": "مهلًا، لنتحدث! لا تؤذني..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiJia_FeiZeiJia_4",
+  "text": "أ-على أي حال... لن يسألوني! وحتى لو سألوني، لا أعرف شيئًا!"
+ },
+ {
+  "key": "Dlg_FJZL_LaoQiGai_LaoQiGai_1",
+  "text": "هه هه... أيًّا يكن... في أعماق الدهليز سهامٌ خبئت... وكنزُ قائدٍ في الداخل ينتظر..."
+ },
+ {
+  "key": "Dlg_FJZL_LaoQiGai_LaoQiGai_4",
+  "text": "تذكّر هذا... ارفع درعك وسط وابل السهام، واثبت مكانك، فلن يصيبك أذى!"
+ },
+ {
+  "key": "Dlg_FJZL_LaoQiGai_LaoQiGai_8",
+  "text": "فكّر مليًّا! بدرعٍ تبلغ الكنز... وبلا درعٍ تندفع إليه، فموتك محتوم!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option1",
+  "text": "تحطيم اللؤلؤة المضيئة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option2",
+  "text": "سرقة حزام اليشم من أحد الوجهاء"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option3",
+  "text": "سرقة سجل أحد قادة الميثاق"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option4",
+  "text": "إضرام النار في مخزن الحبوب المحلي"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option5",
+  "text": "العنقاء"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option6",
+  "text": "الفاوانيا"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option7",
+  "text": "الفراشة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option8",
+  "text": "بط الماندرين"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option9",
+  "text": "الإيواء لدى الميثاق"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option10",
+  "text": "الإيواء لدى أحد الوجهاء"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option11",
+  "text": "الإيواء لدى السلطات"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_Option12",
+  "text": "لم يرد ذكره في الرسالة"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_LiangShangJun_1",
+  "text": "أهلًا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun_LiangShangJun_2",
+  "text": "هل رأيت لصًا يُلقّب باللصّ الرشيق؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1a_LiangShangJun_1",
+  "text": "لا، لم أره."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1a_LiangShangJun_2",
+  "text": "...انسَ الأمر. سألت في كل مكان، ولا أحد يعرف شيئًا. تابع طريقك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_Hun_1",
+  "text": "ترك هذه الرسالة... مكتوبة بالدم. عليك أن تقرأها."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_3",
+  "text": "لم أقرأ حرفًا في حياتي، واللصّ الرشيق يعرف ذلك جيدًا. فلماذا يترك لي رسالة؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_Hun_4",
+  "text": "تقول إن لديه أمرًا لم ينجزه. وأراد من يعثر عليها أن يخبر أخاه، اللصّ الوديع، بموته."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_5",
+  "text": "اللصّ الوديع؟ أنا هو! تسك... هل يعقل حقًا أن تكون هذه من اللصّ الرشيق؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_6",
+  "text": "حسنًا. لديّ ثلاثة أسئلة. إن كانت إجاباتك صحيحة، صدّقتك."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_7",
+  "text": "كان اللصّ الرشيق يتباهى دائمًا بأنه ذاع صيته في صغره."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun1b_LiangShangJun_8",
+  "text": "فما الذي فعله في الثالثة عشرة وظلّ يتباهى به؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_Hun_1",
+  "text": "سرق حزامًا من اليشم من أحد الأثرياء."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_LiangShangJun_2",
+  "text": "صحيح... كانت تلك أول غنيمة حقيقية له."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_LiangShangJun_3",
+  "text": "قايضنا حزام اليشم بعشرة أرغفة... وتابوت."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2a_LiangShangJun_4",
+  "text": "تقاسمنا الخبز... واستخدمنا التابوت... لندفن لصًا عجوزًا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2c_Hun_1",
+  "text": "حطّم اللؤلؤة المضيئة في رواق المعرفة."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2c_Hun_2",
+  "text": "سرق سجلّ زعيم إحدى طوائف الميثاق."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2c_Hun_3",
+  "text": "أضرم النار في مخزن الحبوب المحلي."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2b_LiangShangJun_1",
+  "text": "همم... يا لها من سخافة!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun2b_LiangShangJun_2",
+  "text": "هذه الرسالة... يستحيل أن تكون من أخي!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3_LiangShangJun_1",
+  "text": "والآن... الدبوس الذي دمّر حياته. هل تعرف شكل رأسه؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3a_Hun_1",
+  "text": "كان عليه نقش فراشة، بدا جناحاها وكأنهما يرتجفان."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3a_LiangShangJun_2",
+  "text": "أجل... شيء جميل وثمين... لكنه لم يجلب له سوى المصائب..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3c_Hun_1",
+  "text": "كان عليه نقش لطائر الفينيق."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3c_Hun_2",
+  "text": "كان عليه نقش لزهرة الفاوانيا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3c_Hun_3",
+  "text": "كان عليه نقش زوج من بطّ الماندرين."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3b_LiangShangJun_1",
+  "text": "ها! لم يكن شكل ذلك الدبوس يشبه هذا أبدًا!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun3b_LiangShangJun_2",
+  "text": "لا تعرف شيئًا، ثم تجرؤ على الادعاء بأن معك رسالته؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4_LiangShangJun_1",
+  "text": "إذًا أخبرني... هل تعرف ما حلّ بطفل تلك الأسرة الفقيرة؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_Hun_1",
+  "text": "لم تذكر الرسالة الطفل. يبدو أن مصيره مجهول."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_2",
+  "text": "صحيح... اختفى ذلك الطفل، ولم يتجاوز اللصّ الرشيق الأمر قط..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_3",
+  "text": "...ما دام قد رحل... فسأفي عنه بهذا الدين."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_4",
+  "text": "خذ، هذا لك!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4a_LiangShangJun_5",
+  "text": "شكرًا لأنك أتيتني بكلماته الأخيرة. على الأقل لم يمت بلا أثر..."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4c_Hun_1",
+  "text": "ضمّ الميثاق ذلك الطفل إليه."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4c_Hun_2",
+  "text": "تكفّل أحد الأثرياء بذلك الطفل."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4c_Hun_3",
+  "text": "تكفّلت السلطات بذلك الطفل."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_LiangShangJun4b_LiangShangJun_1",
+  "text": "كنت أعلم أنك تحاول خداعي!"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_1",
+  "text": "هل جئت أنت أيضًا من أجل تشانغ سريع اليد؟"
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_2",
+  "text": "ولكي يكون الأمر واضحًا: إن كنت تتعامل معه، فالتزم بالنزاهة. تجارة لا غير، ولا تأخذ منه شيئًا بالمجان."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_7",
+  "text": "بالقرب من مخبئه، تجد عادةً خنجرًا للرمي تتدلى منه عملات نحاسية. فتّش حولك، وستجده قريبًا."
+ },
+ {
+  "key": "Dlg_FJZL_YingDi_FeiZeiBing_FeiZeiBing_Re_2",
+  "text": "بالقرب من مخبئه، تجد عادةً خنجرًا للرمي تتدلى منه عملات نحاسية. فتّش حولك، وستجده قريبًا."
+ },
+ {
+  "key": "Dlg_FJZL_Investigate_XiaoZhangBiaoZhi_1",
+  "text": "فيما مضى، كان الشيخ تشانغ سريع اليد يترك وراءه خنجرًا للرمي تتدلى منه عملات، أينما أقام..."
+ },
+ {
+  "key": "Dlg_FJZL_Investigate_XiaoZhangBiaoZhi_2",
+  "text": "يبدو أن تشانغ سريع اليد اتخذ العادة نفسها. لا بد أن مخبأه قريب."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_Option1",
+  "text": "التجارة"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_Option2",
+  "text": "الآثار في أرجاء البلاد"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_Option3",
+  "text": "هل أنت حقًا تشانغ سريع اليد؟"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_Option4",
+  "text": "الآثار المفقودة في الغابة القرمزية"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ_MSXZ_1",
+  "text": "آه يا بطل! ها أنت ذا! تعال، تعال!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ1_MSXZ_1",
+  "text": "ههه! مجرد هدية بسيطة تعبيرًا عن شكري!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ1_MSXZ_2",
+  "text": "جمعتُ مجموعة لا بأس بها خلال ترحالي. وفي أوقات مضطربة كهذه، يتبادل أهل مهنتي السلع بحرية. لا بد أنك ستجد ما يعجبك!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_1",
+  "text": "بيننا فقط، لديّ مهمة... لشخص لا أستطيع الإفصاح عن اسمه. طلب مني استعادة الكنوز والآثار الموزعة في أنحاء الوولين."
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_MSXZ_2",
+  "text": "تلك الكنوز لا تُقدّر بثمن، نعم. لكن بالنسبة إلى بطل مثلك، ما هي إلا زينة لا نفع منها البتة!"
+ },
+ {
+  "key": "Dlg_FJZL2_MSXZ3_Hun_3",
+  "text": "وماذا لو أحضرت لك ما تبحث عنه؟"
+ }
+]

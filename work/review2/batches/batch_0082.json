@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_PZ_JiuGuan_WuShi_HuanGui_2",
+  "text": "سمعت أن لهيب، المعلّم الأكبر لرقصة الأسد، يواجه متاعب..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_WuShi_HuanGui_3",
+  "text": "وقع أمر ما في قاعة رقصة الأسد التابعة له. وقد أحسست في أعماقها بحاجز طيفي من النوع نفسه."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_WuShi_HuanGui_4",
+  "text": "إن سنحت لك الفرصة، فعزف البيبا هناك يستحق التجربة!"
+ },
+ {
+  "key": "Dlg_PZ_WuShiHouShan_Investigate_RuKou_1",
+  "text": "تقف عاصفة عاتية كجدار غير مرئي."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_Hun_1",
+  "text": "هل أنت من المعسكر؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_2",
+  "text": "نعم... لكن... المعسكر سقط بالفعل..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_3",
+  "text": "نجا منّا بضعة قادة من الرداء الأرجواني... أما أصحاب الرداء الأبيض والأزرق فلم يحالفهم الحظ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_Hun_4",
+  "text": "الرداء الأبيض... والرداء الأزرق؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_5",
+  "text": "تُحدَّد رتبنا بالألوان. يرتدي التلاميذ الأبيض، والقادة الأزرق. وأنا أرتدي الأرجواني بصفتي قائد فرقة الذئب."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_6",
+  "text": "ومع ذلك... هناك مبارز بالسيف يفوق في مهارته أيّ قائد فرقة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_7",
+  "text": "لكنه تورّط مع امرأة من طائفة شريرة... ولهذا ما زال مجرد صاحب رداء أزرق."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_8",
+  "text": "ولا يبالي بذلك إطلاقًا. فهو يفضّل دراسة تشكيلات السيوف مع إخوته الأصغر من أصحاب الرداء الأبيض."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_9",
+  "text": "لكن... للقدر قسوة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing1_LangTouLing_Re_1",
+  "text": "تُحدَّد رتبنا بالألوان. لكن هناك صاحب رداء أزرق لم يرتقِ إلى رتبة أعلى قط... للقدر قسوة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_Hun_1",
+  "text": "منحت أولئك السبعة موتًا مشرّفًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_2",
+  "text": "...الارتقاء الكامل هو ما فعل هذا بهم... يملأ رؤوس الناس بآمال زائفة، ثم يسلبهم هويتهم."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_3",
+  "text": "أجبر رجال هوانغشينغ كثيرًا من قادة الرداء الأرجواني على الخضوع للارتقاء الكامل."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_4",
+  "text": "لكنني أعرف أنهم ما كانوا ليقبلوا طوعًا أن يصبحوا أجسادًا خاوية بلا عقل!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_5",
+  "text": "لا بد أن أصدقائي القدامى ما زالوا يقاومون تلك القوة الشريرة التي تنهش قنواتهم الحيوية!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_6",
+  "text": "أرجوك، أرحهم هم أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_7",
+  "text": "يُسمّى هذا اليشم «بسالة البطل». سيساعدك على العثور على من لا تزال لديهم قدرة على القتال."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_Re_1",
+  "text": "لا بد أن أصدقائي القدامى ما زالوا يقاومون تلك القوة الشريرة التي تنهش قنواتهم الحيوية!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing2_LangTouLing_Re_2",
+  "text": "أرجوك، أرحهم هم أيضًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_LangTouLing3_LangTouLing_1",
+  "text": "...الارتقاء الكامل هو ما فعل هذا بهم..."
+ },
+ {
+  "key": "Dlg_PZ_ZiYiShuangJianA1_ZiYiShuangJianA_1",
+  "text": "لن... أخون الميثاق!"
+ },
+ {
+  "key": "Dlg_PZ_ZiYiShuangJianA2_ZiYiShuangJianA_1",
+  "text": "أيها البطل... أجهز عليّ!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_1",
+  "text": "اخرجوا من هنا! إن أردتم النجاة، فلا تظهروا بوجوهكم هنا مجددًا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_2",
+  "text": "لا تقتربوا مني... لن أجلب لكم إلا الأذى... يا أخي الأصغر... يا أختي الصغرى..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_3",
+  "text": "ما دمت ما زلت أذكر من أنتم... وما دمت أذكر الرابطة التي تجمعنا..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_4",
+  "text": "ليقتلني أحد... أرجوكم... ليقتلني أحد..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiShuangJianA3_ZiYiShuangJianA_5",
+  "text": "لا... لا تدعوا سيفي يتلطخ... بدماء أهلي..."
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiShuangJianB1_ZiYiShuangJianB_1",
+  "text": "قد يفنى جسدي... لكن إرادتي لن تلين!"
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiShuangJianB2_ZiYiShuangJianB_1",
+  "text": "افعلها. أجهز عليّ!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ZiYiShuangJianB_1",
+  "text": "أقسمنا ألا نلجأ إلى هذا الفنّ الخبيث أبدًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_2",
+  "text": "ما زلتَ متمسكًا بذلك العهد العزيز؟ انظر حولك. معسكر الميثاق ينهار."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_3",
+  "text": "التزمنا بالقواعد، وفينا بوعودنا... والآن اختفى المعلّم موجي من دون أن يترك أثرًا..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_4",
+  "text": "وقفنا مكتوفي الأيدي بينما كان رفاقنا يسقطون واحدًا تلو الآخر!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ZiYiShuangJianB_5",
+  "text": "وهل لهذا اخترتِ أن تصبحي وحشًا؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_6",
+  "text": "حوّلت نفسي إلى كائن قادر على قتل الوحوش!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiShuangJianB2_ShuangJianFuRen_7",
+  "text": "وأنت أيضًا تستطيع..."
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiDaoWeiA1_ZiYiDaoWeiA_1",
+  "text": "لن تسيطر عليّ حيلٌ وضيعة كهذه أبدًا!"
+ },
+ {
+  "key": "Dlg_ZDDY_ZiYiDaoWeiA2_ZiYiDaoWeiA_1",
+  "text": "اقتلني فحسب!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_1",
+  "text": "كفى! أيّ شرف في استهداف أصحاب الرداءين الأبيض والأزرق؟"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_2",
+  "text": "هاجموني أنا بدلًا منهم!"
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_3",
+  "text": "أنا أحد قادة الرداء الأرجواني... ومهارتي ومكانتي تجعلانني أنفع لكم بكثير."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_ZiYiDaoWeiA3_ZiYiDaoWeiA_4",
+  "text": "هؤلاء التلاميذ لا يفعلون إلا تنفيذ الأوامر. أطلقوا سراحهم... وافعلوا بي ما تشاؤون!"
+ },
+ {
+  "key": "Dlg_PZ_ZiYiDaoWeiB1_ZiYiDaoWeiB_1",
+  "text": "لن أنضمّ إلى فسادكم!"
+ },
+ {
+  "key": "Dlg_PZ_ZiYiDaoWeiB2_ZiYiDaoWeiB_1",
+  "text": "أجهز عليّ... أرجوك!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiDaoWeiB3_ZiYiDaoWeiB_1",
+  "text": "أيها الأوغاد المشوّهون!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiDaoWeiB3_ZiYiDaoWeiB_2",
+  "text": "حتى لو التهم هذا الفنّ الخبيث لحمي واستولى على جسدي... فلن يفسد قلبي أبدًا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiDaoWeiB3_ZiYiDaoWeiB_3",
+  "text": "منذ صغري وأنا أحمل السيف. أنصر الحق وأعيش بشرف..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiDaoWeiB3_ZiYiDaoWeiB_4",
+  "text": "أحمي أهلي وأطيح بالفاسدين..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_ZiYiDaoWeiB3_ZiYiDaoWeiB_5",
+  "text": "لن أصبح أبدًا... كلبًا لكم..."
+ },
+ {
+  "key": "Dlg_PZ_BaiShanHuFaA1_BaiShanHuFaA_1",
+  "text": "أفضّل الموت وأنا أقاتل على أن أتحول إلى واحد من تلك الأشياء..."
+ },
+ {
+  "key": "Dlg_PZ_BaiShanHuFaA2_BaiShanHuFaA_1",
+  "text": "أسرع... حرّرني..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_1",
+  "text": "في البداية... تغمرك قوة هائلة، ويخيّل إليك أن لا شيء يقف في طريقك..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_2",
+  "text": "كأنك... تملك أخيرًا القوة اللازمة للقضاء على السائرين المقنّعين..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_3",
+  "text": "ثم يبدأ الطنين... خافتًا في البداية... كأن شيئًا يهمس في أذنك..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_4",
+  "text": "ثم يبدأ العقل بالتلاشي رويدًا... وحين تستعيد وعيك... تكون الذكرى قد اختفت."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_5",
+  "text": "ثم يأتي الظمأ... لا إلى الماء، بل إلى الدم."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_6",
+  "text": "حين تنظر إلى أعناق سائر التلاميذ... تجد نفسك فجأة تتساءل عن مذاق لحمهم..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_7",
+  "text": "رأيت ما آلوا إليه. كلهم ينتهون إلى الحال نفسها..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_BaiShanHuFaA3_BaiShanHuFaA_8",
+  "text": "يا أختي الكبرى... لا أريد أن ينتهي بي المطاف هكذا... لا أريد..."
+ },
+ {
+  "key": "Dlg_ZDDY_BaiShanHuFaB1_BaiShanHuFaB_1",
+  "text": "أفضّل الموت على أن أرى قضيتنا تُهان!"
+ },
+ {
+  "key": "Dlg_ZDDY_BaiShanHuFaB2_BaiShanHuFaB_1",
+  "text": "أرجوك... ضع حدًا لمعاناتي..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_1",
+  "text": "فاتتنا أزهى أيامه..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_2",
+  "text": "كان الأساتذة الكبار يقولون... إن تلك الأيام كانت أيام فنّ السيف الأصيل."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_3",
+  "text": "كانت كل طائفة تبذل فنونها للجميع، وكانت المبارزات تنتهي قبل أن تُراق قطرة دم."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_4",
+  "text": "كان المهزوم يسلّم بفوز خصمه بطيب نفس، ويعزو الفائز انتصاره إلى الحظ وحده."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_5",
+  "text": "ثم يتقاسمان الشراب... ويبقيان صديقين."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_6",
+  "text": "لم يكن يهمّ أيّ فنّ تتدرّب عليه... المهم من يتقدّم أكثر، ومن يقترب خطوة أخرى من داو."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_7",
+  "text": "لا كما هو الحال اليوم... يموت الجميع... على أيدي بعضهم بعضًا..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_8",
+  "text": "لكنني ما زلت أؤمن بأن الوولين سيتعافى... لكنني لن أعيش لأرى ذلك..."
+ },
+ {
+  "key": "Dlg_ZDDY_MEM_BaiShanHuFaB3_BaiShanHuFaA_9",
+  "text": "عليكِ أن تعيشي لتشهدي ذلك اليوم، يا أختي الصغرى!"
+ },
+ {
+  "key": "Dlg_Common_Investigate_FlowerZaoYin_1",
+  "text": "سسس... شش... فرقعة..."
+ },
+ {
+  "key": "Dlg_Common_Investigate_FlowerZaoYin_2",
+  "text": "بهتت الذكرى الباقية حتى غدت كخيط واهن."
+ },
+ {
+  "key": "Dlg_Common_Investigate_FlowerZaoYin_3",
+  "text": "قد يصلح شيء ذو خواص روحية، كاليشم، وسيطًا يعيد ذكريات الزهرة إلى الظهور."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui_NiuZhangGui_1",
+  "text": "هوانغ... لن تطأ قدماي بيتك مجددًا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui_NiuZhangGui_2",
+  "text": "يا هوانغ العجوز... اطمئن واسترح الآن... أرجوك."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_1",
+  "text": "حين سلّمني هوانغ ذلك المفتاح... لا بد أنه أحسّ بأن شيئًا ما سيحدث..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_2",
+  "text": "وفي اليوم التالي مباشرة... وقع شيء فعلًا. سمعت أن خادماته كلهن تحوّلن إلى دمى خشبية... ثم مزّقنه إربًا..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_3",
+  "text": "أقول لك، لا بد أن ابنته العاقة وراء ذلك. تلك التي ظلت طريحة الفراش سنين!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_Hun_4",
+  "text": "يبدو أنها مأساة أخرى سببها نقل الروح."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_5",
+  "text": "بعد ما حدث، صار بيته ملعونًا... لا أجرؤ على الاقتراب منه. ومع ذلك... أشفق عليه... على العجوز هوانغ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_Hun_6",
+  "text": "سأتحقق من الأمر من أجلك."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_7",
+  "text": "حسنًا! حسنًا! عليك أن تنصفه..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui1_NiuZhangGui_Re_1",
+  "text": "أعتمد عليك الآن! أرجوك... أنصف هوانغ..."
+ },
+ {
+  "key": "Dlg_PZ_ZaiHuiXiongZhang_NvRenOu_1",
+  "text": "يا تعس... هذا جزاؤك..."
+ },
+ {
+  "key": "Dlg_PZ_ZaiHuiXiongZhang_NvRenOu_2",
+  "text": "سيدتي... ارقدي بسلام..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_CaiZhuFuQin_1",
+  "text": "أنتِ... يا مشؤومة! وجهكِ كوجه أمكِ التي ماتت شابة... كأن الشؤم وُلد معكما، أنتِ وأمك!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiu_3",
+  "text": "أبي؟ أ... أنتَ ثمل..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_CaiZhuFuQin_4",
+  "text": "تجرئين على الردّ عليّ؟ ها! كانت سينيانغ على حق؛ أنتِ وأمكِ جلبتما اللعنة على هذا البيت! سأ... سأقضي عليكِ اليوم، يا نذير الشؤم!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_5",
+  "text": "كفى! أبي، عُد إلى رشدك! ما ذنب أختي؟! إنها من لحمك ودمك!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_7",
+  "text": "أبي، كفى! صبّ غضبك عليّ بدلًا منها! مهما يكن عقابك، سأتحمّله عنها! همف..."
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiu_8",
+  "text": "أ-أخي!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_9",
+  "text": "اليوم... سأقطع إصبعًا. لكن إن آذيت أختي مرة أخرى، فسأشقّ عنقي أمام قبور أسلافنا!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_GuiXiuXiongZhang_10",
+  "text": "وسأخبر أسلافنا أمام قبورهم كيف فضّلت محظية على زوجتك، وعاديت لحمك ودمك، ودفعت أبناءك إلى حتفهم!"
+ },
+ {
+  "key": "Dlg_PZ_MEM_CaiZhuFuQin_11",
+  "text": "أنت... يا لك من ابن عاقّ! اخرج! كلاكما، اخرجا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_1",
+  "text": "إذًا، كيف حال منزل هوانغ الآن؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun_2",
+  "text": "لم ينجُ أحد."
+ }
+]

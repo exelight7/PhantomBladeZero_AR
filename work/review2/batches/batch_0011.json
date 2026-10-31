@@ -1,0 +1,402 @@
+[
+ {
+  "key": "UI_Confirmation_StartMenu_02",
+  "text": "ستبدأ اللعبة الجديدة مع <Bold>الدروس التعليمية</>. اختيار «تأكيد» للمتابعة، أو «إلغاء» لتخطّيها."
+ },
+ {
+  "key": "UI_StartMenu_06",
+  "text": "هذا العمل قيد التطوير، ولا يمثّل بالضرورة الإصدار النهائي."
+ },
+ {
+  "key": "UI_Complete_01",
+  "text": "إجمالي وقت اللعب"
+ },
+ {
+  "key": "UI_Complete_02",
+  "text": "عدد مرات الموت"
+ },
+ {
+  "key": "UI_Complete_06",
+  "text": "جمع الأغراض"
+ },
+ {
+  "key": "UI_Complete_07",
+  "text": "إكمال القصة"
+ },
+ {
+  "key": "UI_Complete_08",
+  "text": "مجموعة الأسلحة"
+ },
+ {
+  "key": "UI_Complete_03",
+  "text": "ترقّبوا المزيد!"
+ },
+ {
+  "key": "UI_Complete_05",
+  "text": "الضغط على <img id=\"Bottom\" width=\"40\"/> للمتابعة"
+ },
+ {
+  "key": "Other_All_FuncHint_003",
+  "text": "غير متاح في النسخة التجريبية."
+ },
+ {
+  "key": "UI_Complete_09",
+  "text": "مستوى الصعوبة"
+ },
+ {
+  "key": "UI_Complete_10",
+  "text": "إعادة بدء هذه الدورة في نمط 66 يومًا؟"
+ },
+ {
+  "key": "UI_StartMenu_15",
+  "text": "إشعار الصحة والسلامة"
+ },
+ {
+  "key": "UI_StartMenu_16",
+  "text": "هذه اللعبة مخصصة للاعبين بعمر 18 عامًا فأكثر."
+ },
+ {
+  "key": "UI_Quest_11",
+  "text": "الخريطة الكبيرة"
+ },
+ {
+  "key": "UI_Dead_01",
+  "text": "ميت"
+ },
+ {
+  "key": "UI_BellMenu_17",
+  "text": "صقل روح السلاح"
+ },
+ {
+  "key": "UI_BellMenu_18",
+  "text": "ترقية الدواء"
+ },
+ {
+  "key": "UI_BellMenu_19",
+  "text": "صقل الحُلية"
+ },
+ {
+  "key": "UI_Setting_07",
+  "text": "تشغيل"
+ },
+ {
+  "key": "UI_Setting_08",
+  "text": "إيقاف"
+ },
+ {
+  "key": "UI_Setting_22",
+  "text": "إيقاف"
+ },
+ {
+  "key": "UI_Setting_180",
+  "text": "كبير جدًا"
+ },
+ {
+  "key": "UI_Quest_03",
+  "text": "الأسرار"
+ },
+ {
+  "key": "UI_Character_12",
+  "text": "تبديل"
+ },
+ {
+  "key": "UI_Inventory_27",
+  "text": "استخدام"
+ },
+ {
+  "key": "UI_Literature_03",
+  "text": "الذكريات"
+ },
+ {
+  "key": "UI_Literature_06",
+  "text": "المجموع: {0}"
+ },
+ {
+  "key": "UI_Literature_11",
+  "text": "البتلات المجموعة: {0}"
+ },
+ {
+  "key": "UI_BellMenu_06",
+  "text": "استعادة القلب"
+ },
+ {
+  "key": "UI_BellMenu_08",
+  "text": "إنفاق {0} من غبار الوعي لاستعادة ضرر القلب."
+ },
+ {
+  "key": "UI_BellMenu_10",
+  "text": "غبار الوعي غير كافٍ"
+ },
+ {
+  "key": "UI_BellMenu_11",
+  "text": "تمت استعادة القلب"
+ },
+ {
+  "key": "UI_BellMenu_12",
+  "text": "القلب مستعاد بالكامل بالفعل."
+ },
+ {
+  "key": "UI_BellMenu_13",
+  "text": "ترقية السلاح"
+ },
+ {
+  "key": "UI_BellMenu_14",
+  "text": "شراء"
+ },
+ {
+  "key": "UI_BellMenu_21",
+  "text": "تعذّر العثور على عالم السراب. التحقق من متطلبات عالم السراب لهذا المستوى."
+ },
+ {
+  "key": "UI_BellMenu_26",
+  "text": "عالم السراب"
+ },
+ {
+  "key": "Bell_Item_01",
+  "text": "العودة إلى أقرب جرس"
+ },
+ {
+  "key": "Bell_Item_02",
+  "text": "الاستخدام للعودة إلى أقرب جرس."
+ },
+ {
+  "key": "Bell_Item_03",
+  "text": "العودة إلى أقرب جرس؟"
+ },
+ {
+  "key": "Bell_Item_04",
+  "text": "لا يمكن العودة إلى أقرب جرس أثناء الوجود في عالم السراب."
+ },
+ {
+  "key": "UI_Setting_13",
+  "text": "سهل"
+ },
+ {
+  "key": "UI_StartMenu_05",
+  "text": "الضغط على أي زر للمتابعة"
+ },
+ {
+  "key": "UI_Pickup_02",
+  "text": "اختيار سلاح لاستبداله."
+ },
+ {
+  "key": "UI_Pickup_03",
+  "text": "لا يمكن تجهيز سلاحين من النوع نفسه. استبدال السلاح المجهز؟"
+ },
+ {
+  "key": "UI_Pickup_05",
+  "text": "اختيار جرعة لاستبدالها."
+ },
+ {
+  "key": "UI_Pickup_10",
+  "text": "اختيار حُلية لاستبدالها."
+ },
+ {
+  "key": "UI_Pickup_12",
+  "text": "اختيار سلاح طيفي لاستبداله."
+ },
+ {
+  "key": "UI_Pickup_13",
+  "text": "ملاحظة"
+ },
+ {
+  "key": "UI_Pickup_17",
+  "text": "الضغط مطوّلًا على <UIRowName id=\"PickupRelaceHold\" height=\"24\" LeftPadding=\"0\" RightPadding=\"0\"/> لتأكيد الاستبدال."
+ },
+ {
+  "key": "UI_Inventory_01",
+  "text": "الموادّ"
+ },
+ {
+  "key": "UI_Inventory_03",
+  "text": "أغراض المهامّ"
+ },
+ {
+  "key": "UI_Inventory_04",
+  "text": "الطهي"
+ },
+ {
+  "key": "UI_Inventory_05",
+  "text": "مجموع"
+ },
+ {
+  "key": "UI_Inventory_06",
+  "text": "غير مجموع"
+ },
+ {
+  "key": "UI_Inventory_10",
+  "text": "أغراض المهامّ"
+ },
+ {
+  "key": "UI_Inventory_12",
+  "text": "اندفاع القوّة"
+ },
+ {
+  "key": "UI_Inventory_13",
+  "text": "ميزة"
+ },
+ {
+  "key": "UI_Inventory_15",
+  "text": "صقل الروح+"
+ },
+ {
+  "key": "UI_Inventory_21",
+  "text": "مكسور"
+ },
+ {
+  "key": "UI_Inventory_22",
+  "text": "مصقول"
+ },
+ {
+  "key": "UI_Inventory_23",
+  "text": "أسطوري"
+ },
+ {
+  "key": "UI_QuestDes_02",
+  "text": "شقّ الطريق والنصل في اليد عبر الفخّ المُطبِق من كل جانب، والبحث عن الحقيقة الكامنة وراءه."
+ },
+ {
+  "key": "UI_QuestDes_03",
+  "text": "ما من لغزٍ تعجز عنه الإرادة البشرية. فكرة واحدة، واختيار مختلف، ونهاية مختلفة."
+ },
+ {
+  "key": "UI_QuestDes_04",
+  "text": "الفرح والحزن، الفراق واللقاء؛ يمتلئ الوولين بشتى الناس والحكايات. لا تتعلق هذه اللقاءات بالغاية، بل باللحظة ذاتها."
+ },
+ {
+  "key": "UI_QuestDes_05",
+  "text": "التجوّل بعيدًا بحثًا عن مقتنيات نادرة وتذكارات منسية. بعضها كنوز ضائعة، وبعضها الآخر تذكارات تحمل ذكريات الماضي."
+ },
+ {
+  "key": "UI_Quest_07",
+  "text": "عنصر نائب لوصف المهمة"
+ },
+ {
+  "key": "UI_Quest_09",
+  "text": "مهمة"
+ },
+ {
+  "key": "UI_Quest_10",
+  "text": "الذهاب إلى"
+ },
+ {
+  "key": "UI_Quest_12",
+  "text": "اكتملت هذه المهمة بالفعل"
+ },
+ {
+  "key": "UI_SystemWidget_03",
+  "text": "المخزون"
+ },
+ {
+  "key": "UI_SystemWidget_04",
+  "text": "الأرشيف"
+ },
+ {
+  "key": "UI_Character_05",
+  "text": "الأشكال"
+ },
+ {
+  "key": "UI_Character_09",
+  "text": "تفاصيل صقل الروح"
+ },
+ {
+  "key": "UI_Character_23",
+  "text": "تفاصيل السمة"
+ },
+ {
+  "key": "UI_Character_24",
+  "text": "عادي"
+ },
+ {
+  "key": "UI_Character_25",
+  "text": "نادر"
+ },
+ {
+  "key": "UI_Character_26",
+  "text": "ملحمي"
+ },
+ {
+  "key": "UI_Character_27",
+  "text": "أسطوري"
+ },
+ {
+  "key": "UI_Character_28",
+  "text": "مندوب الظلال"
+ },
+ {
+  "key": "UI_Character_29",
+  "text": "سمة"
+ },
+ {
+  "key": "UI_Character_33",
+  "text": "لا يمكن التجهيز بعد"
+ },
+ {
+  "key": "UI_Character_34",
+  "text": "متطلبات الفتح غير مستوفاة"
+ },
+ {
+  "key": "UI_Character_44",
+  "text": "التجهيز الآن؟"
+ },
+ {
+  "key": "UI_Character_45",
+  "text": "اختيار خانة للتجهيز."
+ },
+ {
+  "key": "UI_Character_49",
+  "text": "عرض الشبكة"
+ },
+ {
+  "key": "UI_Character_50",
+  "text": "عرض القائمة"
+ },
+ {
+  "key": "UI_Character_52",
+  "text": "تجهيز {0}"
+ },
+ {
+  "key": "UI_Character_60",
+  "text": "فتح هذه السمة عبر صقل الروح."
+ },
+ {
+  "key": "UI_Character_61",
+  "text": "يُفتح عند بلوغ السلاح المستوى {0}."
+ },
+ {
+  "key": "UI_Appearance_2",
+  "text": "قبعة"
+ },
+ {
+  "key": "UI_Appearance_3",
+  "text": "زي"
+ },
+ {
+  "key": "UI_Appearance_4",
+  "text": "لحية"
+ },
+ {
+  "key": "UI_Appearance_5",
+  "text": "تسريحة الشعر"
+ },
+ {
+  "key": "Appearance_PlaceHold_4",
+  "text": "القبعة المخروطية الافتراضية"
+ },
+ {
+  "key": "Appearance_PlaceHold_5",
+  "text": "بلا قبعة"
+ },
+ {
+  "key": "Appearance_PlaceHold_6",
+  "text": "تسريحة الشعر الافتراضية"
+ },
+ {
+  "key": "Appearance_PlaceHold_7",
+  "text": "تسريحة شعر تجريبية"
+ },
+ {
+  "key": "Appearance_PlaceHold_8",
+  "text": "بلا لحية"
+ }
+]

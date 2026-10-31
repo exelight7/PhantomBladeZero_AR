@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30 16:09",
+ "updated": "2026-10-31 03:43",
  "sessions": [
   {
    "who": "claude",
@@ -69,6 +69,56 @@
     "skipped.md": 0
    },
    "state_mtime": "2026-10-30 16:09"
+  },
+  {
+   "who": "review2",
+   "batches": 108,
+   "done": 108,
+   "entries": 10769,
+   "chars": 762846,
+   "entries_done": 10769,
+   "chars_done": 762846,
+   "changed": 289,
+   "accepted": 289,
+   "rejected": 0,
+   "warned": 0,
+   "size": {
+    "طفيف (تنوين/إملاء/ترقيم)": 221,
+    "متوسط (كلمات)": 44,
+    "إعادة صياغة": 24
+   },
+   "fam": {
+    "UI": 6,
+    "Levelname": 1,
+    "Bell": 7,
+    "QuestStoryDes": 1,
+    "QuestMaze": 1,
+    "QuestRumorDes": 6,
+    "QuestCollect": 1,
+    "BossNameDes": 15,
+    "EnemyDesc": 9,
+    "EnemyName": 1,
+    "Character": 2,
+    "BossName": 1,
+    "Weapon": 4,
+    "PhantomEdges": 2,
+    "PhantomEdgesDes": 1,
+    "WeaponDes": 3,
+    "Item": 79,
+    "ReadingDes": 53,
+    "Reading": 9,
+    "Dlg": 78,
+    "Achievement": 4,
+    "Loading": 5
+   },
+   "pending_next": null,
+   "last_done": "batch_0108.json",
+   "extras": {
+    "glossary_proposals.md": 0,
+    "questions.md": 0,
+    "skipped.md": 0
+   },
+   "state_mtime": "2026-10-31 03:43"
   }
  ]
 }

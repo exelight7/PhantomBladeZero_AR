@@ -13,7 +13,7 @@ async function fixture(t) {
   await fs.mkdir(mods, { recursive: true }); await fs.mkdir(payload);
   const files = [];
   for (const name of engine.NAMES) { const data = Buffer.from(`تعريب ${name}`); await fs.writeFile(path.join(payload, name), data); files.push({ name, sha256: engine.sha(data), size: data.length }); }
-  await fs.writeFile(path.join(payload, 'manifest.json'), JSON.stringify({ version: '1.0.1', files }));
+  await fs.writeFile(path.join(payload, 'manifest.json'), JSON.stringify({ version: '1.0.2', files }));
   await fs.writeFile(path.join(mods, 'another-mod.pak'), 'unrelated mod');
   return { dir, game, mods, payload, files };
 }
@@ -87,7 +87,7 @@ test('symlinked mod files cannot write outside the game', { skip: process.platfo
   assert.equal(await fs.readFile(external, 'utf8'), 'keep');
 });
 test('manifest traversal and duplicate filenames are rejected', async t => {
-  const f = await fixture(t); const manifest = { version: '1.0.1', files: f.files };
+  const f = await fixture(t); const manifest = { version: '1.0.2', files: f.files };
   manifest.files[0].name = '../outside';
   await fs.writeFile(path.join(f.payload, 'manifest.json'), JSON.stringify(manifest));
   await assert.rejects(engine.install(f.game, f.payload), /اسم ملف/);

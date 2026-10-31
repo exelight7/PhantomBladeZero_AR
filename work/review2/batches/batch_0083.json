@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_3",
+  "text": "آه... فهمت. لا بد أن يصيب الشؤم بيتًا فيه أبناء عاقّون..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun__4",
+  "text": "كان ذلك جزاءً مستحقًا."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_5",
+  "text": "هل تقصد أنه...؟ كنت أظن ذلك. منذ أن أدخل محظيته الرابعة إلى بيته، لم يعد كما كان."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_6",
+  "text": "لا بد أن جينًا وشيو قد دُفعا إلى أقصى حدّ حتى يقدما على أمر بهذه الفظاعة انتقامًا لأمهما."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun__7",
+  "text": "لكن لا بد أن لطريقة انتقامهما صلة بسيدة الحجاب."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_NiuZhangGui_8",
+  "text": "قال لي أحد عمّالي إنه رأى جين قرب بحيرة ميغو، عند المياه الضحلة قرب قرية لو... يتجول كالمجنون..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_NiuZhangGui3_Hun__9",
+  "text": "ما عاد يصحّ أن يُسمّى إنسانًا..."
+ },
+ {
+  "key": "Dlg_XSSL_GuiXiuXiongZhang_GuiXiuXiongZhang_6",
+  "text": "...يا شيو، لا تخافي... سيمزق أخوك أولئك الأشرار إربًا!"
+ },
+ {
+  "key": "Dlg_XSSL_GuiXiuXiongZhang_GuiXiuXiongZhang_7",
+  "text": "كل من يعترض طريقي سيموت! سأشق طريقي للعودة... إلى البيت، إليكِ!"
+ },
+ {
+  "key": "Dlg_XSSL_GuiXiuXiongZhang1_GuiXiuXiongZhang1_1",
+  "text": "هاهاها... لن يوقفني أحد!"
+ },
+ {
+  "key": "Dlg_XSSL_GuiXiuXiongZhang1_GuiXiuXiongZhang1_2",
+  "text": "أجل! تعالوا إليّ بدلًا منه!"
+ },
+ {
+  "key": "Dlg_XSSL_GuiXiuXiongZhang1_GuiXiuXiongZhang1_3",
+  "text": "سأعود إليها، ولو عبرت جبالًا من الجثث وبحارًا من الدماء..."
+ },
+ {
+  "key": "Dlg_XSSL_GuiXiuXiongZhang2_GuiXiuXiongZhang2_1",
+  "text": "إن سقطت... فمن سيحميها؟"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_GuiXiuXiongZhang_4",
+  "text": "لا تقلق يا أخي. الآن وقد انضممت إلى الميثاق، سيعاملني أبي والأم الرابعة بلطف أكبر..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_GuiXiu_5",
+  "text": "أخي... لن أستطيع أن أردّ لك جميلك أبدًا..."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_GuiXiu_6",
+  "text": "يا شيو! نحن أخ وأخت، فلا داعي للكلام عن ردّ الجميل. فقد يئست من أبي منذ زمن بعيد. أنتِ عائلتي الوحيدة الباقية."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_GuiXiu_7",
+  "text": "أنتِ صورة عن أمنا... وقلبك مثل قلبها. لقد دفعوها إلى الموت، ولن أسمح لهم بأن يفعلوا بكِ الشيء نفسه!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_GuiXiuXiongZhang_8",
+  "text": "كل ما أريده أن تكوني آمنة وسعيدة. وهذا أكثر من كافٍ لي."
+ },
+ {
+  "key": "Dlg_XSSL_MEM_GuiXiuXiongZhang_9",
+  "text": "أعدك! يا أخي، ركّز على القتال فحسب. سأنتظرك حتى تعود سالمًا إلى البيت!"
+ },
+ {
+  "key": "Dlg_XSSL_MEM_GuiXiuXiongZhang_10",
+  "text": "يا أختي العزيزة... أعدك. ما إن يرحل السائرون المقنّعون حتى أعود إلى البيت سالمًا!"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_1",
+  "text": "لا أذكر... اسمي... كل ما أعرفه... أنني كنت أبرع مغنية في الفرقة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_2",
+  "text": "غناء... رقص... وأكمام تتطاير... وتصفيق يملأ المكان..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_3",
+  "text": "ليتني... أستطيع الغناء إلى الأبد... وأظل جميلة إلى الأبد..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_4",
+  "text": "لكن... في غمضة عين... صرت على هذه الحال..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_5",
+  "text": "رحلت أخواتي جميعًا... ولم يبقَ لي ما أعيش من أجله."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_6",
+  "text": "لكن مروحة رقصي... لازمتني سنين طويلة. كل ما أتمناه أن أراها مرة أخيرة..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_7",
+  "text": "إنها في جناح تيانشيانغ... لكنه مغلق. والمفتاح مع البوّاب..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_Hun_8",
+  "text": "البوّاب؟"
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_9",
+  "text": "يا ترى ماذا حلّ بذلك البوّاب القصير؟ لعلّه ما زال يتجول في <Bold>الزقاق قرب المسرح</>..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan1_HuaDan_10",
+  "text": "كان يعشق رائحة مسحوق الوجه الذي نستخدمه. يكفي أن يُحرق قليل منه في المبخرة عند <Bold>الزقاق</>... فلعل ذلك يستدرجه."
+ },
+ {
+  "key": "Dlg_PZ_XiangLu_Option1",
+  "text": "وضع مكياج مغنية الأوبرا الأولى"
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiangLu1_1",
+  "text": "مبخرة لا تزال جمراتها متقدة. قد تؤدي إضافة نوع معيّن من البخور إلى تقوية عبيره وإطالة بقائه."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_XiangLu2_1",
+  "text": "تحمل حرارة المبخرة رائحة مستحضرات التجميل في أرجاء المكان."
+ },
+ {
+  "key": "Dlg_PZ_Investigate_HuaDanBenTi_1",
+  "text": "في ضوء يتلاشى، تكرر الرقصة نفسها مرة بعد مرة. لكن لم يبقَ أحد ليصفق لها."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_1",
+  "text": "ها هي مروحتي... شكرًا... لأنك أعدتها إليّ..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_2",
+  "text": "قال لي معلّمي... يجب أن أظل جميلة على المسرح دائمًا... عندها فقط لن يستطيع الجمهور أن يرفع عينيه عني."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_3",
+  "text": "حتى بعد إسدال الستار... عليّ أن أبقى جميلة... كي يظل الجمهور يذكرني..."
+ },
+ {
+  "key": "Dlg_PZ_JiuGuan_HuaDan2_HuaDan_4",
+  "text": "وأخيرًا... أستطيع مغادرة المسرح... بوقار..."
+ },
+ {
+  "key": "Dlg_PZ_WuXuan1_Battle_1",
+  "text": "أبيدوهم. اسحقوهم. اطحنوهم حتى يصيروا ترابًا."
+ },
+ {
+  "key": "Dlg_PZ_WuXuan2_Battle_1",
+  "text": "أرواح قتلانا تعود الآن إلى الآفة!"
+ },
+ {
+  "key": "Dlg_PZ_WuXuan3_Battle_1",
+  "text": "ذلك الدرع كان لأحد رجالنا... هل قتلته أنت؟"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ_Option3",
+  "text": "آثار مفقودة في بانغتشن"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ_MSXZ_1",
+  "text": "ثلاث سبائك، وتايلان... ستّ ربطات وثماني عشرة قطعة نقدية..."
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_MSXZ_1",
+  "text": "آه... حسنًا... يا للمفاجأة، إنه المعلّم سول!"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_Hun_2",
+  "text": "دعني أخمّن: ثمة كنوز أخرى مفقودة هنا أيضًا؟"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_MSXZ_3",
+  "text": "هذا ما عهدناه من المعلّم سول! قد تبدو بانغتشن صغيرة... لكنك لن تصدق كمّ الكنوز التي تخبئها."
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_MSXZ_4",
+  "text": "لو رأيت مخازن بعض تلك الأسر الثرية... يا للعجب، إنها مكدسة بالكنوز."
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_MSXZ_5",
+  "text": "إذا كانت الخزائن تضم أشياء لا ينبغي لأحد أن يملكها... فهل هذا إلا استجلاب للمتاعب؟"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_MSXZ_6",
+  "text": "ومع ذلك... لن يكون استرداد تلك الكنوز بالأمر الهيّن..."
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_Hun_7",
+  "text": "ناولني القائمة فحسب."
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ1_MSXZ_8",
+  "text": "هه! كنت آمل أن تقول ذلك!"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ4_MSXZ_1",
+  "text": "ظلت هذه الكنوز تنتقل بين أيدي أهل الوولين سنين طويلة. وخاضت العائلات الثرية صراعات ضارية لمجرد ضمّها إلى مجموعاتها."
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ4_MSXZ_2",
+  "text": "لكن القدر قاسٍ... ما نفع الثروة إذا عجز المرء عن حفظ حياته؟"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ4_MSXZ_3",
+  "text": "يا معلّم سول، عثرت عليها كلها. رؤسائي... أقصد، زبوني وأنا لن ننسى لك هذا الجميل!"
+ },
+ {
+  "key": "Dlg_PangZhen_MSXZ4_MSXZ_4",
+  "text": "أعددت لك هذه الهدية خصيصًا. إنها أنفع بكثير من تلك التحف البراقة!"
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_1",
+  "text": "تحيد النجمة الحمراء... وتعبر النجمة البيضاء السماء..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_2",
+  "text": "تصير مياه الآبار مُرّة شرقًا... وتجنّ الحيوانات غربًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_3",
+  "text": "تضطرب السماء... وتحيد النجوم عن مواقعها... ونجم تائه يتعدّى على السماء نفسها..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_SuanMingPo_SuanMingPo_4",
+  "text": "الفوضى! كل شيء فوضى!"
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNan1_ZhenMinNan1_1",
+  "text": "لا... لا أستطيع... أن أغفو..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNan1_ZhenMinNan1_2",
+  "text": "إن نمت... فلن أستيقظ ثانية..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_1",
+  "text": "نينغ... حان وقت دوائكِ..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_2",
+  "text": "توسلت إلى الرجل المقنّع كي أحصل عليه..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_3",
+  "text": "وغطّي وجهك بهذه الزهرة..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_ZhenMinNanNv_ZhenMinNan2_4",
+  "text": "ستتحسن حالكِ... لا بد أن تتحسن..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_1",
+  "text": "يا باو الصغير... أغمض عينيك..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_2",
+  "text": "نم... لا تبكِ بعد الآن..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_3",
+  "text": "استيقظ من أحلامك... سيطاردك شبح..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_MuQin_MuQin_4",
+  "text": "رحل إلى الأبد... ولم يترك أثرًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_HaiZi1_HaiZi1_1",
+  "text": "أمي... استيقظي... أنا جائع..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_HaiZi1_HaiZi1_2",
+  "text": "أكلت ترابًا كثيرًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_HaiZi1_HaiZi1_3",
+  "text": "لكنني ما زلت جائعًا جدًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_1",
+  "text": "يا حفيدي العزيز... لا تخف..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_2",
+  "text": "هؤلاء الأبطال المقنّعون جاؤوا لإنقاذنا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_3",
+  "text": "سيضعون لك قلبًا جديدًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_LaoTou_LaoTou_4",
+  "text": "وحين ينتهون، لن تمرض بعد ذلك أبدًا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_YiZhe_YiZhe_1",
+  "text": "ثلاثون مقدارًا من الغاستروديا... وسبعة وعشرون من البوريا..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_YiZhe_YiZhe_2",
+  "text": "هذه الجرعة... ينبغي أن تكفي لعلاجه..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_XiYiNv_XiYiNv_1",
+  "text": "أنا جائعة جدًا... تماسكي... اشربي مزيدًا من الماء..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_XiYiNv_XiYiNv_2",
+  "text": "البرد شديد... قروحي... عادت تؤلمني..."
+ },
+ {
+  "key": "Dlg_PZ_HunShui_XiYiNv_XiYiNv_3",
+  "text": "سأرتاح قليلًا... ما إن أنام... حتى لا أعود أشعر بشيء..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_XiaoNvHai_XiaoNvHai_1",
+  "text": "وهبت قلبي... للبطل المقنّع... لسيدة الحجاب..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_XiaoNvHai_XiaoNvHai_2",
+  "text": "من دونه... هل سأظل أشعر بالألم؟"
+ },
+ {
+  "key": "Dlg_PZ_TingXi_ShuSheng_ShuSheng_1",
+  "text": "وهي تعلم أن الأمل قد ضاع كله..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_ShuSheng_ShuSheng_2",
+  "text": "ومع ذلك، ما زالت تغني عن البؤس..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_ShuSheng_ShuSheng_3",
+  "text": "ومع ذلك، ما زال غارقًا في معاناته..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_GuaFu_GuaFu_1",
+  "text": "ما زالت قادرة على الغناء... والانتظار... وما زال لديها أمل..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_GuaFu_GuaFu_2",
+  "text": "وأنا؟"
+ },
+ {
+  "key": "Dlg_PZ_TingXi_GuaFu_GuaFu_3",
+  "text": "حياتي... لماذا لا أملك حق اختيارها أبدًا؟"
+ },
+ {
+  "key": "Dlg_PZ_MinSu_LaoTou_LaoTou_1",
+  "text": "إن رفضت ارتداء الزهرة... حلّت عليك لعنة السماء..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_JiangHuRen_JiangHuRen_1",
+  "text": "في أيامي، حين كنت أجوب الوولين..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_JiangHuRen_JiangHuRen_2",
+  "text": "كانت هناك مغنية أوبرا ذات مرة..."
+ },
+ {
+  "key": "Dlg_PZ_TingXi_JiangHuRen_JiangHuRen_3",
+  "text": "آه... لماذا لم أعد يومًا لأراها؟"
+ },
+ {
+  "key": "Dlg_PZXSDnan_DaHuang_Investigate_HuangJinQuanB_1",
+  "text": "تتشابك خصل من وبر الكلب الخشن حول طوق بلا بطاقة اسم."
+ },
+ {
+  "key": "Dlg_PZXSDnan_DaHuang_Investigate_HuangJinQuanB_2",
+  "text": "قاوم هو الآخر وكافح، لكنه صار في النهاية موضوعًا لتجارب الارتقاء."
+ },
+ {
+  "key": "Dlg_PZXSDnan_DaHuang_Investigate_HuangJinQuanA_1",
+  "text": "يتمدّد الكلب الذهبي على الأرض كأنّه نائم بسلام."
+ },
+ {
+  "key": "Dlg_PZHJ_SBJD_GuWanYue1_GWY_1",
+  "text": "في عالم لا حدود له، تسبح روحي عاليًا... لكنني لا أرى وي في أي مكان."
+ },
+ {
+  "key": "Dlg_PZHJ_SBJD_GuWanYue1_GWY_2",
+  "text": "تتناثر دموعي القانية فوق صفحة الماء الساكنة كالمرآة... وينعكس ظلي وحده، بلا رفيق."
+ },
+ {
+  "key": "Dlg_PZHJ_SBJD_GuWanYue1_GWY_3",
+  "text": "تموّجات في عتمة قاع البئر... إنه وي يناديني لأقفز."
+ },
+ {
+  "key": "Dlg_PZHJ_SBJD_GuWanYue2_GWY_1",
+  "text": "سمعت صوته من الظلام في الأسفل... إنه يشعر بالبرد والوحدة، ولا مكان يذهب إليه."
+ }
+]

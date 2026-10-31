@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_End_B_ZuoShang2_ZuoShang_2",
+  "text": "لكنني أعرف من أكون وما أستطيع فعله!"
+ },
+ {
+  "key": "Dlg_End_BAS_ZuoShang3_ZuoShang_1",
+  "text": "من دون قوتك الحقيقية، لا تشكّل تهديدًا لي."
+ },
+ {
+  "key": "Dlg_End_BAS_ZuoShang3_ZuoShang_2",
+  "text": "استفد إلى أقصى حد مما بقي لك من وقت."
+ },
+ {
+  "key": "Dlg_End_A_Subtitle_1",
+  "text": "زئير لونغ"
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Inanis_1",
+  "text": "القلب المشعّ الآن في يد تسو شانغ. إن أردت النجاة، فعليك أن تجده في ما بقي لك من وقت..."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Inanis_2",
+  "text": "وانتزعه منه!"
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Hun_3",
+  "text": "لم يعد الأمر مهمًا."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Hun_4",
+  "text": "لم تُدخل السيدة الآفة إلى عالم اليقظة. وقد نجا كثيرون بفضل ذلك."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Inanis_5",
+  "text": "ها... رؤيتك تمنعها أعادت إليّ ذكريات مواجهتي لها بنفسي."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Inanis_6",
+  "text": "فقدان خصم جدير... يترك فراغًا لا يزول."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Hun_7",
+  "text": "صنع تسو شانغ وعاءً لنفسه، ويستخدم القلب المشعّ ليمدّه بالطاقة."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Hun_8",
+  "text": "لم يعد الجرح الذي أحدثته في قلبه مشكلةً له."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Hun_9",
+  "text": "في قتالي معه، بدا وعاؤه شبه منيع. لا أحد يستطيع الوقوف في وجهه."
+ },
+ {
+  "key": "Dlg_End_B_Inanis1_Inanis_10",
+  "text": "مع أن ما بقي لك من وقت يتناقص... هل ستواصل المضي حتى لو سقطت هنا؟"
+ },
+ {
+  "key": "Dlg_End_B_Inanis2_Hun_1",
+  "text": "ما دام فيّ نفس، فلن أتوقف أبدًا."
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_1",
+  "text": "انتهى زمن الرحمة."
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_2",
+  "text": "ينتهي الآن صراع أجيال!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_3",
+  "text": "الآفة بكل أشكالها... طوع أمري!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_4",
+  "text": "لا أحد في هذا العالم يستطيع الوقوف في وجهي!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_5",
+  "text": "اهلك بنَفَس لونغ!"
+ },
+ {
+  "key": "Dlg_End_ZuoShangLongTi_Battle_6",
+  "text": "يسقط النظام القديم، ويبدأ عالم جديد!"
+ },
+ {
+  "key": "Dlg_End_S_ShaoNian_ZuoShang_1",
+  "text": "لقد تأخرت!"
+ },
+ {
+  "key": "Dlg_End_S_ChengNian_ZuoShang_1",
+  "text": "لقد تأخرت."
+ },
+ {
+  "key": "Dlg_End_A_ShaoNian_MuTianMiao_1",
+  "text": "في الوولين، يمضي الناس على غير هدى، كأعشاب الماء في مهبّ العاصفة. فمن يجد جذوره حقًا؟"
+ },
+ {
+  "key": "Dlg_End_A_ShaoNian_ZuoShang_2",
+  "text": "لكننا لم نأتِ من العدم."
+ },
+ {
+  "key": "Dlg_End_A_ChengNian_ZuoShang_1",
+  "text": "بالمناسبة... قبل أن يدخل شيفو في خلوته، ترك خريطة تحدد موقعًا. وأوصاني بأن أسلّمها إليك."
+ },
+ {
+  "key": "Dlg_End_A_ChengNian_ZuoShang_2",
+  "text": "ارتدى شيفو القناع ليكبح شا-تشي لديه. ولم يواجهك إلا بنحو 70 بالمئة من قوته الكاملة."
+ },
+ {
+  "key": "Dlg_End_A_ChengNian_ZuoShang_3",
+  "text": "ومع ذلك... فقتَ توقعاتي."
+ },
+ {
+  "key": "Dlg_End_A_ZuoShang1_ZuoShang_1",
+  "text": "أخيرًا... بدأت تدرك من تكون حقًا..."
+ },
+ {
+  "key": "Dlg_End_A_ZuoShang1_ZuoShang_2",
+  "text": "حصن مو... حسن. حسن جدًا..."
+ },
+ {
+  "key": "Dlg_End_A_ZuoShang1_ZuoShang_3",
+  "text": "لكنني لن أموت على يدك!"
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Hun_1",
+  "text": "لم تُدخل السيدة الآفة إلى عالم اليقظة. وقد نجا كثيرون بفضل ذلك."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Inanis_2",
+  "text": "ها... رؤيتك توقفها أعادت إليّ ذكريات مواجهتي لها بنفسي."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Inanis_3",
+  "text": "فقدان خصم جدير... يترك فراغًا لا يزول."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Inanis_4",
+  "text": "القلب المشعّ الذي تحمله... هو مفتاح إنقاذ قلبك المعتلّ."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Inanis_5",
+  "text": "إن قصدت نحّات اللحم... فبوسعه زرعه في صدرك ليحلّ محلّ قلبك التالف."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Inanis_6",
+  "text": "لن تعيش عقودًا أخرى فحسب... بل ستغدو، بما تملكه من شا-تشي وبراعة قتالية، لا نظير لك في هذا العالم."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Inanis_7",
+  "text": "ومع ذلك... يمكن عدّ هذا ضربًا من الارتقاء."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Hun_8",
+  "text": "نعم. سبب لا يُقاوم للارتقاء."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Hun_9",
+  "text": "لا يختلف عن الإغراء الذي واجهه أبطال الميثاق قديمًا..."
+ },
+ {
+  "key": "Dlg_End_A_Inanis2_Hun_10",
+  "text": "وجدت قلبي... فهل عليّ الآن أن أتخلى عنه؟"
+ },
+ {
+  "key": "Dlg_End_S_Subtitle_1",
+  "text": "المعركة الأخيرة"
+ },
+ {
+  "key": "Dlg_End_A_Inanis3_Inanis_1",
+  "text": "أيّ طريق ستختار، يا معلّم سول؟"
+ },
+ {
+  "key": "Achievement_Name_1",
+  "text": "رحلة القلب"
+ },
+ {
+  "key": "Achievement_Des_1",
+  "text": "الهرب من المطاردين على الطريق الرئيسي"
+ },
+ {
+  "key": "Achievement_Name_2",
+  "text": "قلب لا يتزعزع"
+ },
+ {
+  "key": "Achievement_Des_2",
+  "text": "العبور من الخان"
+ },
+ {
+  "key": "Achievement_Name_3",
+  "text": "حجب السماء"
+ },
+ {
+  "key": "Achievement_Des_3",
+  "text": "الخروج من الكهف خلف الشلال"
+ },
+ {
+  "key": "Achievement_Name_4",
+  "text": "لا موطئ قدم"
+ },
+ {
+  "key": "Achievement_Des_4",
+  "text": "كشف الوهم في غابة المرايا"
+ },
+ {
+  "key": "Achievement_Name_5",
+  "text": "زهرة الخلاص الزائف"
+ },
+ {
+  "key": "Achievement_Des_5",
+  "text": "مغادرة قرية لو والتوجّه إلى بانغتشن"
+ },
+ {
+  "key": "Achievement_Name_6",
+  "text": "إلى الفخ المميت"
+ },
+ {
+  "key": "Achievement_Des_6",
+  "text": "زيارة حانة التنظيم"
+ },
+ {
+  "key": "Achievement_Name_7",
+  "text": "عالم أضحى خواءً"
+ },
+ {
+  "key": "Achievement_Des_7",
+  "text": "حلّ قفل رأس الثعبان في دار الثعبان الخضراء"
+ },
+ {
+  "key": "Achievement_Name_8",
+  "text": "من يملك حق الحكم؟"
+ },
+ {
+  "key": "Achievement_Des_8",
+  "text": "استقصاء ميدان التدريب"
+ },
+ {
+  "key": "Achievement_Name_9",
+  "text": "أين مضى الأصدقاء القدامى؟"
+ },
+ {
+  "key": "Achievement_Des_9",
+  "text": "بلوغ عالم السراب"
+ },
+ {
+  "key": "Achievement_Name_10",
+  "text": "المياه العكرة عميقة"
+ },
+ {
+  "key": "Achievement_Des_10",
+  "text": "اختراق قلب البحيرة"
+ },
+ {
+  "key": "Achievement_Name_11",
+  "text": "الدم يبشّر بالفجر"
+ },
+ {
+  "key": "Achievement_Des_11",
+  "text": "عبور ضيعة السراب"
+ },
+ {
+  "key": "Achievement_Name_12",
+  "text": "عبر الصقيع والثلج"
+ },
+ {
+  "key": "Achievement_Des_12",
+  "text": "الدخول في الثلج والتوجّه إلى الجرف"
+ },
+ {
+  "key": "Achievement_Name_13",
+  "text": "بالقلب والدم"
+ },
+ {
+  "key": "Achievement_Des_13",
+  "text": "انكشاف كل شيء"
+ },
+ {
+  "key": "Achievement_Name_14",
+  "text": "ثأر الفأس"
+ },
+ {
+  "key": "Achievement_Des_14",
+  "text": "هزيمة سيّد الفأس بنغ منغ"
+ },
+ {
+  "key": "Achievement_Name_15",
+  "text": "نصل الشبح القرمزي"
+ },
+ {
+  "key": "Achievement_Des_15",
+  "text": "هزيمة هوا، العروس"
+ },
+ {
+  "key": "Achievement_Name_16",
+  "text": "المطارِد"
+ },
+ {
+  "key": "Achievement_Des_16",
+  "text": "هزيمة المطارِد، صيّاد التنظيم"
+ },
+ {
+  "key": "Achievement_Name_17",
+  "text": "إفراغ ألف كأس"
+ },
+ {
+  "key": "Achievement_Des_17",
+  "text": "هزيمة هوا تشيانشياو، المهووس بالسيف"
+ },
+ {
+  "key": "Achievement_Name_18",
+  "text": "المرآة المحطمة"
+ },
+ {
+  "key": "Achievement_Des_18",
+  "text": "هزيمة باي تشيليان، سيدة الثعبانين"
+ },
+ {
+  "key": "Achievement_Name_19",
+  "text": "هل نلتقي مجددًا؟"
+ },
+ {
+  "key": "Achievement_Des_19",
+  "text": "هزيمة مو شياوكوي، الآنسة في التنظيم"
+ },
+ {
+  "key": "Achievement_Name_20",
+  "text": "روح الأسد باقية"
+ },
+ {
+  "key": "Achievement_Des_20",
+  "text": "هزيمة اللهب، المعلّم الأكبر لرقصة الأسد"
+ },
+ {
+  "key": "Achievement_Name_21",
+  "text": "سيف في مواجهة النجوم السبعة"
+ },
+ {
+  "key": "Achievement_Des_21",
+  "text": "هزيمة كبير تلاميذ النجوم السبعة"
+ },
+ {
+  "key": "Achievement_Name_22",
+  "text": "مفترق الدماء"
+ },
+ {
+  "key": "Achievement_Des_22",
+  "text": "هزيمة هوانغشينغ، المتمرّد على كونلون"
+ },
+ {
+  "key": "Achievement_Name_23",
+  "text": "لا شيء يذهب سدى"
+ },
+ {
+  "key": "Achievement_Des_23",
+  "text": "هزيمة الدمية الكنّاسة"
+ },
+ {
+  "key": "Achievement_Name_24",
+  "text": "كل شيء يعود إلى التراب"
+ },
+ {
+  "key": "Achievement_Des_24",
+  "text": "هزيمة لي دانغ، مدفع النمر"
+ },
+ {
+  "key": "Achievement_Name_25",
+  "text": "الظل الأبيض"
+ },
+ {
+  "key": "Achievement_Des_25",
+  "text": "هزيمة سيد النصل في العاصفة الثلجية"
+ },
+ {
+  "key": "Achievement_Name_26",
+  "text": "واجهتُ المنشار حتى النهاية"
+ },
+ {
+  "key": "Achievement_Des_26",
+  "text": "هزيمة المنشار والمحطِّم"
+ },
+ {
+  "key": "Achievement_Name_27",
+  "text": "لا بد لكل الأحلام أن تنتهي"
+ },
+ {
+  "key": "Achievement_Des_27",
+  "text": "ذهاب كل المكائد أدراج الرياح"
+ },
+ {
+  "key": "Achievement_Name_28",
+  "text": "سيد المياه الضبابية"
+ },
+ {
+  "key": "Achievement_Des_28",
+  "text": "هزيمة يو لونغ، زعيم جماعة المياه السوداء، ويان تشيانسوي، عازفة القيثارة، والرامي الأعور في منطقة بحيرة ميغو"
+ },
+ {
+  "key": "Achievement_Name_29",
+  "text": "الأربعة المُحرَّرون"
+ }
+]

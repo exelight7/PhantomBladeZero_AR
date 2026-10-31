@@ -1,0 +1,402 @@
+[
+ {
+  "key": "WeaponDes_UI_020",
+  "text": "نصل هلالي طويل كان يحمله يودينغ، دمية النصل الهلالي رقم 12."
+ },
+ {
+  "key": "WeaponDes_020",
+  "text": "نصل هلالي منقوش عليه رسم تشينغلونغ. وبضرباته الكاسحة والشاقّة، <Character_Yellow_Decorator2>يمكنه شقّ أي شيء</>."
+ },
+ {
+  "key": "Weapon_FunctionName_020_EX",
+  "text": "عاصفة الهلال"
+ },
+ {
+  "key": "Weapon_FunctionDes_020_EX",
+  "text": "الضغط المطوّل على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستهلاك شا-تشي باستمرار، وتدوير النصل لمهاجمة الأعداء وتكديس الشحن. بلوغ الشحن الكامل يمنح <Character_Yellow_Decorator2>[هيئة تشينغلونغ] </>لمدة <dtv id=\"X511\"/> ثانية."
+ },
+ {
+  "key": "Weapon_FunctionName_020_EX_2",
+  "text": "ضربة تشينغلونغ"
+ },
+ {
+  "key": "Weapon_FunctionDes_020_EX_2",
+  "text": "أثناء التمتع بـ<Character_Yellow_Decorator2> [هيئة تشينغلونغ]</>، الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لتنفيذ ضربة تشينغلونغ التي تقتل الأعداء الأضعف على الفور. استخدام هذه القدرة ينهي <Character_Yellow_Decorator2> [هيئة تشينغلونغ].</>"
+ },
+ {
+  "key": "Weapon_FunctionName_020_Skill",
+  "text": "ضربة تشينغلونغ والنبيذ الدافئ"
+ },
+ {
+  "key": "Weapon_FunctionDes_020_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإبعاد الأعداء، والتقدم بخطوات موزونة، ثم إطلاق ضربة قاطعة تمزق الفضاء. قتل الأعداء الأضعف على الفور. بعد الهجوم، الدخول في <Character_Yellow_Decorator2>[هيئة تشينغلونغ]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_020_5",
+  "text": "عاصفة كاسحة للسحب"
+ },
+ {
+  "key": "Weapon_Function_020_5",
+  "text": "توليد دوّامة أثناء <Character_Yellow_Decorator2>[عاصفة الهلال]</> تجذب الأعداء القريبين."
+ },
+ {
+  "key": "Weapon_FunctionName_020_10",
+  "text": "دوران سلس {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_020_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الذي تسببه <Character_Yellow_Decorator2>[عاصفة الهلال] </>و {<WeaponDes_Main_Green>خفض طفيف</>|<WeaponDes_Main_Green>خفض متوسط</>|<WeaponDes_Main_Green>خفض كبير</>} لاستهلاكها شا-تشي."
+ },
+ {
+  "key": "Weapon_FunctionName_020_15",
+  "text": "تشينغلونغ بلا هيئة"
+ },
+ {
+  "key": "Weapon_Function_020_15",
+  "text": "هزيمة عدو باستخدام <Character_Yellow_Decorator2>[ضربة تشينغلونغ]</> لها احتمال <dtv id=\"X512\"/> لمنح <Character_Yellow_Decorator2>[هيئة تشينغلونغ]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_020_25",
+  "text": "قوة لا تقهر"
+ },
+ {
+  "key": "Weapon_Function_020_25",
+  "text": "أثناء تنفيذ <Character_Yellow_Decorator2>[عاصفة الهلال]</>، يؤدي <Character_Yellow_Decorator2>التصادم بهجوم عدو</> إلى تفعيل <Character_Yellow_Decorator2>تصادم النصال</>، الذي يستنزف شا-تشي العدو باستمرار."
+ },
+ {
+  "key": "Weapon_FunctionName_020_Re",
+  "text": "ضربة شطر"
+ },
+ {
+  "key": "Weapon_FunctionDes_020_Re",
+  "text": "يمنح تبديل هذا السلاح أو الصدّ المثالي لهجوم الوميض الأزرق للعدو <Character_Yellow_Decorator2>[هيئة تشينغلونغ]</>."
+ },
+ {
+  "key": "PhantomEdges_006",
+  "text": "مدفع النمر"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_006",
+  "text": "مدفع مميز استخدمه قديمًا لي دانغ، مبعوث التنظيم."
+ },
+ {
+  "key": "PhantomEdgesDes_006",
+  "text": "مدفع قوي يدوي دويّ انفجاره كزئير النمر. آخر هدية من لي دانغ إلى صديق قديم."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لشحن مدفع النمر حتى <dtv id=\"X521\"/> مراحل. وإفلات <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق قذيفة. تسبب مراحل الشحن الأعلى ضررًا أكبر. يستهلك <dtv id=\"X522\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_EX",
+  "text": "سلاح ناري"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_EX",
+  "text": "إمكانية إشعال الأجسام المتفجرة. كما يمكنه تحطيم الأعداء <Character_Yellow_Decorator2>المتجمدين</>، باستثناء أعداء النخبة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_Terrian",
+  "text": "طلقة تحطيم الحجر"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_Terrian",
+  "text": "بعد الحصول عليه، يتيح مدفع النمر تحطيم الجدران الحجرية الواهنة، <Character_Yellow_Decorator2>حتى عند عدم تجهيزه</>."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_5",
+  "text": "خطوة النمر"
+ },
+ {
+  "key": "PhantomEdges_Function_006_5",
+  "text": "بعد المراوغة باستخدام <InputAction id=\"Dash\" height=\"26\" RightPadding=\"0\" LeftPadding=\"5\"/>، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للتحرك بسرعة أثناء إطلاق النار."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_10",
+  "text": "لهيب ممتد {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_006_10",
+  "text": "{تترك الانفجارات ألسنة لهب على الأرض، تلحق الضرر بالأعداء و<Character_Yellow_Decorator2>تشعلهم</>.|<WeaponDes_Main_Green>زيادة الضرر الذي تلحقه النيران التي تخلفها الانفجارات بدرجة طفيفة</>.|<WeaponDes_Main_Green>زيادة الضرر الذي تلحقه النيران التي تخلفها الانفجارات بدرجة متوسطة</>.}"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_15",
+  "text": "زئير مزدوج"
+ },
+ {
+  "key": "PhantomEdges_Function_006_15",
+  "text": "مباشرة بعد الإطلاق، الضغط مجددًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للشحن السريع وإطلاق طلقة ثانية. يستهلك <dtv id=\"X523\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_25",
+  "text": "سنّ بسنّ"
+ },
+ {
+  "key": "PhantomEdges_Function_006_25",
+  "text": "من مسافة قريبة، عند شنّ عدو هجوم الوميض الأحمر أو هجوم الوميض الأزرق، الضغط على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> في التوقيت الدقيق لصد الهجوم الوشيك بمدفع النمر. يستهلك <dtv id=\"X524\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_006_Re",
+  "text": "إطلاق كامل"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_006_Re",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/>+<InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لإطلاق مدفع النمر نفسه إلى الأمام وإلحاق ضرر هائل. يستهلك <dtv id=\"X525\"/> <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "Weapon_015",
+  "text": "منشار العظام"
+ },
+ {
+  "key": "WeaponDes_UI_015",
+  "text": "سلاح متعطش للدماء كان يستخدمه المنشار، أحد حراس الظلال في التنظيم."
+ },
+ {
+  "key": "WeaponDes_015",
+  "text": "تتيح أسنانه الخشنة المسننة <Character_Yellow_Decorator2>زيادة قدرة كسر الدروع كثيرًا</>. ولا تمنح الأعداء نهاية سريعة."
+ },
+ {
+  "key": "Weapon_FunctionName_015_EX",
+  "text": "أفضل هجوم"
+ },
+ {
+  "key": "Weapon_FunctionDes_015_EX",
+  "text": "زيادة كلفة الصدّ العادي من شا-تشي، وبعد صدّ مثالي زيادة مقدار استنزاف شا-تشي الذي يسببه الهجوم التالي."
+ },
+ {
+  "key": "Weapon_FunctionName_015_Skill",
+  "text": "الخاتمة الوحشية"
+ },
+ {
+  "key": "Weapon_FunctionDes_015_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لإطلاق سلسلة وحشية من هجمات المنشار الكاشطة، مع زيادة الضرر الملحق بالأعداء مكسوري الدفاع. لا يمكن صد هذا الهجوم."
+ },
+ {
+  "key": "Weapon_FunctionName_015_5",
+  "text": "مطاردة كسر الدفاع"
+ },
+ {
+  "key": "Weapon_Function_015_5",
+  "text": "الضغط على <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> قرب عدو مكسور الدفاع لتنفيذ هجوم متابعة."
+ },
+ {
+  "key": "Weapon_FunctionName_015_10",
+  "text": "ميزة قاسية {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_015_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} للضرر الملحق بالأعداء مكسوري الدفاع."
+ },
+ {
+  "key": "Weapon_FunctionName_015_15",
+  "text": "منشار الدم"
+ },
+ {
+  "key": "Weapon_Function_015_15",
+  "text": "كل إصابة تملأ <Character_Yellow_Decorator2>مقياس [منشار الدم] </>. وعند امتلاء المقياس، يُفعّل <Character_Yellow_Decorator2>[منشار الدم] </> لمدة <dtv id=\"X531\"/> ثانية. أثناء تفعيله، تملأ جميع الهجمات <Character_Yellow_Decorator2>مقياس النزيف</> لدى العدو ويمكنها التسبب في <Character_Yellow_Decorator2>فقدان الدم</>. لا ينطبق هذا الأثر على الدمى أو الأجساد الذهبية أو الأجساد الطيفية."
+ },
+ {
+  "key": "Weapon_FunctionName_015_25",
+  "text": "التصفية"
+ },
+ {
+  "key": "Weapon_Function_015_25",
+  "text": "بعد تنفيذ <Character_Yellow_Decorator2>[مطاردة كسر الدفاع]</>، زيادة مقياس <Character_Yellow_Decorator2>[منشار الدم] </> بدرجة كبيرة."
+ },
+ {
+  "key": "Weapon_FunctionName_015_Re",
+  "text": "افتراس الأقوياء"
+ },
+ {
+  "key": "Weapon_FunctionDes_015_Re",
+  "text": "عند قتال أعداء من مستوى الزعماء، يرتفع معدل تراكم <Character_Yellow_Decorator2>مقياس [منشار الدم]</>. وأثناء تفعيل <Character_Yellow_Decorator2>[منشار الدم]</>، يرتفع أيضًا <Character_Yellow_Decorator2>معدل تراكم مقياس النزيف</>."
+ },
+ {
+  "key": "PhantomEdges_022",
+  "text": "عربة الحرب"
+ },
+ {
+  "key": "PhantomEdgesDes_UI_022",
+  "text": "عربة حرب مدرعة خلّفها العجوز غن."
+ },
+ {
+  "key": "PhantomEdgesDes_022",
+  "text": "عربة حرب خلّفها العجوز غن، صُممت لاختراق صفوف الأعداء أو لاجتياز الأرض بسرعة."
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_022_Base",
+  "text": "الضغط مطولًا على <InputAction id=\"ShaChiAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لاستدعاء عربة الحرب و<Character_Yellow_Decorator2>قيادتها إلى الأمام</>، ودهس الأعداء في مسارها. ويمكن <Character_Yellow_Decorator2>توجيهها</> أثناء الاندفاع. الاستهلاك المستمر لـ <img id=\"SpiritShadow\" width=\"40\"/>"
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_5",
+  "text": "اندفاع بأقصى سرعة"
+ },
+ {
+  "key": "PhantomEdges_Function_022_5",
+  "text": "أثناء الاندفاع، الضغط على <InputAction id=\"Dash\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لمنح عربة الحرب دفعة سرعة وجيزة."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_10",
+  "text": "هياج مدرّع {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "PhantomEdges_Function_022_10",
+  "text": "{<WeaponDes_Main_Green>خفض طفيف</>|<WeaponDes_Main_Green>خفض متوسط</>|<WeaponDes_Main_Green>خفض كبير</>} <img id=\"SpiritShadow\" width=\"40\"/> لمعدل الاستهلاك."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_15",
+  "text": "اندفاعة ساحقة"
+ },
+ {
+  "key": "PhantomEdges_Function_022_15",
+  "text": "زيادة ضرر الصدم."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_25",
+  "text": "ضربة تهزّ الأرض"
+ },
+ {
+  "key": "PhantomEdges_Function_022_25",
+  "text": "أثناء الاندفاع، الضغط على <InputAction id=\"Execution\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> لتنفيذ ضربة أرضية قوية بعربة الحرب، وإبعاد الأعداء المحيطين."
+ },
+ {
+  "key": "PhantomEdges_FunctionName_022_Re",
+  "text": "إطلاق العنان"
+ },
+ {
+  "key": "PhantomEdges_FunctionDes_022_Re",
+  "text": "زيادة الضرر المُلحَق بحسب المسافة التي تقطعها عربة الحرب، حتى 50%. تُصفّر المسافة المقطوعة بعد إصابة عدو."
+ },
+ {
+  "key": "Weapon_031",
+  "text": "مروحة السيدة"
+ },
+ {
+  "key": "WeaponDes_UI_031",
+  "text": "مروحة شريرة كانت تستخدمها منغ هوا، السيدة الرحيمة ذات حجاب الزهر."
+ },
+ {
+  "key": "WeaponDes_031",
+  "text": "مروحة من العظم كانت تستخدمها منغ هوا قبل أن تصبح السيدة. تستمد قوى <Character_Yellow_Decorator2>الجليد</> و<Character_Yellow_Decorator2>النار</> و<Character_Yellow_Decorator2>البرق</> و<Character_Yellow_Decorator2>الفوضى</>. سلاح لا مثيل له في الوولين."
+ },
+ {
+  "key": "Weapon_FunctionName_031_EX",
+  "text": "الرموز السحرية"
+ },
+ {
+  "key": "Weapon_FunctionDes_031_EX",
+  "text": "<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> هجمات تخزّن أنواعًا مختلفة من <Character_Yellow_Decorator2>[الرموز السحرية]</>. يمكن تخزين ما يصل إلى <dtv id=\"X551\"/> رمزًا.\n<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><img id=\"Thunder\" width=\"40\"/>\n<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><img id=\"Thunder\" width=\"40\"/><img id=\"Fire\" width=\"40\"/>\n<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><img id=\"Fire\" width=\"40\"/>\n<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><img id=\"Fire\" width=\"40\"/><img id=\"Ice\" width=\"40\"/>\n<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><img id=\"Ice\" width=\"40\"/>\n<InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><img id=\"Ice\" width=\"40\"/><img id=\"Thunder\" width=\"40\"/>\n<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/><InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> تكرار أحدث <Character_Yellow_Decorator2>[الرموز السحرية]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_031_EX_2",
+  "text": "انفجار الرمز"
+ },
+ {
+  "key": "Weapon_FunctionDes_031_EX_2",
+  "text": "<InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> استهلاك جميع <Character_Yellow_Decorator2>[الرموز السحرية]</>، بصرف النظر عن ترتيبها، لإطلاق تأثيرات مختلفة بحسب تركيبها:\n\n<img id=\"Fire\" width=\"40\"/><img id=\"Fire\" width=\"40\"/> إطلاق موجة من النار حول الشخصية وإحراق الأعداء القريبين.\n<img id=\"Thunder\" width=\"40\"/><img id=\"Thunder\" width=\"40\"/> تحريك المروحة لاستدعاء البرق على الأعداء.\n<img id=\"Ice\" width=\"40\"/><img id=\"Ice\" width=\"40\"/> ترك بنية جليدية تطلق باستمرار أشواكًا جليدية على الأعداء.\n<img id=\"Fire\" width=\"40\"/><img id=\"Thunder\" width=\"40\"/> تحريك المروحة لاستدعاء البرق والنار، وضرب الأعداء وإحراقهم.\n<img id=\"Fire\" width=\"40\"/><img id=\"Ice\" width=\"40\"/> زيادة كل الضرر المُلحَق واستنزاف شا-تشي لمدة <dtv id=\"X553\"/> ثانية.\n<img id=\"Thunder\" width=\"40\"/><img id=\"Ice\" width=\"40\"/> التراجع خطوة. ونجاح صدّ مثالي لهجوم خلال الثواني <dtv id=\"X554\"/> التالية يستدعي البرق على المهاجم."
+ },
+ {
+  "key": "Weapon_FunctionName_031_Skill",
+  "text": "الآفة اللامحدودة"
+ },
+ {
+  "key": "Weapon_FunctionDes_031_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</><Niagara id=\"Fire\"/> لفتح صدع إلى العالم الخفي، وإطلاق عاصفة من <Character_Yellow_Decorator2>اللهب الفوضوي</> تبتلع جميع الأعداء في مساحة واسعة. تخزين <dtv id=\"X555\"/><Character_Yellow_Decorator2> [الرموز السحرية]</> عشوائيًا."
+ },
+ {
+  "key": "Weapon_FunctionName_031_5",
+  "text": "نعمة السيدة"
+ },
+ {
+  "key": "Weapon_Function_031_5",
+  "text": "تمنح <Character_Yellow_Decorator2>[الرموز السحرية]</> المخزنة تأثيرات تلقائية مختلفة:\n<img id=\"Fire\" width=\"40\"/> زيادة الهجوم.\n<img id=\"Thunder\" width=\"40\"/> زيادة كسر الدفاع ضد الأعداء.\n<img id=\"Ice\" width=\"40\"/> زيادة مقدار خفض الضرر."
+ },
+ {
+  "key": "Weapon_FunctionName_031_10",
+  "text": "قوة الآفة {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_031_10",
+  "text": "{<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} لجميع تأثيرات <Character_Yellow_Decorator2>[نعمة السيدة]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_031_15",
+  "text": "القانون المظلم"
+ },
+ {
+  "key": "Weapon_Function_031_15",
+  "text": "بعد أن يستهلك انفجار الرمز رمزًا، تبقى <Character_Yellow_Decorator2>[نعمة السيدة] </>سارية لمدة <dtv id=\"X559\"/> ثانية إضافية. الحصول على الرمز نفسه مجددًا ينهي التأثير."
+ },
+ {
+  "key": "Weapon_FunctionName_031_25",
+  "text": "سيّد السحر الغامض"
+ },
+ {
+  "key": "Weapon_Function_031_25",
+  "text": "زيادة الحد الأقصى لعدد <Character_Yellow_Decorator2>[الرموز السحرية]</> المخزّنة بمقدار <dtv id=\"X556\"/>. إذا خُزّن <dtv id=\"X557\"/> رمزًا، يستهلك انفجار الرمز <dtv id=\"X558\"/> رموز لتقوية تأثيره.\n\nإضافة <Character_Yellow_Decorator2>[انفجار الرمز]</> التالي:\n<img id=\"Fire\" width=\"40\"/><img id=\"Thunder\" width=\"40\"/><img id=\"Ice\" width=\"40\"/> إطلاق شعاع من <Character_Yellow_Decorator2>اللهب الفوضوي </> يخترق الأعداء."
+ },
+ {
+  "key": "Weapon_FunctionName_031_Re",
+  "text": "انفجار الرمز المظلم"
+ },
+ {
+  "key": "Weapon_FunctionDes_031_Re",
+  "text": "زيادة كبيرة لجميع تأثيرات <Character_Yellow_Decorator2>[انفجار الرمز]</>. مضاعفة مدة تأثيرات <Character_Yellow_Decorator2>[انفجار الرمز]</> المستمرة."
+ },
+ {
+  "key": "Weapon_011",
+  "text": "المذهّب"
+ },
+ {
+  "key": "WeaponDes_UI_011",
+  "text": "سيف طويل من الذهب الخالص، أملس كالحرير، استخدمه تسو شانغ ذات مرة."
+ },
+ {
+  "key": "WeaponDes_011",
+  "text": "سيف طويل مصنوع من الذهب الخالص، نصلُه أملس كالحرير. إمكان محاكاة طاقة السيف الذهبي الفريدة لتسو شانغ باستخدامه."
+ },
+ {
+  "key": "Weapon_FunctionName_011_EX",
+  "text": "سيف لونغ الذهبي"
+ },
+ {
+  "key": "Weapon_FunctionDes_011_EX",
+  "text": "عند التبديل إلى هذا السلاح أو الصدّ المثالي لهجوم وميض أزرق من عدو، استدعاء سيف ضخم <Character_Yellow_Decorator2>[سيف لونغ الذهبي] </> لضرب العدو."
+ },
+ {
+  "key": "Weapon_FunctionName_011_EX_2",
+  "text": "السيف الحي"
+ },
+ {
+  "key": "Weapon_FunctionDes_011_EX_2",
+  "text": "عندما يصيب هجوم <InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> ضمن سلسلة ضربات عدوًا، يُستدعى <Character_Yellow_Decorator2>[السيف الحي]</>. بعد <dtv id=\"X561\"/> ثانية، يضرب العدو تلقائيًا. إذا لم يُصدّ الهجوم، يبقى السيف مغروسًا لمدة <dtv id=\"X562\"/> ثانية. عند انغراس <dtv id=\"X563\"/> سيوف، تفعيل <Character_Yellow_Decorator2>[انفجار طاقة السيف]</>."
+ },
+ {
+  "key": "Weapon_FunctionName_011_Skill",
+  "text": "تشكيلة سيف لونغ المشعّ"
+ },
+ {
+  "key": "Weapon_FunctionDes_011_Skill",
+  "text": "<InputAction id=\"SpecialAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> استهلاك <WeaponDes_Num_Green>1</> <Niagara id=\"Fire\"/> لاستدعاء العديد من <Character_Yellow_Decorator2>[السيوف الحية]</> لضرب الأعداء. هذا الهجوم لا يمكن صده."
+ },
+ {
+  "key": "Weapon_FunctionName_011_5",
+  "text": "الاستراتيجي: هجوم عن بُعد"
+ },
+ {
+  "key": "Weapon_Function_011_5",
+  "text": "الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/>+<InputAction id=\"HeavyAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"5\"/> للدخول في وضعية<Character_Yellow_Decorator2> [التدبير الأعظم] </>. إذا جرى التفعيل قبيل هجوم وارد، حدوث <Character_Yellow_Decorator2>انتقال آني</> إلى الخلف واستدعاء <dtv id=\"X566\"/><Character_Yellow_Decorator2> [السيوف العائمة] </> للهجوم المضاد.\nالاستمرار في الضغط على <InputAction id=\"Stance\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> للحفاظ على<Character_Yellow_Decorator2> [التدبير الأعظم]</>. الاستهلاك التدريجي لشا-تشي أثناء هذه الوضعية.\nعند التعرض لهجوم أثناء وضعية<Character_Yellow_Decorator2> [التدبير الأعظم] </>، استهلاك كل شا-تشي المتبقي لإبطال الضرر والمراوغة إلى الخلف، وإنهاء <Character_Yellow_Decorator2>[التدبير الأعظم]</>.\n<Character_Yellow_Decorator2>[التدبير الأعظم] </>لا يوقف سلسلة الضربات الحالية.\nأثناء وضعية <Character_Yellow_Decorator2>[التدبير الأعظم] </>، الضغط على <InputAction id=\"LightAttack\" height=\"26\" RightPadding=\"5\" LeftPadding=\"0\"/> لاستهلاك مقدار محدد من شا-تشي واستدعاء <dtv id=\"X564\"/> <Character_Yellow_Decorator2>أسلحة نارية طيفية</> لمهاجمة الأعداء. لا يمكن استخدامها إلا مرة واحدة في كل وضعية<Character_Yellow_Decorator2> [التدبير الأعظم] </>."
+ },
+ {
+  "key": "Weapon_FunctionName_011_10",
+  "text": "ألف نصل {المستوى 1|المستوى 2|المستوى 3}"
+ },
+ {
+  "key": "Weapon_Function_011_10",
+  "text": "الأعداء الذين انغرست فيهم <Character_Yellow_Decorator2> [طاقة السيف]</>: {<WeaponDes_Main_Green>زيادة طفيفة</>|<WeaponDes_Main_Green>زيادة متوسطة</>|<WeaponDes_Main_Green>زيادة كبيرة</>} في الضرر الذي يتلقونه من جميع المصادر."
+ },
+ {
+  "key": "Weapon_FunctionName_011_15",
+  "text": "الاستراتيجي: كاسر التشكيلات"
+ }
+]

@@ -6,8 +6,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import pbzlib
 
-WHO = {"claude": "Claude", "opencode": "opencode"}
-SCOPE = {"claude": "الحوارات والقراءات والمهمات والفصول", "opencode": "الواجهة والعناصر والأسلحة والأوصاف"}
+WHO = {"claude": "Claude", "opencode": "opencode", "review2": "المراجعة النهائية"}
+SCOPE = {"claude": "الحوارات والقراءات والمهمات والفصول", "opencode": "الواجهة والعناصر والأسلحة والأوصاف", "review2": "كل النصوص (قراءة ثانية)"}
 
 
 def bar(p, n=20):

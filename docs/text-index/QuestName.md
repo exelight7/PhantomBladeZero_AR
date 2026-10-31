@@ -10,4 +10,4 @@
 
 | المفتاح | النص الحالي | مكان المراجعة | مصدر التعديل |
 | --- | --- | --- | --- |
-| `QuestName_01-DDSD_001` | [القصة] درب محفوف بالمخاطر | [الدفعة](../../work/claude/batches/batch_0053.json) | [الأصل](../../data/Game_locres_ar.json) |
+| `QuestName_01-DDSD_001` | [القصة] درب محفوف بالمخاطر | [الدفعة](../../work/review2/batches/batch_0020.json) | [الأصل](../../data/Game_locres_ar.json) |

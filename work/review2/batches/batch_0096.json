@@ -1,0 +1,402 @@
+[
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_5",
+  "text": "إذًا، هنا يختبئ الشيخ الأكبر وأتباعه... ويمارسون فنونهم الدنيئة."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_6",
+  "text": "شياو فنغ... اصمد قليلًا بعد."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK2_FengXueDaoKe_7",
+  "text": "سأقلب هذا المكان رأسًا على عقب... وأقتلع الشيخ الأكبر وطائفته من جذورهم!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ZhiGaoZheDiZi_1",
+  "text": "دخل المبارز! أيها التلاميذ، أقيموا التشكيل!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ZhiGaoZheDiZi_2",
+  "text": "أيها البطل، أيها البطل، أرجوك! اتركني حيًّا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ZhiGaoZheDiZi_3",
+  "text": "لقد خدعنا... الشيخ الأكبر، ذلك الوحش العجوز!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_FengXueDaoKe_4",
+  "text": "من يخدم الشر لا يستحق الرحمة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_FengXueDaoKe_5",
+  "text": "لا ناجين هنا... لكن أين شياو فنغ والشيخ الأكبر؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_ShaoNian_6",
+  "text": "أبي! أبي!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK3_FengXueDaoKe_7",
+  "text": "شياو فنغ؟ هل هذا أنت؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_1",
+  "text": "شياو فنغ!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_ShaoNian_2",
+  "text": "أبي! من هنا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_ShaoNian_3",
+  "text": "تعال! من هنا!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_4",
+  "text": "هذا ليس شياو فنغ. لن تخدعني حيل رخيصة كهذه."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_5",
+  "text": "لكن كل خيط يقودني إلى هنا... إن لم أبتلع الطعم، فقد لا أعثر على ابني أبدًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_6",
+  "text": "حتى لو كان فخًا... فليكن."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_FengXueDaoKe_7",
+  "text": "ثمّة من يحرّك الخيوط. إن حطمت الوهم، بقي الأمل."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK4_ShaoNian_8",
+  "text": "أبي! سأقودك إلى الشيخ الأكبر!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_1",
+  "text": "ماذا؟ شياو فنغ!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_2",
+  "text": "اللعنة!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_3",
+  "text": "وجدته."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_4",
+  "text": "لكن... لم تكن سوى..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_5",
+  "text": "أشلاء متجمدة... مبعثرة في الثلج..."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_6",
+  "text": "لكنني عرفت. عرفت أنه ابني."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_7",
+  "text": "آه... اللعنة عليك! آآآآه!!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_FengXueDaoKe_8",
+  "text": "سأقضي على كل واحد منكم!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_ZhiGaoZhe_9",
+  "text": "أرسلوا مزيدًا من التلاميذ صغار الرتبة. دعوه يقتل. فليقتل كما يحلو له!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK5_ZhiGaoZhe_10",
+  "text": "هه... ما إن يستولي عليه الجنون حتى يصير الوعاء الأمثل لتسعة وتسعين!"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_1",
+  "text": "أصبح تسعة وتسعون في قبضتنا. وقد تطلّب ذلك جهدًا كبيرًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_2",
+  "text": "وفي النهاية، حبسته داخل ذلك <Bold>الدخيل</> المتغطرس. وهو الآن في أمان تام."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_3",
+  "text": "ذلك <Bold>الرجل</> أفزعني حقًا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_4",
+  "text": "كاد يفسد خطتنا."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_5",
+  "text": "هه... يبدو أن صديقنا الجديد، حاكم الظلال تسو، يملك خطة لا تخيب."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_6",
+  "text": "سمعت أنه جرّب هذه الحيلة بعينها من قبل... على أخيه في العهد؟"
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_7",
+  "text": "ههه... أجل... لكنني أعرف كيف أتعامل مع رجل مثله."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_8",
+  "text": "مزجتُ فنّ الدمى الظلية الذي تتقنه بالارتقاء الكامل... ثم حبستُه في تسعة وتسعين."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_ZhiGaoZhe_9",
+  "text": "حتى الآلهة لن تستطيع الإفلات."
+ },
+ {
+  "key": "Dlg_DHSD_MEM_FXDK6_LengTu_10",
+  "text": "وبفضل براعته القتالية، لن يستطيع أحد المساس بتسعة وتسعين!"
+ },
+ {
+  "key": "Dlg_DHSD_FXDKAll_Hun_1",
+  "text": "ذلك الجرس مرة أخرى..."
+ },
+ {
+  "key": "Dlg_DHSD_FXDKAll_Hun_2",
+  "text": "حتى سيّد النصل في العاصفة الثلجية انخدع به."
+ },
+ {
+  "key": "Dlg_DHSD_FXDKAll_Hun_3",
+  "text": "ذلك الجرس... غيّر حياتي أنا أيضًا."
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe1_Battle_1",
+  "text": "مهارتك مثيرة للإعجاب."
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe1_Battle_2",
+  "text": "هل تستطيع هزيمة جسدي هذا؟"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe1_Battle_3",
+  "text": "راقب جيدًا. سأضرب مرة واحدة فحسب!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe2_FengXueDaoKe_Battle_1",
+  "text": "إن انتصرت... فاقتل أولئك الأشرار عنّي جميعًا حتى آخر واحد!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe2_Hun_Battle_2",
+  "text": "سأنفّذ ذلك!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe3_Battle_1",
+  "text": "ليس كافيًا! ما زال غير كافٍ!"
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe3_Battle_2",
+  "text": "يا للأسف، لم نتمكن من تبادل مزيد من الضربات."
+ },
+ {
+  "key": "Dlg_DHSD_FengXueDaoKe4_Battle_1",
+  "text": "من أجل... شياو فنغ... انتقم له..."
+ },
+ {
+  "key": "Dlg_HSYJ_Investigate_99RenOu_1",
+  "text": "تحدّق الدمية العمياء بعينين خاويتين، ولا تبدي أي رد فعل."
+ },
+ {
+  "key": "Dlg_MGUZX_HXMM_ZhiGaoZhe_Hun_1",
+  "text": "هؤلاء الشيوخ الأكبرون على أعتاب الموت بالفعل، ومع ذلك لا تزال عقولهم باقية داخل الدمى، فتُبقي الصدع قائمًا من بعيد."
+ },
+ {
+  "key": "Dlg_MGUZX_HXMM_ZhiGaoZhe_Hun_2",
+  "text": "إذا قضيتُ على أجسادهم الحقيقية، فسيُغلق الصدع إلى الأبد."
+ },
+ {
+  "key": "Dlg_MGUZX_HXMM_Inanis_Inanis_1",
+  "text": "أسرع!"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Inanis_1",
+  "text": "إذًا... هل كانت هذه خطتكِ منذ البداية؟"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Regina_2",
+  "text": "كانت خطتي محكمة... لولا ذلك الخائن من التنظيم..."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Inanis_3",
+  "text": "هل تعتمدين على أولئك العجائز الحمقى الذين لا فائدة منهم؟"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Regina_4",
+  "text": "لقد خيّبوا أملي تمامًا. لولاهم لما خسرت قط!"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Inanis_5",
+  "text": "الخسارة أمر... لكن ذوقكِ..."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Inanis_6",
+  "text": "«السيدة»؟ «الشيخ الأكبر»؟ يا لها من ألقاب متكلّفة... مضحكة حقًا."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Regina_7",
+  "text": "أنتِ مثلي تمامًا. مهما فعلتِ، لن تعودي أبدًا إلى عالم اليقظة!"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Inanis_8",
+  "text": "طال خلافنا سنوات طويلة."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Inanis_9",
+  "text": "لكن لا بد أن أقول... كانت هزيمتكِ مثيرة للشفقة حقًا. هاهاها!"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Regina_10",
+  "text": "قاومي كما شئتِ. قدوم الآفة حتمي!"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM0_Inanis_Regina_11",
+  "text": "(سلسلة من الكلمات التي لا توصف...)"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_7",
+  "text": "يا معلّم سول... هل لمحت أخيرًا حقيقة هذا العالم؟"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_8",
+  "text": "السجين لا يعرف سجنه... وحده السجّان يصدر الحكم."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_9",
+  "text": "وهل يجعلك ذلك سجّانة، يا سيدة إنانيس؟"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_10",
+  "text": "لا، إنما أراقب فحسب."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_11",
+  "text": "التي سعت إلى أن تكون سجّانة... لقد وجّهتَ إليها ضربة قاصمة بالفعل."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_12",
+  "text": "هل تسعى سيدة الحجاب إلى جلب الآفة إلى عالم اليقظة؟"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_13",
+  "text": "الآفة آتية من وراء السماوات... واتساعها يفوق كل تصور."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_14",
+  "text": "لا صورة لها، ومع ذلك تلتهم كل شيء... كالنار بالورق، والعفن باللحم."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_15",
+  "text": "قد تلتهم النجوم يومًا..."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_16",
+  "text": "منغ هوا، من بين الأحد عشر..."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_17",
+  "text": "هل أصبحت منغ هوا سيدة الحجاب بعد أن اندمجت بالآفة؟"
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_18",
+  "text": "لم تندمج إلا بجزء من الآفة."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_19",
+  "text": "ومع ذلك، حتى الجزء الواحد يجسّد الكل..."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_20",
+  "text": "كل جزء مرآة للكل، والكل حصيلة اجتماع أجزائه."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_21",
+  "text": "لهذا لن يثنيها شيء عن نشر الآفة في عالم اليقظة؛ فهذه طبيعة الآفة."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_22",
+  "text": "بدأ الحاجز بين العالم الخفي وعالم اليقظة يرقّ..."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_23",
+  "text": "حين يندمج العالمان، سيتلاشى كل شيء وتمتصه الآفة."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_24",
+  "text": "سأضع حدًا لهذا."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Inanis_25",
+  "text": "وماذا عن القلب المشعّ؟ ألا يعنيك؟ إنها فرصتك الوحيدة للعيش."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_26",
+  "text": "أريد أن أعيش."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_27",
+  "text": "لكن..."
+ },
+ {
+  "key": "Dlg_JHSY_HXMM_Inanis_Hun_28",
+  "text": "كل إنسان يستحق فرصة كهذه."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_ZuoShang_1",
+  "text": "انضمامك إلى التنظيم نعمة على الوولين، يا معلّم شيوان لي."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_ZuoShang_2",
+  "text": "بيت شيوان يملك علمًا بكل ما في السماوات والأرض. لطالما أعجبت بك."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_XuanLi_3",
+  "text": "قضيت على أخي وعلى عشيرة شيوان بأسرها. ومع ذلك، تركتني على قيد الحياة لسببٍ ما. ولهذا أشكر مندوب الظلال تسو."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_ZuoShang_4",
+  "text": "لم يكن ثمة مفر... وأثق أنك تدرك ذلك. ما كان ينبغي لأخيك شيوان يو أن ينضم إلى الأحد عشر."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_XuanLi_5",
+  "text": "أجل."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_ZuoShang_6",
+  "text": "درست عشيرتك الكتاب السماوي أجيالًا. وبعد انضمامك إلى التنظيم، كلّفك شيفو بمواصلة البحث ليلًا ونهارًا."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_ZuoShang_7",
+  "text": "لا بد أنك بلغت الآن فهمًا عميقًا لأعظم سرّ: لونغ والآفة."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_XuanLi_8",
+  "text": "بحسب الكتاب السماوي، الآفة قوة تدميرية قادمة من وراء النجوم."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_XuanLi_9",
+  "text": "يبدو أن لها إرادة خاصة بها... أو لعلها إرادة عقول لا تُحصى."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_XuanLi_10",
+  "text": "كل جزء هو الكل... والكل كامن في كل جزء."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_XuanLi_11",
+  "text": "تنتشر بين النجوم وفق قاعدة واحدة بسيطة: كل ما تلمسه تلتهمه، ويغدو جزءًا من الآفة."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_ZuoShang_12",
+  "text": "سمعت أن عشيرة لونغ لم تكن في غابر الزمان مجرد اسم... بل إرثًا لشيء حقيقي."
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_ZuoShang_13",
+  "text": "لكن كيف يمكن لمخلوق عجيب كهذا أن يوجد في هذا العالم؟"
+ },
+ {
+  "key": "Dlg_JHSY_IMPMEM1_XuanLi_14",
+  "text": "ما دامت الآفة تنتشر بين النجوم، فلا بد أن توجد وراء السماوات أشياء أخرى تتصدى لها."
+ }
+]
